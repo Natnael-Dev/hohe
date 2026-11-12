@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "app.hohe.keyboard.data"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         minSdk = 26
