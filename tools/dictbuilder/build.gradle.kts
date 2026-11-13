@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.kotlin.jvm)
     alias(libs.plugins.ktlint)
     application
+    jacoco
 }
 
 java {
@@ -22,6 +23,14 @@ kotlin {
 
 application {
     mainClass.set("app.hohe.keyboard.tools.dictbuilder.MainKt")
+}
+
+tasks.named<JacocoReport>("jacocoTestReport") {
+    dependsOn(tasks.named("test"))
+    reports {
+        xml.required.set(true)
+        html.required.set(true)
+    }
 }
 
 dependencies {
