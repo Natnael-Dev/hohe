@@ -14,6 +14,17 @@ enum class LayoutSet {
 }
 
 /**
+ * Variants for numeric text input fields.
+ */
+enum class NumberVariant {
+    NORMAL,
+    DATE,
+    TIME,
+    DATETIME,
+    PASSWORD,
+}
+
+/**
  * Visual and behavioral styling applied to a key.
  */
 enum class KeyStyle {
