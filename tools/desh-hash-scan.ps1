@@ -79,7 +79,8 @@ function Get-StreamSha256($stream) {
 }
 
 function Get-FileSha256($filePath) {
-    $fileStream = [System.IO.File]::OpenRead($filePath)
+    $resolved = [System.IO.Path]::GetFullPath($filePath)
+    $fileStream = [System.IO.File]::OpenRead($resolved)
     try {
         return Get-StreamSha256($fileStream)
     }
@@ -102,6 +103,11 @@ $deshTotalEntries = 0
 $deshIgnoredEntries = 0
 
 foreach ($apkFile in $deshApkFiles) {
+    # Hash the whole Desh APK file itself so committing an entire APK is caught (F-004-02b)
+    $wholeApkHash = Get-FileSha256($apkFile.FullName)
+    if (-not $deshHashes.ContainsKey($wholeApkHash)) {
+        $deshHashes[$wholeApkHash] = ($apkFile.Name + " (whole file)")
+    }
     $zip = [System.IO.Compression.ZipFile]::OpenRead($apkFile.FullName)
     try {
         foreach ($entry in $zip.Entries) {
@@ -135,16 +141,37 @@ Write-Host "Unique Desh entry hashes indexed: $($deshHashes.Count)"
 # Step 2: Scan tracked repo files
 Write-Host ""
 Write-Host "--- Scanning tracked files in repository ---"
-$trackedFiles = & git -C $RepoDir ls-files
+$oldEncoding = [Console]::OutputEncoding
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+try {
+    $rawTracked = & git -C $RepoDir -c core.quotepath=off ls-files -z 2>&1
+    $gitExit = $LASTEXITCODE
+} finally {
+    [Console]::OutputEncoding = $oldEncoding
+}
+
+if ($gitExit -ne 0) {
+    Write-Host "ERROR: git ls-files failed with exit code $gitExit on '$RepoDir'"
+    exit 1
+}
+
+$rawString = [string]::Join("", $rawTracked)
+$trackedFiles = @($rawString.Split("`0") | Where-Object { $_ -and $_.Trim() -ne "" })
+if ($trackedFiles.Count -eq 0) {
+    Write-Host "ERROR: No tracked files found in repo '$RepoDir'"
+    exit 1
+}
+
 $repoTotalFiles = 0
 $repoMatches = New-Object System.Collections.Generic.List[string]
 
 foreach ($relPath in $trackedFiles) {
     $fullPath = Join-Path $RepoDir $relPath
-    if (-not (Test-Path $fullPath -PathType Leaf)) {
-        continue
+    if (-not (Test-Path -LiteralPath $fullPath -PathType Leaf)) {
+        Write-Host "ERROR: Tracked file missing from disk: '$relPath'"
+        exit 1
     }
-    $fileInfo = Get-Item $fullPath
+    $fileInfo = Get-Item -LiteralPath $fullPath
     $repoTotalFiles++
     if (Test-AllowList $relPath $fileInfo.Length) {
         continue
