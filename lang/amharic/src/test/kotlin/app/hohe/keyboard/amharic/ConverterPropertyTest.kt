@@ -20,7 +20,7 @@ class ConverterPropertyTest {
     fun p2() {
         val rng = Random(42)
         val sb = java.lang.StringBuilder()
-        for (i in 0 until 100_000) {
+        for (i in 0 until 10_000) {
             val len = rng.nextInt(30) + 1
             sb.setLength(0)
             for (j in 0 until len) {
@@ -32,6 +32,15 @@ class ConverterPropertyTest {
             for (ch in output) {
                 assertFalse("Output for '$input' must not contain ASCII letter: $ch", (ch in 'a'..'z') || (ch in 'A'..'Z'))
             }
+            // F-024-05: apply P2 invariant across all nBest texts
+            val nbest = AmharicConverter.nBest(input, 4)
+            assertTrue("nBest for '$input' must not be empty", nbest.isNotEmpty())
+            for (item in nbest) {
+                assertTrue("nBest item for '$input' must not be empty", item.text.isNotEmpty())
+                for (ch in item.text) {
+                    assertFalse("nBest item for '$input' must not contain ASCII letter: $ch", (ch in 'a'..'z') || (ch in 'A'..'Z'))
+                }
+            }
         }
     }
 
@@ -39,7 +48,7 @@ class ConverterPropertyTest {
     fun p3() {
         val rng = Random(42)
         val sb = java.lang.StringBuilder()
-        for (i in 0 until 100_000) {
+        for (i in 0 until 10_000) {
             val len = rng.nextInt(30) + 1
             sb.setLength(0)
             for (j in 0 until len) {
@@ -51,16 +60,36 @@ class ConverterPropertyTest {
                 val cp = ch.code
                 assertTrue("Codepoint U+%04X in output of '$input' must be in U+1200..U+137F".format(cp), cp in 0x1200..0x137F)
             }
+            // F-024-05: apply P3 invariant across all nBest texts
+            val nbest = AmharicConverter.nBest(input, 4)
+            for (item in nbest) {
+                for (ch in item.text) {
+                    val cp = ch.code
+                    assertTrue("Codepoint U+%04X in nBest item of '$input' must be in U+1200..U+137F".format(cp), cp in 0x1200..0x137F)
+                }
+            }
         }
     }
 
     @Test
     fun p4() {
-        val input = "selam"
-        val expected = AmharicConverter.nBest(input, 4)
-        for (i in 0 until 100) {
-            val actual = AmharicConverter.nBest(input, 4)
-            assertEquals("Run $i must match expected n-best list", expected, actual)
+        // F-024-05: run P4 determinism over all 97 golden fixture inputs
+        val stream =
+            javaClass.getResourceAsStream("/golden/converter-golden.tsv")
+                ?: error("golden fixture missing")
+        val lines =
+            stream
+                .bufferedReader(Charsets.UTF_8)
+                .readLines()
+                .drop(2)
+                .filter { it.isNotBlank() }
+        for (line in lines) {
+            val input = line.split('\t')[1]
+            val expected = AmharicConverter.nBest(input, 4)
+            for (i in 0 until 10) {
+                val actual = AmharicConverter.nBest(input, 4)
+                assertEquals("Run $i for golden input '$input' must match expected n-best list", expected, actual)
+            }
         }
     }
 

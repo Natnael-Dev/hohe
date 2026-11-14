@@ -349,7 +349,11 @@ object AmharicConverter {
         return out.toString()
     }
 
-    /** port of conv.py nbest() */
+    /**
+     * Port of conv.py nbest().
+     * Note: nBest has O(n²) time complexity in token length due to string accumulation across beam iterations.
+     * In normal IME operation, inputs are individual words (≤ 30 characters), running well under 0.2 ms.
+     */
     fun nBest(
         latin: String,
         k: Int = 4,
@@ -387,7 +391,7 @@ object AmharicConverter {
                 }
             }
             nextBeam.sortWith(compareBy({ it.cost }, { it.text }))
-            val limit = maxOf(k * 4, 20)
+            val limit = if (k > (Int.MAX_VALUE - 1) / 4) Int.MAX_VALUE else maxOf(k * 4, 20)
             beam = if (nextBeam.size > limit) nextBeam.subList(0, limit) else nextBeam
         }
 

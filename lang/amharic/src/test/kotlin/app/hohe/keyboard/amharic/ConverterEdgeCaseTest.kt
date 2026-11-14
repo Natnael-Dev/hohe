@@ -195,4 +195,12 @@ class ConverterEdgeCaseTest {
             assertTrue("Costs must be non-decreasing: ${nbest[i - 1]} vs ${nbest[i]}", nbest[i].cost >= nbest[i - 1].cost)
         }
     }
+
+    @Test
+    fun edgeNBestLargeKDoesNotOverflow() {
+        // F-024-02: k >= 2^29 does not overflow beam calculation
+        val normal = AmharicConverter.nBest("selam", 100)
+        val maxK = AmharicConverter.nBest("selam", Int.MAX_VALUE)
+        assertEquals(normal, maxK)
+    }
 }

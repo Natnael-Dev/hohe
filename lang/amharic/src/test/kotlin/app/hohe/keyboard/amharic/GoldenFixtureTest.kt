@@ -27,8 +27,10 @@ class GoldenFixtureTest {
         assertEquals("Fixture must have exactly 97 golden rows", 97, rows.size)
 
         for ((index, row) in rows.withIndex()) {
+            val fields = row.split('\t')
+            assertEquals("Row $index must have exactly 4 fields", 4, fields.size)
             val expectedId = "G-%03d".format(index + 1)
-            assertTrue("Row $index id should be $expectedId, but got $row", row.startsWith("$expectedId\t"))
+            assertEquals("Row $index id should be $expectedId", expectedId, fields[0])
             assertFalse("Fixture must never contain 'oracle' data (row $expectedId)", row.contains("oracle", ignoreCase = true))
         }
     }
