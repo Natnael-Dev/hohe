@@ -13,7 +13,7 @@ enum class FieldClass {
     /** URL and email address fields. */
     ADDRESS,
 
-    /** Private/incognito fields requesting no personalized learning. */
+    /** Private/incognito fields requesting no personalized learning (DICTIONARY_ONLY, or TYPED_ONLY with NO_SUGGESTIONS (D-035)). */
     INCOGNITO,
 
     /** Fields explicitly requesting no suggestion strip. */
@@ -248,7 +248,12 @@ data class FieldPolicy(
             if (noPersonalizedLearning) {
                 return FieldPolicy(
                     fieldClass = FieldClass.INCOGNITO,
-                    suggestions = if (inputType == 0) SuggestMode.OFF else SuggestMode.DICTIONARY_ONLY,
+                    suggestions =
+                        when {
+                            inputType == 0 -> SuggestMode.OFF
+                            noSuggestionsFlag -> SuggestMode.TYPED_ONLY
+                            else -> SuggestMode.DICTIONARY_ONLY
+                        },
                     learning = false,
                     clipboardCapture = false,
                     amharicLookup = true,

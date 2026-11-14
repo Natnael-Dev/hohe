@@ -315,7 +315,26 @@ class FieldPolicyTest {
         val inputType = FieldPolicy.TYPE_CLASS_TEXT or FieldPolicy.TYPE_TEXT_FLAG_NO_SUGGESTIONS
         val p = FieldPolicy.classify(inputType, FieldPolicy.IME_FLAG_NO_PERSONALIZED_LEARNING)
         assertEquals(FieldClass.INCOGNITO, p.fieldClass)
+        assertEquals(SuggestMode.TYPED_ONLY, p.suggestions)
+        assertFalse(p.learning)
+        assertFalse(p.clipboardCapture)
+    }
+
+    @Test
+    fun incognitoWithoutNoSuggestKeepsDictionaryOnly() {
+        val p = FieldPolicy.classify(FieldPolicy.TYPE_CLASS_TEXT, FieldPolicy.IME_FLAG_NO_PERSONALIZED_LEARNING)
+        assertEquals(FieldClass.INCOGNITO, p.fieldClass)
         assertEquals(SuggestMode.DICTIONARY_ONLY, p.suggestions)
+        assertFalse(p.learning)
+        assertFalse(p.clipboardCapture)
+    }
+
+    @Test
+    fun incognitoNoSuggestOnMultiLineText() {
+        val inputType = FieldPolicy.TYPE_CLASS_TEXT or 0x20000 or FieldPolicy.TYPE_TEXT_FLAG_NO_SUGGESTIONS
+        val p = FieldPolicy.classify(inputType, FieldPolicy.IME_FLAG_NO_PERSONALIZED_LEARNING)
+        assertEquals(FieldClass.INCOGNITO, p.fieldClass)
+        assertEquals(SuggestMode.TYPED_ONLY, p.suggestions)
         assertFalse(p.learning)
         assertFalse(p.clipboardCapture)
     }
