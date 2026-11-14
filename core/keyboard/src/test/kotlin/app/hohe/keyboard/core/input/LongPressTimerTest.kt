@@ -30,6 +30,10 @@ class LongPressTimerTest {
         assertEquals(2000, LongPressTimer.normalizeDelay(2001))
         assertEquals(310, LongPressTimer.normalizeDelay(305))
 
+        // F-007-02: Int.MAX_VALUE and Int.MIN_VALUE overflow prevention
+        assertEquals(2000, LongPressTimer.normalizeDelay(Int.MAX_VALUE))
+        assertEquals(150, LongPressTimer.normalizeDelay(Int.MIN_VALUE))
+
         val timer0 = LongPressTimer(clock, delayMs = 0)
         assertEquals(150, timer0.delayMs)
 

@@ -61,10 +61,10 @@ object AutoCap {
         }
 
         // Mode: SENTENCES
-        // Scan backwards past horizontal whitespace (spaces and tabs)
+        // Scan backwards past horizontal whitespace (matching isWhitespace, excluding newlines)
         var i = textBeforeCursor.length - 1
         var spaceCount = 0
-        while (i >= 0 && (textBeforeCursor[i] == ' ' || textBeforeCursor[i] == '\t')) {
+        while (i >= 0 && textBeforeCursor[i].isWhitespace() && textBeforeCursor[i] != '\n' && textBeforeCursor[i] != '\r') {
             spaceCount++
             i--
         }

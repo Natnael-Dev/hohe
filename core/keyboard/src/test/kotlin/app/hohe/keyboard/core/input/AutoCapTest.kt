@@ -25,6 +25,13 @@ class AutoCapTest {
     }
 
     @Test
+    fun afterPeriodAndNonBreakingSpaceShouldCapitalize() {
+        // F-007-04: Non-breaking space \u00A0 must be treated as horizontal whitespace
+        assertTrue(AutoCap.shouldCapitalize("Hello.\u00A0", enabled = true, fieldAllowsAutoCap = true))
+        assertTrue(AutoCap.shouldCapitalize("Hello.\u00A0  ", enabled = true, fieldAllowsAutoCap = true))
+    }
+
+    @Test
     fun afterExclamationAndSpaceShouldCapitalize() {
         assertTrue(AutoCap.shouldCapitalize("Wow! ", enabled = true, fieldAllowsAutoCap = true))
         assertTrue(AutoCap.shouldCapitalize("Wait!  ", enabled = true, fieldAllowsAutoCap = true))

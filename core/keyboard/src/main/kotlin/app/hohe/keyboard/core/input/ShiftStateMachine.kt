@@ -34,7 +34,7 @@ enum class ShiftDoubleTap {
  * Shift state machine driven by key events, time, and auto-capitalization signals.
  */
 class ShiftStateMachine(
-    private val clock: Clock? = null,
+    private val clock: Clock,
     val doubleTapAction: ShiftDoubleTap = ShiftDoubleTap.LOCK,
 ) {
     var state: ShiftState = ShiftState.OFF
@@ -45,12 +45,12 @@ class ShiftStateMachine(
 
     private var isDown: Boolean = false
     private var downTime: Long = 0L
-    private var lastUpTime: Long = 0L
+    private var lastUpTime: Long? = null
 
     /**
      * Called when the shift key is pressed down.
      */
-    fun shiftDown(t: Long = clock?.nowMs() ?: 0L) {
+    fun shiftDown(t: Long = clock.nowMs()) {
         isDown = true
         downTime = t
     }
@@ -58,7 +58,7 @@ class ShiftStateMachine(
     /**
      * Periodic time update while keys are held.
      */
-    fun tick(t: Long = clock?.nowMs() ?: 0L) {
+    fun tick(t: Long = clock.nowMs()) {
         if (isDown && state != ShiftState.LOCKED && (t - downTime >= SHIFT_LOCK_HOLD_MS)) {
             state = ShiftState.LOCKED
         }
@@ -67,14 +67,14 @@ class ShiftStateMachine(
     /**
      * Called when the shift key is released.
      */
-    fun shiftUp(t: Long = clock?.nowMs() ?: 0L) {
+    fun shiftUp(t: Long = clock.nowMs()) {
         if (!isDown) return
         isDown = false
 
         val pressDuration = t - downTime
         if (pressDuration >= SHIFT_LOCK_HOLD_MS) {
             state = ShiftState.LOCKED
-            lastUpTime = 0L
+            lastUpTime = null
             return
         }
 
@@ -85,17 +85,18 @@ class ShiftStateMachine(
                 lastUpTime = t
             }
             ShiftState.ONE_SHOT -> {
-                val isDoubleTap = lastUpTime > 0L && (downTime - lastUpTime <= DOUBLE_TAP_TIMEOUT_MS)
+                val prevUp = lastUpTime
+                val isDoubleTap = prevUp != null && (downTime - prevUp <= DOUBLE_TAP_TIMEOUT_MS)
                 if (isDoubleTap && doubleTapAction == ShiftDoubleTap.LOCK) {
                     state = ShiftState.LOCKED
                 } else {
                     state = ShiftState.OFF
                 }
-                lastUpTime = 0L
+                lastUpTime = null
             }
             ShiftState.AUTO, ShiftState.LOCKED -> {
                 state = ShiftState.OFF
-                lastUpTime = 0L
+                lastUpTime = null
             }
         }
     }
@@ -106,7 +107,7 @@ class ShiftStateMachine(
     fun letterTyped() {
         if (state == ShiftState.ONE_SHOT || state == ShiftState.AUTO) {
             state = ShiftState.OFF
-            lastUpTime = 0L
+            lastUpTime = null
         }
     }
 
@@ -116,7 +117,7 @@ class ShiftStateMachine(
     fun layoutChanged() {
         state = ShiftState.OFF
         isDown = false
-        lastUpTime = 0L
+        lastUpTime = null
     }
 
     /**

@@ -262,4 +262,21 @@ class ShiftStateMachineTest {
 
         assertEquals(ShiftState.ONE_SHOT, sm.state)
     }
+
+    @Test
+    fun doubleTapLocksWhenFirstUpAtTimeZero() {
+        // F-007-01: First tap up at t=0L must not be ignored by sentinel checks
+        val zeroClock = FakeClock(currentMs = 0L)
+        val zeroSm = ShiftStateMachine(zeroClock)
+
+        zeroSm.shiftDown(0L)
+        zeroSm.shiftUp(0L)
+        assertEquals(ShiftState.ONE_SHOT, zeroSm.state)
+
+        zeroClock.advanceBy(150L)
+        zeroSm.shiftDown(150L)
+        zeroSm.shiftUp(170L)
+        assertEquals(ShiftState.LOCKED, zeroSm.state)
+        assertTrue(zeroSm.isUppercase)
+    }
 }

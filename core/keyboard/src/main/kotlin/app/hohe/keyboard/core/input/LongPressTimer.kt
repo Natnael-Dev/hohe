@@ -92,8 +92,8 @@ class LongPressTimer(
          * Clamps and rounds raw delay values to steps of 10 within [MIN_DELAY_MS, MAX_DELAY_MS].
          */
         fun normalizeDelay(rawMs: Int): Int {
-            val rounded = (rawMs / STEP_MS.toDouble()).roundToInt() * STEP_MS
-            return rounded.coerceIn(MIN_DELAY_MS, MAX_DELAY_MS)
+            val clamped = rawMs.coerceIn(MIN_DELAY_MS, MAX_DELAY_MS)
+            return (clamped / STEP_MS.toDouble()).roundToInt() * STEP_MS
         }
     }
 }
