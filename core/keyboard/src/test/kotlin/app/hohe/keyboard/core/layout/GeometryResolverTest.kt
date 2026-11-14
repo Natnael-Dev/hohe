@@ -54,34 +54,59 @@ class GeometryResolverTest {
     }
 
     /**
-     * AC-3 / KB-011: 1080 and 1440 px -> widths proportional; per row, adjacent hit rects touch
-     * (gap <= 1 px) and the last key's right edge <= widthPx.
+     * AC-3 / KB-011: 1080 and 1440 px -> widths proportional (hitRect.width/widthPx equal within 1e-4);
+     * per row, adjacent hit rects touch (gap <= 1 px) and the last key's right edge <= widthPx.
+     * Verified over QWERTY, SYMBOLS, and NUMBER (F-005-01).
      */
     @Test
     fun testKb011() {
-        listOf(1080, 1440).forEach { widthPx ->
-            val density = widthPx / 360f
-            val params = GeometryParams(heightMultiplier = 1.0f, swDp = 360)
-            val resolved = GeometryResolver.resolve(qwerty, widthPx, density, params)
+        val layouts = listOf(qwerty, Layouts.symbols(), Layouts.number())
+        layouts.forEach { layout ->
+            val resolved1080 = GeometryResolver.resolve(layout, 1080, 1080 / 360f, GeometryParams(swDp = 360))
+            val resolved1440 = GeometryResolver.resolve(layout, 1440, 1440 / 360f, GeometryParams(swDp = 360))
 
-            resolved.rows.forEach { row ->
-                // Per row, adjacent hit rects touch (gap <= 1 px)
-                for (i in 0 until row.size - 1) {
-                    val currentKey = row[i]
-                    val nextKey = row[i + 1]
-                    val gap = kotlin.math.abs(nextKey.hitRect.left - currentKey.hitRect.right)
-                    assertTrue(
-                        "Gap between adjacent hit rects at width $widthPx should be <= 1 px, was $gap",
-                        gap <= 1.0f,
+            assertEquals(resolved1080.rows.size, resolved1440.rows.size)
+            for (r in resolved1080.rows.indices) {
+                val row1080 = resolved1080.rows[r]
+                val row1440 = resolved1440.rows[r]
+                assertEquals(row1080.size, row1440.size)
+
+                for (c in row1080.indices) {
+                    val prop1080 = row1080[c].hitRect.width / 1080f
+                    val prop1440 = row1440[c].hitRect.width / 1440f
+                    assertEquals(
+                        "Key [r=$r, c=$c] proportional width should match between 1080 and 1440 px for layout ${layout.id}",
+                        prop1080,
+                        prop1440,
+                        0.0001f,
                     )
                 }
+            }
 
-                // Last key's right edge <= widthPx
-                val lastKey = row.last()
-                assertTrue(
-                    "Last key right edge ${lastKey.hitRect.right} exceeds widthPx $widthPx",
-                    lastKey.hitRect.right <= widthPx.toFloat() + 0.01f,
-                )
+            listOf(1080, 1440).forEach { widthPx ->
+                val density = widthPx / 360f
+                val params = GeometryParams(heightMultiplier = 1.0f, swDp = 360)
+                val resolved = GeometryResolver.resolve(layout, widthPx, density, params)
+
+                resolved.rows.forEach { row ->
+                    // Per row, adjacent hit rects touch (gap <= 1 px)
+                    for (i in 0 until row.size - 1) {
+                        val currentKey = row[i]
+                        val nextKey = row[i + 1]
+                        val gap = kotlin.math.abs(nextKey.hitRect.left - currentKey.hitRect.right)
+                        assertTrue(
+                            "Gap between adjacent hit rects at width $widthPx should be <= 1 px, was $gap",
+                            gap <= 1.0f,
+                        )
+                    }
+
+                    // Last key's right edge <= widthPx
+                    val lastKey = row.last()
+                    assertTrue(
+                        "Last key right edge ${lastKey.hitRect.right} exceeds widthPx $widthPx",
+                        lastKey.hitRect.right <= widthPx.toFloat() + 0.01f,
+                    )
+                }
             }
         }
     }

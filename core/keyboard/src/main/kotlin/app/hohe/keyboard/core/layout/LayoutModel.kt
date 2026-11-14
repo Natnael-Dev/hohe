@@ -102,4 +102,3 @@ data class Layout(
  */
 typealias KeyboardLayout = Layout
 typealias KeyType = KeyStyle
-typealias KeyAction = KeyFlags

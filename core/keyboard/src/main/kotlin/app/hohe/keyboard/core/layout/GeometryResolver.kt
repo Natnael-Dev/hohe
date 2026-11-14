@@ -99,16 +99,7 @@ object GeometryResolver {
         val topPaddingPx = layout.params.topPaddingDp * density
         val bottomPaddingPx = (layout.params.bottomPaddingDp + params.bottomSpaceDp) * density
 
-        val isNumericOrPhone =
-            layout.id in
-                setOf(
-                    LayoutSet.NUMBER,
-                    LayoutSet.NUMBER_PASSWORD,
-                    LayoutSet.PHONE,
-                    LayoutSet.PHONE_SYMBOLS,
-                )
-        val verticalGapDp = if (isNumericOrPhone) 6f else layout.params.verticalGapDp
-        val verticalGapPx = verticalGapDp * density
+        val verticalGapPx = layout.params.verticalGapDp * density
         val halfVGap = verticalGapPx / 2f
 
         val horizontalGapPx = (layout.params.horizontalGapPct / 100f) * widthPx

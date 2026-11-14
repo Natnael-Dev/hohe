@@ -1,5 +1,7 @@
 package app.hohe.keyboard.core.layout
 
+// TASK-030: Amharic punctuation and Birr (ብር) transforms will be implemented here.
+
 /**
  * Pure transform functions for deriving keyboard layout variations.
  */
@@ -42,6 +44,8 @@ object LayoutTransforms {
             "m" to "?",
         )
 
+    private val symbolHintsByLabel = symbolsHintsRow1 + symbolsHintsRow2 + symbolsHintsRow3
+
     private val defaultDigitHintsRow1 =
         mapOf(
             "q" to "1",
@@ -70,10 +74,18 @@ object LayoutTransforms {
      * Adds a dedicated number row above row 1, removing digit hints from letter keys.
      */
     fun withNumberRow(layout: Layout): Layout {
-        if (layout.id != LayoutSet.QWERTY || layout.rows.size > 4) {
+        if (layout.rows.size > 4) {
             return layout
         }
+        return when (layout.id) {
+            LayoutSet.QWERTY -> transformQwertyWithNumberRow(layout)
+            LayoutSet.SYMBOLS -> Layouts.symbolsWithNumberRow()
+            LayoutSet.SYMBOLS_SHIFT -> Layouts.symbolsShiftWithNumberRow()
+            else -> layout
+        }
+    }
 
+    private fun transformQwertyWithNumberRow(layout: Layout): Layout {
         val numberRowKeys =
             listOf(
                 digitKey('1', listOf("¹", "½", "⅓", "¼", "⅕", "⅙", "⅐", "⅛", "⅑", "⅒", "₁")),
@@ -93,7 +105,8 @@ object LayoutTransforms {
         val transformedRow1Keys =
             row1.keys.map { key ->
                 val cleanedMoreKeys = key.moreKeys.filter { it.label !in "0".."9" }
-                key.copy(hint = null, moreKeys = cleanedMoreKeys)
+                val newHint = if (key.hint != null && key.hint in "0".."9") null else key.hint
+                key.copy(hint = newHint, moreKeys = cleanedMoreKeys)
             }
         val transformedRow1 = row1.copy(keys = transformedRow1Keys)
 
@@ -115,31 +128,17 @@ object LayoutTransforms {
             return layout
         }
         val newRows =
-            layout.rows.mapIndexed { rowIndex, row ->
-                when (rowIndex) {
-                    0 -> {
-                        val newKeys =
-                            row.keys.map { key ->
-                                key.copy(hint = symbolsHintsRow1[key.label] ?: key.hint)
-                            }
-                        row.copy(keys = newKeys)
+            layout.rows.map { row ->
+                val newKeys =
+                    row.keys.map { key ->
+                        val symbolHint = symbolHintsByLabel[key.label]
+                        if (symbolHint != null) {
+                            key.copy(hint = symbolHint)
+                        } else {
+                            key
+                        }
                     }
-                    1 -> {
-                        val newKeys =
-                            row.keys.map { key ->
-                                key.copy(hint = symbolsHintsRow2[key.label] ?: key.hint)
-                            }
-                        row.copy(keys = newKeys)
-                    }
-                    2 -> {
-                        val newKeys =
-                            row.keys.map { key ->
-                                key.copy(hint = symbolsHintsRow3[key.label] ?: key.hint)
-                            }
-                        row.copy(keys = newKeys)
-                    }
-                    else -> row
-                }
+                row.copy(keys = newKeys)
             }
         return layout.copy(rows = newRows)
     }
@@ -151,25 +150,23 @@ object LayoutTransforms {
         if (layout.id != LayoutSet.QWERTY) {
             return layout
         }
+        val hasNumberRow = layout.rows.size > 4
         val newRows =
-            layout.rows.mapIndexed { rowIndex, row ->
-                when (rowIndex) {
-                    0 -> {
-                        val newKeys =
-                            row.keys.map { key ->
-                                key.copy(hint = defaultDigitHintsRow1[key.label])
+            layout.rows.map { row ->
+                val newKeys =
+                    row.keys.map { key ->
+                        if (key.label in symbolHintsByLabel) {
+                            val restoredDigit = defaultDigitHintsRow1[key.label]
+                            if (restoredDigit != null && !hasNumberRow) {
+                                key.copy(hint = restoredDigit)
+                            } else {
+                                key.copy(hint = null)
                             }
-                        row.copy(keys = newKeys)
+                        } else {
+                            key
+                        }
                     }
-                    1, 2 -> {
-                        val newKeys =
-                            row.keys.map { key ->
-                                if (key.style == KeyStyle.LETTER) key.copy(hint = null) else key
-                            }
-                        row.copy(keys = newKeys)
-                    }
-                    else -> row
-                }
+                row.copy(keys = newKeys)
             }
         return layout.copy(rows = newRows)
     }
@@ -191,6 +188,7 @@ object LayoutTransforms {
         newCode: Char,
         newLabel: String,
     ): Layout {
+        if (layout.id != LayoutSet.QWERTY) return layout
         val newRows =
             layout.rows.map { row ->
                 val newKeys =

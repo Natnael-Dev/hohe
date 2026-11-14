@@ -41,4 +41,21 @@ class LongPressForSymbolsTest {
         val row2Hints = restored.rows[1].keys.map { it.hint }
         assertEquals(List(9) { null }, row2Hints)
     }
+
+    @Test
+    fun testLongPressForSymbolsAndNumberRowBothOrders() {
+        // F-006-01: Symbol hints on q/a/z must be present and identical in both application orders
+        val order1 = LayoutTransforms.withNumberRow(LayoutTransforms.withLongPressForSymbols(qwerty))
+        val order2 = LayoutTransforms.withLongPressForSymbols(LayoutTransforms.withNumberRow(qwerty))
+
+        listOf(order1, order2).forEach { layout ->
+            val allKeys = layout.rows.flatMap { it.keys }
+            val qKey = allKeys.first { it.label == "q" }
+            val aKey = allKeys.first { it.label == "a" }
+            val zKey = allKeys.first { it.label == "z" }
+            assertEquals("~", qKey.hint)
+            assertEquals("@", aKey.hint)
+            assertEquals("!", zKey.hint)
+        }
+    }
 }

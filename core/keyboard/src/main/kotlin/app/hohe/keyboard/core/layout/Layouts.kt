@@ -1,5 +1,7 @@
 package app.hohe.keyboard.core.layout
 
+// TASK-030: Amharic punctuation and Birr (ብር) transforms will be implemented here.
+
 /**
  * Repository of built-in immutable keyboard layouts.
  */
@@ -147,155 +149,72 @@ object Layouts {
     /**
      * Standard SYMBOLS layout per KLA §4 and SPEC-002 Appendix A.
      */
-    fun symbols(): Layout {
-        val row1Keys =
-            listOf(
-                symbolDigitKey('1', listOf("¹", "½", "⅓", "¼", "⅕", "⅙", "⅐", "⅛", "⅑", "⅒", "₁")),
-                symbolDigitKey('2', listOf("²", "⅔", "⅖", "₂")),
-                symbolDigitKey('3', listOf("³", "¾", "⅗", "⅜", "₃")),
-                symbolDigitKey('4', listOf("⁴", "⅘", "₄")),
-                symbolDigitKey('5', listOf("⁵", "⅚", "⅝", "₅")),
-                symbolDigitKey('6', listOf("⁶", "₆")),
-                symbolDigitKey('7', listOf("⁷", "⅞", "₇")),
-                symbolDigitKey('8', listOf("⁸", "₈")),
-                symbolDigitKey('9', listOf("⁹", "₉")),
-                symbolDigitKey('0', listOf("⁰", "ⁿ", "∅", "₀")),
-            )
-        val row1 = Row(keys = row1Keys, xOffsetPct = 0.5f)
-
-        val row2Keys =
-            listOf(
-                symbolKey('@', emptyList()),
-                symbolKey('#', listOf("№")),
-                symbolKey('$', listOf("₹", "¢", "€", "£", "¥", "₱")),
-                symbolKey('%', listOf("‰")),
-                symbolKey('&', emptyList()),
-                symbolKey('*', listOf("†", "‡", "★")),
-                symbolKey('-', listOf("_", "–", "—", "·", "⁻", "₋")),
-                symbolKey('=', listOf("≠", "≈", "∞", "⁼", "₌")),
-                symbolKey('(', listOf("<", "{", "[", "⁽", "₍")),
-                symbolKey(')', listOf(">", "}", "]", "⁾", "₎")),
-            )
-        val row2 = Row(keys = row2Keys, xOffsetPct = 0.5f)
-
-        val row3Keys =
-            listOf(
-                Key(
-                    code = KeyCodes.SHIFT_SYMBOLS,
-                    label = "=\\<",
-                    widthPct = 14.8f,
-                    style = KeyStyle.FUNCTIONAL,
-                    flags = KeyFlags(noPanelAutoMoreKey = true),
-                ),
-                symbolKey('!', listOf("¡", "✓")),
-                symbolKey('"', listOf("„", "“", "”", "«", "»")),
-                symbolKey('\'', listOf("‚", "‘", "’", "‹", "›")),
-                symbolKey(':', emptyList()),
-                symbolKey('+', listOf("±", "⁺", "₊")),
-                symbolKey('/', emptyList()),
-                symbolKey('?', listOf("¿")),
-                Key(
-                    code = KeyCodes.DELETE,
-                    label = "⌫",
-                    widthPct = 14.9f,
-                    style = KeyStyle.DELETE,
-                    flags = KeyFlags(repeatable = true),
-                ),
-            )
-        val row3 = Row(keys = row3Keys, xOffsetPct = 0.5f)
-
-        val row4 = symbolsBottomRow()
-
-        return Layout(
+    fun symbols(): Layout =
+        Layout(
             id = LayoutSet.SYMBOLS,
-            rows = listOf(row1, row2, row3, row4),
+            rows = listOf(symbolsDigitsRow(), symbolsRow2(), symbolsRow3(), symbolsBottomRow()),
         )
-    }
 
     /**
      * Shifted symbols layout (SYMBOLS_SHIFT) per KLA §5 and SPEC-002 Appendix A.
      */
-    fun symbolsShift(): Layout {
-        val row1Keys =
-            listOf(
-                symbolKey('~', emptyList()),
-                symbolKey('±', emptyList()),
-                symbolKey('×', emptyList()),
-                symbolKey('÷', listOf("√")),
-                symbolKey('•', listOf("♪", "♥", "♠", "♦", "♣")),
-                symbolKey('°', listOf("′", "″")),
-                symbolKey('`', listOf("´")),
-                symbolKey('_', emptyList()),
-                symbolKey('{', emptyList()),
-                symbolKey('}', emptyList()),
-            )
-        val row1 = Row(keys = row1Keys, xOffsetPct = 0.5f)
-
-        val row2Keys =
-            listOf(
-                symbolKey('₹', emptyList()),
-                symbolKey('£', emptyList()),
-                symbolKey('€', emptyList()),
-                symbolKey('¥', emptyList()),
-                symbolKey('©', listOf("℅")),
-                symbolKey('®', listOf("™")),
-                symbolKey('^', listOf("↑", "↓", "←", "→")),
-                symbolKey('π', listOf("√", "§", "∆", "Π", "¶", "∑", "Ω", "μ")),
-                symbolKey('[', emptyList()),
-                symbolKey(']', emptyList()),
-            )
-        val row2 = Row(keys = row2Keys, xOffsetPct = 0.5f)
-
-        val row3Keys =
-            listOf(
-                Key(
-                    code = KeyCodes.SYMBOLS,
-                    label = "?123",
-                    widthPct = 14.8f,
-                    style = KeyStyle.FUNCTIONAL,
-                    flags = KeyFlags(noPanelAutoMoreKey = true),
-                ),
-                symbolKey('¡', emptyList()),
-                symbolKey('<', listOf("‹", "≤", "«", "⟨")),
-                symbolKey('>', listOf("›", "≥", "»", "⟩")),
-                symbolKey(';', emptyList()),
-                symbolKey('|', emptyList()),
-                symbolKey('\\', emptyList()),
-                symbolKey('¿', listOf("π", "Π", "¶", "§", "∆")),
-                Key(
-                    code = KeyCodes.DELETE,
-                    label = "⌫",
-                    widthPct = 14.9f,
-                    style = KeyStyle.DELETE,
-                    flags = KeyFlags(repeatable = true),
-                ),
-            )
-        val row3 = Row(keys = row3Keys, xOffsetPct = 0.5f)
-
-        val row4 = symbolsBottomRow()
-
-        return Layout(
+    fun symbolsShift(): Layout =
+        Layout(
             id = LayoutSet.SYMBOLS_SHIFT,
-            rows = listOf(row1, row2, row3, row4),
+            rows = listOf(symbolsShiftRow1(), symbolsShiftRow2(), symbolsShiftRow3(), symbolsBottomRow()),
         )
-    }
+
+    /**
+     * Symbols layout with number row per KLA §4.
+     */
+    fun symbolsWithNumberRow(): Layout =
+        Layout(
+            id = LayoutSet.SYMBOLS,
+            rows = listOf(symbolsDigitsRow(), symbolsShiftRow1(), symbolsRow2(), symbolsRow3(), symbolsBottomRow()),
+        )
+
+    /**
+     * Shifted symbols layout with number row per KLA §5.
+     */
+    fun symbolsShiftWithNumberRow(): Layout =
+        Layout(
+            id = LayoutSet.SYMBOLS_SHIFT,
+            rows = listOf(symbolsDigitsRow(), symbolsShiftRow2(), symbolsRow2(), symbolsShiftRow3(), symbolsBottomRow()),
+        )
 
     /**
      * Numeric keypad layout and field variants per KLA §6 and SPEC-002 Appendix A.
      */
-    fun number(variant: NumberVariant = NumberVariant.NORMAL): Layout {
-        val row1Keys =
-            listOf(
-                numKey('1'),
-                numKey('2'),
-                numKey('3'),
+    fun number(
+        variant: NumberVariant = NumberVariant.NORMAL,
+        fromTextMode: Boolean = false,
+    ): Layout {
+        if (variant == NumberVariant.PASSWORD) {
+            return numberPassword()
+        }
+        val row1Key4 =
+            if (fromTextMode) {
+                Key(
+                    code = KeyCodes.ABC,
+                    label = "ABC",
+                    widthPct = 17.28f,
+                    style = KeyStyle.FUNCTIONAL,
+                )
+            } else {
                 Key(
                     code = '-'.code,
                     label = "-",
                     widthPct = 17.28f,
                     style = KeyStyle.FUNCTIONAL,
                     moreKeys = listOf(MoreKey("+")),
-                ),
+                )
+            }
+        val row1Keys =
+            listOf(
+                numKey('1'),
+                numKey('2'),
+                numKey('3'),
+                row1Key4,
             )
         val row1 = Row(keys = row1Keys, xOffsetPct = 1.353f)
 
@@ -343,7 +262,7 @@ object Layouts {
                 NumberVariant.DATETIME ->
                     Key(
                         code = '/'.code,
-                        label = "/",
+                        label = "/ :",
                         widthPct = 26.67f,
                         style = KeyStyle.LETTER,
                         moreKeys = listOf(MoreKey(":")),
@@ -388,26 +307,26 @@ object Layouts {
                 keys =
                     listOf(
                         Key(code = '1'.code, label = "1", widthPct = 33.33f),
-                        Key(code = '2'.code, label = "2", widthPct = 33.33f),
-                        Key(code = '3'.code, label = "3", widthPct = 33.33f),
+                        Key(code = '2'.code, label = "2", hint = "ABC", widthPct = 33.33f),
+                        Key(code = '3'.code, label = "3", hint = "DEF", widthPct = 33.33f),
                     ),
             )
         val row2 =
             Row(
                 keys =
                     listOf(
-                        Key(code = '4'.code, label = "4", widthPct = 33.33f),
-                        Key(code = '5'.code, label = "5", widthPct = 33.33f),
-                        Key(code = '6'.code, label = "6", widthPct = 33.33f),
+                        Key(code = '4'.code, label = "4", hint = "GHI", widthPct = 33.33f),
+                        Key(code = '5'.code, label = "5", hint = "JKL", widthPct = 33.33f),
+                        Key(code = '6'.code, label = "6", hint = "MNO", widthPct = 33.33f),
                     ),
             )
         val row3 =
             Row(
                 keys =
                     listOf(
-                        Key(code = '7'.code, label = "7", widthPct = 33.33f),
-                        Key(code = '8'.code, label = "8", widthPct = 33.33f),
-                        Key(code = '9'.code, label = "9", widthPct = 33.33f),
+                        Key(code = '7'.code, label = "7", hint = "PQRS", widthPct = 33.33f),
+                        Key(code = '8'.code, label = "8", hint = "TUV", widthPct = 33.33f),
+                        Key(code = '9'.code, label = "9", hint = "WXYZ", widthPct = 33.33f),
                     ),
             )
         val row4 =
@@ -453,8 +372,8 @@ object Layouts {
                 keys =
                     listOf(
                         numKey('1'),
-                        numKey('2'),
-                        numKey('3'),
+                        numKey('2', hint = "ABC"),
+                        numKey('3', hint = "DEF"),
                         Key(
                             code = '-'.code,
                             label = "-",
@@ -469,9 +388,9 @@ object Layouts {
             Row(
                 keys =
                     listOf(
-                        numKey('4'),
-                        numKey('5'),
-                        numKey('6'),
+                        numKey('4', hint = "GHI"),
+                        numKey('5', hint = "JKL"),
+                        numKey('6', hint = "MNO"),
                         Key(code = '.'.code, label = ".", widthPct = 17.28f, style = KeyStyle.FUNCTIONAL),
                     ),
                 xOffsetPct = 1.353f,
@@ -480,9 +399,9 @@ object Layouts {
             Row(
                 keys =
                     listOf(
-                        numKey('7'),
-                        numKey('8'),
-                        numKey('9'),
+                        numKey('7', hint = "PQRS"),
+                        numKey('8', hint = "TUV"),
+                        numKey('9', hint = "WXYZ"),
                         Key(
                             code = KeyCodes.DELETE,
                             label = "⌫",
@@ -503,12 +422,7 @@ object Layouts {
                             widthPct = 26.67f,
                             style = KeyStyle.FUNCTIONAL,
                         ),
-                        Key(
-                            code = '0'.code,
-                            label = "0",
-                            widthPct = 26.67f,
-                            moreKeys = listOf(MoreKey("+")),
-                        ),
+                        numKey('0', hint = "+").copy(moreKeys = listOf(MoreKey("+"))),
                         Key(
                             code = KeyCodes.SPACE,
                             label = "space",
@@ -619,6 +533,130 @@ object Layouts {
         )
     }
 
+    private fun symbolsDigitsRow(): Row {
+        val keys =
+            listOf(
+                symbolDigitKey('1', listOf("¹", "½", "⅓", "¼", "⅕", "⅙", "⅐", "⅛", "⅑", "⅒", "₁")),
+                symbolDigitKey('2', listOf("²", "⅔", "⅖", "₂")),
+                symbolDigitKey('3', listOf("³", "¾", "⅗", "⅜", "₃")),
+                symbolDigitKey('4', listOf("⁴", "⅘", "₄")),
+                symbolDigitKey('5', listOf("⁵", "⅚", "⅝", "₅")),
+                symbolDigitKey('6', listOf("⁶", "₆")),
+                symbolDigitKey('7', listOf("⁷", "⅞", "₇")),
+                symbolDigitKey('8', listOf("⁸", "₈")),
+                symbolDigitKey('9', listOf("⁹", "₉")),
+                symbolDigitKey('0', listOf("⁰", "ⁿ", "∅", "₀")),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
+    private fun symbolsRow2(): Row {
+        val keys =
+            listOf(
+                symbolKey('@', emptyList()),
+                symbolKey('#', listOf("№")),
+                symbolKey('$', listOf("₹", "¢", "€", "£", "¥", "₱")),
+                symbolKey('%', listOf("‰")),
+                symbolKey('&', emptyList()),
+                symbolKey('*', listOf("†", "‡", "★")),
+                symbolKey('-', listOf("_", "–", "—", "·", "⁻", "₋")),
+                symbolKey('=', listOf("≠", "≈", "∞", "⁼", "₌")),
+                symbolKey('(', listOf("<", "{", "[", "⁽", "₍")),
+                symbolKey(')', listOf(">", "}", "]", "⁾", "₎")),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
+    private fun symbolsRow3(): Row {
+        val keys =
+            listOf(
+                Key(
+                    code = KeyCodes.SHIFT_SYMBOLS,
+                    label = "=\\<",
+                    widthPct = 14.8f,
+                    style = KeyStyle.FUNCTIONAL,
+                    flags = KeyFlags(noPanelAutoMoreKey = true),
+                ),
+                symbolKey('!', listOf("¡", "✓")),
+                symbolKey('"', listOf("„", "“", "”", "«", "»")),
+                symbolKey('\'', listOf("‚", "‘", "’", "‹", "›")),
+                symbolKey(':', emptyList()),
+                symbolKey('+', listOf("±", "⁺", "₊")),
+                symbolKey('/', emptyList()),
+                symbolKey('?', listOf("¿")),
+                Key(
+                    code = KeyCodes.DELETE,
+                    label = "⌫",
+                    widthPct = 14.9f,
+                    style = KeyStyle.DELETE,
+                    flags = KeyFlags(repeatable = true),
+                ),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
+    private fun symbolsShiftRow1(): Row {
+        val keys =
+            listOf(
+                symbolKey('~', emptyList()),
+                symbolKey('±', emptyList()),
+                symbolKey('×', emptyList()),
+                symbolKey('÷', listOf("√")),
+                symbolKey('•', listOf("♪", "♥", "♠", "♦", "♣")),
+                symbolKey('°', listOf("′", "″")),
+                symbolKey('`', listOf("´")),
+                symbolKey('_', emptyList()),
+                symbolKey('{', emptyList()),
+                symbolKey('}', emptyList()),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
+    private fun symbolsShiftRow2(): Row {
+        val keys =
+            listOf(
+                symbolKey('₹', emptyList()),
+                symbolKey('£', emptyList()),
+                symbolKey('€', emptyList()),
+                symbolKey('¥', emptyList()),
+                symbolKey('©', listOf("℅")),
+                symbolKey('®', listOf("™")),
+                symbolKey('^', listOf("↑", "↓", "←", "→")),
+                symbolKey('π', listOf("√", "§", "∆", "Π", "¶", "∑", "Ω", "μ")),
+                symbolKey('[', emptyList()),
+                symbolKey(']', emptyList()),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
+    private fun symbolsShiftRow3(): Row {
+        val keys =
+            listOf(
+                Key(
+                    code = KeyCodes.SYMBOLS,
+                    label = "?123",
+                    widthPct = 14.8f,
+                    style = KeyStyle.FUNCTIONAL,
+                    flags = KeyFlags(noPanelAutoMoreKey = true),
+                ),
+                symbolKey('¡', emptyList()),
+                symbolKey('<', listOf("‹", "≤", "«", "⟨")),
+                symbolKey('>', listOf("›", "≥", "»", "⟩")),
+                symbolKey(';', emptyList()),
+                symbolKey('|', emptyList()),
+                symbolKey('\\', emptyList()),
+                symbolKey('¿', listOf("π", "Π", "¶", "§", "∆")),
+                Key(
+                    code = KeyCodes.DELETE,
+                    label = "⌫",
+                    widthPct = 14.9f,
+                    style = KeyStyle.DELETE,
+                    flags = KeyFlags(repeatable = true),
+                ),
+            )
+        return Row(keys = keys, xOffsetPct = 0.5f)
+    }
+
     private fun symbolsBottomRow(): Row {
         val keys =
             listOf(
@@ -718,10 +756,14 @@ object Layouts {
             style = KeyStyle.LETTER,
         )
 
-    private fun numKey(char: Char): Key =
+    private fun numKey(
+        char: Char,
+        hint: String? = null,
+    ): Key =
         Key(
             code = char.code,
             label = char.toString(),
+            hint = hint,
             widthPct = 26.67f,
             style = KeyStyle.LETTER,
         )

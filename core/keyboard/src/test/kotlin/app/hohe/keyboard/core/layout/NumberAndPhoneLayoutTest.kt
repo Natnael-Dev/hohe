@@ -41,7 +41,7 @@ class NumberAndPhoneLayoutTest {
 
         val dateTimeLayout = Layouts.number(NumberVariant.DATETIME)
         val slashKeyDateTime = dateTimeLayout.rows[3].keys[0]
-        assertEquals("/", slashKeyDateTime.label)
+        assertEquals("/ :", slashKeyDateTime.label)
         assertEquals(listOf(":"), slashKeyDateTime.moreKeys.map { it.label })
     }
 

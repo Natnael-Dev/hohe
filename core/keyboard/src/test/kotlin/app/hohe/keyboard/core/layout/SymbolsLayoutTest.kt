@@ -120,4 +120,38 @@ class SymbolsLayoutTest {
         val keyInvertedQ = row3.keys.first { it.label == "¿" }
         assertEquals(listOf("π", "Π", "¶", "§", "∆"), keyInvertedQ.moreKeys.map { it.label })
     }
+
+    @Test
+    fun testSymbolsWithNumberRow() {
+        // F-006-04: number row on symbols
+        val layout = LayoutTransforms.withNumberRow(symbols)
+        assertEquals(5, layout.rows.size)
+        val expectedRowLabels =
+            listOf(
+                listOf("1", "2", "3", "4", "5", "6", "7", "8", "9", "0"),
+                listOf("~", "±", "×", "÷", "•", "°", "`", "_", "{", "}"),
+                listOf("@", "#", "$", "%", "&", "*", "-", "=", "(", ")"),
+                listOf("=\\<", "!", "\"", "'", ":", "+", "/", "?", "⌫"),
+                listOf("ABC", ",", "emoji", "space", "123", ".", "Enter"),
+            )
+        val actualRowLabels = layout.rows.map { row -> row.keys.map { it.label } }
+        assertEquals(expectedRowLabels, actualRowLabels)
+    }
+
+    @Test
+    fun testSymbolsShiftWithNumberRow() {
+        // F-006-04: number row on symbols_shift
+        val layout = LayoutTransforms.withNumberRow(symbolsShift)
+        assertEquals(5, layout.rows.size)
+        val expectedRowLabels =
+            listOf(
+                listOf("1", "2", "3", "4", "5", "6", "7", "8", "9", "0"),
+                listOf("₹", "£", "€", "¥", "©", "®", "^", "π", "[", "]"),
+                listOf("@", "#", "$", "%", "&", "*", "-", "=", "(", ")"),
+                listOf("?123", "¡", "<", ">", ";", "|", "\\", "¿", "⌫"),
+                listOf("ABC", ",", "emoji", "space", "123", ".", "Enter"),
+            )
+        val actualRowLabels = layout.rows.map { row -> row.keys.map { it.label } }
+        assertEquals(expectedRowLabels, actualRowLabels)
+    }
 }
