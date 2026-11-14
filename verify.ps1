@@ -6,56 +6,52 @@ param(
 
 $ErrorActionPreference = "Continue"
 
-Write-Host "============================================================"
-Write-Host "=== Hohe Repo Guard Verification (verify.ps1)"
-Write-Host "============================================================"
+Set-Location -LiteralPath $PSScriptRoot
 
-# Step a: assembleDebug test ktlintCheck lint
-Write-Host ""
-Write-Host "=== Step a: assembleDebug test ktlintCheck lint ==="
-& .\gradlew.bat assembleDebug test ktlintCheck lint --console=plain
-$stepAExit = $LASTEXITCODE
-Write-Host "exit=$stepAExit"
-if ($stepAExit -ne 0) {
-    Write-Host "VERIFY: FAIL (Gradle build/test/lint failed with exit code $stepAExit)"
-    exit 1
-}
+try {
+    Write-Host "============================================================"
+    Write-Host "=== Hohe Repo Guard Verification (verify.ps1)"
+    Write-Host "============================================================"
 
-# Step b: Permission allow-list
-Write-Host ""
-Write-Host "=== Step b: Permission allow-list ==="
-$manifestCandidates = @(
-    "app\build\intermediates\merged_manifests\debug\processDebugManifest\AndroidManifest.xml",
-    "app\build\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml",
-    "app\build\intermediates\packaged_manifests\debug\processDebugManifestForPackage\AndroidManifest.xml"
-)
-$manifestPath = $null
-foreach ($candidate in $manifestCandidates) {
-    if (Test-Path $candidate) {
-        $manifestPath = $candidate
-        break
+    # Step a: assembleDebug test ktlintCheck lint
+    Write-Host ""
+    Write-Host "=== Step a: assembleDebug test ktlintCheck lint ==="
+    & .\gradlew.bat assembleDebug test ktlintCheck lint --console=plain
+    $stepAExit = $LASTEXITCODE
+    Write-Host "exit=$stepAExit"
+    if ($stepAExit -ne 0) {
+        Write-Host "VERIFY: FAIL (Gradle build/test/lint failed with exit code $stepAExit)"
+        exit 1
     }
-}
-if (-not $manifestPath) {
-    $found = Get-ChildItem -Path "app\build\intermediates" -Filter "AndroidManifest.xml" -Recurse -ErrorAction SilentlyContinue |
-        Where-Object { $_.FullName -like "*debug*" -and $_.FullName -notlike "*UnitTest*" } |
-        Select-Object -First 1
-    if ($found) {
-        $manifestPath = $found.FullName
+
+    # Step b: Permission allow-list
+    Write-Host ""
+    Write-Host "=== Step b: Permission allow-list ==="
+    # AGP 8.x / 9.x merged manifest path: app\build\intermediates\merged_manifests\debug\processDebugManifest\AndroidManifest.xml
+    $manifestCandidates = @(
+        "app\build\intermediates\merged_manifests\debug\processDebugManifest\AndroidManifest.xml",
+        "app\build\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml",
+        "app\build\intermediates\packaged_manifests\debug\processDebugManifestForPackage\AndroidManifest.xml"
+    )
+    $manifestPath = $null
+    foreach ($candidate in $manifestCandidates) {
+        if (Test-Path $candidate) {
+            $manifestPath = $candidate
+            break
+        }
     }
-}
 
-if (-not $manifestPath) {
-    Write-Host "Merged AndroidManifest.xml not found in app\build\intermediates"
-    Write-Host "exit=1"
-    Write-Host "VERIFY: FAIL (merged AndroidManifest.xml not found)"
-    exit 1
-}
+    if (-not $manifestPath) {
+        Write-Host "Merged AndroidManifest.xml not found in expected locations."
+        Write-Host "exit=1"
+        Write-Host "VERIFY: FAIL (merged manifest path changed; update verify.ps1)"
+        exit 1
+    }
 
-Write-Host "Reading manifest: $manifestPath"
-[xml]$manifestXml = Get-Content $manifestPath
-$nodes = $manifestXml.SelectNodes("//*[local-name()='uses-permission']")
-$permissions = New-Object System.Collections.Generic.List[string]
+    Write-Host "Reading manifest: $manifestPath"
+    [xml]$manifestXml = Get-Content $manifestPath
+    $nodes = $manifestXml.SelectNodes("//*[local-name()='uses-permission' or local-name()='uses-permission-sdk-23' or local-name()='uses-permission-sdk-m']")
+    $permissions = New-Object System.Collections.Generic.List[string]
 if ($nodes) {
     foreach ($node in $nodes) {
         $pName = $node.GetAttribute("android:name")
@@ -179,7 +175,12 @@ if ($DeshApkDir -and $DeshApkDir.Trim() -ne "") {
     Write-Host "exit=0"
 }
 
-# Step f: Final verdict
-Write-Host ""
-Write-Host "VERIFY: PASS"
-exit 0
+    # Step f: Final verdict
+    Write-Host ""
+    Write-Host "VERIFY: PASS"
+    exit 0
+} catch {
+    Write-Host "exit=1"
+    Write-Host "VERIFY: FAIL ($($_.Exception.Message))"
+    exit 1
+}
