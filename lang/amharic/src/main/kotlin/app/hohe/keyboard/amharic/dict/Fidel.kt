@@ -91,7 +91,7 @@ object Fidel {
             v("e" to 0f, "a" to 1.6f, "ie" to 1.0f, "ee" to 1.0f, "" to 2.2f),
             v("u" to 0f, "o" to 1.5f, "" to 2.5f),
             v("i" to 0f, "ii" to 0.2f, "ee" to 1.0f, "ie" to 1.2f, "" to 2.0f),
-            v("a" to 0f, "aa" to 0.2f, "e" to 1.6f, "" to 2.5f),
+            v("a" to 0f, "aa" to 0.2f, "e" to 2.5f, "" to 2.5f),
             v("ie" to 0f, "ee" to 0f, "ei" to 0f, "e" to 0.9f, "i" to 1.2f),
             v("" to 0f, "i" to 0.4f, "e" to 1.5f),
             v("o" to 0f, "oo" to 0.2f, "u" to 1.5f),
@@ -240,9 +240,12 @@ object Fidel {
      * Consonant skeleton of typed lowercase Latin: digraphs first, vowels dropped, `ua` after a
      * consonant gives `w`. Returns the skeleton plus, when the input ends in a letter that may be
      * the first half of a digraph with its own class (`s`→`sh`, `t`→`ts`), the alternative skeleton.
+     * Directly repeated consonant letters (`addis`, gemination is not written in fidel) also give a
+     * skeleton with the repeat collapsed (`dds` and `ds`).
      */
     fun latinSkeletons(latin: String): List<String> {
         val sb = StringBuilder(latin.length)
+        val collapsed = StringBuilder(latin.length)
         var i = 0
         var afterConsonant = false
         var lastSingle: Char? = null
@@ -251,6 +254,7 @@ object Fidel {
             val di = DIGRAPHS.firstOrNull { latin.startsWith(it.first, i) }
             if (di != null) {
                 sb.append(di.second)
+                collapsed.append(di.second)
                 i += 2
                 afterConsonant = true
                 lastSingle = null
@@ -259,6 +263,7 @@ object Fidel {
             val single = SINGLE[ch]
             if (single != null) {
                 sb.append(single)
+                if (!(afterConsonant && lastSingle == ch)) collapsed.append(single)
                 i++
                 afterConsonant = true
                 lastSingle = ch
@@ -266,6 +271,7 @@ object Fidel {
             }
             if (afterConsonant && latin.startsWith("ua", i)) {
                 if (sb.isEmpty() || sb[sb.length - 1] != 'w') sb.append('w')
+                if (collapsed.isEmpty() || collapsed[collapsed.length - 1] != 'w') collapsed.append('w')
                 i += 2
             } else {
                 i++
@@ -273,13 +279,15 @@ object Fidel {
             afterConsonant = false
             lastSingle = null
         }
-        val main = sb.toString()
-        val alt =
+        val out = ArrayList<String>(4)
+        for (base in listOf(sb.toString(), collapsed.toString())) {
+            if (base in out) continue
+            out.add(base)
             when (lastSingle) {
-                's' -> main.dropLast(1) + "S"
-                't' -> main.dropLast(1) + "Z"
-                else -> null
+                's' -> out.add(base.dropLast(1) + "S")
+                't' -> out.add(base.dropLast(1) + "Z")
             }
-        return if (alt == null) listOf(main) else listOf(main, alt)
+        }
+        return out
     }
 }

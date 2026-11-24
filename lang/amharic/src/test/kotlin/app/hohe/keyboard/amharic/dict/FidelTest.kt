@@ -47,6 +47,13 @@ class FidelTest {
     }
 
     @Test
+    fun repeatedConsonantsAlsoGiveCollapsedSkeleton() {
+        assertEquals(listOf("dds", "ddS", "ds", "dS"), Fidel.latinSkeletons("addis"))
+        assertEquals(listOf("ddd"), Fidel.latinSkeletons("dedede"))
+        assertEquals(listOf("kkk", "k"), Fidel.latinSkeletons("kkk"))
+    }
+
+    @Test
     fun everyMappedFidelHasSpellings() {
         var mapped = 0
         for (cp in Fidel.FIRST..Fidel.LAST) {

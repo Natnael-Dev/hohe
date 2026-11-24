@@ -68,10 +68,10 @@ class HoheAmharicEngine(
             translit.firstOrNull()?.let { add(it, Source.FALLBACK_TRANSLIT) }
         }
 
-        val bestExactQ = matches.filter { !it.completion }.maxOfOrNull { it.freqQ }
+        val bestCloseExactQ = matches.filter { !it.completion && it.cost <= CLOSE_READING }.maxOfOrNull { it.freqQ }
         val ordered =
             matches.sortedWith(
-                compareBy<DictionaryMatcher.Match>({ adjusted(it, bestExactQ) }, { -it.freqQ }, { it.index }),
+                compareBy<DictionaryMatcher.Match>({ tier(it, bestCloseExactQ) }, { it.score }, { -it.freqQ }, { it.index }),
             )
         val perVariant = HashMap<String, Int>()
         for (m in ordered) {
@@ -92,22 +92,26 @@ class HoheAmharicEngine(
     }
 
     /**
-     * Exact matches go before completions unless the completion is at least 20× as frequent as
-     * the best exact match (spec §3.3, D-018), which is `ln 20 · 64 ≈ 192` in quantised units.
+     * Ranking tier (lower first), then [DictionaryMatcher.Match.score] inside a tier:
+     * 0 = dominant completion: a close reading (cost ≤ 1.0) at least 20× as frequent as the best
+     *     close exact match, or any close completion when there is no close exact match
+     *     (spec §3.3, D-018; 20× is `ln 20 · 64 ≈ 192` quantised units);
+     * 1 = exact matches; 2 = other completions.
      */
-    private fun adjusted(
+    private fun tier(
         m: DictionaryMatcher.Match,
-        bestExactQ: Int?,
-    ): Float {
-        if (!m.completion || bestExactQ == null) return m.score
-        return if (m.freqQ - bestExactQ >= DOMINANT_Q) m.score else m.score + COMPLETION_PENALTY
+        bestCloseExactQ: Int?,
+    ): Int {
+        if (!m.completion) return 1
+        val dominant = bestCloseExactQ == null || m.freqQ - bestCloseExactQ >= DOMINANT_Q
+        return if (dominant && m.cost <= CLOSE_READING) 0 else 2
     }
 
     companion object {
         const val NO_DATA = "none"
         private const val FALLBACK_K = 4
         private const val CLOSE_MATCH = 2.0f
-        private const val COMPLETION_PENALTY = 10f
+        private const val CLOSE_READING = 1.0f
         private val DOMINANT_Q = Math.round(64.0 * Math.log(20.0)).toInt()
         private const val MAX_VARIANTS = 2
 
