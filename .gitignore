@@ -1,18 +1,38 @@
 # Gradle
 .gradle/
 build/
+.kotlin/
 !gradle/wrapper/gradle-wrapper.jar
 
 # Android
 local.properties
 *.keystore
 *.jks
+*.apk
+*.aab
+output-metadata.json
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+google-services.json
+keystore.properties
+
+# Logs
+*.log
+hs_err_pid*
 
 # IDE
 .idea/
 *.iml
 .vscode/
+*.swp
 
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
