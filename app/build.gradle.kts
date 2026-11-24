@@ -34,6 +34,11 @@ android {
 
     buildFeatures {
         compose = true
+        buildConfig = true
+    }
+
+    androidResources {
+        noCompress += "bin"
     }
 
     lint {
