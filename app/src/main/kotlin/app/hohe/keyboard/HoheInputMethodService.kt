@@ -127,7 +127,7 @@ class HoheInputMethodService :
                 controller.applySettings(s)
             }
         }
-        scope.launch { personal.emojiRecents.collect { emojiRow?.bind(it, theme) } }
+        scope.launch { personal.emojiRecents.collect { emojiRow?.bind(visibleRecents(it), theme) } }
         clipboardManager = getSystemService(CLIPBOARD_SERVICE) as? ClipboardManager
         clipboardManager?.addPrimaryClipChangedListener(clipListener)
     }
@@ -143,7 +143,7 @@ class HoheInputMethodService :
             EmojiRowView(this).also {
                 it.onEmoji = { e ->
                     controller.onText(e)
-                    personal.recordEmoji(e)
+                    recordEmoji(e)
                 }
                 it.onMore = { controller.openPanel(Panel.EMOJI) }
             }
@@ -176,7 +176,7 @@ class HoheInputMethodService :
         keyboard = kb
         panelView = panel
         shownPanel = Panel.NONE
-        row.bind(personal.emojiRecents.value, theme)
+        row.bind(visibleRecents(personal.emojiRecents.value), theme)
         render(controller.state)
         return frame
     }
@@ -259,7 +259,7 @@ class HoheInputMethodService :
                 state.panel == Panel.NONE &&
                 controller.policy.suggestions != SuggestMode.OFF
         emojiRow?.visibility = if (showRow) View.VISIBLE else View.GONE
-        emojiRow?.bind(personal.emojiRecents.value, theme)
+        emojiRow?.bind(visibleRecents(personal.emojiRecents.value), theme)
         root?.setBackgroundColor(theme.background)
         renderPanel(state, kb)
     }
@@ -297,7 +297,7 @@ class HoheInputMethodService :
         PanelCallbacks(
             onText = { text, isEmoji ->
                 controller.onText(text)
-                if (isEmoji) personal.recordEmoji(text)
+                if (isEmoji) recordEmoji(text)
             },
             onDelete = { controller.onKey(KeyCodes.DELETE) },
             onSpace = { controller.onKey(KeyCodes.SPACE) },
@@ -310,6 +310,13 @@ class HoheInputMethodService :
             onOpenApp = { section -> openApp(section) },
             onClipboardEnabled = { on -> scope.launch { settingsStore.update { it.copy(clipboardEnabled = on) } } },
         )
+
+    /** Emoji history is personal data: never recorded or shown in private fields (REQ-017). */
+    private fun recordEmoji(emoji: String) {
+        if (controller.policy.learning) personal.recordEmoji(emoji)
+    }
+
+    private fun visibleRecents(recents: List<String>): List<String> = if (controller.policy.learning) recents else emptyList()
 
     // ---- clipboard (REQ-063/064) ----
 

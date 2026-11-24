@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ሆሄ</string>
+    <string name="ime_name">ሆሄ ኪቦርድ</string>
+    <string name="subtype_label">ሆሄ</string>
+    <string name="subtype_amharic">አማርኛ (ሆሄ)</string>
+    <string name="subtype_english">እንግሊዝኛ (ሆሄ)</string>
+
+    <string name="key_shift">ሺፍት</string>
+    <string name="key_delete">አጥፋ</string>
+    <string name="key_enter">አስገባ</string>
+    <string name="key_space">ክፍተት</string>
+    <string name="key_language">አማርኛ ወይም እንግሊዝኛ ቀይር</string>
+    <string name="key_symbols">ምልክቶች</string>
+    <string name="key_letters">ፊደላት</string>
+    <string name="key_letters_short">ABC</string>
+    <string name="key_emoji">ኢሞጂ</string>
+    <string name="ime_incognito">የግል መስክ፦ ምንም አይማርም</string>
+    <plurals name="ime_delete_words_plural">
+        <item quantity="one">%d ቃል አጥፋ</item>
+        <item quantity="other">%d ቃላት አጥፋ</item>
+    </plurals>
+    <string name="ime_delete_words">ቃላት አጥፋ፦ %d</string>
+    <string name="emoji_no_recents">የተጠቀሙባቸው ኢሞጂዎች እዚህ ይታያሉ</string>
+    <string name="clipboard_title">ቅንጥብ ሰሌዳ</string>
+    <string name="clipboard_empty">የገለበጡት ጽሑፍ ለ24 ሰዓት እዚህ ይቆያል። ለማቆየት ይሰኩት።</string>
+    <string name="clipboard_off">የቅንጥብ ሰሌዳ ታሪክ ጠፍቷል</string>
+    <string name="clipboard_pin">ሰካ</string>
+    <string name="clipboard_unpin">ንቀል</string>
+    <string name="clipboard_delete">አጥፋ</string>
+    <string name="style_amharic_sub">አማርኛን በእንግሊዝኛ ፊደላት ይጻፉ</string>
+    <string name="style_english_sub">እንግሊዝኛ ከጥቆማዎች ጋር</string>
+    <string name="style_handwriting">በእጅ ጽሑፍ</string>
+    <string name="style_handwriting_sub">የአማርኛ ፊደላትን ይሳሉ</string>
+    <string name="style_handwriting_setup">በመተግበሪያው ያዋቅሩ</string>
+    <string name="style_voice">በድምፅ መጻፍ</string>
+    <string name="style_voice_sub">በአማርኛ ወይም በእንግሊዝኛ ይናገሩ</string>
+    <string name="voice_unavailable">በዚህ ስልክ በድምፅ መጻፍ አይገኝም</string>
+    <string name="voice_listening">እያዳመጠ ነው…</string>
+    <string name="voice_no_match">አልተሰማም። እንደገና ይሞክሩ።</string>
+    <string name="voice_error">በድምፅ መጻፍ ቆሟል። እንደገና ይሞክሩ።</string>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">ሆሄ</string>
+    <string name="back">ተመለስ</string>
+    <string name="fix">አስተካክል</string>
+    <string name="add">ጨምር</string>
+    <string name="delete">አጥፋ</string>
+    <string name="clear">አጽዳ</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="reset">ዳግም አስጀምር</string>
+
+    <string name="onboarding_title">አማርኛና እንግሊዝኛ በግልዎ ይጻፉ</string>
+    <string name="onboarding_body">አማርኛን በእንግሊዝኛ ፊደላት ይጻፉ፦ selam ብለው ሲጽፉ ሰላም ያገኛሉ። ሁሉም ነገር ያለ ኢንተርኔት ይሠራል። የሚጽፉት ከስልክዎ አይወጣም።</string>
+    <string name="onboarding_step_enable">ሆሄን በኪቦርድ ቅንብሮች ውስጥ ያብሩ</string>
+    <string name="onboarding_enable_button">የኪቦርድ ቅንብሮችን ክፈት</string>
+    <string name="onboarding_step_choose">ሆሄን እንደ ኪቦርድዎ ይምረጡ</string>
+    <string name="onboarding_choose_button">ኪቦርድ ምረጥ</string>
+    <string name="onboarding_step_done">ዝግጁ ነዎት</string>
+    <string name="onboarding_done_button">መጻፍ ጀምር</string>
+    <string name="onboarding_privacy">አንድሮይድ ኪቦርዶች የሚጽፉትን ሊሰበስቡ እንደሚችሉ መደበኛ ማስጠንቀቂያ ያሳያል። ሆሄ ማስታወቂያ፣ ትንታኔ ወይም ለመጻፍ የኢንተርኔት አጠቃቀም የለውም።</string>
+    <string name="not_default_banner">ሆሄ ገና የአሁኑ ኪቦርድዎ አይደለም።</string>
+
+    <string name="tab_layouts">አቀማመጦች</string>
+    <string name="tab_themes">ገጽታዎች</string>
+    <string name="tab_settings">ቅንብሮች</string>
+    <string name="layouts_heading">የአጻጻፍ ዘዴ</string>
+    <string name="try_keyboard">ኪቦርዱን እዚህ ይሞክሩ</string>
+    <string name="themes_hc_note">ከፍተኛ ንፅፅር ሁነታ በርቷል። ገጽታ ሲመርጡ ይጠፋል።</string>
+
+    <string name="search_settings">ቅንብሮችን ፈልግ</string>
+    <string name="search_hint">ለምሳሌ ድምፅ፣ ቁመት፣ ኢሞጂ</string>
+    <string name="search_none">የሚዛመድ ቅንብር የለም</string>
+
+    <string name="sec_height">የኪቦርድ ቁመትና አቀማመጥ</string>
+    <string name="sec_height_sub">ቁመት፣ የቁልፍ ጽሑፍ መጠን፣ የታች ክፍተት</string>
+    <string name="sec_sound">ድምፅና ንዝረት</string>
+    <string name="sec_sound_sub">ቁልፍ ሲጫን ድምፅና ንዝረት</string>
+    <string name="sec_emoji">ኢሞጂ፣ ቁጥሮችና ምልክቶች</string>
+    <string name="sec_emoji_sub">የኢሞጂ ረድፍ፣ የቁጥር ረድፍ፣ የምልክት ፍንጮች</string>
+    <string name="sec_typing">አጻጻፍ</string>
+    <string name="sec_typing_sub">ጥቆማዎች፣ ሥርዓተ ነጥብ፣ የተቀመጡ ቃላት</string>
+    <string name="sec_gestures">ምልክቶች በጣት</string>
+    <string name="sec_gestures_sub">በክፍተት ቁልፍ ጠቋሚ፣ በማንሸራተት ማጥፋት</string>
+    <string name="sec_accessibility">ተደራሽነት</string>
+    <string name="sec_accessibility_sub">ከፍተኛ ንፅፅር ኪቦርድ</string>
+
+    <string name="set_height">ቁመት</string>
+    <string name="set_text_size">የቁልፍ ጽሑፍ መጠን</string>
+    <string name="set_bottom_space">የታች ክፍተት</string>
+    <string name="set_key_borders">የቁልፍ ጠርዞችን አሳይ</string>
+    <string name="set_key_borders_sub">ከእያንዳንዱ ቁልፍ ስር ቀጭን ጠርዝ</string>
+    <string name="set_sound">ድምፅ</string>
+    <string name="set_sound_sub">ቁልፍ ሲጫን ድምፅ</string>
+    <string name="set_sound_level">የድምፅ መጠን</string>
+    <string name="set_vibrate">ንዝረት</string>
+    <string name="set_vibrate_sub">ቁልፍ ሲጫን ንዝረት</string>
+    <string name="set_vibration_level">የንዝረት ጥንካሬ</string>
+    <string name="set_emoji_row">የኢሞጂ ረድፍ</string>
+    <string name="set_emoji_row_sub">የቅርብ ጊዜ ኢሞጂዎችን ከቁልፎቹ በላይ አሳይ</string>
+    <string name="set_emoji_suggestions">የኢሞጂ ጥቆማዎች</string>
+    <string name="set_emoji_suggestions_sub">ለሚጽፏቸው የእንግሊዝኛ ቃላት ኢሞጂ ጠቁም</string>
+    <string name="set_number_row">የቁጥር ረድፍ</string>
+    <string name="set_number_row_sub">ቁጥሮችን በተለየ ረድፍ አሳይ</string>
+    <string name="set_long_press_symbols">ለምልክቶች ረጅም ጫን</string>
+    <string name="set_long_press_symbols_sub">በፊደሉ ላይ ያለውን ምልክት ለማግኘት ይያዙት</string>
+    <string name="set_user_words">የተቀመጡ የአማርኛ ቃላት</string>
+    <string name="set_user_words_sub">የራስዎን ቃላት በአማርኛ ጥቆማዎች ላይ ይጨምሩ</string>
+    <string name="set_space_selects">ጥቆማን በክፍተት ምረጥ</string>
+    <string name="set_space_selects_sub">ክፍተት የደመቀውን የአማርኛ ቃል ይጽፋል</string>
+    <string name="set_amharic_predictions">የአማርኛ ትንበያዎች</string>
+    <string name="set_amharic_predictions_sub">ከአማርኛ የቃላት ዝርዝር ሙሉ ቃላትን ጠቁም። ሲጠፋ፦ ፊደል በፊደል ብቻ።</string>
+    <string name="set_autospace">ከሥርዓተ ነጥብ በኋላ ራስ-ክፍተት</string>
+    <string name="set_autospace_sub">ከ . , ? ! በኋላ ክፍተት ጨምር</string>
+    <string name="set_autocap">ራስ-ሰር ትልቅ ፊደል</string>
+    <string name="set_autocap_sub">የእያንዳንዱን ዓረፍተ ነገር የመጀመሪያ ቃል በትልቅ ፊደል ጀምር</string>
+    <string name="set_double_space">ሁለት ክፍተት ሙሉ ማቆሚያ</string>
+    <string name="set_double_space_sub">ሙሉ ማቆሚያ ለመጻፍ ክፍተትን ሁለቴ ይንኩ</string>
+    <string name="set_key_popup">የቁልፍ ብቅ-ባይ</string>
+    <string name="set_key_popup_sub">የተጫነውን ቁልፍ በትልቁ አሳይ</string>
+    <string name="set_next_word">የቀጣይ ቃል ጥቆማዎች</string>
+    <string name="set_next_word_sub">ቀጣዩን የእንግሊዝኛ ቃል ጠቁም</string>
+    <string name="set_long_press_delay">የረጅም መጫን ቆይታ</string>
+    <string name="set_space_cursor">ጠቋሚን በክፍተት ቁልፍ</string>
+    <string name="set_space_cursor_sub">ጠቋሚውን ለማንቀሳቀስ በክፍተት ቁልፍ ላይ ያንሸራትቱ</string>
+    <string name="set_swipe_delete">በማንሸራተት አጥፋ</string>
+    <string name="set_swipe_delete_sub">ቃላትን ለማጥፋት ከማጥፊያው ወደ ግራ ያንሸራትቱ</string>
+    <string name="set_high_contrast">ከፍተኛ ንፅፅር ሁነታ</string>
+    <string name="set_high_contrast_sub">በጥቁር ላይ ደማቅ ጠርዝ ያላቸው ቁልፎች</string>
+    <string name="set_high_contrast_theme">የከፍተኛ ንፅፅር ቀለሞች</string>
+
+    <string name="user_words_help">የሚጠቀሙባቸውን የእንግሊዝኛ ፊደላት (ለምሳሌ፦ dexter) እና የሚፈልጉትን የአማርኛ ቃል (ደክስተር) ይጻፉ። መጀመሪያ ይጠቆማል።</string>
+    <string name="user_words_latin">የእንግሊዝኛ ፊደላት</string>
+    <string name="user_words_ethiopic">የአማርኛ ቃል</string>
+    <string name="user_words_empty">እስካሁን የተቀመጠ ቃል የለም</string>
+
+    <string name="clear_data_title">ውሂብ አጽዳ</string>
+    <string name="clear_data_sub">የተማሩ ቃላት፣ ቅንጥብ ሰሌዳ፣ የኢሞጂ ታሪክ</string>
+    <string name="clear_data_help">ይህ ውሂብ በስልክዎ ላይ ብቻ ይቆያል። የተቀመጡ የአማርኛ ቃላትና ቅንብሮች በአንድሮይድ ምትኬ ውስጥ ይካተታሉ፤ ሌላው አይካተትም።</string>
+    <string name="data_amharic_picks">የተጻፉ የአማርኛ ቃላት</string>
+    <string name="data_user_words">የተቀመጡ የአማርኛ ቃላት</string>
+    <string name="data_english">የተጻፉ የእንግሊዝኛ ቃላት</string>
+    <string name="data_clipboard">ቅንጥብ ሰሌዳ</string>
+    <string name="data_emoji">የቅርብ ጊዜ ኢሞጂዎች</string>
+    <plurals name="items">
+        <item quantity="one">%d ንጥል</item>
+        <item quantity="other">%d ንጥሎች</item>
+    </plurals>
+    <string name="clear_confirm">ይህ መመለስ አይቻልም።</string>
+    <string name="reset_settings">የኪቦርድ ቅንብሮችን ዳግም አስጀምር</string>
+    <string name="reset_confirm">ሁሉም ቅንብሮች ወደ ነባሪ ይመለሳሉ። ቃላትዎና ቅንጥብ ሰሌዳዎ ይቆያሉ።</string>
+    <string name="reset_done">ቅንብሮች ዳግም ተጀምረዋል</string>
+
+    <string name="help_title">እገዛ</string>
+    <string name="help_sub">ለተለመዱ ጥያቄዎች መልሶች</string>
+    <string name="faq_q1">አማርኛ እንዴት እጽፋለሁ?</string>
+    <string name="faq_a1">ከክፍተት አጠገብ ያለው ቁልፍ አረንጓዴ መስመር እንዳለውና የክፍተት ቁልፉ አማርኛ እንደሚል ያረጋግጡ። ቃሉን በእንግሊዝኛ ፊደላት ይጻፉ፤ ለምሳሌ selam። ክፍተት ሲጫኑ የመጀመሪያው ጥቆማ (ሰላም) ይጻፋል። ሌላ ለመምረጥ ጥቆማውን ይንኩ።</string>
+    <string name="faq_q2">ወደ እንግሊዝኛ እንዴት እቀይራለሁ?</string>
+    <string name="faq_a2">ከክፍተት አጠገብ ያለውን ሕ ቁልፍ ይንኩ። ሁሉንም የአጻጻፍ ዘዴዎች ለማየት ይያዙት።</string>
+    <string name="faq_q3">የምፈልገው ቃል አልተጠቆመም</string>
+    <string name="faq_a3">ሆሄ ሁልጊዜ ፊደል በፊደል የተቀየረ (በነጥብ የተሰመረ) ቃል ያቀርባል። አንዴ ሲመርጡት ሆሄ ያስታውሰዋል። ቃሉን በቅንብሮች፣ አጻጻፍ፣ የተቀመጡ የአማርኛ ቃላት ውስጥም መጨመር ይችላሉ።</string>
+    <string name="faq_q4">። እና ሌሎች የኢትዮጵያ ሥርዓተ ነጥቦችን እንዴት እጽፋለሁ?</string>
+    <string name="faq_a4">በአማርኛ ሁነታ የ . ቁልፍን ይያዙ። ብር በምልክቶች ገጽ ላይ በ $ ቁልፍ ውስጥ ይገኛል።</string>
+    <string name="faq_q5">ሆሄ የምጽፈውን ወደ የትም ይልካል?</string>
+    <string name="faq_a5">አይልክም። ጥቆማዎች በስልክዎ ላይ ይሰላሉ። ሆሄ ለመጻፍ ኢንተርኔት አይጠቀምም፤ ማስታወቂያም ትንታኔም የለውም።</string>
+    <string name="faq_q6">ጠቋሚውን በፍጥነት ማንቀሳቀስ ወይም ቃላትን ማጥፋት እንዴት እችላለሁ?</string>
+    <string name="faq_a6">ጠቋሚውን ለማንቀሳቀስ ጣትዎን በክፍተት ቁልፍ ላይ ያንሸራትቱ። ሙሉ ቃላትን ለማጥፋት ከማጥፊያው ወደ ግራ ያንሸራትቱ።</string>
+
+    <string name="about_title">ስለ ሆሄ</string>
+    <string name="about_sub">ስሪት፣ የግላዊነት ፖሊሲ፣ ፈቃዶች</string>
+    <string name="about_version">ስሪት %1$s</string>
+    <string name="privacy_title">የግላዊነት ፖሊሲ</string>
+    <string name="privacy_body">ሆሄ ያለ ኢንተርኔት የሚሠራ ኪቦርድ ነው። የሚጽፉትን አይሰበስብም፣ አይልክም፣ አይሸጥም። የመረጧቸው ቃላት፣ የሚጽፏቸው የእንግሊዝኛ ቃላት፣ ቅንጥብ ሰሌዳዎና የቅርብ ጊዜ ኢሞጂዎች ጥቆማዎችን ለማሻሻል በዚህ ስልክ ላይ ብቻ ይቀመጣሉ፤ በማንኛውም ጊዜ በውሂብ አጽዳ ውስጥ ማጥፋት ይችላሉ። የቅንጥብ ሰሌዳ ንጥሎች ካልተሰኩ ከ24 ሰዓት በኋላ ይጠፋሉ፤ ሚስጥራዊ ተብለው የተለዩ ንጥሎች (እንደ የይለፍ ቃል) በጭራሽ አይቀመጡም። በይለፍ ቃልና በግል (ኢንኮግኒቶ) መስኮች ውስጥ ምንም አይማርም። በድምፅ መጻፍ የስልክዎን የንግግር ማወቂያ አገልግሎት ይጠቀማል፤ ይህ አገልግሎት ድምፅዎን በአቅራቢው ፖሊሲ መሠረት ሊያስኬድ ይችላል። ሆሄ የሚቀበለው የታወቀውን ጽሑፍ ብቻ ሲሆን ምንም አያስቀምጥም። ቅንብሮችና የተቀመጡ የአማርኛ ቃላት በአንድሮይድ ምትኬ ውስጥ ይካተታሉ።</string>
+    <string name="licences_title">የክፍት ምንጭ ማሳወቂያዎች</string>
+    <string name="licences_body">ሆሄ በAndroidX፣ Jetpack Compose እና Kotlin (Apache License 2.0) የተገነባ ነው። የእንግሊዝኛ የቃላት ዝርዝሩ ከAndroid Open Source Project (Apache License 2.0) ነው። የአማርኛ የቃላት ዝርዝሩ ከአማርኛ ዊኪፔዲያ (CC BY-SA 4.0) እና ከYimam et al. 2021 የአማርኛ ኮርፐስ (CC BY 4.0) የተገኘ ነው። የኢሞጂ ስሞች ከUnicode CLDR (Unicode License v3) ናቸው።</string>
+
+    <string name="voice_explainer">በድምፅ መጻፍ የስልክዎን የንግግር ማወቂያ አገልግሎት በአማርኛ (am-ET) ወይም በእንግሊዝኛ ይጠቀማል። ይህ አገልግሎት ድምፅን ወደ አቅራቢው ሊልክ ይችላል፤ ሆሄ ራሱ ምንም አያስቀምጥም። ሆሄ ለመጀመር የማይክሮፎን ፈቃድ ያስፈልገዋል። ለመናገር በኪቦርዱ የመሣሪያ አሞሌ ላይ ያለውን ማይክሮፎን ይንኩ።</string>
+    <string name="voice_allow">ማይክሮፎን ፍቀድ</string>
+    <string name="voice_ready">ማይክሮፎን ተፈቅዷል። ለመናገር በኪቦርዱ ላይ ያለውን ማይክ ይንኩ።</string>
+    <string name="handwriting_later">በእጅ ጽሑፍ በዚህ የሆሄ ስሪት ውስጥ የለም። ከGoogle መውረድ ያለበት የማወቂያ ሞዴል ያስፈልገዋል፤ ግልጽ ፈቃድ ጠይቀን ብቻ እንጨምረዋለን። ለአሁኑ አማርኛን በእንግሊዝኛ ፊደላት ይጻፉ ወይም በድምፅ ይጻፉ።</string>
+    <string name="handwriting_later_short">በዚህ ስሪት የለም</string>
+</resources>

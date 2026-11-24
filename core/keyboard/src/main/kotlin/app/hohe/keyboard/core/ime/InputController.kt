@@ -72,6 +72,8 @@ class InputController(
     private var page = KeyboardPage.LETTERS
     private var panel = Panel.NONE
     private val shift = ShiftStateMachine(clock)
+    private var shiftHeld = false
+    private var chorded = false
     private val composing = StringBuilder()
     private val proximity = mutableListOf<String>()
     private var strip = StripState.TOOLBAR
@@ -164,11 +166,18 @@ class InputController(
 
     fun onShiftDown() {
         shift.shiftDown()
+        shiftHeld = true
+        chorded = false
         publish()
     }
 
     fun onShiftUp() {
         shift.shiftUp()
+        // Shift held while letters were typed (chording): those letters were the capitals, so
+        // releasing shift must not leave a one-shot capital for the next letter.
+        if (chorded) shift.letterTyped()
+        shiftHeld = false
+        chorded = false
         publish()
     }
 
@@ -228,6 +237,8 @@ class InputController(
 
     fun onSuggestionPicked(item: StripItem) {
         val latin = composing.toString()
+        // Ignore taps on an item that is no longer on the bar (a newer result replaced it).
+        if (item !in strip.items || strip.forInput != latin) return
         editor.beginBatch()
         when (item.kind) {
             StripItemKind.TYPED -> {
@@ -329,11 +340,12 @@ class InputController(
     ) {
         var text = String(Character.toChars(code))
         val asciiLetter = code in 'a'.code..'z'.code || code in 'A'.code..'Z'.code
-        if (page == KeyboardPage.LETTERS && Character.isLetter(code) && shift.isUppercase) {
+        if (page == KeyboardPage.LETTERS && Character.isLetter(code) && (shift.isUppercase || shiftHeld)) {
+            if (shiftHeld) chorded = true
             text = text.uppercase()
         }
         val joinsWord =
-            composingAllowed && (asciiLetter || (code == '\''.code && amharicActive && composing.isNotEmpty()))
+            composingAllowed && (asciiLetter || (code == '\''.code && composing.isNotEmpty()))
         if (joinsWord) {
             composing.append(text)
             proximity.add(neighbours.lowercase())
@@ -452,20 +464,19 @@ class InputController(
         if (trigger != Trigger.SPACE) weakSpace = false
     }
 
-    /** The slot-0 word shown for [latin]; computed synchronously only if the strip is stale. */
+    /**
+     * The slot-0 word for [latin]. If the strip is stale (a result is still pending), the strip is
+     * computed now and published before the commit, so what is committed is what the bar shows
+     * (REQ-021a, engine spec §3.4 AC 4).
+     */
     private fun primaryFor(latin: String): String? {
-        if (strip.forInput == latin) {
-            strip.items.firstOrNull { it.kind == StripItemKind.PRIMARY }?.let { return it.text }
+        if (strip.forInput != latin) {
+            val typedOnly = policy.suggestions == SuggestMode.TYPED_ONLY || policy.suggestions == SuggestMode.OFF
+            requestId++
+            strip = amharicStrip(latin, request(latin, MAX_CANDIDATES), snapshot(), typedOnly, settings.amharicPredictions)
+            publish()
         }
-        val engine = engines.amharic ?: return null
-        return safely {
-            engine
-                .suggest(request(latin, 1), snapshot())
-                .candidates
-                .firstOrNull()
-                ?.text
-        }
-            ?: safely { engine.transliterate(latin.lowercase()) }
+        return strip.items.firstOrNull { it.kind == StripItemKind.PRIMARY }?.text
     }
 
     private fun afterCommit(nextWords: Boolean) {
@@ -476,12 +487,8 @@ class InputController(
     }
 
     private fun toggleLanguage() {
-        if (composing.isNotEmpty()) {
-            editor.finishComposingText()
-            composing.clear()
-            proximity.clear()
-            requestId++
-        }
+        // Any key outside [a-z'] commits slot 0 first (engine spec §3.7).
+        commitComposing(Trigger.SEPARATOR)
         language = if (language == TypingLanguage.AMHARIC) TypingLanguage.ENGLISH else TypingLanguage.AMHARIC
         strip = StripState.TOOLBAR
         onLanguageChanged(language)
@@ -575,7 +582,12 @@ class InputController(
                             .Candidate(it, Source.FALLBACK_TRANSLIT)
                     }
             } else {
-                safely { engine.suggest(req, snap).candidates } ?: emptyList()
+                safely { engine.suggest(req, snap).candidates }?.takeIf { it.isNotEmpty() }
+                    ?: listOfNotNull(safely { engine.transliterate(lower) })
+                        .map {
+                            app.hohe.keyboard.core.engine
+                                .Candidate(it, Source.FALLBACK_TRANSLIT)
+                        }
             }
         if (typedOnly) candidates = candidates.take(1)
         val items = mutableListOf<StripItem>()

@@ -33,6 +33,7 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateListOf
@@ -59,7 +60,10 @@ import app.hohe.keyboard.core.settings.TypingLanguage
 import app.hohe.keyboard.data.HoheData
 import app.hohe.keyboard.data.SettingsStore
 import app.hohe.keyboard.ime.Icon
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+
+private const val STATUS_POLL_MS = 700L
 
 /** Navigation targets (application-architecture §3.2). */
 sealed interface Screen {
@@ -113,6 +117,12 @@ fun HoheApp(initialSection: String?) {
         OnResume {
             enabled = ImeStatus.enabled(context)
             isDefault = ImeStatus.isDefault(context)
+        }
+        LaunchedEffect(enabled, isDefault) {
+            while (enabled && !isDefault) {
+                delay(STATUS_POLL_MS)
+                isDefault = ImeStatus.isDefault(context)
+            }
         }
         val stack =
             remember {

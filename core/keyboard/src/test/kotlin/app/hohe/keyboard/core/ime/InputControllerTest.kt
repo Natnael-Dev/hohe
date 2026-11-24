@@ -231,15 +231,75 @@ class InputControllerTest {
         val c = controller(sched)
         c.type("se")
         sched.runAll()
-        val shown =
+        assertEquals(
+            "T(se)",
             c.state.strip.items
                 .first()
-                .text
+                .text,
+        )
         c.onKey('l'.code)
-        // strip still shows the result for "Se" while "Sel" is pending: compute synchronously
+        // The bar is stale ("Se") while "Sel" is pending. Space must first show the up-to-date
+        // slot 0 and then commit exactly that (REQ-021a).
+        val shownBeforeCommit = mutableListOf<String>()
+        c.listener = { s ->
+            if (s.strip.forInput == "Sel") {
+                shownBeforeCommit.add(
+                    s.strip.items
+                        .first()
+                        .text,
+                )
+            }
+        }
         c.onKey(KeyCodes.SPACE)
         assertEquals("ሰላም ", editor.text.toString())
-        assertEquals("T(se)", shown)
+        assertEquals(listOf("ሰላም"), shownBeforeCommit)
+        // the late result for "Sel" must not repaint the bar after the commit
+        sched.runAll()
+        assertTrue(c.state.strip.showsToolbar)
+    }
+
+    @Test
+    fun shiftChordTypesCapitalsWithoutLeavingOneShot() {
+        val c = controller()
+        c.onKey(KeyCodes.LANGUAGE)
+        c.type("x ")
+        c.onShiftDown()
+        c.type("ab")
+        c.onShiftUp()
+        c.type("c")
+        assertEquals("X ABc", editor.text.toString())
+    }
+
+    @Test
+    fun languageKeyCommitsSlotZeroFirst() {
+        val c = controller()
+        c.type("sel")
+        c.onKey(KeyCodes.LANGUAGE)
+        assertEquals("ሰላም", editor.text.toString())
+        assertEquals(TypingLanguage.ENGLISH, c.state.language)
+    }
+
+    @Test
+    fun tapOnItemFromAStaleBarIsIgnored() {
+        val c = controller()
+        c.type("sel")
+        val old =
+            c.state.strip.items
+                .first { it.text == "ሰል" }
+        c.type("am")
+        c.onSuggestionPicked(old)
+        assertEquals("Selam", editor.text.toString())
+        assertTrue(user.picks.isEmpty())
+    }
+
+    @Test
+    fun englishApostropheStaysInsideTheWord() {
+        val c = controller()
+        c.onKey(KeyCodes.LANGUAGE)
+        c.type("don't")
+        c.onKey(KeyCodes.SPACE)
+        assertEquals("Don't ", editor.text.toString())
+        assertEquals("Don't", user.english.single().first)
     }
 
     @Test

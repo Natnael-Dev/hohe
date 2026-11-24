@@ -367,13 +367,23 @@ class KeyboardView(
         when (event.actionMasked) {
             MotionEvent.ACTION_DOWN -> down(event.getPointerId(idx), event.getX(idx), event.getY(idx))
             MotionEvent.ACTION_POINTER_DOWN -> {
-                // Two-thumb typing: the first key commits as soon as the second finger lands.
-                active?.let { p ->
-                    if (p.mode == Mode.KEY && p.key.key.style == KeyStyle.LETTER) {
-                        release(p, p.downX, p.downY)
+                // Two-thumb typing: a pending letter commits as soon as the second finger lands.
+                // Any other active gesture (space slide, delete swipe, long-press panel) keeps the
+                // first pointer and the extra finger is ignored, so that gesture finishes normally.
+                val p = active
+                if (p == null) {
+                    down(event.getPointerId(idx), event.getX(idx), event.getY(idx))
+                } else if (p.mode == Mode.KEY && p.key.key.style == KeyStyle.LETTER) {
+                    release(p, p.downX, p.downY)
+                    down(event.getPointerId(idx), event.getX(idx), event.getY(idx))
+                } else if (p.key.key.code == KeyCodes.SHIFT) {
+                    // Shift held + letter: type the letter now; shift stays down for chording.
+                    val rk = keyAt(event.getX(idx), event.getY(idx))
+                    if (rk != null && rk.key.style == KeyStyle.LETTER) {
+                        listener?.onKeyDown(rk.key.code)
+                        listener?.onKey(rk.key.code, "")
                     }
                 }
-                down(event.getPointerId(idx), event.getX(idx), event.getY(idx))
             }
             MotionEvent.ACTION_MOVE -> {
                 val p = active ?: return true

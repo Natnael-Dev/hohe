@@ -31,7 +31,8 @@ internal data class PersonalDataLimits(
     val amharicPicks: Int = 10_000,
     val englishUnigrams: Int = 20_000,
     val englishBigrams: Int = 20_000,
-    val unpinnedClips: Int = 50,
+    val unpinnedClips: Int = 20,
+    val pinnedClips: Int = 50,
     val clipTtlMs: Long = 24L * 60 * 60 * 1000,
     val maxClipChars: Int = 10_000,
     val emojiRecents: Int = 30,
@@ -207,6 +208,14 @@ class HohePersonalDataStore internal constructor(
             val db = history()
             val now = clock.nowMs()
             db.inTransaction {
+                if (pinned) {
+                    // At most limits.pinnedClips pinned items (storage-architecture §1); extra pins are ignored.
+                    val count =
+                        db.rawQuery("SELECT COUNT(*) FROM clip_item WHERE pinned = 1 AND id != ?", arrayOf(id.toString())).use {
+                            if (it.moveToFirst()) it.getInt(0) else 0
+                        }
+                    if (count >= limits.pinnedClips) return@inTransaction
+                }
                 val cv = ContentValues(2)
                 cv.put("pinned", if (pinned) 1 else 0)
                 // An unpinned item starts a fresh 24 h life instead of expiring at once.

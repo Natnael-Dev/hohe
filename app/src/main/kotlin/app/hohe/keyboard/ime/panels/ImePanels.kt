@@ -94,7 +94,7 @@ private fun PanelFooter(
     showSpace: Boolean,
 ) {
     Row(
-        Modifier.fillMaxWidth().height(48.dp).padding(horizontal = 4.dp, vertical = 4.dp),
+        Modifier.fillMaxWidth().height(56.dp).padding(horizontal = 4.dp, vertical = 4.dp),
         horizontalArrangement = Arrangement.spacedBy(6.dp),
     ) {
         FooterKey(stringResource(R.string.key_letters_short), theme, Modifier.width(72.dp), cb.onClose)
@@ -114,7 +114,7 @@ private fun FooterKey(
 ) {
     Box(
         modifier
-            .height(40.dp)
+            .height(48.dp)
             .background((if (isLetter) theme.key else theme.fnKey).c(), RoundedCornerShape(6.dp))
             .clickable(onClick = onClick)
             .semantics { if (description != null) contentDescription = description },
@@ -138,11 +138,11 @@ private fun EmojiPanel(
     var selected by remember { mutableIntStateOf(if (recents.isEmpty()) 1 else 0) }
     val tabs = listOf(EmojiCategory("recent", "🕘", recents)) + categories
     Column(Modifier.fillMaxSize()) {
-        LazyRow(Modifier.fillMaxWidth().height(44.dp)) {
+        LazyRow(Modifier.fillMaxWidth().height(48.dp)) {
             itemsIndexed(tabs) { i, cat ->
                 Box(
                     Modifier
-                        .size(48.dp, 44.dp)
+                        .size(48.dp, 48.dp)
                         .clickable { selected = i }
                         .semantics { contentDescription = cat.id },
                     contentAlignment = Alignment.Center,
@@ -169,7 +169,7 @@ private fun EmojiPanel(
             LazyVerticalGrid(GridCells.Fixed(8), Modifier.weight(1f).fillMaxWidth()) {
                 items(list) { e ->
                     Box(
-                        Modifier.height(44.dp).clickable { cb.onText(e, true) },
+                        Modifier.height(48.dp).clickable { cb.onText(e, true) },
                         contentAlignment = Alignment.Center,
                     ) { Text(e, fontSize = 24.sp) }
                 }

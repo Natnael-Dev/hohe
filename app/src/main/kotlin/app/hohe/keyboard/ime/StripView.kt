@@ -56,6 +56,7 @@ class StripView(
     private var lastX = 0f
     private var dragging = false
     private var pressedIndex = -1
+    private var downItem: StripItem? = null
 
     init {
         importantForAccessibility = IMPORTANT_FOR_ACCESSIBILITY_YES
@@ -221,6 +222,8 @@ class StripView(
                 lastX = e.x
                 dragging = false
                 pressedIndex = slotIndexAt(e.x)
+                // Resolve the tap against what was under the finger at DOWN, not a re-laid-out bar.
+                downItem = slots.getOrNull(pressedIndex)?.first
                 invalidate()
             }
             MotionEvent.ACTION_MOVE -> {
@@ -263,7 +266,7 @@ class StripView(
         when {
             x < sideW -> listener?.onToolbar(ToolbarAction.CHOOSER)
             x > width - sideW -> if (s.voiceAvailable) listener?.onToolbar(ToolbarAction.MIC)
-            else -> slots.getOrNull(slotIndexAt(x))?.let { listener?.onSuggestion(it.first) }
+            else -> downItem?.let { listener?.onSuggestion(it) }
         }
     }
 
