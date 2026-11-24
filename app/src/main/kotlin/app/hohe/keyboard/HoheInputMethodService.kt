@@ -42,6 +42,7 @@ import app.hohe.keyboard.data.SettingsStore
 import app.hohe.keyboard.ime.AndroidEditor
 import app.hohe.keyboard.ime.EmojiRowView
 import app.hohe.keyboard.ime.EngineHost
+import app.hohe.keyboard.ime.InputRootLayout
 import app.hohe.keyboard.ime.KeyActionListener
 import app.hohe.keyboard.ime.KeyFeedback
 import app.hohe.keyboard.ime.KeyboardView
@@ -165,11 +166,7 @@ class HoheInputMethodService :
                 addView(row)
                 addView(keyArea)
             }
-        val frame =
-            FrameLayout(this).apply {
-                addView(column)
-                addView(overlayView, FrameLayout.LayoutParams(MATCH, MATCH))
-            }
+        val frame = InputRootLayout(this, column, overlayView)
         root = frame
         strip = stripView
         emojiRow = row
@@ -253,20 +250,20 @@ class HoheInputMethodService :
         val kb = keyboard ?: return
         strip?.bind(state, theme)
         kb.bind(state, settings, theme)
-        val showRow =
+        val rowEligible =
             settings.emojiRow &&
                 state.page == KeyboardPage.LETTERS &&
-                state.panel == Panel.NONE &&
                 controller.policy.suggestions != SuggestMode.OFF
-        emojiRow?.visibility = if (showRow) View.VISIBLE else View.GONE
+        emojiRow?.visibility = if (rowEligible && state.panel == Panel.NONE) View.VISIBLE else View.GONE
         emojiRow?.bind(visibleRecents(personal.emojiRecents.value), theme)
         root?.setBackgroundColor(theme.background)
-        renderPanel(state, kb)
+        renderPanel(state, kb, if (rowEligible) (EmojiRowView.HEIGHT_DP * resources.displayMetrics.density).toInt() else 0)
     }
 
     private fun renderPanel(
         state: KeyboardUiState,
         kb: KeyboardView,
+        rowHeight: Int,
     ) {
         val panel = panelView ?: return
         if (state.panel == Panel.NONE) {
@@ -277,8 +274,9 @@ class HoheInputMethodService :
             }
             return
         }
-        // The panel takes exactly the key area's height so the host app does not relayout.
-        val h = if (kb.height > 0) kb.height else kb.measuredHeight
+        // The panel takes the key area plus the (now hidden) emoji row, so the keyboard keeps its
+        // height and the host app does not relayout.
+        val h = (if (kb.height > 0) kb.height else kb.measuredHeight) + rowHeight
         panel.layoutParams = panel.layoutParams.apply { height = h }
         if (shownPanel != state.panel) {
             val callbacks = panelCallbacks()

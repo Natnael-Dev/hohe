@@ -23,6 +23,9 @@ private val Light =
     lightColorScheme(
         primary = Color(0xFF0B6B4F),
         onPrimary = Color.White,
+        secondary = Color(0xFF0B6B4F),
+        onSecondary = Color.White,
+        tertiary = Color(0xFF0B6B4F),
         primaryContainer = Color(0xFFD5EDE3),
         onPrimaryContainer = Color(0xFF05392A),
         secondaryContainer = Color(0xFFD5EDE3),
@@ -44,6 +47,9 @@ private val Dark =
     darkColorScheme(
         primary = Color(0xFF74D3B0),
         onPrimary = Color(0xFF06231A),
+        secondary = Color(0xFF74D3B0),
+        onSecondary = Color(0xFF06231A),
+        tertiary = Color(0xFF74D3B0),
         primaryContainer = Color(0xFF1C3A30),
         onPrimaryContainer = Color(0xFFBDF0DC),
         secondaryContainer = Color(0xFF1C3A30),
@@ -63,7 +69,14 @@ private val Dark =
 
 @Composable
 fun HoheTheme(content: @Composable () -> Unit) {
-    MaterialTheme(colorScheme = if (isSystemInDarkTheme()) Dark else Light, content = content)
+    val scheme = if (isSystemInDarkTheme()) Dark else Light
+    MaterialTheme(colorScheme = scheme) {
+        // Plain Text outside a Surface would otherwise draw black on the dark page.
+        androidx.compose.runtime.CompositionLocalProvider(
+            androidx.compose.material3.LocalContentColor provides scheme.onBackground,
+            content = content,
+        )
+    }
 }
 
 /** Renders one of the keyboard's canvas icons in Compose. */

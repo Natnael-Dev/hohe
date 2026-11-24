@@ -85,6 +85,9 @@ class KeyboardView(
         var mode: Mode = Mode.KEY,
         var slideSteps: Int = 0,
         var deleteWords: Int = 0,
+        var lastX: Float = downX,
+        var lastY: Float = downY,
+        var panelMoved: Boolean = false,
     )
 
     private var active: Pointer? = null
@@ -437,8 +440,17 @@ class KeyboardView(
         y: Float,
     ) {
         val dx = x - p.downX
+        if (p.mode == Mode.KEY) {
+            p.lastX = x
+            p.lastY = y
+        }
         when (p.mode) {
-            Mode.MORE_KEYS -> overlay.selectMoreKeyAt(x, y + offsetY())
+            Mode.MORE_KEYS ->
+                // Keep the default (first) item until the finger really moves after the panel opens.
+                if (p.panelMoved || hypot(x - p.lastX, y - p.lastY) > touchSlop) {
+                    p.panelMoved = true
+                    overlay.selectMoreKeyAt(x, y + offsetY())
+                }
             Mode.SPACE_SLIDE -> {
                 val steps = (dx / (SLIDE_STEP_DP * density)).toInt()
                 if (steps != p.slideSteps) {

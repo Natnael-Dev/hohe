@@ -109,11 +109,11 @@ class PopupOverlay(
         y: Float,
     ) {
         if (cells.isEmpty()) return
-        val idx =
-            cells
-                .indexOfFirst { x >= it.left && x < it.right && y >= it.top - 40f * density && y < it.bottom + 40f * density }
-                .takeIf { it >= 0 }
-                ?: cells.withIndex().minByOrNull { (_, c) -> kotlin.math.abs(c.centerX() - x) + kotlin.math.abs(c.centerY() - y) }!!.index
+        // The finger usually sits below the panel (on the key), so clamp it into the panel
+        // vertically and take the nearest cell: the row follows the finger, the column follows x.
+        val panel = panelRect ?: return
+        val cy = y.coerceIn(panel.top + 1f, panel.bottom - 1f)
+        val idx = cells.indices.minByOrNull { i -> kotlin.math.hypot(cells[i].centerX() - x, cells[i].centerY() - cy) } ?: return
         if (idx != selected) {
             selected = idx
             invalidate()
