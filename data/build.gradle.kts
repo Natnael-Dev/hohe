@@ -35,8 +35,12 @@ kotlin {
 }
 
 dependencies {
-    implementation(project(":core:keyboard"))
+    api(project(":core:keyboard"))
+    api(libs.kotlinx.coroutines.core)
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.androidx.datastore.preferences)
     testImplementation(libs.junit)
+    testImplementation(libs.kotlinx.coroutines.test)
     testImplementation(libs.robolectric)
     testImplementation(libs.androidx.test.core)
     testImplementation(libs.androidx.test.ext.junit)
