@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Hohe ሆሄ</string>
+    <string name="back">Back</string>
+    <string name="fix">Fix</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+
+    <string name="onboarding_title">Type Amharic and English, privately</string>
+    <string name="onboarding_body">Write Amharic with English letters: type selam and get ሰላም. Everything works offline. Nothing you type leaves your phone.</string>
+    <string name="onboarding_step_enable">Turn on Hohe in your keyboard settings</string>
+    <string name="onboarding_enable_button">Open keyboard settings</string>
+    <string name="onboarding_step_choose">Choose Hohe as your keyboard</string>
+    <string name="onboarding_choose_button">Choose keyboard</string>
+    <string name="onboarding_step_done">You\'re ready</string>
+    <string name="onboarding_done_button">Start typing</string>
+    <string name="onboarding_privacy">Android shows a standard warning that keyboards can collect what you type. Hohe has no ads, no analytics and no internet use for typing.</string>
+    <string name="not_default_banner">Hohe isn\'t your current keyboard yet.</string>
+
+    <string name="tab_layouts">Layouts</string>
+    <string name="tab_themes">Themes</string>
+    <string name="tab_settings">Settings</string>
+    <string name="layouts_heading">Typing style</string>
+    <string name="try_keyboard">Try the keyboard here</string>
+    <string name="themes_hc_note">High contrast mode is on. Picking a theme turns it off.</string>
+
+    <string name="search_settings">Search settings</string>
+    <string name="search_hint">e.g. sound, height, emoji</string>
+    <string name="search_none">No matching settings</string>
+
+    <string name="sec_height">Keyboard height and layout</string>
+    <string name="sec_height_sub">Height, key text size, bottom space</string>
+    <string name="sec_sound">Sound and vibration</string>
+    <string name="sec_sound_sub">Key press sound and vibration</string>
+    <string name="sec_emoji">Emojis, numbers and symbols</string>
+    <string name="sec_emoji_sub">Emoji row, number row, symbol hints</string>
+    <string name="sec_typing">Typing</string>
+    <string name="sec_typing_sub">Suggestions, punctuation, saved words</string>
+    <string name="sec_gestures">Gestures</string>
+    <string name="sec_gestures_sub">Space bar cursor, swipe to delete</string>
+    <string name="sec_accessibility">Accessibility</string>
+    <string name="sec_accessibility_sub">High contrast keyboard</string>
+
+    <string name="set_height">Height</string>
+    <string name="set_text_size">Key text size</string>
+    <string name="set_bottom_space">Bottom space</string>
+    <string name="set_key_borders">Show key borders</string>
+    <string name="set_key_borders_sub">Draw a thin edge under each key</string>
+    <string name="set_sound">Sound</string>
+    <string name="set_sound_sub">Sound on key press</string>
+    <string name="set_sound_level">Sound level</string>
+    <string name="set_vibrate">Vibrate</string>
+    <string name="set_vibrate_sub">Vibrate on key press</string>
+    <string name="set_vibration_level">Vibration strength</string>
+    <string name="set_emoji_row">Emoji row</string>
+    <string name="set_emoji_row_sub">Show recent emojis above the keys</string>
+    <string name="set_emoji_suggestions">Emoji suggestions</string>
+    <string name="set_emoji_suggestions_sub">Suggest emojis for English words you type</string>
+    <string name="set_number_row">Number row</string>
+    <string name="set_number_row_sub">Show numbers as a separate row</string>
+    <string name="set_long_press_symbols">Long press for symbols</string>
+    <string name="set_long_press_symbols_sub">Hold a letter for the symbol shown on it</string>
+    <string name="set_user_words">Saved Amharic words</string>
+    <string name="set_user_words_sub">Add your own words to Amharic suggestions</string>
+    <string name="set_space_selects">Select suggestion with space</string>
+    <string name="set_space_selects_sub">Space types the highlighted Amharic word</string>
+    <string name="set_amharic_predictions">Amharic predictions</string>
+    <string name="set_amharic_predictions_sub">Suggest full words from the Amharic word list. Off: letter by letter only.</string>
+    <string name="set_autospace">Autospace after punctuation</string>
+    <string name="set_autospace_sub">Add a space after . , ? !</string>
+    <string name="set_autocap">Auto capitalization</string>
+    <string name="set_autocap_sub">Capitalize the first word of each sentence</string>
+    <string name="set_double_space">Double-space full stop</string>
+    <string name="set_double_space_sub">Tap space twice to type a full stop</string>
+    <string name="set_key_popup">Key pop-up</string>
+    <string name="set_key_popup_sub">Show a large preview of the pressed key</string>
+    <string name="set_next_word">Next word suggestions</string>
+    <string name="set_next_word_sub">Suggest the next English word</string>
+    <string name="set_long_press_delay">Long press delay</string>
+    <string name="set_space_cursor">Cursor control with space</string>
+    <string name="set_space_cursor_sub">Slide on the space bar to move the cursor</string>
+    <string name="set_swipe_delete">Swipe to delete</string>
+    <string name="set_swipe_delete_sub">Swipe left from backspace to delete words</string>
+    <string name="set_high_contrast">High contrast mode</string>
+    <string name="set_high_contrast_sub">Bright outlined keys on black</string>
+    <string name="set_high_contrast_theme">High contrast colours</string>
+
+    <string name="user_words_help">Type the English letters you use (for example: dexter) and the Amharic word you want (ደክስተር). It will be suggested first.</string>
+    <string name="user_words_latin">English letters</string>
+    <string name="user_words_ethiopic">Amharic word</string>
+    <string name="user_words_empty">No saved words yet</string>
+
+    <string name="clear_data_title">Clear data</string>
+    <string name="clear_data_sub">Words learned, clipboard, emoji history</string>
+    <string name="clear_data_help">This data stays on your phone. Saved Amharic words and settings are included in your Android backup; nothing else is.</string>
+    <string name="data_amharic_picks">Typed words in Amharic</string>
+    <string name="data_user_words">Saved words in Amharic</string>
+    <string name="data_english">Typed words in English</string>
+    <string name="data_clipboard">Clipboard</string>
+    <string name="data_emoji">Recent emojis</string>
+    <plurals name="items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <string name="clear_confirm">This can\'t be undone.</string>
+    <string name="reset_settings">Reset keyboard settings</string>
+    <string name="reset_confirm">All settings go back to their defaults. Your words and clipboard are kept.</string>
+    <string name="reset_done">Settings reset</string>
+
+    <string name="help_title">Help</string>
+    <string name="help_sub">Answers to common questions</string>
+    <string name="faq_q1">How do I type Amharic?</string>
+    <string name="faq_a1">Make sure the key next to space shows a green bar and the space bar says አማርኛ. Type the word with English letters, like selam. The first suggestion (ሰላም) is typed when you press space. Tap another suggestion to pick it.</string>
+    <string name="faq_q2">How do I switch to English?</string>
+    <string name="faq_a2">Tap the ሕ key next to space. Hold it to see all typing styles.</string>
+    <string name="faq_q3">A word I need isn\'t suggested</string>
+    <string name="faq_a3">Hohe always offers a letter-by-letter version (underlined with dots). Pick it once and Hohe remembers it. You can also add the word under Settings, Typing, Saved Amharic words.</string>
+    <string name="faq_q4">How do I type ። and other Ethiopic punctuation?</string>
+    <string name="faq_a4">In Amharic mode, hold the . key. ብር is on the $ key in the symbols page.</string>
+    <string name="faq_q5">Does Hohe send what I type anywhere?</string>
+    <string name="faq_a5">No. Suggestions are computed on your phone. Hohe does not use the internet for typing and has no ads or analytics.</string>
+    <string name="faq_q6">How do I move the cursor or delete words fast?</string>
+    <string name="faq_a6">Slide your finger along the space bar to move the cursor. Swipe left from backspace to delete whole words.</string>
+
+    <string name="about_title">About</string>
+    <string name="about_sub">Version, privacy policy, licences</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="privacy_title">Privacy policy</string>
+    <string name="privacy_body">Hohe is a keyboard that works offline. It does not collect, send or sell what you type. Words you pick, English words you type, your clipboard and recent emojis are stored only on this phone so suggestions can improve; you can clear them at any time under Clear data. Clipboard items expire after 24 hours unless pinned, and items marked sensitive (such as passwords) are never saved. Nothing is learned in password fields or private (incognito) fields. Voice typing uses your phone\'s speech recognition service, which may process your voice under its provider\'s own policy; Hohe only receives the recognised text and stores none of it. Settings and saved Amharic words are included in your Android backup.</string>
+    <string name="licences_title">Open-source notices</string>
+    <string name="licences_body">Hohe is built with AndroidX and Jetpack Compose (Apache License 2.0) and Kotlin (Apache License 2.0). The English word list comes from the Android Open Source Project (Apache License 2.0). The Amharic word list is derived from Amharic Wikipedia text (CC BY-SA 4.0) and the Yimam et al. 2021 Amharic corpus (CC BY 4.0). Emoji names come from Unicode CLDR (Unicode License v3).</string>
+
+    <string name="voice_explainer">Voice typing uses your phone\'s speech recognition service in Amharic (am-ET) or English. That service may send audio to its provider; Hohe itself stores nothing. Hohe needs microphone access to start it. Tap the microphone in the keyboard toolbar to speak.</string>
+    <string name="voice_allow">Allow microphone</string>
+    <string name="voice_ready">Microphone allowed. Tap the mic in the keyboard to speak.</string>
+    <string name="handwriting_later">Handwriting is not part of this version of Hohe. It needs an on-device recognition model that must be downloaded from Google, and we will only add it with a clear opt-in. Type Amharic with English letters or use voice typing for now.</string>
+    <string name="handwriting_later_short">Not in this version</string>
+</resources>
