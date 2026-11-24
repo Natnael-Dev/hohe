@@ -214,10 +214,15 @@ class HoheInputMethodService :
         super.onUpdateSelection(oldSelStart, oldSelEnd, newSelStart, newSelEnd, candidatesStart, candidatesEnd)
         editor.selStart = newSelStart
         editor.selEnd = newSelEnd
-        if (editor.consumeOwnSelectionUpdate()) return
+        val ownEdit = editor.consumeOwnSelectionUpdate()
         val composing = controller.composingText.isNotEmpty()
-        val echoOfComposing = composing && candidatesEnd == newSelEnd && newSelStart == newSelEnd
-        if (!echoOfComposing) controller.onExternalCursorMove()
+        if (composing) {
+            // While composing, the composing region is the ground truth: the cursor must sit at its end.
+            val atComposingEnd = candidatesEnd >= 0 && candidatesEnd == newSelEnd && newSelStart == newSelEnd
+            if (!atComposingEnd && !(ownEdit && candidatesEnd < 0)) controller.onExternalCursorMove()
+            return
+        }
+        if (!ownEdit) controller.onExternalCursorMove()
     }
 
     override fun onConfigurationChanged(newConfig: Configuration) {

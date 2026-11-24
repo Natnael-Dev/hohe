@@ -15,8 +15,8 @@ try {
 
     # Step a: assembleDebug test ktlintCheck lint
     Write-Host ""
-    Write-Host "=== Step a: assembleDebug test ktlintCheck lint ==="
-    & .\gradlew.bat assembleDebug test ktlintCheck lint --console=plain
+    Write-Host "=== Step a: assembleDebug assembleRelease test ktlintCheck lint ==="
+    & .\gradlew.bat assembleDebug assembleRelease test ktlintCheck lint --console=plain
     $stepAExit = $LASTEXITCODE
     Write-Host "exit=$stepAExit"
     if ($stepAExit -ne 0) {
@@ -134,7 +134,10 @@ Write-Host "exit=0"
 # Step d: APK size check
 Write-Host ""
 Write-Host "=== Step d: APK size check ==="
-$apkPath = "app\build\outputs\apk\debug\app-debug.apk"
+# S1 (performance-benchmarks.md) budgets the shipped release download, so measure the minified
+# release APK; the debug APK is only a fallback when no release build exists.
+$apkPath = "app\build\outputs\apk\release\app-release-unsigned.apk"
+if (-not (Test-Path $apkPath)) { $apkPath = "app\build\outputs\apk\debug\app-debug.apk" }
 if (-not (Test-Path $apkPath)) {
     Write-Host "APK not found at $apkPath"
     Write-Host "exit=1"

@@ -33,7 +33,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalResources
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
@@ -457,7 +457,7 @@ fun SearchScreen(
     onBack: () -> Unit,
     navigate: (Screen) -> Unit,
 ) {
-    val context = LocalContext.current
+    val res = LocalResources.current
     var query by remember { mutableStateOf("") }
     ScreenScaffold(stringResource(R.string.search_settings), onBack) {
         OutlinedTextField(
@@ -471,8 +471,8 @@ fun SearchScreen(
         if (q.isNotEmpty()) {
             val hits =
                 SettingSection.entries.flatMap { s -> s.rows.map { s to it } }.filter { (_, def) ->
-                    context.getString(def.title).lowercase().contains(q) ||
-                        (def is SettingDef.Toggle && def.summary != null && context.getString(def.summary).lowercase().contains(q))
+                    res.getString(def.title).lowercase().contains(q) ||
+                        (def is SettingDef.Toggle && def.summary != null && res.getString(def.summary).lowercase().contains(q))
                 }
             if (hits.isEmpty()) {
                 Text(stringResource(R.string.search_none), color = MaterialTheme.colorScheme.onSurfaceVariant)

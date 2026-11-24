@@ -18,28 +18,41 @@ class AndroidEditor(
     private val ic: InputConnection? get() = service.currentInputConnection
     private var batchDepth = 0
 
-    /** Number of selection updates our own edits will cause; see [consumeOwnSelectionUpdate]. */
-    @Volatile var pendingOwnUpdates = 0
-        private set
+    /**
+     * Selection updates our own edits will cause. A batch counts once (editors report one update
+     * per batch), and counts expire after [OWN_UPDATE_WINDOW_MS] so a lost update can never make
+     * a later real cursor tap look like ours.
+     */
+    private var pendingOwnUpdates = 0
+    private var lastEditAt = 0L
+    private var batchEdited = false
 
     var selStart = 0
     var selEnd = 0
 
     private fun edited() {
-        pendingOwnUpdates++
+        lastEditAt = android.os.SystemClock.uptimeMillis()
+        if (batchDepth > 0) {
+            batchEdited = true
+        } else {
+            pendingOwnUpdates++
+        }
     }
 
     /** True if a selection update was caused by us (and consumes it). */
     fun consumeOwnSelectionUpdate(): Boolean {
-        if (pendingOwnUpdates > 0) {
-            pendingOwnUpdates--
-            return true
+        if (pendingOwnUpdates <= 0) return false
+        if (android.os.SystemClock.uptimeMillis() - lastEditAt > OWN_UPDATE_WINDOW_MS) {
+            pendingOwnUpdates = 0
+            return false
         }
-        return false
+        pendingOwnUpdates--
+        return true
     }
 
     fun resetTracking() {
         pendingOwnUpdates = 0
+        batchEdited = false
     }
 
     override fun textBeforeCursor(n: Int): CharSequence = ic?.getTextBeforeCursor(n, 0) ?: ""
@@ -117,11 +130,18 @@ class AndroidEditor(
     }
 
     override fun endBatch() {
-        if (batchDepth > 0 && --batchDepth == 0) ic?.endBatchEdit()
+        if (batchDepth > 0 && --batchDepth == 0) {
+            ic?.endBatchEdit()
+            if (batchEdited) {
+                pendingOwnUpdates++
+                batchEdited = false
+            }
+        }
     }
 
     companion object {
         private const val GRAPHEME_LOOKBACK = 24
+        private const val OWN_UPDATE_WINDOW_MS = 400L
 
         /** Length in chars of the last user-perceived character (emoji ZWJ sequences, Ethiopic). */
         fun lastGraphemeLength(text: CharSequence): Int {
