@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Backup rules for API 31+ (android:dataExtractionRules). TASK-022, storage-architecture §5.
+    Same file set as backup_rules.xml: settings and user-authored Amharic words only (D-025).
+    Because <include> is present, everything else is excluded, including history.db and its
+    -journal/-wal/-shm files and photo themes under files/themes/. Checked by BackupRulesTest.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="file" path="datastore/settings.preferences_pb" />
+        <include domain="database" path="userwords.db" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="file" path="datastore/settings.preferences_pb" />
+        <include domain="database" path="userwords.db" />
+    </device-transfer>
+</data-extraction-rules>

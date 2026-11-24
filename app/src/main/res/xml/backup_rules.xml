@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Auto Backup for API 23-30 (android:fullBackupContent). TASK-022, storage-architecture §5.
+    Only settings and user-authored Amharic words are backed up (D-025). Because <include> is
+    present, every other file is excluded: history.db and its -journal/-wal/-shm files (Amharic
+    picks, English history, clipboard, emoji recents), photo themes under files/themes/,
+    shared_prefs, no_backup and caches. No <exclude> entries are needed, and lint rejects excludes
+    outside an included path. Kept in sync with data_extraction_rules.xml by BackupRulesTest.
+-->
+<full-backup-content>
+    <include domain="file" path="datastore/settings.preferences_pb" />
+    <include domain="database" path="userwords.db" />
+</full-backup-content>
