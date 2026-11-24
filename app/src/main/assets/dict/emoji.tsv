@@ -1,0 +1,1933 @@
+HOHE-EMOJI	1	emoji18.0-cldr49.1	Unicode-3.0	4a86fdc5
+C	smileys_emotion	Smileys & Emotion
+E	😀	1.0	grinning face|cheerful|cheery|face|grin|grinning|happy|laugh|nice|smile|smiling|teeth	ፈገግ ያለ ፊት|ሳቅ|ደስተኛ|ደስታ|ፈገግታ|ፊት
+E	😃	0.6	grinning face with big eyes|awesome|big|eyes|face|grin|grinning|happy|mouth|open|smile|smiling|teeth|yay	አፉ የተከፈተ ሣቂታ ፊት|ሣቅ|ሳቅ|አሪፍ|አፍ|ክፍት|ፈገግታ|ፊት
+E	😄	0.6	grinning face with smiling eyes|eye|eyes|face|grin|grinning|happy|laugh|lol|mouth|open|smile|smiling	ከተከፈተ አፍ ጋር ሣቂታ ፊት እና ሣቂታ ዓይኖች|ሣቅ|አስቂኝ|አይን ጨፍኖ መሳቅ|አፍ|አፍ ከፍቶ መሳቅ|ክፍት|ዓይን|ፈገግታ
+E	😁	0.6	beaming face with smiling eyes|beaming|eye|eyes|face|grin|grinning|happy|nice|smile|smiling|teeth	ሣቂታ ዓይኖች ያሉት ፊት|መልካም|ሣቅ|ሳቂታ ፊት|ሳቅ|ዓይን|ደስተኛ|ጥርስ|ፈገግታ|ፊት
+E	😆	0.6	grinning squinting face|closed|eyes|face|grinning|haha|hahaha|happy|laugh|lol|mouth|open|rofl|smile|smiling|squinting	ከተከፈተ አፍ ጋር ሣቂታ ፊት እና የተጨፈኑ ዓይኖች|ሃሃሃ|መሳቅ|ሣቅ|አፍ|ክፍት|ደስተኛ|ፊት
+E	😅	0.6	grinning face with sweat|cold|dejected|excited|face|grinning|mouth|nervous|open|smile|smiling|stress|stressed|sweat	ከተከፈተ አፍ ጋር ሣቂታ ፊት እና ቀዝቃዛ ላብ|ላብ|ሣቅ|ቀዝቃዛ|አፍ ከፍቶ መሳቅ|እስኪያልብ መሳቅ|ክፍት
+E	🤣	3.0	rolling on the floor laughing|crying|face|floor|funny|haha|happy|hehe|hilarious|joy|laugh|lmao|lol|rofl|roflmao|rolling|tear	በሳቅ መሬት ላይ መሽከርከር|ሃሃ|መሬት|መሬት መንከባለል|መሳቅ|መሽከርከር|ሳቅ|አስቂኝ|እንባ እስኪወርድ መሳቅ|ያስቃል|ፊት
+E	😂	0.6	face with tears of joy|crying|face|feels|funny|haha|happy|hehe|hilarious|joy|laugh|lmao|lol|rofl|roflmao|tear	የሐሤት እንባ ያሉት ፊት|ሐሤት|በሳቅ ማንባት|እንባ|ከባድ ሣቅ|ፊት
+E	🙂	1.0	slightly smiling face|face|happy|slightly|smile|smiling	በትንሹ ሣቂታ ፊት|ሣቅ|ፊት
+E	🙃	1.0	upside-down face|face|hehe|smile|upside-down	የተገለበጠ ፊት|ሳቅ|የተገለበጠ|ፊት
+E	🫠	14.0	melting face|disappear|dissolve|embarrassed|face|haha|heat|hot|liquid|lol|melt|melting|sarcasm|sarcastic	እየቀለጠ ያለ ፊት|ሃሃ|መሟሟት|መቅለጥ|መጥፋት|ሙቀት|ማፈር|ስላቅ|በሳቅ|ወበቅ|ፀሐይ|ፈሳሽ|ፊት
+E	🫫	18.0	cracking face|breaking|crumbling|masking|resilience|reveal|tension|transformation	የተሰነጠቀ ፊት|ለውጥ|መስበር|መግለጥ|መፍረስ|ውጥረት|የመቋቋም ችሎታ|ጭንብል
+E	😉	0.6	winking face|face|flirt|heartbreaker|sexy|slide|tease|wink|winking|winks	የሚጣቀስ ፊት|ልብ ሰባሪ|መጀናጀን|መጥቀስ|ማሾፍ|ተንሸራታች|ተወዳጅ|ጠቀሳ|ጠበሳ|ፊት
+E	😊	0.6	smiling face with smiling eyes|blush|eye|eyes|face|glad|satisfied|smile|smiling	ሣቂታ ዓይኖች ያሉት ሣቂታ ፊት|ሣቅ|ዓይን|ዕፍረት|ፊት
+E	😇	1.0	smiling face with halo|angel|angelic|angels|blessed|face|fairy|fairytale|fantasy|halo|happy|innocent|peaceful|smile|smiling|spirit|tale	ላዩ ላይ ክብ ያለበት ሣቂታ ፊት|መልዓክ|መንፈሳዊ|መንፈስ|ምናባዊ|ቅዱስ|ታማኝ|ንጹህ|አክሊል|የዋህ|ፊት
+E	🥰	11.0	smiling face with hearts|3|adore|crush|face|heart|hearts|ily|love|romance|smile|smiling|you	የሚስቅ ፊት ከ 3 ልብ ጋር|ልብ|ልቦች|መውደድ|ማፍቀር|በፍቅር መያዝ|አፈቀረ|እወድሃለሁ|እወድሻለሁ|ከፍ ያለ ክብር ሰጠ|ወደደ|የሚስቁ ልቦች|የፍቅር ግንኙነት|ፈገግ ያለ ፊት በ3 ልቦች ጋር|ፈገግታ|ፊት|ፍቅር
+E	😍	0.6	smiling face with heart-eyes|143|bae|eye|face|feels|heart-eyes|hearts|ily|kisses|love|romance|romantic|smile|xoxo	የልብ ቅርጽ ያላቸው ዓይኖች ያሉት ሣቂታ ፊት|ሣቅ|ዓይን|ፊት|ፍቅር
+E	🤩	5.0	star-struck|excited|eyes|face|grinning|smile|star|starry-eyed|wow	የተዋንያን አድናቂ|መጓጓት|በኮከብ የተሞላ|ኮከብ|ዋው|ዓይኖች|ጉጉት|ፈገግታ|ፊት
+E	😘	0.6	face blowing a kiss|adorbs|bae|blowing|face|flirt|heart|ily|kiss|love|lover|miss|muah|romantic|smooch|xoxo|you	የሚስም ፊት|ልብ|መሳም|ፊት
+E	😗	1.0	kissing face|143|date|dating|face|flirt|ily|kiss|love|smooch|smooches|xoxo|you	እየሳመ ያለ ፊት|መሳም|ፊት
+E	☺️	0.6	smiling face|face|happy|outlined|relaxed|smile|smiling	ሣቂታ ፊት|ሣቅ|የተነደፈ|የተዝናና|ፊት
+E	😚	0.6	kissing face with closed eyes|143|bae|blush|closed|date|dating|eye|eyes|face|flirt|ily|kisses|kissing|smooches|xoxo	የሚስም ፊት ከተዘጉ ዓይኖች ጋር|መሳም|አይን ጨፍኖ መሳም|ዓይን|የተዘጋ|ፊት
+E	😙	1.0	kissing face with smiling eyes|143|closed|date|dating|eye|eyes|face|flirt|ily|kiss|kisses|kissing|love|night|smile|smiling	የሚስም ፊት ከሣቂታ ዓይኖች ጋር|መሳም|ሣቅ|ዓይን|የሚስም ፊት|ፊት
+E	🥲	13.0	smiling face with tear|face|glad|grateful|happy|joy|pain|proud|relieved|smile|smiley|smiling|tear|touched	ከእንባ ጋር የሚስቅ ፊት|ስሜት መነካት|ስቃይ|አመስጋኝ|እንባ|ኩሩ|የደስታ እንባ|ደስተኛ|ደስታ|ፈገግታ|ፊት
+E	😋	0.6	face savoring food|delicious|eat|face|food|full|hungry|savor|smile|smiling|tasty|um|yum|yummy	በጣፋጭ ምግብ የጎመጀ ፊት|ሣቅ|አስጎምጂ|ጣፋጭ|ፊት
+E	😛	1.0	face with tongue|awesome|cool|face|nice|party|stuck-out|sweet|tongue	ምላሱን ያወጣ ፊት|ምላስ|ቆንጆ|አሪፍ|ግሩም|ጣፋጭ|ፊት|ፓርቲ
+E	😜	0.6	winking face with tongue|crazy|epic|eye|face|funny|joke|loopy|nutty|party|stuck-out|tongue|wacky|weirdo|wink|winking|yolo	ምላሱን ያወጣ እና ዓይኑ የሚጣቀስ ፊት|ማላገጥ|ምላስ|ምላስ ማውጣት|ቀልድ|አስቂኝ|አዝናኝ|ዓይን|ያበደ|ጠቀሳ|ጥቅሻ|ፊት
+E	🤪	5.0	zany face|crazy|eye|eyes|face|goofy|large|small|zany	እብድ ፊት|ትልቅ|ትንሽ|እብድ|ዓይን|ዓይኖች|የእብድ ዓይኖች
+E	😝	0.6	squinting face with tongue|closed|eye|eyes|face|gross|horrible|omg|squinting|stuck-out|taste|tongue|whatever|yolo	ምላሱን ያወጣ እና ዓይኑን የጨፈነ ፊት|ምላስ|ምንም ይሁን|በፈጣሪ ስም|አሰቃቂ|አስቀያሚ|ዓይን|የምትኖረው አንድ ጊዜ ብቻ ነው|የምትኖሪው አንድ ጊዜ ብቻ ነው|ጣዕም
+E	🤑	1.0	money-mouth face|face|money|money-mouth|mouth|paid	አፉ ላይ ገንዘብ ያለበት ፊት|አፍ|ገንዘብ|ፊት
+E	🤗	1.0	smiling face with open hands|face|hands|hug|hugging|open|smiling	እያቀፈ ያለ ፊት|መተቃቀፍ|ማቀፍ|አላውቅም|አያገባኝም|እጆች|ፊት
+E	🤭	5.0	face with hand over mouth|face|giggle|giggling|hand|mouth|oops|realization|secret|shock|sudden|surprise|whoops	እጁን ከንፈሩ ላይ ያደረገ ፊት|መሳቅ|መደነቅ|ምስጢር|በሳቅ መንከትከት|እጁን አፉ ላይ ያደረገ ፊት|ውይ|ድንገተኛ ግንዛቤ|ድንጋጤ
+E	🫢	14.0	face with open eyes and hand over mouth|amazement|awe|disbelief|embarrass|eyes|face|gasp|hand|mouth|omg|open|over|quiet|scared|shock|surprise	ከፈጠጡ ዓይኖች እና አፍ ላይ እጅ የጫነ ፊት|መሸማቀቅ|መደነቅ|መደንገጥ|መፍራት|ትንፋሽ መያዝ|አለማመን|እኔ አላምንም|ድንጋጤ|ጸጥታ|ፈራ
+E	🫣	14.0	face with peeking eye|captivated|embarrass|eye|face|hide|hiding|peek|peeking|peep|scared|shy|stare	የሚያጮልቅ አይን ያለበት ፊት|መሸማቀቅ|መደበቅ|መፍራት|ማየት|ማጮለቅ|ማፈር|ማፍጠጥ|ተደብቆ ማየት|አይናፋር|አጮልቆ ማየት|የተማረከ|ፊት
+E	🤫	5.0	shushing face|face|quiet|shh|shush|shushing	የጸጥታ ፊት|እሽሽሽ|ዝም በል|ዝም በይ|ጸጥታ
+E	🤔	1.0	thinking face|chin|consider|face|hmm|ponder|pondering|thinking|wondering	ሃሳቢ ፊት|ላስብበት|ማሰላሰል|ማሰብ|ማጤን|በገረም|አሳቢ ፊት|ፊት
+E	🫡	14.0	saluting face|face|good|luck|ma’am|OK|respect|salute|saluting|sir|troops|yes	ሰላምታ የሚሰጥ ፊት|መልካም ዕድል|ሰላምታ|ታዛዥ ነኝ|አክብሮት|አዎ|አዎ እመቤት|እሺ|እሺ ጌታዬ|ወታደራዊ ሰላምታ|ወታደሮች|ፀሐያማ|ፊት
+E	🤐	1.0	zipper-mouth face|face|keep|mouth|quiet|secret|shut|zip|zipper|zipper-mouth	ባለዚፕ አፍ ፊት|አለመናገር|አልናገርም|አፍ|ዚፕ|ዝምታ|የተዘጋ|ፊት
+E	🤨	5.0	face with raised eyebrow|disapproval|disbelief|distrust|emoji|eyebrow|face|hmm|mild|raised|skeptic|skeptical|skepticism|surprise|what	ቅንድብ የተነሳ ፊት|ምን|በትንሹ መደነቅ|ተጠራጣሪ|አለመስማማት|አለመተማመን|አለማመን|አስገራሚ|ኢሞጂ|እምም|ጥርጣሬ
+E	😐	0.7	neutral face|awkward|blank|deadpan|expressionless|face|fine|jealous|meh|neutral|oh|shade|straight|unamused|unhappy|unimpressed|whatever	ገለልተኛ ፊት|ስሜት አልባ|ኮስተር ያለ|ገለልተኛ|ፊት
+E	😑	1.0	expressionless face|awkward|dead|expressionless|face|fine|inexpressive|jealous|meh|not|oh|omg|straight|uh|unhappy|unimpressed|whatever	ምንም ስሜት የሌለው ፊት|ስሜት አልባ|ስሜት የለሽ|ስሜት የማይገልጽ|ፊት
+E	😶	1.0	face without mouth|awkward|blank|expressionless|face|mouth|mouthless|mute|quiet|secret|silence|silent|speechless	አፍ የሌለው ፊት|አፍ|አፍ አልባ|ዝም ያለ|ጸጥታ|ፊት
+E	🫥	14.0	dotted line face|depressed|disappear|dotted|face|hidden|hide|introvert|invisible|line|meh|whatever|wtv	ዙሪያውን ሰረዝ ያለው ፊት|መደበቅ|ምንም ይሁን ምን|አይናፋር|ኡፍፍ|እንደፈለክ|እንደፈለግሽ|የማይታይ|የተደበረ|የተደበቀ|የተጨነቀ|የጠፋ
+E	😶‍🌫️	13.1	face in clouds|absentminded|clouds|face|fog|head	ደመናማ ገጽ
+E	😏	0.6	smirking face|boss|dapper|face|flirt|homie|kidding|leer|shade|slick|sly|smirk|smug|snicker|suave|suspicious|swag	በምጸት ፈገግ የሚል ፊት|ምጸት|ሹፈት|ሽሙጥ|ፊት
+E	😒	0.6	unamused face|...|bored|face|fine|jealous|jel|jelly|pissed|smh|ugh|uhh|unamused|unhappy|weird|whatever	ያልተገረመ ፊት|የሰለቸው|የተሰላቸ|የደበረው|ያልተደሰተ|ያልተገረመ|ፊት
+E	🙄	1.0	face with rolling eyes|eyeroll|eyes|face|rolling|shade|ugh|whatever	የሚሽከረከሩ ዓይኖች ያሉት ፊት|አዪ|ዓይኖች|የሚሽከረከሩ|ፊት
+E	😬	1.0	grimacing face|awk|awkward|dentist|face|grimace|grimacing|grinning|smile|smiling	ታሞ የተጨማደደ ፊት|ሐፍረት|ታሞ የተጨማደደ|የውሸት ሳቅ|የድንጋጤ ሳቅ|ፊት
+E	😮‍💨	13.1	face exhaling|blow|blowing|exhale|exhaling|exhausted|face|gasp|groan|relief|sigh|smiley|smoke|whisper|whistle	ወደ ውጭ የሚተነፍስ ገጽ|መተንፈስ|መንፋት|ማጨስ|ወደ ውጭ መተንፈስ|ድካም|ጭስ|ፊት
+E	🤥	3.0	lying face|face|liar|lie|lying|pinocchio	የሚዋሽ ፊት|ሐሰት|ቅጥፈት|ውሸት|ፊት|ፒኖኪዮ
+E	🫨	15.0	shaking face|crazy|daze|earthquake|face|omg|panic|shaking|shock|surprise|vibrate|whoa|wow	የሚንቀጠቀጥ ፊት|መሸበር|መንቀጥቀጥ|መደነቅ|መደንገጥ|መፍዘዝ|እብድ|ዋው|የመሬት መንቀጥቀጥ|ድንጋጤ|ፊት
+E	🙂‍↔️	15.1	head shaking horizontally|head|horizontally|no|shake|shaking	ራስ መንቀጥቀጥ አግድሞሽ|አይ፤ መንቀጥቀጥ
+E	🙂‍↕️	15.1	head shaking vertically|head|nod|shaking|vertically|yes	ራስ መንቀጥቀጥ አቀባዊ|መነቅነቅ፤ አዎ
+E	😌	0.6	relieved face|calm|face|peace|relief|relieved|zen	እፎይ ያለ ፊት|ሐሳብ|እረፍት|እፎይ ያለ|ፊት
+E	😔	0.6	pensive face|awful|bored|dejected|died|disappointed|face|losing|lost|pensive|sad|sucks	እያሰበ ያለ ፊት|ሐሳብ የገባው|እንቅልፍ|እያንቀላፋ ያለ|ገለል ያለ|ፊት
+E	😪	0.6	sleepy face|crying|face|good|night|sad|sleep|sleeping|sleepy|tired	እንቅልፉ የመጣ ፊት|አልቃሽ|እንቅልፍ|ፊት
+E	🤤	3.0	drooling face|drooling|face	የለሀጭ ፊት|ለሀጭ|ለሃጫም|ፊት
+E	😴	1.0	sleeping face|bed|bedtime|face|good|goodnight|nap|night|sleep|sleeping|tired|whatever|yawn|zzz	የሚያንቀላፋ ፊት|እንቅልፍ|ደህና ደሩ|ፊት
+E	🫩	16.0	face with bags under eyes|bags|bored|exhausted|eyes|face|fatigued|late|sleepy|tired|weary	ከዓይኖች በታች ከረጢቶች ጋር ፊት|ረፍዷል|ቦርሳዎች|አሰልቺ|አይኖች|እንቅልፋም|ደክሞ|ደክሞኛል|ፊት
+E	😷	0.6	face with medical mask|cold|dentist|dermatologist|doctor|dr|face|germs|mask|medical|medicine|sick	የሕክምና ጭንብል ያደረገ ፊት|ቀዝቃዛ|ኮቪድ|የታመመ|ዶክተር|ጭንብል
+E	🤒	1.0	face with thermometer|face|ill|sick|thermometer	ቴርሞሜትር የያዘ ፊት|ምርመራ|በሽተኛ|ቴርሞሜትር|ትኩሳት|የታመመ|ፊት
+E	🤕	1.0	face with head-bandage|bandage|face|head-bandage|hurt|injury|ouch	እራሱ ላይ ፋሻ የጠቀለለ ፊት|ቁስል|ጉዳት|ፊት|ፋሻ
+E	🤢	3.0	nauseated face|face|gross|nasty|nauseated|sick|vomit	ያስታወከ ፊት|ማስታወክ|ማቅለሽለሽ|ያስታወከ|ፊት
+E	🤮	5.0	face vomiting|barf|ew|face|gross|puke|sick|spew|throw|up|vomit|vomiting	የሚያስታውክ ፊት|መታመም|ማስመለስ|ማስታወክ|ወደ ላይ ማለት|ፀያፍ
+E	🤧	3.0	sneezing face|face|fever|flu|gesundheit|sick|sneeze|sneezing	የሚያስነጥስ ፊት|መልካም ጤና|ማስነጠስ|ፊት
+E	🥵	11.0	hot face|dying|face|feverish|heat|hot|panting|red-faced|stroke|sweating|tongue	የቀላ ፊት|ሙቀት|ማላብ|ምላስ ማውጣት|ቀይ ፊት|በሙቀት መሞት|ትኩሳት|ወበቅ|የሙቀት ግፊት|ፊት
+E	🥶	11.0	cold face|blue|blue-faced|cold|face|freezing|frostbite|icicles|subzero|teeth	የቀዘቀዘ ፊት|መንቀጥቀጥ|ሰማያዊ|ቀዝቃዛ|ቅዝቃዜ|በረዶ|በራዳ|በቅዝቃዜ የተጎዳ አፍንጫ|ከዜሮ በታች|ውርጭ|የቀዘቀዙ ጥርሶች|የበረዶ ግግር|ፊት
+E	🥴	11.0	woozy face|dizzy|drunk|eyes|face|intoxicated|mouth|tipsy|uneven|wavy|woozy	አጥወልዋይ ፊት|መፍዘዝ|ሞቅታ|የሰከረ|የተሸዋረረ አይን|የተጥመዘመዘ አፍ|ድንዝዝ|ግልብጥ
+E	😵	0.6	face with crossed-out eyes|crossed-out|dead|dizzy|eyes|face|feels|knocked|out|sick|tired	የደበተው ፊት|ሞትኩ|የዞረበት|የደበተው|የደከመው|ፊት
+E	😵‍💫	13.1	face with spiral eyes|confused|dizzy|eyes|face|hypnotized|omg|smiley|spiral|trouble|whoa|woah|woozy	የዞሩ ዓይኖች ያለው ፊት|ፈገግ ያለ፣ ማዞር፣ omg፣ ዋው፣ ግራ የተጋባ
+E	🤯	5.0	exploding head|blown|explode|exploding|head|mind|mindblown|no|shocked|way	የፈነዳ ጭንቅላት|መደነገጥ|በጣም መደነቅ|በጣም መገረም|በፍጹም አይሆንም|ፈነዳ
+E	🤠	3.0	cowboy hat face|cowboy|cowgirl|face|hat	የከብት ጠባቂ ኮፍያ ፊት|ሳቅ|እረኛ|ከብት ጠባቂ|ኮፍያ|የሚስቅ የእረኛ ፊት|ፈገግታ|ፊት
+E	🥳	11.0	partying face|bday|birthday|celebrate|celebration|excited|face|happy|hat|hooray|horn|party|partying	የድግስ ፊት|ልደት|መልካም ልደት|መደሰት|ቀንድ|በዓል ማክበር|ክብረ በዓል|ኮፍያ|ድግስ|ጡሩምባ|ፊት
+E	🥸	13.0	disguised face|disguise|eyebrow|face|glasses|incognito|moustache|mustache|nose|person|spy|tache|tash	አሳሳች ፊት|መነፅር|ራስን መደበቅ|ሰላይ|ሰው|ቅንድብ|ጢም|ፂም|ፊት
+E	😎	1.0	smiling face with sunglasses|awesome|beach|bright|bro|chilling|cool|face|rad|relaxed|shades|slay|smile|style|sunglasses|swag|win	የፀሐይ መነጽር ያደረገ ሣቂታ ፊት|ብሩህ|አሪፍ|ከምሬ ነው|ፀሐይ|ፊት
+E	🤓	1.0	nerd face|brainy|clever|expert|face|geek|gifted|glasses|intelligent|nerd|smart	ያገጠጠ ባለመነጽር ፊት|ሊቅ|መነጽራም|መነጽሮች|ሜጋ|ሞኝ|ቂል|ባለሙያ|ብልህ|ተሰጥኦ ያለው|አእምሮ ያለው|የገጠጠ|ጎበዝ|ፊት
+E	🧐	5.0	face with monocle|classy|face|fancy|monocle|rich|stuffy|wealthy	የዓይን ባጅ ያደረገ ፊት|ሀብታም|ሐብታም|ባለሐብት|ባለጠጋ|የሚያምር|የቅንጦት|የአንድ ዓይን መነፅር ያደረገ ፊት
+E	😕	1.0	confused face|befuddled|confused|confusing|dunno|face|frown|hm|meh|not|sad|sorry|sure	ግራ የተጋባ ፊት|እህም|ግራ የተጋባ|ፊት
+E	🫤	14.0	face with diagonal mouth|confused|confusion|diagonal|disappointed|doubt|doubtful|face|frustrated|frustration|meh|mouth|skeptical|unsure|whatever|wtv	ሰያፍ አፍ ያለው ፊት|ሜህ|ምንም ይሁን ምን|ብስጭት|ተጠራጣሪ|ኡፍፍ|እርግጠኛ አይደለሁም|እንደፈለክ|እንደፈለግሽ|ክብ|የተበሳጨ|የተናደደ|ግራ መጋባት|ጥርጣሬ|ፊት
+E	😟	1.0	worried face|anxious|butterflies|face|nerves|nervous|sad|stress|stressed|surprised|worried|worry	የተጨነቀ ፊት|የተጨነቀ|የደነገጠ ፊት|ድንጋጤ|ፊት|ፍርሃት
+E	🙁	1.0	slightly frowning face|face|frown|frowning|sad|slightly	በከፊል የተኮሳተረ ፊት|የተኮሳተረ|ፊት
+E	☹️	0.7	frowning face|face|frown|frowning|sad	የተኮሳተረ ፊት|ኩርፊያ|የተኮሳተረ|ያኮረፈ|ፊት
+E	😮	1.0	face with open mouth|believe|face|forgot|mouth|omg|open|shocked|surprised|sympathy|unbelievable|unreal|whoa|wow|you	አፍ የከፈተ ፊት|ሐዘኔታ|አፍ|አፍ መክፈት|ክፍት|ድንጋጤ|ግርምት|ፊት
+E	😯	1.0	hushed face|epic|face|hushed|omg|stunned|surprised|whoa|woah	አንሾካሿኪ ፊት|ተደመመ|ተገረመ|አንሾካሾከ|ድንጋጤ|ፊት
+E	😲	0.6	astonished face|astonished|cost|face|no|omg|shocked|totally|way	የተገረመ ፊት|ሙሉ በሙሉ|ምንድን ነው|በምንም መንገድ አይሆንም|ወጪ|ዞር በል ከዚህ|የተደነቀ ፊት|የተገረመ|የደነገጠ|የፈጣሪ ያለህ|ፊት
+E	😳	0.6	flushed face|amazed|awkward|crazy|dazed|dead|disbelief|embarrassed|face|flushed|geez|heat|hot|impressed|jeez|what|wow	የደነበረ ፊት|ሐፍረት|ምን?|አላምንም|የተደበረ|የደነበረ|የደነገጠ|ያፈረ|ፊት
+E	🫪	17.0	distorted face|anxiety|bloated|panic|shocked|surprised|vulnerable	የተዛባ ፊት|ተገረመ|ተጋላጭ|ያበጠ|ደነገጥኩ|ድንጋጤ|ጭንቀት
+E	🥺	11.0	pleading face|begging|big|eyes|face|mercy|not|pleading|please|pretty|puppy|sad|why	የሙግት ፊት|ለምን አይሆንም|ልመና|ማዘን|ምህረት|ቆንጆ እባክህ|ቆንጆ እባክሽ|ትልልቅ አይኖች|እባክህ|እባክሽ|የሚለምን ፊት|የትንንሽ ውሾች አይን|የውሻ ቡችላ አይኖች|ፊት
+E	🥹	14.0	face holding back tears|admiration|aww|back|cry|embarrassed|face|feelings|grateful|gratitude|holding|joy|please|proud|resist|sad|tears	እንባ ያቀረረ ፊት|ሀዘን|መሽኮርመም|መቃወም|መከፋት|ማፈር|ምስጋና|ስሜት|አመስጋኝ|አውይይ|አድናቆት|እባክህ|እባክሽ|ኩራት|የሚያለቅስ|የተቆጣ|የደስታ እንባ
+E	😦	1.0	frowning face with open mouth|caught|face|frown|frowning|guard|mouth|open|scared|scary|surprise|what|wow	አፉ የተከፈተ የተኮሳተረ ፊት|መመሰጥ|መገረም|አፍ|አፍን ከፍቶ ማዳመጥ|ክፍት|የተመሰጠ|የተኮሳተረ|ፊት
+E	😧	1.0	anguished face|anguished|face|forgot|scared|scary|stressed|surprise|unhappy|what|wow	ተማሮ የሚያለቅስ ፊት|ሐዘን|ሰው|በጣም ያዘነ ፊት|ድንጋጤ|ጭንቀት|ፊት
+E	😨	0.6	fearful face|afraid|anxious|blame|face|fear|fearful|scared|worried	ፍርሃት የተሞላ ፊት|የፈራ|ፈሪ|ፊት|ፍርሃት
+E	😰	0.6	anxious face with sweat|anxious|blue|cold|eek|face|mouth|nervous|open|rushed|scared|sweat|yikes	አፉ የተከፈተ እና ቀዝቃዛ ላብ ያለው ፊት|ላብ|መረበሽ|ሰማያዊ|ቀዝቃዛ|ችኮላ|አፍ|እጭ|ፊት|ፍርሃት
+E	😥	0.6	sad but relieved face|anxious|call|close|complicated|disappointed|face|not|relieved|sad|sweat|time|whew	የተከፋ ግን የተጽናና ፊት|ላብ ጠብታ|አሰይ|እፎይ ያለ|የተከፋ|ፊት
+E	😢	0.6	crying face|awful|cry|crying|face|feels|miss|sad|tear|triste|unhappy	የሚያለቅስ ፊት|ለቅሶ|እንባ|ያዘነ|ፊት
+E	😭	0.6	loudly crying face|bawling|cry|crying|face|loudly|sad|sob|tear|tears|unhappy	በከባድ የሚያለቅስ ፊት|ለቅሶ|ሐዘን|መንሰቅሰቅ|እንባ|ያዘነ
+E	😱	0.6	face screaming in fear|epic|face|fear|fearful|munch|scared|scream|screamer|screaming|shocked|surprised|woah	በፍርሃት የሚጮኽ ፊት|መገረም|ዋው|የሚያስደንቅ|የተሳቀቀ|ድንጋጤ|ጥርስ መንከስ|ጩኸት|ፊት|ፍርሃት
+E	😖	0.6	confounded face|annoyed|confounded|confused|cringe|distraught|face|feels|frustrated|mad|sad	እንባው የመጣ ከንፈሩ የሚንቀጠቀጥ ፊት|ተስፋ የቆረጠ|እንባው የመጣ|የተሰማው|የተበሳጨ|ግራ የገባው|ፊት
+E	😣	0.6	persevering face|concentrate|concentration|face|focus|headache|persevere|persevering	ጽናትን አንጸባራቂ ፊት|ሐሳብን መሰብሰብ|ትኩረት|እራስ ምታት|ጽናት|ፊት
+E	😞	0.6	disappointed face|awful|blame|dejected|disappointed|face|fail|losing|sad|unhappy	የተከፋ ፊት|የተከፋ|የተገፋ|ያዘነ|ፊት
+E	😓	0.6	downcast face with sweat|close|cold|downcast|face|feels|headache|nervous|sad|scared|sweat|yikes	ቀዝቃዛ ላብ ያለው ፊት|ላብ|ቀዝቃዛ|የተከፋ ፊት|ፊት
+E	😩	0.6	weary face|crying|face|fail|feels|hungry|mad|nooo|sad|sleepy|tired|unhappy|weary	ምርር ያለው ፊት|በጣም ያዘነ|የተሰላቸ|የደከመው|ፊት
+E	😫	0.6	tired face|cost|face|feels|nap|sad|sneeze|tired	የደከመው ፊት|ልቅሶ|ሐዘን|ሸለብታ|የደከመ|ፊት
+E	🥱	12.0	yawning face|bedtime|bored|face|goodnight|nap|night|sleep|sleepy|tired|whatever|yawn|yawning|zzz	የሚያዛጋ ፊት|ለሊት|መሰልቸት|መደበር|መድከም|ማንቀላፋት|ማዛጋት|ትንሽ አረፍ ማለት|እንደፈለክ|እንደፈለግሽ|የመኝታ ጊዜ|ደህና እደሪ|ደህና እደር|ድካም|ፊት
+E	😤	0.6	face with steam from nose|anger|angry|face|feels|fume|fuming|furious|fury|mad|nose|steam|triumph|unhappy|won	ከአፍንጫ እንፋሎት የሚወጣው ፊት|ማሸነፍ|ድል|ፊት
+E	😡	0.6	enraged face|anger|angry|enraged|face|feels|mad|maddening|pouting|rage|red|shade|unhappy|upset	የበገነ ፊት|ቀይ|ቁጣ|የተቆጣ|የተናደደ
+E	😠	0.6	angry face|anger|angry|blame|face|feels|frustrated|mad|maddening|rage|shade|unhappy|upset	የተናደደ ፊት|እብድ|እጅግ የተበሳጨ|የተናደደ|ፊት
+E	🤬	5.0	face with symbols on mouth|censor|cursing|cussing|face|mad|mouth|pissed|swearing|symbols	የአፍ ምልክት ያለበት ፊት|መራገም|መሳደብ|መናደድ|ሳንሱር|በአፍ ላይ ምልክቶች ያሉበት ፊት|እብድ|ፊት
+E	😈	1.0	smiling face with horns|demon|devil|evil|face|fairy|fairytale|fantasy|horns|purple|shade|smile|smiling|tale	ቀንድ ያለው ሣቂታ ፊት|ማስፈራራት|ሣቅ|ቀንዶች|ተረት ተረት|የክፋት ሳቅ|የጭራቅ ፊት|ጭራቅ|ፊት
+E	👿	0.6	angry face with horns|angry|demon|devil|evil|face|fairy|fairytale|fantasy|horns|imp|mischievous|purple|shade|tale	ጋኔን|ምናባዊ|ተረት ተረት|ዲያብሎስ|ጭራቅ|ፊት
+E	💀	0.6	skull|body|dead|death|face|fairy|fairytale|i’m|lmao|monster|tale|yolo	የራስ ቅል ዓፅም|ሞት|ተረት ተረት|አደጋ|ጥንቆላ|ጭራቅ|ፊት
+E	☠️	1.0	skull and crossbones|bone|crossbones|dead|death|face|monster|skull	የራስቅል ከተጣመረ ዓፅም ጋር|ሞት|አደጋ|አጽም|የራስ ቅል|የተጣመረ ዓፅም|ጭራቅ|ፊት
+E	💩	0.6	pile of poo|bs|comic|doo|dung|face|fml|monster|pile|poo|poop|smelly|smh|stink|stinks|stinky|turd	የካካ ክምር|መጥፎ ሽታ|አስቂኝ|አዛባ|እበት|ይገማል|ግማት|ጭራቅ|ፊት
+E	🤡	3.0	clown face|clown|face	የአስቂኝ ተዋናይ ፊት|አስቂኝ ተዋናይ|ክላውን|ፊት
+E	👹	0.6	ogre|creature|devil|face|fairy|fairytale|fantasy|mask|monster|scary|tale	ጭራቅ|ተረት ተረት|አስፈሪ|የጃፓን|ፊት|ፍጡር
+E	👺	0.6	goblin|angry|creature|face|fairy|fairytale|fantasy|mask|mean|monster|tale	ጆሮ ቆራጭ|ተረት ተረት|የጃፓን|ጭራቅ|ፊት
+E	👻	0.6	ghost|boo|creature|excited|face|fairy|fairytale|fantasy|halloween|haunting|monster|scary|silly|tale	የሙት መንፈስ|መንፈስ|ተረት ተረት|ጭራቅ|ፊት|ፍጡር
+E	👽	0.6	alien|creature|extraterrestrial|face|fairy|fairytale|fantasy|monster|space|tale|ufo	የሌላ ዓለም ፍጡር|ምናባዊ|ጭራቅ|ፊት|ፍጡር
+E	👾	0.6	alien monster|alien|creature|extraterrestrial|face|fairy|fairytale|fantasy|game|gamer|games|monster|pixelated|space|tale|ufo	የሌላ ዓለም ጭራቅ ፍጡር|ምናባዊ|የሌላ ዓለም ፍጡር|ጌም|ጨዋታ|ጭራቅ|ፊት|ፍጡር|ፒክሴሌትድ
+E	🤖	1.0	robot|face|monster	የሮቦት ፊት|ሮቦት|ጭራቅ|ፊት
+E	😺	0.6	grinning cat|animal|cat|face|grinning|mouth|open|smile|smiling	አፏን የከፈተች ሣቂታ ድመት ፊት|ሳቅ|አፍ|ክፍት|ድመት|ፈገግታ|ፊት
+E	😸	0.6	grinning cat with smiling eyes|animal|cat|eye|eyes|face|grin|grinning|smile|smiling	ዓይኖቿ ሣቂታ የሆኑ ፈገግ ያለች ድመት ፊት|ዓይን|ድመት|ፈገግታ|ፊት
+E	😹	0.6	cat with tears of joy|animal|cat|face|joy|laugh|laughing|lol|tear|tears	የሐሤት እንባ ያላት ድመት ፊት|ሐሤት|በደስታ የምታነባ ድመት|እንባ|ድመት|ፊት
+E	😻	0.6	smiling cat with heart-eyes|animal|cat|eye|face|heart|heart-eyes|love|smile|smiling	ልብ ቅርጽ ያላቸው ዓይኖች ያላት ሣቂታ ድመት|ሣቅ|ዓይን|ያዩትን መውደድ|ድመት|ፊት|ፍቅር
+E	😼	0.6	cat with wry smile|animal|cat|face|ironic|smile|wry	የብልጥ ሣቅ የምትሥቅ ድመት ፊት|ምጸት|ምጽታዊ ሣቅ|ድመት|ፊት
+E	😽	0.6	kissing cat|animal|cat|closed|eye|eyes|face|kiss|kissing	ዓይኖቿን የጨፈነች የምትስም ድመት|መሳም|ዓይን|ድመት|ፊት
+E	🙀	0.6	weary cat|animal|cat|face|oh|surprised|weary	የደከማት ድመት ፊት|የተገረመ|የደከመው|ድመት|ፊት
+E	😿	0.6	crying cat|animal|cat|cry|crying|face|sad|tear	የምታለቅስ ድመት ፊት|ማልቀስ|እንባ|ያዘነ|ድመት|ፊት
+E	😾	0.6	pouting cat|animal|cat|face|pouting	የምታለከልክ ድመት ፊት|ወሲብ የጠማት|ድመት|ፊት
+E	🙈	0.6	see-no-evil monkey|embarrassed|evil|face|forbidden|forgot|gesture|hide|monkey|no|omg|prohibited|scared|secret|smh|watch	ምንም ክፉ አላይም|መደበቅ|ማየት|ማየት አልችልም|ምስጢር|ምንም ክፉ አላይም ጦጣ|ተመልከት|ተመልከች|አይ|አይሆንም|አይደለም
+E	🙉	0.6	hear-no-evil monkey|animal|ears|evil|face|forbidden|gesture|hear|listen|monkey|no|not|prohibited|secret|shh|tmi	ምንም ክፉ አልሰማም|ምስጢር|እንስሳ|ክፉ|ክፉ አይሰሜ ጦጣ|የተከለከለ|ጆሮ የለኝም|ጉድ|ጦጣ|ፊት
+E	🙊	0.6	speak-no-evil monkey|animal|evil|face|forbidden|gesture|monkey|no|not|oops|prohibited|quiet|secret|speak|stealth	ምንም ክፉ አልናገርም|መናገር|አለመናገር|እንስሳ|ክፉ|ክፉ አትናገር|ዝም|የተከለከለ|ጦጣ|ጦጣ አፍ ሸፍኖ
+E	💌	0.6	love letter|heart|letter|love|mail|romance|valentine	የፍቅር ደብዳቤ|ልብ|ደብዳቤ|ፍቅር|ፖስታ
+E	💘	0.6	heart with arrow|143|adorbs|arrow|cupid|date|emotion|heart|ily|love|romance|valentine	ቀስት የሰነጠቀው ልብ|ልብ|ቀስት|የተሰነጠቀ|ፍቅር
+E	💝	0.6	heart with ribbon|143|anniversary|emotion|heart|ily|kisses|ribbon|valentine|xoxo	በሪባን የታሰረ ልብ|ልብ|መሳም|ሪባን|ስሜት|ቫለንታይን|አቅፎ መሳም|እወድሃለሁ|እወድሻለሁ|እዩቤልዩ
+E	💖	0.6	sparkling heart|143|emotion|excited|good|heart|ily|kisses|morning|night|sparkle|sparkling|xoxo	አንጸባራቂ ልብ|ልብ|አንጸባራቂ|የጓጓ
+E	💗	0.6	growing heart|143|emotion|excited|growing|heart|heartpulse|ily|kisses|muah|nervous|pulse|xoxo	እያደገ የሚሄድ ልብ|ልብ|የልብ ምት|የሚያድግ|የጓጓ|የፈራ|ፍቅር
+E	💓	0.6	beating heart|143|beating|cardio|emotion|heart|heartbeat|ily|love|pulsating|pulse	እየመታ ያለ ልብ|ልብ|መምታት|የልብ ምት|የልብ አመታት
+E	💞	0.6	revolving hearts|143|adorbs|anniversary|emotion|heart|hearts|revolving	የሚሽከረከሩ ልቦች|ልብ|ልቦች|እጮኛ|የሚሸከረከር|የተሳሰሩ ልቦች|ፍቅር
+E	💕	0.6	two hearts|143|anniversary|date|dating|emotion|heart|hearts|ily|kisses|love|loving|two|xoxo	ሁለት ልቦች|ልብ|ፍቅር
+E	💟	0.6	heart decoration|143|decoration|emotion|heart|hearth|purple|white	የልብ ጌጥ|ልብ|ወይን ጠጅ ልብ|የልብ ቅርጽ ጌጥ
+E	❣️	1.0	heart exclamation|bang|exclamation|heart|heavy|mark|punctuation	በልብ ቅርፅ የተዘጋጀ የቃለ አጋኖ ምልክት|ልብ|ምልክት|ሥርዓተ ነጥብ|ቃለ አጋኖ
+E	💔	0.6	broken heart|break|broken|crushed|emotion|heart|heartbroken|lonely|sad	የተሰበረ ልብ|ልብ|ሰበረ|የተሰበረ
+E	❤️‍🔥	13.1	heart on fire|burn|fire|heart|love|lust|sacred	በበስጭት ላይ ያለ ልብ
+E	❤️‍🩹	13.1	mending heart|healthier|heart|improving|mending|recovering|recuperating|well	የተጠገነ ልብ
+E	❤️	0.6	red heart|emotion|heart|love|red	ቀይ ልብ|ልብ|ፍቅር
+E	🩷	15.0	pink heart|143|adorable|cute|emotion|heart|ily|like|love|pink|special|sweet	ሮዝ ልብ|143|ልብ|ልዩ|መውደድ|ሮዝ|ስሜት|ቆንጆ|እወድሃለሁ|እወድሻለሁ|የሚወደድ|የሚያምር|ጣፋጭ|ፍቅር
+E	🧡	5.0	orange heart|143|heart|orange	ብርቱካናማ ልብ|ልብ|ብርቱካናማ|ድጋፍ
+E	💛	0.6	yellow heart|143|cardiac|emotion|heart|ily|love|yellow	ቢጫ ልብ|143|ልብ|ስሜት|ቢጫ|ብጫ|የልብ|ፍቅር
+E	💚	0.6	green heart|143|emotion|green|heart|ily|love|romantic	አረንጓዴ ልብ|ልብ|አረንጓዴ
+E	💙	0.6	blue heart|143|blue|emotion|heart|ily|love|romance	ሰማያዊ ልብ|ልብ|ሰማያዊ|ፍቅር
+E	🩵	15.0	light blue heart|143|blue|cute|cyan|emotion|heart|ily|light|like|love|sky|special|teal	ፈዛዛ ሰማያዊ ልብ|143|ልብ|ልዩ|መውደድ|ሰማያዊ|ሳያን|ስሜት|ሻይ|ቆንጆ|እወድሃለሁ|እወድሻለሁ|ደማቅ ውሃ ሰማያዊ|ደስ የሚል|ፈዛዛ ሰማያዊ|ፈዛዛ አረንጓዴ-ሰማያዊ|ፍቅር
+E	💜	0.6	purple heart|143|bestest|emotion|heart|ily|love|purple	ወይን ጠጅ ልብ|ልብ|እወድሃለሁ|እወድሻለሁ|ወይን ጠጅ|የምርጦች ምርጥ|ፍቅር
+E	🤎	12.0	brown heart|143|brown|heart	ቡናማ ልብ|ልብ|ቡናማ|ፍቅር
+E	🖤	3.0	black heart|black|evil|heart|wicked	ጥቁር ልብ|ልብ|ሰይጣን|እርጉም|ጥቁር
+E	🩶	15.0	grey heart|143|emotion|gray|grey|heart|ily|love|silver|slate|special	ግራጫ ልብ|143|ልብ|ልዩ|ሰሌዳ|ስሜት|ሽበት|ብር|እወድሃለሁ|እወድሻለሁ|ግራጫ|ፍቅር
+E	🤍	12.0	white heart|143|heart|white	ነጭ ልብ|ልብ|ነጭ|ድጋፍ|ፍቅር
+E	💋	0.6	kiss mark|dating|emotion|heart|kiss|kissing|lips|mark|romance|sexy	የመሳም ምልክት|መሳም|ምልክት|ከንፈሮች|የተሳመ ወረቀት|የከንፈር ማህተም
+E	💯	0.6	hundred points|100|a+|agree|clearly|definitely|faithful|fleek|full|hundred|keep|perfect|point|score|TRUE|truth|yup	መቶ ነጥቦች|100|መቶ|ሙሉ|ቀጥልበት|በትክክል|ትክክል|እስማማለሁ|እውነት|ውጤት
+E	💢	0.6	anger symbol|anger|angry|comic|mad|symbol|upset	የንዴት ምልክት|ንዴት|አስቂኝ|እብድ
+E	🫯	17.0	fight cloud|argument|brawl|debate|disagreement|fight|ruckus|wrestle	ደመናን መዋጋት|መታገል|ትግል|አለመግባባት|ክርክር|ፍጥጫ
+E	💥	0.6	collision|bomb|boom|collide|comic|explode	ግጭት|ቦንብ|አስቂኝ|ፍንዳታ
+E	💫	0.6	dizzy|comic|shining|shooting|star|stars	ድብት|አስቂኝ|አብሪ ኮከብ|ኮከብ
+E	💦	0.6	sweat droplets|comic|drip|droplet|droplets|drops|splashing|squirt|sweat|water|wet|work|workout	ጣፋጭ ጠብታዎች|ላብ|አስቂኝ|የላብ ጠብታዎች|የእንባ ጠብታዎች|የውሃ መረጨት|ጂም መስራት|ጠብታዎች
+E	💨	0.6	dashing away|away|cloud|comic|dash|dashing|fart|fast|go|gone|gotta|running|smoke	እየቦነነ ያለ|መሄድ አለብኝ|መፈርጠጥ|ሩጫ|ሰርዝ|አስቂኝ|እንፋሎት|እግሬ አውጭኝ|ጭስ|ፈስ
+E	🕳️	0.7	hole	ቀዳዳ|ጉድጓድ
+E	💬	0.6	speech balloon|balloon|bubble|comic|dialog|message|sms|speech|talk|text|typing	የንግግር አፉፋ|ንግግር|አረፋ|አስቂኝ|አፉፋ|ወሬ
+E	👁️‍🗨️	2.0	eye in speech bubble|balloon|bubble|eye|speech|witness	ዓይን በንግግር አፉፋ|ምስክር|ንግግር|አይን|ዓይን|የንግግር ምልክት|የዓይን ምስክር
+E	🗨️	2.0	left speech bubble|balloon|bubble|dialog|left|speech	የግራ ንግግር አፉፋ|ንግግር|ወሬ
+E	🗯️	0.7	right anger bubble|anger|angry|balloon|bubble|mad|right	የቀኝ የንዴት አፉፋ|ቁጣ|ንዴት|አረፋ|አፉፋ|እብድ
+E	💭	1.0	thought balloon|balloon|bubble|cartoon|cloud|comic|daydream|decisions|dream|idea|invent|invention|realize|think|thoughts|wonder	ሐሳብ ገላጭ አፉፋ|ሐሳብ|አረፋ|አስቂኝ|አፉፋ|ደመና
+E	💤	0.6	ZZZ|comic|good|goodnight|night|sleep|sleeping|sleepy|tired|zzz	ዝ ዝ ዝ|መተኛት|ማንቀላፋት|አስቂኝ|እንቅልፍ|ድካም
+C	people_body	People & Body
+E	👋	0.6	waving hand|bye|cya|g2g|greetings|gtg|hand|hello|hey|hi|later|outtie|ttfn|ttyl|wave|yo|you	ተወዛዋዥ እጅ|ሞገድ|ሰላም|ባይ ባይ|ቻው|አካል|እጅ|እጅ ማወዛወዝ
+E	🤚	3.0	raised back of hand|back|backhand|hand|raised	ወደ ኋል የተዘረጋ እጅ|አይበሉባ|ወደ ኋል|የተነሳ እጅ|የተዘረጋ
+E	🖐️	0.7	hand with fingers splayed|finger|fingers|hand|raised|splayed|stop	ለሰላምታ ወደ ላይ የተዘረጉ የእጅ ጣቶች|5|መዘርጋት|ሰላም|ቁም|አምስት|አካል|እጅ|ጣት
+E	✋	0.6	raised hand|5|five|hand|high|raised|stop	ወደ ላይ የተደረገ እጅ|ሰላም|ቁም|አካል|እጅ|እጅ ማውጣት
+E	🖖	1.0	vulcan salute|finger|hand|hands|salute|Vulcan	ቩልካን ሰላምታ|ቩልካን|አካል|እጅ|ጣት
+E	🫱	14.0	rightwards hand|hand|handshake|hold|reach|right|rightward|rightwards|shake	ወደ ቀኝ የዞረ እጅ|መጨባበጥ|ቀኝ|እጅ|ወደ ቀኝ|ወደ ቀኝ መድረስ|ወደ ቀኝ የዞረ|ያዝ|ጣቶች
+E	🫲	14.0	leftwards hand|hand|handshake|hold|left|leftward|leftwards|reach|shake	ወደ ግራ የዞረ እጅ|መጨባበጥ|እጅ|ወደ ግራ|ወደ ግራ መድረስ|ወደ ግራ የዞረ|ያዝ|ግራ|ግራ የዞረ|ጣቶች
+E	🫳	14.0	palm down hand|dismiss|down|drop|dropped|hand|palm|pick|shoo|up	መዳፍ ወደታች እጅ|መውደቅ|መጣል|ማሰናበት|ማባረር|ማንሳት|አንሳ|እጅ|ጣት
+E	🫴	14.0	palm up hand|beckon|catch|come|hand|hold|know|lift|me|offer|palm|tell	መዳፍ ወደላይ እጅ|ልመና|መያዝ|መዳፍ|ማስረዳት|ማቅረብ|ማበረታታት|ና|አላውቅም|እጅ|እጅን መዘርጋት
+E	🫷	15.0	leftwards pushing hand|block|five|halt|hand|high|hold|leftward|leftwards|pause|push|pushing|refuse|slap|stop|wait	ወደግራ የሚገፋ እጅ|መከልከል|ማገድ|ቆይ|አለመቀበል|አልመቀበል|አቁም|እምቢ|እጅ|ወደግራ|ግባለት|ግፋ|ጠብቅ
+E	🫸	15.0	rightwards pushing hand|block|five|halt|hand|high|hold|pause|push|pushing|refuse|rightward|rightwards|slap|stop|wait	ወደቀኝ የሚገፋ እጅ|ለአፍታ አቁም|መቃወም|መግፋት|ማገድ|ቆይ|አለመቀበል|አቁም|እምቢ|እጅ|ወደቀኝ|ግባለት|ግፋ|ጠብቅ
+E	👌	0.6	OK hand|awesome|bet|dope|fleek|fosho|got|gotcha|hand|legit|OK|okay|pinch|rad|sure|sweet|three	እሺ ምልክት እጅ|ምርጥ|በትክክል|አሪፍ|አካል|አፌ ይቆረጥ|እሺ|እጅ|ጣቶች
+E	🤌	13.0	pinched fingers|fingers|gesture|hand|hold|huh|interrogation|patience|pinched|relax|sarcastic|ugh|what|zip	የቆነጠጡ ጣቶች|ምን|በርታ|ኡህ|እጅ|ዘና በል|ዘና በይ|ዝም በል|ዝም በይ|ያዝ|ጣቶች
+E	🤏	12.0	pinching hand|amount|bit|fingers|hand|little|pinching|small|sort	እጅ መቆንጠጥ|ትንሽ|ትንሽ መጠን|እንደሱ ነገር|ጣቶች|ጥቂት
+E	✌️	0.6	victory hand|hand|peace|v|victory	የድል አድራጊነት ምልክት እጅ|ቪ|አካል|እጅ|ድል|ጣት
+E	🤞	3.0	crossed fingers|cross|crossed|finger|fingers|hand|luck	ጣት ማጣመር|ማጣመር|ምኞት|እድል|እጅ|ጣት|ጸሎት
+E	🫰	14.0	hand with index finger and thumb crossed|<3|crossed|expensive|finger|hand|heart|index|love|money|snap|thumb	አውራ እና ጠቋሚ ጣት የተጠመሩበት እጅ|<3|ልብ|ቀልጣፋ|እጅ|ወዲያው|ውድ|ገንዘብ|ጣት|ፍቅር
+E	🤟	5.0	love-you gesture|fingers|gesture|hand|ILY|love|love-you|three|you	ምልክትህን ወድጀዋለሁ|መውደድን የሚያሳይ የእጅ ምልክት|ሶስት ጣቶች|እወድሃለሁ|እወድሻለሁ|እጅ|ይመችህ|ይመችሽ
+E	🤘	1.0	sign of the horns|finger|hand|horns|rock-on|sign	የቀንዶች ምልክት|ቀንዶች|አካል|እጅ|እጅ፣ ቀንዶች፣ ጣት፣ የቀንዶች ምልክት፣ መመቸት|ጣት
+E	🤙	3.0	call me hand|call|hand|hang|loose|me|Shaka	ደውልልኝ የእጅ ምልክት|አሪፍ|እጅ|ይመችህ|ይመችሽ|ደውል|ደውልልኝ|ደውይ|ግጨው
+E	👈	0.6	backhand index pointing left|backhand|finger|hand|index|left|point|pointing	የግራ አይበሉባ እጅ የተቀሰረ አመልካች ጣት|ሌባ ጣት|መጠቆም|መጠንቆል|ነጥብ|አመልካች ጣት|እጅ|ወደ ኋላ መገልበጥ|ያ|ይህ|ጣት
+E	👉	0.6	backhand index pointing right|backhand|finger|hand|index|point|pointing|right	የቀኝ አይበሉባ እጅ የተቀሰረ አመልካች ጣት|ነጥብ|አንተ|እጅ|ወደ ኋላ መገልበጥ|ያ|ይህ|ጣት|ጥቆማ|ጥንቆላ
+E	👆	0.6	backhand index pointing up|backhand|finger|hand|index|point|pointing|up	ወደ ላይ የተቀሰረ አይበሉባ በኩል አመልካች ጣት|ላይ|መጠቆም|በአይበሉባ በኩል ወደ ላይ የተቀሰረ አመልካች ጣት|ነጥብ|አይበሉባ|እጅ|ወደ ላይ|ወደ ኋላ መገልበጥ
+E	🖕	1.0	middle finger|finger|hand|middle	የመሃል ጣት|አካል|እጅ|ጣት
+E	👇	0.6	backhand index pointing down|backhand|down|finger|hand|index|point|pointing	ወደ ታች የተቀሰረ አይበሉባ በኩል አመልካች ጣት|መረጃ ጠቋሚ|መጠቆም|ታች|ነጥብ|አይበሉባ|እጅ|ወደ ታች|ወደ ታች የሚያመለክት|ወደ ኋላ መገልበጥ|ጣት
+E	☝️	0.6	index pointing up|finger|hand|index|point|pointing|this|up	ወደ ላይ የተቀሰረ አመልካች ጣት|ላይ|ነጥብ|አንድ|እጅ|እጅ ማውጣት|ጣት
+E	🫵	14.0	index pointing at the viewer|at|finger|hand|index|pointing|poke|viewer|you	ወደ ተመልካቹ በጣት መጠቆም|መጠቆም|አንተ|አንቺ|እጅ|ጣት|ፖክ
+E	👍	0.6	thumbs up|+1|good|hand|like|thumb|up|yes	አውራ ጣት ወደ ላይ|ላይ|መስማማት|ማበረታታት|ብራቮ|አሪፍ ነው|አውራ ጣት|እሺ|እጅ|ፊት
+E	👎	0.6	thumbs down|-1|bad|dislike|down|good|hand|no|nope|thumb|thumbs	አውራ ጣት ወደ ታች|ለመውደድ|ታች|አውራ ጣት|እጅ|ውድቀት|ዝቅዝቅ|ጥላቻ|ፊት
+E	🫹	18.0	leftwards thumb sign|grip|left|neutral|point|that|this	የግራ አውራ ጣት ምልክት|መያዣ|ነጥብ|ያ|ይህ|ገለልተኛ|ግራ
+E	🫺	18.0	rightwards thumb sign|grip|neutral|point|right|that|this	የቀኝ አውራ ጣት ምልክት|መያዣ|ቀኝ|ነጥብ|ያ|ይህ|ገለልተኛ
+E	✊	0.6	raised fist|clenched|fist|hand|punch|raised|solidarity	ወደ ላይ የተያዘ ቡጢ|ቡጢ|እጅ|የተጨበጠ|ጡጫ
+E	👊	0.6	oncoming fist|absolutely|agree|boom|bro|bruh|bump|clenched|correct|fist|hand|knuckle|oncoming|pound|punch|rock|ttyl	የተሰነዘረ ጡጫ|ሰላምታ|ቡጢ|እጅ|የተጨበጠ|ጡጫ
+E	🤛	3.0	left-facing fist|fist|left-facing|leftwards	ወደ ግራ የዞረ ቡጢ|ቡጢ|ወደ ግራ|ጡጫ
+E	🤜	3.0	right-facing fist|fist|right-facing|rightwards	ወደ ቀኝ የዞረ ቡጢ|ሰላምታ|ስምምነት|ቡጢ|ወደ ቀኝ|ጡጫ|ጭብጥ
+E	👏	0.6	clapping hands|applause|approval|awesome|clap|congrats|congratulations|excited|good|great|hand|homie|job|nice|prayed|well|yay	አጨብጫቢ እጆች|ማጨብጨብ|አካል|እጅ|ጭብጨባ
+E	🙌	0.6	raising hands|celebration|gesture|hand|hands|hooray|praise|raised|raising	እጆቹን በቃ ብሎ ያነሳ ሰው|ምስጋና|እጅ|ከፍ ያደረገ|ክብረ በዓል|የእጅ ምልክት
+E	🫶	14.0	heart hands|<3|hands|heart|love|you	የልብ ቅርፅ የሰሩ እጆች|<3|ልብ|እወድሃለሁ|እወድሻለሁ|እጅ|እጆች|ፍቅር
+E	👐	0.6	open hands|hand|hands|hug|jazz|open|swerve	የተከፈቱ ሁለት እጆች|ንጹ ነኝ|አላውቅም|አካል|እጅ|ክፍት
+E	🤲	5.0	palms up together|cupped|dua|hands|palms|pray|prayer|together|up|wish	መዳፍ አንድ ላይ ወደላይ|ለጸሎት የተዘጋጁ እጆች|ምኞት|ዱዓ|ጸልዩ|ጸሎት
+E	🤝	3.0	handshake|agreement|deal|hand|meeting|shake	እጅ መጨባበጥ|መጨባበጥ|ስምምነት|ስብሰባ|እጅ
+E	🙏	0.6	folded hands|appreciate|ask|beg|blessed|bow|cmon|five|folded|gesture|hand|high|please|pray|thanks|thx	የእጅ መዳፎቹን ያጣበቀ ሰው|መዳፍን ማጋጨት|መጠየቅ|መጸለይ|ምስጋና|ስምምነት|እጅ|የተጣመረ
+E	✍️	0.7	writing hand|hand|write|writing	እየጻፈ ያለ እጅ|መጻፍ|አካል|እጅ|ጽሁፍ
+E	💅	0.6	nail polish|bored|care|cosmetics|done|makeup|manicure|nail|polish|whatever	የጥፍር ቀለም|እንክብካቤ|ኮስሞቲክስ|የጣት ውበት ጥበቃ|ጥፍር
+E	🤳	3.0	selfie|camera|phone	እራስ ፎቶ ማንሳት|ሰልፊ|ስልክ|ካሜራ
+E	💪	0.6	flexed biceps|arm|beast|bench|biceps|bodybuilder|bro|curls|flex|gains|gym|jacked|muscle|press|ripped|strong|weightlift	ታጥፎ የተወጠረ የእጅ ጡንቻ|ማሸነፍ|ኃይለኛ|ኃይል|አስቂኝ|አካል|የእጅ ጡንቻ|ጉልበት|ጡንቻ
+E	🦾	12.0	mechanical arm|accessibility|arm|mechanical|prosthetic	አውቶማቲክ እጅ|ሮቦት|ሰው ሰራሽ|ሰው ሰራሽ እጅ|ተደራሽ|ተደራሽነት|እጅ
+E	🦿	12.0	mechanical leg|accessibility|leg|mechanical|prosthetic	አውቶማቲክ እግር|ሮቦት|ሰው ሰራሽ|ሰው ሰራሽ እግር|ተደራሽ|ተደራሽነት|እግር
+E	🦵	11.0	leg|bent|foot|kick|knee|limb	እግር|መምታት|አካላት|የታጠፈ እግር|ጉልበት
+E	🦶	11.0	foot|ankle|feet|kick|stomp	እግር የታችኛው ክፍል|መምታት|መርገጥ|ቁርጭምጭሚት|እግር|የእግር የታችኛው ክፍል
+E	👂	0.6	ear|body|ears|hear|hearing|listen|listening|sound	ጆሮ|ማዳመጥ|አካል
+E	🦻	12.0	ear with hearing aid|accessibility|aid|ear|hard|hearing	ጆሮ መስማት ከሚራዳ መሳሪያ ጋር|መስማት መቸገር|ተደረሽነት|ተደራሽ|የመስማት ችግር|ጆሮ
+E	👃	0.6	nose|body|noses|nosey|odor|smell|smells	አፍንጫ|ማሽተት|ሽታ|አካል
+E	🧠	5.0	brain|intelligent|smart	አእምሮ|ብልህ|ብልጥ|አንጎል|ጎበዝ
+E	🫀	13.0	anatomical heart|anatomical|beat|cardiology|heart|heartbeat|organ|pulse|real|red	የልብ አካል|ልብ|ምት|ቀይ|እውነተኛ ልብ|የልብ ምት|የሰውነት አካል|የሰውነት የውስጥ አካል
+E	🫁	13.0	lungs|breath|breathe|exhalation|inhalation|lung|organ|respiration	ሳንባ|መተንፈስ|ሳንባዎች|ቀይ|የሰውነት አካል|የሰውነት የውስጥ አካል
+E	🦷	11.0	tooth|dentist|pearly|teeth|white	ጥርስ|ነጭ|የጥርስ ሃኪም|የጥርስ ሐኪም|የጥርስ ሕክምና
+E	🦴	11.0	bone|bones|dog|skeleton|wishbone	አጥንት|አጥንቶች|ውሻ|ዐፅም|የምኞት አጥንት
+E	👀	0.6	eyes|body|eye|face|googly|look|looking|omg|peep|see|seeing	ዓይኖች|ማትኮር|ማፍጠጥ|አካል|ዓይን|ፊት
+E	👁️	0.7	eye|1|body|one	ዓይን|1 ዐይን|አካል|ዕይታ
+E	👅	0.6	tongue|body|lick|slurp	ምላስ|ምላስ ማውጣት|አካል
+E	👄	0.6	mouth|beauty|body|kiss|kissing|lips|lipstick	አፍ|ሊፕስቲክ|ቀይ ሊፕስቲክ|ቀይ የከንፈር ቀለም|አካል|ከንፈሮች|ውበት|የከንፈር ቀለም
+E	🫦	14.0	biting lip|anxious|bite|biting|fear|flirt|flirting|kiss|lip|lipstick|nervous|sexy|uncomfortable|worried|worry	ከንፈር መንከስ|ሊፕስቲክ|መማረክ|መረበሽ|መሳም|መደናገጥ|መጨነቅ|ማሽኮርመም|ቆንጆ|ንክሻ|ከንፈር|ውብ|የማይመች|የሰጋ|የተጨነቀ|ፍርሃት
+E	👶	0.6	baby|babies|children|goo|infant|newborn|pregnant|young	ሕጻን|ልጆች|ሕጻናት|ጨቅላ
+E	🧒	5.0	child|bright-eyed|grandchild|kid|young|younger	ልጅ|ህፃን|ወጣት|የሚስቅ የህፃን ፊት|ጾታ የማይለይ
+E	👦	0.6	boy|bright-eyed|child|grandson|kid|son|young|younger	ወንድ ልጅ|ተባዕት/ወንድ ልጅ|ትንሽ ልጅ|ወጣት
+E	👧	0.6	girl|bright-eyed|child|daughter|granddaughter|kid|Virgo|young|younger|zodiac	ልጃገረድ|ሴት|ሴት ልጅ|ቪርጎ|ተማሪ|ኮረዳ|ወጣት|ዞድያክ|ድንግል
+E	🧑	5.0	person|adult	ጎልማሳ|የጎልማሳ ፊት|ጾታ የማይለይ
+E	👱	0.6	person: blond hair|blond|blond-haired|human|person	ጎልማሳ/ሉጫ ጸጉር ያለው|ሉጫ|ሉጫ ጸጉር ያለው ሰው|ወርቃማ ፀጉር|ወርቃማ ፀጉር ያለው ሰው|የሰው ዘር|ጸጉር|ፊት
+E	👨	0.6	man|adult|bro	ሰው|ወንድ
+E	🧔	5.0	person: beard|beard|bearded|person|whiskers	ጺማም ሰው|የፊት ላይ ጸጉር|ጺማም|ጺም
+E	🧔‍♂️	13.1	man: beard|beard|bearded|man|whiskers	ሰው: ጺም
+E	🧔‍♀️	13.1	woman: beard|beard|bearded|whiskers|woman	ሴት: ጺም
+E	👨‍🦰	11.0	man: red hair|adult|bro|man|red hair	ሰው: ቀይ ጸጉር|ሰው|ቀይ ጸጉር|ወንድ
+E	👨‍🦱	11.0	man: curly hair|adult|bro|curly hair|man	ሰው: የተጠቀለለ ጸጉር|ሰው|ወንድ|የተጠቀለለ ጸጉር
+E	👨‍🦳	11.0	man: white hair|adult|bro|man|white hair	ሰው: ነጭ ጸጉር|ሰው|ነጭ ጸጉር|ወንድ
+E	👨‍🦲	11.0	man: bald|adult|bald|bro|man	ሰው: መላጣ|መላጣ|ሰው|ወንድ
+E	👩	0.6	woman|adult|lady	ሴት|እመቤት|እንስት|ወርቃማ ጸጉር
+E	👩‍🦰	11.0	woman: red hair|adult|lady|red hair|woman	ሴት: ቀይ ጸጉር|ሴት|ቀይ ጸጉር|እመቤት|እንስት|ወርቃማ ጸጉር
+E	🧑‍🦰	12.1	person: red hair|adult|person|red hair	ጎልማሳ: ቀይ ጸጉር|ቀይ ጸጉር|የጎልማሳ ፊት|ጎልማሳ|ጾታ የማይለይ
+E	👩‍🦱	11.0	woman: curly hair|adult|curly hair|lady|woman	ሴት: የተጠቀለለ ጸጉር|ሴት|እመቤት|እንስት|ወርቃማ ጸጉር|የተጠቀለለ ጸጉር
+E	🧑‍🦱	12.1	person: curly hair|adult|curly hair|person	ጎልማሳ: የተጠቀለለ ጸጉር|የተጠቀለለ ጸጉር|የጎልማሳ ፊት|ጎልማሳ|ጾታ የማይለይ
+E	👩‍🦳	11.0	woman: white hair|adult|lady|white hair|woman	ሴት: ነጭ ጸጉር|ሴት|ነጭ ጸጉር|እመቤት|እንስት|ወርቃማ ጸጉር
+E	🧑‍🦳	12.1	person: white hair|adult|person|white hair	ጎልማሳ: ነጭ ጸጉር|ነጭ ጸጉር|የጎልማሳ ፊት|ጎልማሳ|ጾታ የማይለይ
+E	👩‍🦲	11.0	woman: bald|adult|bald|lady|woman	ሴት: መላጣ|መላጣ|ሴት|እመቤት|እንስት|ወርቃማ ጸጉር
+E	🧑‍🦲	12.1	person: bald|adult|bald|person	ጎልማሳ: መላጣ|መላጣ|የጎልማሳ ፊት|ጎልማሳ|ጾታ የማይለይ
+E	👱‍♀️	4.0	woman: blond hair|blond|blond-haired|blonde|hair|woman	ወርቃማ ጸጉር ያላት ሴት|ሰው|ሴት|ወርቃማ
+E	👱‍♂️	4.0	man: blond hair|blond|blond-haired|hair|man	ወርቃማ ጸጉር ያለው ወንድ|ሰው|ወርቃማ|ወንድ
+E	🧓	5.0	older person|adult|elderly|grandparent|old|person|wise	ያረጀ ጎልማሳ|ሰው|ሽማግሌ|ጾታ-የማይለይ
+E	👴	0.6	old man|adult|bald|elderly|gramps|grandfather|grandpa|man|old|wise	ሽማግሌ|መመለጥ|ራሰ በራ|አስተዋይ|አያት|ወንድ
+E	👵	0.6	old woman|adult|elderly|grandma|grandmother|granny|lady|old|wise|woman	አሮጊት ሴት|ሴት|ሽማግሌ|አሮጊት|አስተዋይ|አያት|ወርቃማ ጸጉር|የተበላሸ የጸጉር ቁርጥ
+E	🙍	0.6	person frowning|annoyed|disappointed|disgruntled|disturbed|frown|frowning|frustrated|gesture|irritated|person|upset	የተኮሳተረ ሰው|ተስፋ የቆረጠች|የተረበሸች|የተበሳጨች|የተኮሳተረ|የተኮሳተረች ሴት|የእጅ ምልክት|ያኮረፈች ሴት
+E	🙍‍♂️	4.0	man frowning|annoyed|disappointed|disgruntled|disturbed|frown|frowning|frustrated|gesture|irritated|man|upset	ወንድ ተኮሳትሮ|ወንድ|የተበሳጨ|የተኮሳተረ|የእጅ ምልክት
+E	🙍‍♀️	4.0	woman frowning|annoyed|disappointed|disgruntled|disturbed|frown|frowning|frustrated|gesture|irritated|upset|woman	ሴት ተኮሳትራ|ወንድ|የተኮሳተረ|የእጅ ምልክት
+E	🙎	0.6	person pouting|disappointed|downtrodden|frown|grimace|person|pouting|scowl|sulk|upset|whine	ሁኔታው ያልጣመው ሰው|ለንቦጭ መጣል|መበሳጨት|መነጫነጭ|መናደድ|ማኩረፍ|ሴት|ነገሩ ያልጣማት ሴት|ወሲብ የጠማት|የእጅ ምልክት|የፊት ምልክት|ያልተመቸው ፊት|ያልተመቻት|ያልጣመው ፊት|ፊት
+E	🙎‍♂️	4.0	man pouting|disappointed|downtrodden|frown|grimace|man|pouting|scowl|sulk|upset|whine	ወንድ ማለክለክ|ለንቦጩን የጣለ ወንድ|ለንቦጭ መጣል|ማለክለክ|ማኩረፍ|ወንድ|የእጅ ምልክት
+E	🙎‍♀️	4.0	woman pouting|disappointed|downtrodden|frown|grimace|pouting|scowl|sulk|upset|whine|woman	ሴት ማለክለክ|ማለክለክ|ሴት|የእጅ ምልክት
+E	🙅	0.6	person gesturing NO|forbidden|gesture|hand|NO|not|person|prohibit	የእጅ ምልክት ለአይሆንም|አታስበው|አታስቢው|አታካትት|አካላዊ ቋንቋ|አይ|አይ የሚል ምልክት የሚሰጥ ሰው|አይሆንም|እጅ|ከልክል|ክልክል|የተከለከለ|የእጅ ምልክት|ያልተፈቀደ
+E	🙅‍♂️	4.0	man gesturing NO|forbidden|gesture|hand|man|NO|not|prohibit	የእጅ ምልክት ለአይሆንም ወንድ|አይሆንም|አይሆንም የሚል የእጅ ምልክት የሚያሳይ ወንድ|እጅ|ወንድ|የተከለከለ|የእጅ ምልክት
+E	🙅‍♀️	4.0	woman gesturing NO|forbidden|gesture|hand|NO|not|prohibit|woman	የእጅ ምልክት ለአይሆንም ሴት|ሴት|እጅ|ክልክል|የተከለከለ|የእጅ ምልክት
+E	🙆	0.6	person gesturing OK|exercise|gesture|gesturing|hand|OK|omg|person	የእጅ ምልክት ለእሺ|እሺ|እሺ የሚል ምልክት የሚሰጥ ሰው|እጅ|ኦ አምላኬ|የአካል ብቃት እንቅስቃሴ|የእጅ ምልክት
+E	🙆‍♂️	4.0	man gesturing OK|exercise|gesture|gesturing|hand|man|OK|omg	የእጅ ምልክት ለእሺ ወንድ|እሺ|እኔ አላምንም|እንቅስቃሴ|እጅ|ወንድ|ወንድ በእጅ ምልክት እሺ እያለ|የእጅ ምልክት
+E	🙆‍♀️	4.0	woman gesturing OK|exercise|gesture|gesturing|hand|OK|omg|woman	የእጅ ምልክት ለእሺ ሴት|ሴት|እሺ|እጅ|የእጅ ምልክት
+E	💁	0.6	person tipping hand|fetch|flick|flip|gossip|hand|person|sarcasm|sarcastic|sassy|seriously|tipping|whatever	መረጃ ሰጪ ግለሰብ|ሐሜት|መረጃ|መረጃ ሰጪ|ሴት|ሹፈት|እንጃ|እጅ|እገዛ|ወሬ|ጸጉርን መነስነስ|ፌዝ
+E	💁‍♂️	4.0	man tipping hand|fetch|flick|flip|gossip|hand|man|sarcasm|sarcastic|sassy|seriously|tipping|whatever	ወንድ መረጃ ሰጪ|ሐሜት|መረጃ|መረጃ ሰጪ|ማምጣት|ምንም ይሁን ምን|ሴት|ስላቅ|ችላ ማለት|አሽሙረኛ|አሽሙር|እርዳታ|እጁን የሚያወዛውዝ ወንድ|እጅ|እገዛ|ዲቫ|ጠቃሚ ምክር መስጠት|ጸጉርን መግለጥ|ጸጉርን ማወዛወዝ|ፍላጎት ማሳየት
+E	💁‍♀️	4.0	woman tipping hand|fetch|flick|flip|gossip|hand|sarcasm|sarcastic|sassy|seriously|tipping|whatever|woman	ሴት መረጃ ሰጪ|መረጃ ሰጪ|ሴት|እጅ|እገዛ
+E	🙋	0.6	person raising hand|gesture|hand|here|know|me|person|pick|question|raise|raising	ደስ ያለው እጁን የሚያወጣ ሰው|ስንብት|ቻው|እኔ ማገዝ እችላለሁ|እኔን ምረጡኝ|እዚህ|እዚህ ጋ|እጅ|እጇን ያወጣች ሴት|ከፍ ያደረገ|የእጅ ምልክት|ደስተኛ
+E	🙋‍♂️	4.0	man raising hand|gesture|hand|here|know|man|me|pick|question|raise|raising	የወንድ እጅ ማውጣት|እኔ|እኔ አውቃለሁ|እጁን ያወጣ ሰው|እጁን ያወጣ ወንድ|እጅ|እጆች|ከፍ ያደረገ|ወንድ|የተነሳ እጅ|የእጅ ምልክት|ጥያቄ
+E	🙋‍♀️	4.0	woman raising hand|gesture|hand|here|know|me|pick|question|raise|raising|woman	የሴት እጅ ማውጣት|ሴት|እጅ|ከፍ ያደረገ|የእጅ ምልክት
+E	🧏	12.0	deaf person|accessibility|deaf|ear|gesture|hear|person	መስማት የተሳነው ሰው|መስማት|ማዳመጥ|ምቹ|ተደራሽ|ተደራሽነት|ወደ ጆሮው የጠቆመ ሰው|ደንቆሮ|ጆሮ
+E	🧏‍♂️	12.0	deaf man|accessibility|deaf|ear|gesture|hear|man	ደንቆሮ ሰው|ወንድ|ደንቆሮ
+E	🧏‍♀️	12.0	deaf woman|accessibility|deaf|ear|gesture|hear|woman	ደንቆሮ ሴት|ሴት|ደንቆሮ
+E	🙇	0.6	person bowing|apology|ask|beg|bow|bowing|favor|forgive|gesture|meditate|meditation|person|pity|regret|sorry	ከወገቡ ጎንበስ ብሎ ሰላምታ የሚሰጥ ሰው|ልመና|መመሰጥ|ማሳዘን|ማጎንበስ|ተመስጦ|የሚያጎነብስ ሰው|የእጅ ምልክት|ይቅር ማለት|ይቅርታ|ጸጸት
+E	🙇‍♂️	4.0	man bowing|apology|ask|beg|bow|bowing|favor|forgive|gesture|man|meditate|meditation|pity|regret|sorry	ወንድ ማጎንበስ|ማጎንበስ|ወንድ|የእጅ ምልክት|ይቅርታ
+E	🙇‍♀️	4.0	woman bowing|apology|ask|beg|bow|bowing|favor|forgive|gesture|meditate|meditation|pity|regret|sorry|woman	ሴት ማጎንበስ|መመሰጥ|ማጎንበስ|ሴት|ተመስጦ|የእጅ ምልክት|ያጎነበሰች ሴት|ይቅርታ|ይቅርታ መጠየቅ
+E	🤦	3.0	person facepalming|again|bewilder|disbelief|exasperation|facepalm|no|not|oh|omg|person|shock|smh	ማዘን|መደነቅ|መዳፍ|ሰው|አለማመን|አይሆንም|እራስን ማነቃነቅ|እንደገና አይሆንም|እጅ|ኦ አምላኬ|ድንጋጤ|ፊትን በመዳፍ መሸፈን
+E	🤦‍♂️	4.0	man facepalming|again|bewilder|disbelief|exasperation|facepalm|man|no|not|oh|omg|shock|smh	ወንድ ፊት መቅላት|መደነቅ|መዳፍ|በፍጹም አይሆንም|ብስጭት|አለማመን|አምላኬ|እንደገና አይሆንም|ኦ አምላኬ|ድንጋጤ|ጭንቅላትን ማወዛወዝ|ፊት መቅላት|ፊትን በመዳፍ መሸፈን
+E	🤦‍♀️	4.0	woman facepalming|again|bewilder|disbelief|exasperation|facepalm|no|not|oh|omg|shock|smh|woman	ሴት ፊት መቅላት|መደነቅ|መደንገጥ|መዳፍ|ሴት|በፍጹም አይሆንም|ብስጭት|አለማመን|አምላኬ|እንደገና|ጭንቅላትን ማወዛወዝ|ፊትን በመዳፍ መሸፈን
+E	🤷	3.0	person shrugging|doubt|dunno|guess|idk|ignorance|indifference|knows|maybe|person|shrug|shrugging|whatever|who	ንቆ መተው|ልዩነት|መጠራጠር|ምናልባት|ምንም ይሁን|አለማወቅ|አላውቅም|አያገባኝም|አይመለከተኝም|እኔ እንጃ|እኔንጃ
+E	🤷‍♂️	4.0	man shrugging|doubt|dunno|guess|idk|ignorance|indifference|knows|man|maybe|shrug|shrugging|whatever|who	ወንድ አለማወቅ|ልዩነት|መሃል ላይ መሆን|መሸማቀቅ|መጠራጠር|ንቆ መተው|አለማወቅ|አላውቅም|አይመለከተኝም|እኔ አላውቅም|ወንድ|ያገባኝም|ድንቁርና|ግዴለሽነት|ጥርጣሬ
+E	🤷‍♀️	4.0	woman shrugging|doubt|dunno|guess|idk|ignorance|indifference|knows|maybe|shrug|shrugging|whatever|who|woman	ሴት አለማወቅ|ልዩነት|መሃል ላይ መሆን|መሸማቀቅ|መጠራጠር|ሴት|ንቆ መተው|አለማወቅ|አላውቅም|አያገባኝም|አይመለከተኝም|እኔ አላውቅም|ግዴለሽነት|ግድ የለኝም|ጥርጣሬ
+E	🧑‍⚕️	12.1	health worker|doctor|health|healthcare|nurse|therapist|worker	የጤና ሰራተኛ
+E	👨‍⚕️	4.0	man health worker|doctor|health|healthcare|man|nurse|therapist|worker	ወንድ ነርስ|ሐኪም|ተባዕት|ቴራፒስት|ነርስ|ወንድ|የጤና እንክብካቤ
+E	👩‍⚕️	4.0	woman health worker|doctor|health|healthcare|nurse|therapist|woman|worker	ሴት ነርስ|ሐኪም|ሴት|ቴራፒስት|ነርስ|ኪም|የጤና እንክብካቤ
+E	🧑‍🎓	12.1	student|graduate	ተማሪ
+E	👨‍🎓	4.0	man student|graduate|man|student	ወንድ ተመራቂ|ተመራቂ|ተማሪ|ተባዕት|ወንድ|የተማረ
+E	👩‍🎓	4.0	woman student|graduate|student|woman	ሴት ተመራቂ|ሴት|ተመራቂ|ተማሪ|እንስት|የተማረች
+E	🧑‍🏫	12.1	teacher|instructor|lecturer|professor	አስተማሪ
+E	👨‍🏫	4.0	man teacher|instructor|lecturer|man|professor|teacher	ወንድ አስተማሪ|ተባዕት|አስተማሪ|ወንድ|ፕሮፌሰር
+E	👩‍🏫	4.0	woman teacher|instructor|lecturer|professor|teacher|woman	ሴት አስተማሪ|ሴት|አስተማሪ|ፕሮፌሰር
+E	🧑‍⚖️	12.1	judge|justice|law|scales	ዳኛ
+E	👨‍⚖️	4.0	man judge|judge|justice|law|man|scales	ወንድ ዳኛ|ሚዛን|ተባዕት|ወንድ|ዳኛ|ፍትህ
+E	👩‍⚖️	4.0	woman judge|judge|justice|law|scales|woman	ሴት ዳኛ|ሚዛን|ሴት|እንስት|ዳኛ|ፍትህ
+E	🧑‍🌾	12.1	farmer|gardener|rancher	ገበሬ
+E	👨‍🌾	4.0	man farmer|farmer|gardener|man|rancher	ወንድ ገበሬ|ሰው|ተክል|ወንድ|ገበሬ
+E	👩‍🌾	4.0	woman farmer|farmer|gardener|rancher|woman	ሴት ገበሬ|ሰው|ሴት|ተክል|ገበሬ
+E	🧑‍🍳	12.1	cook|chef	ማብሰል
+E	👨‍🍳	4.0	man cook|chef|cook|man	ወንድ አብሳይ|ማብሰል|ምግብ ዝግጅት|ሰው|ሼፍ|አብሳይ|ወንድ
+E	👩‍🍳	4.0	woman cook|chef|cook|woman	ሴት አብሳይ|ማብሰል|ሴት|ሼፍ|አብሳይ
+E	🧑‍🔧	12.1	mechanic|electrician|plumber|tradesperson	ሜካኒክ
+E	👨‍🔧	4.0	man mechanic|electrician|man|mechanic|plumber|tradesperson	ወንድ ሜካኒክ|መካኒክ|ሜካኒክ|ሰው|ወንድ|የቧንቧ ሰራተኛ|የኤሊክትሪክ ሰራተኛ
+E	👩‍🔧	4.0	woman mechanic|electrician|mechanic|plumber|tradesperson|woman	ሴት ሜካኒክ|ሜካኒክ|ሰው|ሴት|የቧንቧ ሰራተኛ|የኤሊክትሪክ ሰራተኛ
+E	🧑‍🏭	12.1	factory worker|assembly|factory|industrial|worker	የፋብሪካ ሰራተኛ
+E	👨‍🏭	4.0	man factory worker|assembly|factory|industrial|man|worker	ወንድ የፋብሪካ ሰራተኛ|መገጣጠሚያ|ሰራተኛ|ኢንዱስትሪ|ወንድ|ፋብሪካ
+E	👩‍🏭	4.0	woman factory worker|assembly|factory|industrial|woman|worker	ሴት የፋብሪካ ሰራተኛ|መገጣጠሚያ|ሰራተኛ|ኢንዱስትሪ|ፋብሪካ
+E	🧑‍💼	12.1	office worker|architect|business|manager|office|white-collar|worker	የቤሮ ሰራተኛ
+E	👨‍💼	4.0	man office worker|architect|business|man|manager|office|white-collar|worker	ወንድ የቢሮ ሰራተኛ|መሐንዲስ|ሸሚዝ ከረባት|በደንብ የለበሰ|ንግድ|አስተዳዳሪ|ወንድ
+E	👩‍💼	4.0	woman office worker|architect|business|manager|office|white-collar|woman|worker	ሴት የቢሮ ሰራተኛ|መሐንዲስ|ሴት|ንግድ|አስተዳዳሪ
+E	🧑‍🔬	12.1	scientist|biologist|chemist|engineer|mathematician|physicist	ሳይንቲስት
+E	👨‍🔬	4.0	man scientist|biologist|chemist|engineer|man|mathematician|physicist|scientist	ወንድ ሳይንቲስት|ሳይንቲስት|ባዮሎጂስት|ኢንጂነር|ኬሚስት|ወንድ
+E	👩‍🔬	4.0	woman scientist|biologist|chemist|engineer|mathematician|physicist|scientist|woman	ሴት ሳይንቲስት|ሳይንቲስት|ሴት|ባዮሎጂስት|ኢንጂነር|ኬሚስት
+E	🧑‍💻	12.1	technologist|coder|computer|developer|inventor|software	ቴክኖሎጂስት
+E	👨‍💻	4.0	man technologist|coder|computer|developer|inventor|man|software|technologist	ወንድ ቴክኖሎጂ አዋቂ|ሶፍትዌር|ሶፍትዌር አልሚ|ቴክኖሎጂ አዋቂ|ወንድ|ፈጣሪ|ፕሮግራመር
+E	👩‍💻	4.0	woman technologist|coder|computer|developer|inventor|software|technologist|woman	ሴት ቴክኖሎጂ አዋቂ|ሴት|ሴት ፕሮግራመር|ሶፍትዌር|ቴክኖሎጂ አዋቂ|ፈጣሪ
+E	🧑‍🎤	12.1	singer|actor|entertainer|rock|rockstar|star	ዘፋኝ
+E	👨‍🎤	4.0	man singer|actor|entertainer|man|rock|rockstar|singer|star	ወንድ ዘፋኝ|ተዋናይ|አዝናኝ|ኮከብ|ወንድ|ዘፋኝ
+E	👩‍🎤	4.0	woman singer|actor|entertainer|rock|rockstar|singer|star|woman	ሴት ዘፋኝ|ሴት|ተዋናይ|አዝናኝ|ኮከብ|ዘፋኝ
+E	🧑‍🎨	12.1	artist|palette	አርቲስት
+E	👨‍🎨	4.0	man artist|artist|man|palette	ወንድ ሠዓሊ|ሠዓሊ|ሰው|ወንድ|የሥዕል ቅብ ሥራ
+E	👩‍🎨	4.0	woman artist|artist|palette|woman	ሴት ሠዓሊ|ሠዓሊ|ሰው|ሴት|የሥዕል ቅብ ሥራ
+E	🧑‍✈️	12.1	pilot|plane	ፓይለት
+E	👨‍✈️	4.0	man pilot|man|pilot|plane	ወንድ አውሮፕላን አብራሪ|ሰው|አውሮፕላን|አውሮፕላን አብራሪ|ወንድ
+E	👩‍✈️	4.0	woman pilot|pilot|plane|woman	ሴት አውሮፕላን አብራሪ|ሰው|ሴት|አውሮፕላን|አውሮፕላን አብራሪ
+E	🧑‍🚀	12.1	astronaut|rocket|space	የጠፈር ተመራማሪ
+E	👨‍🚀	4.0	man astronaut|astronaut|man|rocket|space	ወንድ የህዋ ተመራማሪ|ህዋ|መንኮራኩር|ሮኬት|ሰው|አስትሮኖት|ወንድ
+E	👩‍🚀	4.0	woman astronaut|astronaut|rocket|space|woman	ሴት የህዋ ተመራማሪ|ህዋ|መንኮራኩር|ሮኬት|አስትሮኖት|ወንድ
+E	🧑‍🚒	12.1	firefighter|fire|firetruck	የእሳት አደጋ ተከላካይ
+E	👨‍🚒	4.0	man firefighter|fire|firefighter|firetruck|man	ወንድ የእሳት አደጋ ተከላካይ|ሰው|ወንድ|የእሳት አደጋ መኪና|የእሳት አደጋ ተከላካይ
+E	👩‍🚒	4.0	woman firefighter|fire|firefighter|firetruck|woman	ሴት የእሳት አደጋ ተከላካይ|ሴት|የእሳት አደጋ መኪና|የእሳት አደጋ ተከላካይ
+E	👮	0.6	police officer|apprehend|arrest|citation|cop|law|officer|over|police|pulled|undercover	ፖሊስ|ሕግ|ሕግ ማጣቀስ|መኪና እንዲያቆሙ መደረግ|መያዝ|ማሰር|ሰው|በሽፋን የሚሰራ ፖሊስ|የፖሊስ መኮንን|የፖሊስ ሹም
+E	👮‍♂️	4.0	man police officer|apprehend|arrest|citation|cop|law|man|officer|over|police|pulled|undercover	ወንድ የፖሊስ ሹም|ሰው|ወንድ|የፖሊስ ሹም|ፖሊስ
+E	👮‍♀️	4.0	woman police officer|apprehend|arrest|citation|cop|law|officer|over|police|pulled|undercover|woman	ሴት የፖሊስ ሹም|ሕግ|ሕግ መጥቀስ|መኪና ማስቆም|መኮንን|ሰው|ሴት|ሴት የፖሊስ መኮንን|በሽፋን የሚሰራ ፖሊስ|የፖሊስ መኮንን|የፖሊስ ሹም|ፖሊስ
+E	🕵️	0.7	detective|sleuth|spy	መርማሪ ፖሊስ|መርማሪ|ሰላይ|ሰው|ትልቅ ሰው|ክትትል ፖሊስ|ፖሊስ
+E	🕵️‍♂️	4.0	man detective|detective|man|sleuth|spy	ወንድ መርማሪ ፖሊስ|መርማሪ ፖሊስ|ሰላይ|ክትትል ፖሊስ|ወንድ
+E	🕵️‍♀️	4.0	woman detective|detective|sleuth|spy|woman	ሴት መርማሪ ፖሊስ|መርማሪ ፖሊስ|ሰላይ|ሴት|ክትትል ፖሊስ|የክትትል ፖሊስ
+E	💂	0.6	guard|buckingham|helmet|london|palace	ጠባቂ|ለንደን|ቆብ|ቤተመንግስት|ክብር ዘብ|ዘብ
+E	💂‍♂️	4.0	man guard|buckingham|guard|helmet|london|man|palace	ወንድ ጠባቂ|ሰው|ወንድ|ጠባቂ
+E	💂‍♀️	4.0	woman guard|buckingham|guard|helmet|london|palace|woman	ሴት ጠባቂ|ለንደን|ሰው|ሴት|ዘበኛ|የራስ ቁር|የራስ ቁር ያደረገች ሴት ጠባቂ|የበኪንግሃም ቤተ መንግስት|ጠባቂ
+E	🥷	13.0	ninja|assassin|fight|fighter|hidden|person|secret|skills|sly|soldier|stealth|war	ኒንጃ|ምስጢር|ሰላይ|ሰው|ቅጥር ነብሰ ገዳይ|ችሎታዎች|ነብሰ ገዳይ|ክህሎቶች|ወታደር|ውጊያ|ጦርነት|ፀብ
+E	👷	0.6	construction worker|build|construction|fix|hardhat|hat|man|person|rebuild|remodel|repair|work|worker	የግንባታ ሥራ ሠራተኛ|መሐንዲስ|ሠራተኛ|እንደ አዲስ ንደፍ|እንደገና ገንባ|ካቦ|ኮፊያ|ወዛደር|ገንባ|ግንባታ|ጠግን
+E	👷‍♂️	4.0	man construction worker|build|construction|fix|hardhat|hat|man|rebuild|remodel|repair|work|worker	ወንድ የግንባታ ሰራተኛ|ሠራተኛ|ሰው|ወንድ|ግንባታ
+E	👷‍♀️	4.0	woman construction worker|build|construction|fix|hardhat|hat|man|rebuild|remodel|repair|woman|work|worker	ሴት የግንባታ ሰራተኛ|ሠራተኛ|ሥራ|ሴት|ስራ|ባርኔጣ|ኮፍያ|ወንድ|የደህንነት ኮፍያ|ግንባታ|ጠንካራ ኮፍያ
+E	🫅	14.0	person with crown|crown|monarch|noble|person|regal|royal|royalty	ዘውድ ያደረገ ሰው|ንጉሣዊ|ንጉሳዊ|ንጉሳዊ ቤተሰብ|ንጉስ|ንግሥት|አገዛዝ|ዘውድ|የተከበረ
+E	🤴	3.0	prince|crown|fairy|fairytale|fantasy|king|royal|royalty|tale	ልዑል
+E	👸	0.6	princess|crown|fairy|fairytale|fantasy|queen|royal|royalty|tale	ልዕልት|ምናባዊ|ተረት ተረት|ንግስት
+E	👳	0.6	person wearing turban|person|turban|wearing	ጥምጣም ያደረገ ሰው|ወንድ|ጥምጣም
+E	👳‍♂️	4.0	man wearing turban|man|turban|wearing	ጥምጣም ያደረገ ወንድ|ሰው|ወንድ|ጥምጣም
+E	👳‍♀️	4.0	woman wearing turban|turban|wearing|woman	ጥምጣም ያደረች ሴት|ሰው|ሴት|ጥምጣም|ጥምጣም ያደረገች ሴት
+E	👲	0.6	person with skullcap|cap|Chinese|gua|guapi|hat|mao|person|pi|skullcap	የቻይና ኮፍያ ያደረገ ሰው|ኮፍያ|ወንድ
+E	🧕	5.0	woman with headscarf|bandana|head|headscarf|hijab|kerchief|mantilla|tichel|woman	ሴት በስካርፍ|ሂጃብ|ማንቲላ|ባንዳና|ቲቸል|የራስ መሸፈኛ|የራስ መሸፈኛ ያደረገች ሴት|የጭንቅላት ላይ የሚደረግ መሃረብ
+E	🤵	3.0	person in tuxedo|formal|person|tuxedo|wedding	ሱፍ ልብስ የለበሰ ሰው|ሙሽራ|ሰው|ቶክሲዶ|ደንበኛ አለባበስ
+E	🤵‍♂️	13.0	man in tuxedo|formal|groom|man|tuxedo|wedding	ሰው በቶክሲዶ|ሰው|ቶክሲዶ
+E	🤵‍♀️	13.0	woman in tuxedo|formal|tuxedo|wedding|woman	ሴት በቶክሲዶ|ሴት|ቶክሲዶ
+E	👰	0.6	person with veil|person|veil|wedding	ቬሎ ያደረገች ሙሽራ|ሙሽሪት|ሙሽራ|ሰርግ|ቬሎ
+E	👰‍♂️	13.0	man with veil|man|veil|wedding	ወንድ በዓይነ እርግብ|ወንድ|ዓይነ እርግብ
+E	👰‍♀️	13.0	woman with veil|bride|veil|wedding|woman	ሴት በዓይነ እርግብ|ሴት|ዓይነ እርግብ
+E	🤰	3.0	pregnant woman|pregnant|woman	እርጉዝ ሴት|ሴት|እርጉዝ
+E	🫃	14.0	pregnant man|belly|bloated|full|man|overeat|pregnant	እርጉዝ ወንድ|ሆድ|ሙሉ|ቀፈት|እርጉዝ|ያበጠ ሆድ
+E	🫄	14.0	pregnant person|belly|bloated|full|overeat|person|pregnant|stuffed	እርጉዝ ሰው|ሆድ|መጥገብ|ሙሉ|እርጉዝ|እርጉዝ ሴት|ከመጠን በላይ መብላት|ያበጠ ሆድ
+E	🤱	5.0	breast-feeding|baby|breast|feeding|mom|mother|nursing|woman	ጡት ማጥባት|ህፃን|ህፃን ልጅን ጡት ማጥባት|ጡት|ጡት-ማጥባት
+E	👩‍🍼	13.0	woman feeding baby|baby|feed|feeding|mom|mother|nanny|newborn|nursing|woman	ሴት ህጻን ስትመግብ|ህጻን|መመገብ|ምገባ|ሞግዚት|ሰው|ሰው ህጻን ሲመግብ|ሴት|ነርስ|አራስ|እማማ|እናት|ፍቅር
+E	👨‍🍼	13.0	man feeding baby|baby|dad|father|feed|feeding|man|nanny|newborn|nursing	ወንድ ህጻን ሲመግብ|ህጻን|መመገብ|ምገባ|ሞግዚት|ሰው|ሰው ህጻን ሲመግብ|ሰው ህጻን ሲያጠባ|ነርስ|አራስ|አባት|ወንድ|ፍቅር
+E	🧑‍🍼	13.0	person feeding baby|baby|feed|feeding|nanny|newborn|nursing|parent	ሰው ህጻን ሲመግብ|ህጻን|መመገብ|ምገባ|ሞግዚት|ሰው|ሰው ህጻን ሲያጠባ|ሴት|ነርስ|አራስ|አባት|እናት|ወንድ
+E	👼	0.6	baby angel|angel|baby|church|face|fairy|fairytale|fantasy|tale	ሕፃኑ መልዓክ|ሕጻን መልዓክ|ሕፃን|መልዓክ|ምናባዊ|ተረት ተረት|ኪሩብ|ፊት
+E	🎅	0.6	Santa Claus|celebration|Christmas|claus|fairy|fantasy|father|holiday|merry|santa|tale|xmas	አባባ ገና|አባት|ክብረ በዓል|የገና አባት|ገና
+E	🤶	3.0	Mrs. Claus|celebration|Christmas|claus|fairy|fantasy|holiday|merry|mother|Mrs|santa|tale|xmas	የገና እናት|እናት|ወ/ሮ ከላውስ|ገና
+E	🧑‍🎄	13.0	Mx Claus|celebration|Christmas|claus|fairy|fantasy|holiday|merry|Mx|santa|tale|xmas	ሚክስ ክላውስ|ሰው|ሳንታ ክላውስ|በዓል|ክላውስ|ኮፍያ|የገና አባት|ገና
+E	🦸	11.0	superhero|good|hero|superpower	ጀግና|ልዕለ ኃያል|ልዩ ኃይል ያለው|መልካም|ሱፐርማን|ባትማን|ጀግና ሴት|ጥሩ
+E	🦸‍♂️	11.0	man superhero|good|hero|man|superhero|superpower	የወንድ ጀግና|ወንድ|ጀግና|ጥሩ
+E	🦸‍♀️	11.0	woman superhero|good|hero|heroine|superhero|superpower|woman	የሴት ጀግና|ሴት|ጀግና|ጥሩ
+E	🦹	11.0	supervillain|bad|criminal|evil|superpower|villain	የጀግና ምስል|ሃያል|ልዕለ ኃያል|መጥፎ|ሰው|በጣም ተንኮለኛ|ተንኮለኛ|ክፉ|ወንጀለኛ|ወንጀል
+E	🦹‍♂️	11.0	man supervillain|bad|criminal|evil|man|superpower|supervillain|villain	የወንድ ጀግና ምስል|ሃያል|ሰው|ተንኮለኛ|ክፉ|ወንጀለኛ
+E	🦹‍♀️	11.0	woman supervillain|bad|criminal|evil|superpower|supervillain|villain|woman	የሴት ጀግና ምስል|ሃያል|ተንኮለኛ|ክፉ|ወንጀል
+E	🧙	5.0	mage|fantasy|magic|play|sorcerer|sorceress|sorcery|spell|summon|witch|wizard	አስማት|መንፈስ መጥራት|ሚና መጫወት|ምትሃተኛ|አስማተኛ|አስማተኛ ሰው|የሕልም ዓለም|ድግምት|ጠንቋይ
+E	🧙‍♂️	5.0	man mage|fantasy|mage|magic|man|play|sorcerer|sorceress|sorcery|spell|summon|witch|wizard	አስማተኛ ወንድ
+E	🧙‍♀️	5.0	woman mage|fantasy|mage|magic|play|sorcerer|sorceress|sorcery|spell|summon|witch|wizard|woman	አስማተኛ ሴት
+E	🧚	5.0	fairy|fairytale|fantasy|myth|person|pixie|tale|wings	ጠንቋይ|ተረት|አፈ ታሪክ|ክንፎች|የሰው ፌሪ|የቢሆን ዓለም|ፌሪ|ፒክሲ
+E	🧚‍♂️	5.0	man fairy|fairy|fairytale|fantasy|man|myth|Oberon|person|pixie|Puck|tale|wings	ጠንቋይ ወንድ
+E	🧚‍♀️	5.0	woman fairy|fairy|fairytale|fantasy|myth|person|pixie|tale|Titania|wings|woman	ጠንቋይ ሴት
+E	🧛	5.0	vampire|blood|Dracula|fangs|halloween|scary|supernatural|teeth|undead	ጥርስ ያለው ጭራቅ|ሃሎዊን|ልዕለ ተፈጥሮ|ቅመም|ቫምፓየር|አልባሳት|አስፈሪ|ያልሞተ|ደም|ጥርስ|ጭራቅ
+E	🧛‍♂️	5.0	man vampire|blood|fangs|halloween|man|scary|supernatural|teeth|undead|vampire	ጥርስ ያለው ወንድ ጭራቅ
+E	🧛‍♀️	5.0	woman vampire|blood|fangs|halloween|scary|supernatural|teeth|undead|vampire|woman	ጥርስ ያላት ሴት ጭራቅ
+E	🧜	5.0	merperson|creature|fairytale|folklore|ocean|sea|siren|trident	ግማሽ ሰው ግማሽ ዓሳ|ማርሜድ|ባለሶስት ጦር|ተረት ተረት|ግማሽ ሴት ግማሽ ዓሳ|ግማሽ ወንድ ግማሽ ዓሳ|ጥሩምባ
+E	🧜‍♂️	5.0	merman|creature|fairytale|folklore|Neptune|ocean|Poseidon|sea|siren|trident|Triton	ወንድ ግማሽ ሰው ግማሽ ዓሳ
+E	🧜‍♀️	5.0	mermaid|creature|fairytale|folklore|merwoman|ocean|sea|siren|trident	ሴት ግማሽ ሰው ግማሽ ዓሳ
+E	🧝	5.0	elf|elves|enchantment|fantasy|folklore|magic|magical|myth	ኤልፍ|ምስጢራዊ|ምትሃታዊ|አፈታሪካዊ|አፈታሪክ|እልቢስ|እልቢሶች|የሕልም ዓለም|ደስታ
+E	🧝‍♂️	5.0	man elf|elf|elves|enchantment|fantasy|folklore|magic|magical|man|myth	ወንድ ኤልፍ
+E	🧝‍♀️	5.0	woman elf|elf|elves|enchantment|fantasy|folklore|magic|magical|myth|woman	ሴት ኤልፍ
+E	🧞	5.0	genie|djinn|fantasy|jinn|lamp|myth|rub|wishes	ጅኒ|ምስጢራዊ|ምኞቶች|አፈታሪካዊ|የሕልም ዓለም|የሰው ጅኒ|ጂን|ጋኔን|ፋኖሱን መፈግፈግ
+E	🧞‍♂️	5.0	man genie|djinn|fantasy|genie|jinn|lamp|man|myth|rub|wishes	ወንድ ጅኒ
+E	🧞‍♀️	5.0	woman genie|djinn|fantasy|genie|jinn|lamp|myth|rub|wishes|woman	ሴት ጅኒ
+E	🧟	5.0	zombie|apocalypse|dead|halloween|horror|scary|undead|walking	ዞምቢ|ሃሎዊን|አስፈሪ|እጅግ አስፈሪ|ከሞት የተነሳ|የሚራመድ ሬሳ|የሰው ዞምቢ|የአለም ፍጻሜ
+E	🧟‍♂️	5.0	man zombie|apocalypse|dead|halloween|horror|man|scary|undead|walking|zombie	ወንድ ዞምቢ
+E	🧟‍♀️	5.0	woman zombie|apocalypse|dead|halloween|horror|scary|undead|walking|woman|zombie	ሴት ዞምቢ
+E	🧌	14.0	troll|fairy|fantasy|monster|tale|trolling	አስቃያሚ ጭራቅ|ቅዠት|ተረት|አስቀያሚ ጭራቅ|አስፈሪ|የሚያስፈራ|ጭራቅ
+E	🫈	17.0	hairy creature|bigfoot|cryptid|forest|giant|hairy|sasquatch|woodwose|yeti	ፀጉራማ ፍጥረት|ትልቅ እግር|ትልቅ የፀጉር ፍጡር|አረመኔ|ክሪፕትድ|ግዙፍ|ጫካ|ጸጉራም
+E	💆	0.6	person getting massage|face|getting|headache|massage|person|relax|relaxing|salon|soothe|spa|tension|therapy|treatment	የፊት ማሳጅ|ሕክምና|መዝናናት|ማሳጅ|ራስ ምታት|ሰው ማሳጅ እየተደረገ|ሳሎን|ሴት ማሳጅ እየተደረገች|እርጋታ|ውጥረት|ዘና ማለት|የውበት ሳሎን|ፊት
+E	💆‍♂️	4.0	man getting massage|face|getting|headache|man|massage|relax|relaxing|salon|soothe|spa|tension|therapy|treatment	ወንድ የፊት ማሳጅ|መዝናናት|ማሳጅ|ራስ ምታት|ሳሎን|ቤተ ውበት|ወንድ|ወንድ የፊት ማሳጅ እየተደረገለት|ውጥረት|ዘና ማለት|የውበት ሳሎን
+E	💆‍♀️	4.0	woman getting massage|face|getting|headache|massage|relax|relaxing|salon|soothe|spa|tension|therapy|treatment|woman	ሴት የፊት ማሳጅ|ማሳጅ|ሳሎን|ሴት
+E	💇	0.6	person getting haircut|barber|beauty|chop|cosmetology|cut|groom|hair|haircut|parlor|person|shears|style	ጸጉር መቆረጥ|ሰው ፀጉር እየተቆተጠ|በመቀስ መቁረጥ|እንግዳ መቀበያ|ውበት|የውበት ሳሎን|ጸጉር ቆራጭ|ፀጉር አስተካካይ
+E	💇‍♂️	4.0	man getting haircut|barber|beauty|chop|cosmetology|cut|groom|hair|haircut|man|parlor|person|shears|style	ወንድ ጸጉር መቆረጥ|ሰው|ወንድ|ወንድ ፀጉሩን እየተቆረጠ|ውበት|የፀጉር ቁርጥ|ጸጉር ቆራጭ|ፀጉር|ፀጉር ቤት|ፀጉር አስተካካይ
+E	💇‍♀️	4.0	woman getting haircut|barber|beauty|chop|cosmetology|cut|groom|hair|haircut|parlor|person|shears|style|woman	ሴት ጸጉር መቆረጥ|ሴት|ጸጉር ቆራጭ
+E	🚶	0.6	person walking|amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking	እግረኛ|መራመድ|በቄንጥ መራመድ|በእግር መሸራሸር|አረማመድ|የእግር ረዥም ጉዞ|የእግር ጉዞ
+E	🚶‍♂️	4.0	man walking|amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking	የወንድ እግር ጉዞ|መራመድ|በእግር መሸራሸር|የእግር ረዥም ጉዞ
+E	🚶‍♀️	4.0	woman walking|amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman	የሴቶች እግር ጉዞ|መራመድ|መንሸራተት|ማዝገም|ረዥም የእግር ጉዞ|በእግር መሸራሸር|በእግር የምትራመድ ሴት|በኩራት መራመድ|ተጀንኖ መራመድ|እግረኛ|የእግር ረዥም ጉዞ
+E	🚶‍➡️	15.1	person walking: facing right|amble|facing|gait|hike|man|pace|pedestrian|person|right|stride|stroll|walk|walking	
+E	🚶‍♀️‍➡️	15.1	woman walking: facing right|amble|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking|woman	
+E	🚶‍♂️‍➡️	15.1	man walking: facing right|amble|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking	
+E	🧍	12.0	person standing|person|stand|standing	ሰው ቆሞ|መቆም|ቁም|የቆመ ሰው
+E	🧍‍♂️	12.0	man standing|man|stand|standing	ወንድ ቆሞ|ቆሞ|ወንድ
+E	🧍‍♀️	12.0	woman standing|stand|standing|woman	ሴት ቆማ|መቆም|ሴት
+E	🧎	12.0	person kneeling|kneel|kneeling|knees|person	ሰው ተንበርክኮ|መንበርከክ|በመንበርከክ ላይ|በጉልበቱ የተንበረከከ ሰው|ተንበርከክ|ጉልበት
+E	🧎‍♂️	12.0	man kneeling|kneel|kneeling|knees|man	ወንድ ተንበርክኮ|መንበርከክ|ወንድ
+E	🧎‍♀️	12.0	woman kneeling|kneel|kneeling|knees|woman	ሴት ተንበርክካ|ሴት|ተንበርከክ
+E	🧎‍➡️	15.1	person kneeling: facing right|facing|kneel|kneeling|knees|person|right	
+E	🧎‍♀️‍➡️	15.1	woman kneeling: facing right|facing|kneel|kneeling|knees|right|woman	
+E	🧎‍♂️‍➡️	15.1	man kneeling: facing right|facing|kneel|kneeling|knees|man|right	
+E	🧑‍🦯	12.1	person with white cane|accessibility|blind|cane|person|probing|white	ሰው ከመምሪያ አገዳ ጋር
+E	🧑‍🦯‍➡️	15.1	person with white cane: facing right|accessibility|blind|cane|facing|person|probing|right|white	
+E	👨‍🦯	12.0	man with white cane|accessibility|blind|cane|man|probing|white	ወንድ በከዘራ|ምቹ|ሰው|ተደራሽ|ተደራሽነት|እውር|ወንድ|ወንድ የዓይነ ስውር ከዘራ ይዞ|ዓይነ ስውር
+E	👨‍🦯‍➡️	15.1	man with white cane: facing right|accessibility|blind|cane|facing|man|probing|right|white	
+E	👩‍🦯	12.0	woman with white cane|accessibility|blind|cane|probing|white|woman	ሴት በከዘራ|ምቹ|ሰው|ሴት|ሴት የዓይነ ስውር ከዘራ ይዛ|ተደራሽ|ተደራሽነት|እውር|ዓይነ ስውር
+E	👩‍🦯‍➡️	15.1	woman with white cane: facing right|accessibility|blind|cane|facing|probing|right|white|woman	
+E	🧑‍🦼	12.1	person in motorized wheelchair|accessibility|motorized|person|wheelchair	ሰው ከባለሞተር መቀመጫ ጋር
+E	🧑‍🦼‍➡️	15.1	person in motorized wheelchair: facing right|accessibility|facing|motorized|person|right|wheelchair	
+E	👨‍🦼	12.0	man in motorized wheelchair|accessibility|man|motorized|wheelchair	ወንድ በሞተር ተሽከርካሪ ወንበር|ምቹ|ተሽከርካሪ ወንበር|ተደራሽ|ተደራሽነት|አካል ጉዳተኛ|ወንድ|ወንድ በሞተር ተሽከርካሪ ወንበር ላይ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	👨‍🦼‍➡️	15.1	man in motorized wheelchair: facing right|accessibility|facing|man|motorized|right|wheelchair	
+E	👩‍🦼	12.0	woman in motorized wheelchair|accessibility|motorized|wheelchair|woman	ሴት በሞተር ተሽከርካሪ ወንበር|መጓጓዣ|ምቹ|ሰው|ሴት|ሴት በሞተር የሚሰራ ተሽከርካሪ ወንበር ላይ|ተሽከርካሪ ወንበር|ተደራሽ|ተደራሽነት|አካል ጉዳተኛ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	👩‍🦼‍➡️	15.1	woman in motorized wheelchair: facing right|accessibility|facing|motorized|right|wheelchair|woman	
+E	🧑‍🦽	12.1	person in manual wheelchair|accessibility|manual|person|wheelchair	ሰው በባለእጅ ተሽከርካሪ ወንበር
+E	🧑‍🦽‍➡️	15.1	person in manual wheelchair: facing right|accessibility|facing|manual|person|right|wheelchair	
+E	👨‍🦽	12.0	man in manual wheelchair|accessibility|man|manual|wheelchair	ወንድ በእጅ ተሽከርካሪ ወንበር|መጓጓዣ|ምቹ|ሰው|ተሽከርካሪ ወንበር|ተደራሽ|ተደራሽነት|አካል ጉዳተኛ|ወንድ|ወንድ በእጅ የሚገፋ ተሽከርካሪ ወንበር ላይ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	👨‍🦽‍➡️	15.1	man in manual wheelchair: facing right|accessibility|facing|man|manual|right|wheelchair	
+E	👩‍🦽	12.0	woman in manual wheelchair|accessibility|manual|wheelchair|woman	ሴት በእጅ ተሽከርካሪ ወንበር|መጓጓዣ|ምቹ|ሰው|ሴት|ሴት በእጅ የሚገፋ ተሽከርካሪ ወንበር ላይ|ተሽከርካሪ ወንበር|ተደራሽ|ተደራሽነት|አካል ጉዳተኛ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	👩‍🦽‍➡️	15.1	woman in manual wheelchair: facing right|accessibility|facing|manual|right|wheelchair|woman	
+E	🏃	0.6	person running|fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed	ሯጭ|መንቀሳቀስ|ማራቶን|ሩጫ|ሰው ሲሮጥ|ችኮላ|እሽቅድድም|ጥድፊያ
+E	🏃‍♂️	4.0	man running|fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed	የወንድ ሩጫ|ማራቶን|ሩጫ|ውድድር
+E	🏃‍♀️	4.0	woman running|fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman	የሴት ሩጫ|መጣሁ|ማራቶን|ሩጫ|ሯጭ|ሴት እየሮጠች|ችኮላ|ውድድር|ፈጣን|ፍጠኝ|ፍጥነት
+E	🏃‍➡️	15.1	person running: facing right|facing|fast|hurry|marathon|move|person|quick|race|racing|right|run|rush|speed	
+E	🏃‍♀️‍➡️	15.1	woman running: facing right|facing|fast|hurry|marathon|move|quick|race|racing|right|run|rush|speed|woman	
+E	🏃‍♂️‍➡️	15.1	man running: facing right|facing|fast|hurry|man|marathon|move|quick|race|racing|right|run|rush|speed	
+E	🧑‍🩰	17.0	ballet dancer|ballet|dancer	የባሌት ዳንሰኛ|ባሌት|ዳንሰኛ
+E	💃	0.6	woman dancing|dance|dancer|dancing|elegant|festive|flair|flamenco|groove|let’s|salsa|tango|woman	ሴቶች ሲደንሱ|መደነስ|ሳልሳ|ሴት|ሴት ስትደንስ|ደናሽ|ዳንስ|ፍላሜንኮ
+E	🕺	3.0	man dancing|dance|dancer|dancing|elegant|festive|flair|flamenco|groove|let’s|man|salsa|tango	ሰው ሲደንስ|ሰው|ሳልሳ|ዳንሰኛ|ዳንስ|ፍላሜንኮ
+E	🕴️	0.7	person in suit levitating|business|levitating|person|suit	ሽክ ብሎ የለበሰ የሥራ ሰው|መንሳፈፍ|ሙሉ ልብስ|ሰው|ቢዝነስ|ንግድ ሥራ|ወንድ|የሥራ ልብስ|የሥራ ልብስ የለበሰ ሰው ከፍ ብሎ ሲንሳፈፍ
+E	👯	0.6	people with bunny ears|bestie|bff|bunny|counterpart|dancer|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies	ሰዎች ሲጨፍሩ|ልጃገረድ|መንታ|መንትያ እህትማማቾች|መንትዮች|ሰዎች|ሴት|ሹራብ ኮፍያ|አንድ አይነት|አጋር|የልብ ጓደኖች|የቅርብ ጓደኛሞች|የጥንቸል ጆሮ ኮፍያ|ዳንሰኛ|ጥንድ|ፓርቲ|ፓርቲ ላይ መሳተፍ
+E	👯‍♂️	4.0	men with bunny ears|bestie|bff|bunny|counterpart|dancer|double|ear|identical|men|pair|party|partying|people|soulmate|twin|twinsies	ወንዶች ሲጨፍሩ|ሁለት ወንዶች|ልጃገረድ|መንትዮች|ሴት|ሹራብ ኮፍያ|የሹራብ ኮፍያ|የጥንቸል ጆሮ|የጥንቸል ጆሮ ያደረግ ሁለት ሴቶች|የጥንቸል ጆሮ ያደረግ ሁለት ወንዶች|ዳንሰኛ|ግብዣ|ጓደኛማቾች|ፓርቲ
+E	👯‍♀️	4.0	women with bunny ears|bestie|bff|bunny|counterpart|dancer|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies|women	ሴቶች ሲጨፍሩ|ልጃገረድ|ሴት|ሹራብ ኮፍያ|ዳንሰኛ
+E	🧖	5.0	person in steamy room|day|luxurious|pamper|person|relax|room|sauna|spa|steam|steambath|unwind	ሰው በእንፋሎት ክፍል ውስጥ|መፍታታት|ሳውና|ስፓ|ቅንጦት|እንፋሎታማ|እንፋሎት ክፍል|ዘና ማለት|የቀን ስፓ|ፓምፐር
+E	🧖‍♂️	5.0	man in steamy room|day|luxurious|man|pamper|relax|room|sauna|spa|steam|steambath|unwind	ወንድ በእንፋሎት ክፍል ውስጥ
+E	🧖‍♀️	5.0	woman in steamy room|day|luxurious|pamper|relax|room|sauna|spa|steam|steambath|unwind|woman	ሴት በእንፋሎት ክፍል ውስጥ
+E	🧗	5.0	person climbing|climb|climber|climbing|mountain|person|rock|scale|up	ሰው ተራራ ሲወጣ|ሰው ወደላይ በመውጣት ላይ|ተራራ|ተራራ ወጪ|አለት ወጪ|ወደ ላይ መውጣት|ደረጃ
+E	🧗‍♂️	5.0	man climbing|climb|climber|climbing|man|mountain|rock|scale|up	ወንድ ተራራ ሲወጣ
+E	🧗‍♀️	5.0	woman climbing|climb|climber|climbing|mountain|rock|scale|up|woman	ሴት ተራራ ስትወጣ
+E	🤺	3.0	person fencing|fencer|fencing|person|sword	ሻቦላ ተጫዋች|ሰው|ስፖርት|ሻሞላ|ሻሞላ ተጫዋች|ሻቦላ|ሻቦላ መጫወት|ፍልሚያ
+E	🏇	1.0	horse racing|horse|jockey|racehorse|racing|riding|sport	የፈረስ እሽቅድምድም|እሽቅድምድም|የእሽቅድምድም ፈረስ|ጆክሎክ|ግልቢያ|ፈረስ
+E	⛷️	0.7	skier|ski|snow	ስኪ ተጫዋች|ስኪ|ስፖርት|ሸርተቴ|በረዶ|ክረምት|የበረዶ ሸርተቴ|የበረዶ ሸርተቴ ተጫዋች|ጨዋታ
+E	🏂	0.6	snowboarder|ski|snow|snowboard|sport	በረዶ ሸርተቴ ተጫዋች|ስኪ|በረዶ|የበረዶ መንሸራተቻ
+E	🏌️	0.7	person golfing|ball|birdie|caddy|driving|golf|golfing|green|person|pga|putt|range|tee	ጎልፍ ተጫዋች|ቲ|አረንጓዴ|ኳስ|ጎልፍ|ጎልፍ ጨዋታ
+E	🏌️‍♂️	4.0	man golfing|ball|birdie|caddy|driving|golf|golfing|green|man|pga|putt|range|tee	ወንድ ጎልፍ ተጫዋች|ሰው|ወንድ|ጎልፍ
+E	🏌️‍♀️	4.0	woman golfing|ball|birdie|caddy|driving|golf|golfing|green|pga|putt|range|tee|woman	ሴት ጎልፍ ተጫዋች|ሴት|ኳስ|የጎልፍ ኳስ የምትመታ ሴት ልጅ|ጎልፍ
+E	🏄	0.6	person surfing|beach|ocean|person|sport|surf|surfer|surfing|swell|waves	የውሃ ሸርተቴ ተጫዋች|መንሸራተት|ማዕበሎች|ስፖርት|በውሃ ላይ የሚንሸራተት ሰው|ከፍ ማለት|ውቅያኖስ|የባህር ዳርቻ|የውሃ ላይ ተንሸራታች|የውሃ ሸርተቴ
+E	🏄‍♂️	4.0	man surfing|beach|man|ocean|sport|surf|surfer|surfing|swell|waves	ወንድ የውሃ ሸርተቴ ተጫዋች|ወንድ|የውሃ ሸርተቴ
+E	🏄‍♀️	4.0	woman surfing|beach|ocean|person|sport|surf|surfer|surfing|swell|waves	ሴት የውሃ ሸርተቴ ተጫዋች|ሞገዶች|ሰው ውሃ ላይ እየተንሸራተተ|ሴት|ሴት ውሃ ላይ እየተንሸራተተች|ስፖርት|ውሃ ላይ መንሸራተት|ውቅያኖስ|የባህር ዳርቻ|የውሃ ሸርተቴ|የውሃ ሸርተቴ ተጫዋች
+E	🚣	1.0	person rowing boat|boat|canoe|cruise|fishing|lake|oar|paddle|person|raft|river|row|rowboat|rowing	የታንኳ ቀዘፋ|መቅዘፊያ|መጓጓዣ|ተሽከርካሪ|ካያኪንግ|ውሃ|ዘንግ|የቀዘፋ ጀልባ|ጀልባ|ጀልባ የሚቀዝፍ ሰው
+E	🚣‍♂️	4.0	man rowing boat|boat|canoe|cruise|fishing|lake|man|oar|paddle|raft|river|row|rowboat|rowing	የወንድ ጀልባ ቀዛፊ|ተሽከርካሪ|ወንድ|ጀልባ
+E	🚣‍♀️	4.0	woman rowing boat|boat|canoe|cruise|fishing|lake|oar|paddle|raft|river|row|rowboat|rowing|woman	የሴት ጀልባ ቀዛፊ|ሐይቅ|መርከብ|መቅዘፍ|ሴት|ሴት ጀልባ እየቀዘፈች|ተሽከርካሪ|ወንዝ|ዓሳ ማጥመድ|የጀልባ መቅዘፊያ|ጀልባ
+E	🏊	0.6	person swimming|freestyle|person|sport|swim|swimmer|swimming|triathlon	ዋናተኛ|ሰው ሲዋኝ|ስፖርት|ትሪያትሎን|ነጻ ዋና|ዋና|ውሃ ዋና
+E	🏊‍♂️	4.0	man swimming|freestyle|man|sport|swim|swimmer|swimming|triathlon	የወንድ ዋናተኛ|ሰው|ወንድ|ዋና
+E	🏊‍♀️	4.0	woman swimming|freestyle|man|sport|swim|swimmer|swimming|triathlon	የሴት ዋናተኛ|መዋኘት|ሴት|ሴት እየዋኘች|ዋና|ዋናተኛ
+E	⛹️	0.7	person bouncing ball|athletic|ball|basketball|bouncing|championship|dribble|net|person|player|throw	ኳስ የያዘ ሰው|መረብ ብቻ|ማንጠር|ሰው ኳስ ሲያነጥር|ስፖርት|ሻምፒዮና|ቅርጫት ኳስ|ቅርጫት ኳስ ተጫዋች|ተጫዋች|ነጻ ውርወራ|አትሌቲክ|ኳስ
+E	⛹️‍♂️	4.0	man bouncing ball|athletic|ball|basketball|bouncing|championship|dribble|man|net|player|throw	ኳስ የያዘ ወንድ|ኳስ|ወንድ
+E	⛹️‍♀️	4.0	woman bouncing ball|athletic|ball|basketball|bouncing|championship|dribble|net|player|throw|woman	ኳስ የያዘች ሴት|ሴት|ኳስ|ኳስ የምታነጥር ሴት|የቅርጫት ኳስ
+E	🏋️	0.7	person lifting weights|barbell|bodybuilder|deadlift|lifter|lifting|person|powerlifting|weight|weightlifter|weights|workout	ክብደት አንሺ|ሰውነት ገንቢ|ከባድ ክብደት ማንሳት|ክብደት|ክብደት ማንሳት|ደምቤል|ዴድሊፍት
+E	🏋️‍♂️	4.0	man lifting weights|barbell|bodybuilder|deadlift|lifter|lifting|man|powerlifting|weight|weightlifter|weights|workout	ወንድ ክብደት አንሺ|ክብደት|ወንድ
+E	🏋️‍♀️	4.0	woman lifting weights|barbell|bodybuilder|deadlift|lifter|lifting|powerlifting|weight|weightlifter|weights|woman|workout	ሴት ክብደት አንሺ|ሴት|ሴት ክብደት እያነሳች|ክብደት
+E	🚴	1.0	person biking|bicycle|bicyclist|bike|biking|cycle|cyclist|person|riding|sport	ብስክሌት ጋላቢ|ሳይክል|ስፖርት|በመጋለብ ላይ|ባይክ|ብስክሌት|የሚጋልብ ሰው
+E	🚴‍♂️	4.0	man biking|bicycle|bicyclist|bike|biking|cycle|cyclist|man|riding|sport	ወንድ ብስክሌት ጋላቢ|ብስክሌት|ወንድ
+E	🚴‍♀️	4.0	woman biking|bicycle|bicyclist|bike|biking|cycle|cyclist|riding|sport|woman	ሴት ብስክሌት ጋላቢ|መንዳት|ሴት|ሴት ብስክሌት እየነዳች|ስፖርት|ብስክሌት|ብስክሌት ጋላቢ
+E	🚵	1.0	person mountain biking|bicycle|bicyclist|bike|biking|cycle|cyclist|mountain|person|riding|sport	የተራራ ብስክሌት ጋላቢ|ማውንቴን|ብስክሌት|ብስክሌት ጋላቢ|ተራራ|አትሌቲክ
+E	🚵‍♂️	4.0	man mountain biking|bicycle|bicyclist|bike|biking|cycle|cyclist|man|mountain|riding|sport	ወንድ የተራራ ብስክሌት ጋላቢ|ብስክሌት|ብስክሌት ጋላቢ|ተራራ|ወንድ
+E	🚵‍♀️	4.0	woman mountain biking|bicycle|bicyclist|bike|biking|cycle|cyclist|mountain|riding|sport|woman	ሴት የተራራ ብስክሌት ጋላቢ|መንዳት|ሴት|ሴት ብስክሌት እየነዳች|ስፖርት|ብስክሌት|ብስክሌት ጋላቢ|ተራራ|የብስክሌት ተወዳዳሪ
+E	🤸	3.0	person cartwheeling|active|cartwheel|cartwheeling|excited|flip|gymnastics|happy|person|somersault	አክሮባት|ሰው|ስፖርት|ንቁ|ደስተኛ|ጅምናስቲክ|ጉጉ
+E	🤸‍♂️	4.0	man cartwheeling|active|cartwheel|cartwheeling|excited|flip|gymnastics|happy|man|somersault	የወንድ አክሮባት|ሰው|ስፖርት|ንቁ|አክሮባት|ወንድ|ደስተኛ|ጂምናስቲክ|ጅምናስቲክ|ጉጉ
+E	🤸‍♀️	4.0	woman cartwheeling|active|cartwheel|cartwheeling|excited|flip|gymnastics|happy|somersault|woman	የሴት አክሮባት|ሴት|ስፖርት|በጎን መገልበጥ|ንቁ|አክሮባት|ጅምናስቲክ|ጉጉ
+E	🤼	3.0	people wrestling|combat|duel|grapple|people|ring|tournament|wrestle|wrestling	ነጻ ትግል|ሁለት ተፋላሚዎች|ሰው|ሰዎች|ስፖርት|በቀለበት ውስጥ|የትግል ውድድር|ፍልሚያ
+E	🤼‍♂️	4.0	men wrestling|combat|duel|grapple|men|ring|tournament|wrestle|wrestling	የወንድ ነጻ ትግል|መታገል|ሰው|ስፖርት|በቀለበት ውስጥ|ነጻ ትግል|ወንድ|የትግል ውድድር
+E	🤼‍♀️	4.0	women wrestling|combat|duel|grapple|ring|tournament|women|wrestle|wrestling	የሴት ነጻ ትግል|መታገል|ሰው|ሴት|ስፖርት|ቀለበት ውስጥ|ነጻ ትግል|ውድድር
+E	🤽	3.0	person playing water polo|person|playing|polo|sport|swimming|water|waterpolo	የውሃ ላይ ገና ጨዋታ|ማርኮ|ሰው|ስፖርት|ውሃ|ውሃ ዋና|የውሃ ስፖርት|የውሃ ፖሎ|የገና ጨዋታ
+E	🤽‍♂️	4.0	man playing water polo|man|playing|polo|sport|swimming|water|waterpolo	የወንድ የውሃ ላይ ገና ጨዋታ|ማርኮ|ስፖርት|ኳስ የሚወረውር ወንድ|ወንድ|ውሃ|የገና ጨዋታ
+E	🤽‍♀️	4.0	woman playing water polo|playing|polo|sport|swimming|water|waterpolo|woman	የሴት የውሃ ላይ ገና ጨዋታ|ማርኮ|ሴት|ስፖርት|ውሃ|ውሃ ዋና|የውሃ ስፖርት|የውሃ ፖሎ|የገና ጨዋታ
+E	🤾	3.0	person playing handball|athletics|ball|catch|chuck|handball|hurl|lob|person|pitch|playing|sport|throw|toss	የእጅ ኳስ|መወርወር|መያዝ|መጣል|ማሽቀንጠር|ማጓን|ሰው|ስፖርት|ኳስ
+E	🤾‍♂️	4.0	man playing handball|athletics|ball|catch|chuck|handball|hurl|lob|man|pitch|playing|sport|throw|toss	የወንድ የእጅ ኳስ ጨዋታ|ስፖርት|ኳስ|ወንድ|የእጅ ኳስ
+E	🤾‍♀️	4.0	woman playing handball|athletics|ball|catch|chuck|handball|hurl|lob|pitch|playing|sport|throw|toss|woman	የሴት የእጅ ኳስ ጨዋታ|መያዝ|መጣል|ማሻማት|ማጓን|ምወርወር|ሴት|ስፖርት|ኳስ|የእጅ ኳስ
+E	🤹	3.0	person juggling|act|balance|balancing|handle|juggle|juggling|manage|multitask|person|skill	ቅልልቦሽ|ሚዛን|ሚዛን መጠበቅ|ማቀላለብ|ሥራ ብዙ|ስራብዙ|ችሎታ|አያያዝ
+E	🤹‍♂️	4.0	man juggling|act|balance|balancing|handle|juggle|juggling|man|manage|multitask|skill	የወንድ ቅብብሎሽ|መቋቋም|ማስተዳደር|ስራብዙ|ቅልልቦሽ|ቅብብሎሽ የሚጫወት ወንድ|ባለብዙ ተግባር|ችሎታ|አያያዝ|ወንድ
+E	🤹‍♀️	4.0	woman juggling|act|balance|balancing|handle|juggle|juggling|manage|multitask|skill|woman	የሴት ቅብብሎሽ|ሴት|ሴት ቅብብሎሽ እየተጫወተች|ስራብዙ|ቅልልቦሽ|ባለ ብዙ ተግባር
+E	🧘	5.0	person in lotus position|cross|legged|legs|lotus|meditation|peace|person|position|relax|serenity|yoga|yogi|zen	በሎታስ ኣቀማመጥ|ሜዲቴሽን|ሰላም|በሎተስ አቀማመጥ የተቀመጠ ሰው|ተመስጦ|እግርን ማቆላለፍ|ከጭንቀት ነጻ|ዘና ማለት|ዜን|የተቆላለፈ እግር|ዮጊ|ዮጋ
+E	🧘‍♂️	5.0	man in lotus position|cross|legged|legs|lotus|man|meditation|peace|position|relax|serenity|yoga|yogi|zen	በሎታስ ኣቀማመጥ ወንድ
+E	🧘‍♀️	5.0	woman in lotus position|cross|legged|legs|lotus|meditation|peace|position|relax|serenity|woman|yoga|yogi|zen	በሎታስ ኣቀማመጥ ሴት
+E	🛀	0.6	person taking bath|bath|bathtub|person|taking|tub	ገላውን የሚታጠብ ሰው|የገላ መታጠቢያ ገንዳ|ገላን መታጠብ
+E	🛌	1.0	person in bed|bed|bedtime|good|goodnight|hotel|nap|night|person|sleep|tired|zzz	አልጋ ላይ የተኛ ሰው|ሆቴል|እንቅልፍ
+E	🧑‍🤝‍🧑	12.0	people holding hands|bae|bestie|bff|couple|dating|flirt|friends|hand|hold|people|twins	ሰዎች እጅ ለእጅ ተያይዘው|መያዝ|ሰው|ባልና ሚስት|እጅ|እጅ ለእጅ መያያዝ|ጥንዶች
+E	👭	1.0	women holding hands|bae|bestie|bff|couple|dating|flirt|friends|girls|hand|hold|sisters|twins|women	እጅ ለእጅ የተያያዙ ሴቶች|መያዝ|ሴት|እጅ
+E	👫	0.6	woman and man holding hands|bae|bestie|bff|couple|dating|flirt|friends|hand|hold|man|twins|woman	እጅ ለእጅ የተያያዙ ወንድ እና ሴት|ሴት|እጅ|እጅ ለእጅ|ወንድ|ወንድ እና ሴት|ጥንዶች
+E	👬	1.0	men holding hands|bae|bestie|bff|boys|brothers|couple|dating|flirt|friends|hand|hold|men|twins	እጅ ለእጅ የተያያዙ ወንዶች|ሆሮስኮፕ|መንትዮች|መያዝ እጅ|ኤልጂቢቲኪው|እጅ ለእጅ የተያያዙ ሰዎች|ዞድያክ|ጄምኒ|ጥንዶች|ፍካሬ ከዋክብት
+E	💏	0.6	kiss|anniversary|babe|bae|couple|date|dating|heart|love|mwah|person|romance|together|xoxo	መሳም|መሳሳም|ጥንዶች|ፍቅር
+E	👩‍❤️‍💋‍👨	2.0	kiss: woman, man|anniversary|babe|bae|couple|date|dating|heart|kiss|love|man|mwah|person|romance|together|woman|xoxo	መሳም: ሴት እና ሰው|መሳም|መሳሳም|ሰው|ሴት|ጥንዶች|ፍቅር
+E	👨‍❤️‍💋‍👨	2.0	kiss: man, man|anniversary|babe|bae|couple|date|dating|heart|kiss|love|man|mwah|person|romance|together|xoxo	መሳም: ሰው እና ሰው|መሳም|መሳሳም|ሰው|ጥንዶች|ፍቅር
+E	👩‍❤️‍💋‍👩	2.0	kiss: woman, woman|anniversary|babe|bae|couple|date|dating|heart|kiss|love|mwah|person|romance|together|woman|xoxo	መሳም: ሴት እና ሴት|መሳም|መሳሳም|ሴት|ጥንዶች|ፍቅር
+E	💑	0.6	couple with heart|anniversary|babe|bae|couple|dating|heart|kiss|love|person|relationship|romance|together|you	ልብ በመሃላቸው ያሉ ጥንዶች|ልብ|ጥንዶች|ፍቅር
+E	👩‍❤️‍👨	2.0	couple with heart: woman, man|anniversary|babe|bae|couple|dating|heart|kiss|love|man|person|relationship|romance|together|woman|you	ልብ በመሃላቸው ያሉ ጥንዶች: ሴት እና ሰው|ልብ|ልብ በመሃላቸው ያሉ ጥንዶች|ሰው|ሴት|ጥንዶች|ፍቅር
+E	👨‍❤️‍👨	2.0	couple with heart: man, man|anniversary|babe|bae|couple|dating|heart|kiss|love|man|person|relationship|romance|together|you	ልብ በመሃላቸው ያሉ ጥንዶች: ሰው እና ሰው|ልብ|ልብ በመሃላቸው ያሉ ጥንዶች|ሰው|ጥንዶች|ፍቅር
+E	👩‍❤️‍👩	2.0	couple with heart: woman, woman|anniversary|babe|bae|couple|dating|heart|kiss|love|person|relationship|romance|together|woman|you	ልብ በመሃላቸው ያሉ ጥንዶች: ሴት እና ሴት|ልብ|ልብ በመሃላቸው ያሉ ጥንዶች|ሴት|ጥንዶች|ፍቅር
+E	👨‍👩‍👦	2.0	family: man, woman, boy|boy|child|family|man|woman	ቤተሰብ: ሰው፣ ሴት እና ወንድ ልጅ|ልጅ|ሰው|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👩‍👧	2.0	family: man, woman, girl|child|family|girl|man|woman	ቤተሰብ: ሰው፣ ሴት እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👨‍👩‍👧‍👦	2.0	family: man, woman, girl, boy|boy|child|family|girl|man|woman	ቤተሰብ: ሰው፣ ሴት፣ ልጃገረድ እና ወንድ ልጅ|ልጃገረድ|ልጅ|ሰው|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👩‍👦‍👦	2.0	family: man, woman, boy, boy|boy|child|family|man|woman	ቤተሰብ: ሰው፣ ሴት፣ ወንድ ልጅ እና ወንድ ልጅ|ልጅ|ሰው|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👩‍👧‍👧	2.0	family: man, woman, girl, girl|child|family|girl|man|woman	ቤተሰብ: ሰው፣ ሴት፣ ልጃገረድ እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👨‍👨‍👦	2.0	family: man, man, boy|boy|child|family|man	ቤተሰብ: ሰው፣ ሰው እና ወንድ ልጅ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👨‍👧	2.0	family: man, man, girl|child|family|girl|man	ቤተሰብ: ሰው፣ ሰው እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👨‍👨‍👧‍👦	2.0	family: man, man, girl, boy|boy|child|family|girl|man	ቤተሰብ: ሰው፣ ሰው፣ ልጃገረድ እና ወንድ ልጅ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👨‍👦‍👦	2.0	family: man, man, boy, boy|boy|child|family|man	ቤተሰብ: ሰው፣ ሰው፣ ወንድ ልጅ እና ወንድ ልጅ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👨‍👧‍👧	2.0	family: man, man, girl, girl|child|family|girl|man	ቤተሰብ: ሰው፣ ሰው፣ ልጃገረድ እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👩‍👩‍👦	2.0	family: woman, woman, boy|boy|child|family|woman	ቤተሰብ: ሴት፣ ሴት እና ወንድ ልጅ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👩‍👧	2.0	family: woman, woman, girl|child|family|girl|woman	ቤተሰብ: ሴት፣ ሴት እና ልጃገረድ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👩‍👩‍👧‍👦	2.0	family: woman, woman, girl, boy|boy|child|family|girl|woman	ቤተሰብ: ሴት፣ ሴት፣ ልጃገረድ እና ወንድ ልጅ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👩‍👦‍👦	2.0	family: woman, woman, boy, boy|boy|child|family|woman	ቤተሰብ: ሴት፣ ሴት፣ ወንድ ልጅ እና ወንድ ልጅ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👩‍👧‍👧	2.0	family: woman, woman, girl, girl|child|family|girl|woman	ቤተሰብ: ሴት፣ ሴት፣ ልጃገረድ እና ልጃገረድ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👨‍👦	4.0	family: man, boy|boy|child|family|man	ቤተሰብ: ሰው እና ወንድ ልጅ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👦‍👦	4.0	family: man, boy, boy|boy|child|family|man	ቤተሰብ: ሰው፣ ወንድ ልጅ እና ወንድ ልጅ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👧	4.0	family: man, girl|child|family|girl|man	ቤተሰብ: ሰው እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👨‍👧‍👦	4.0	family: man, girl, boy|boy|child|family|girl|man	ቤተሰብ: ሰው፣ ልጃገረድ እና ወንድ ልጅ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👨‍👧‍👧	4.0	family: man, girl, girl|child|family|girl|man	ቤተሰብ: ሰው፣ ልጃገረድ እና ልጃገረድ|ልጃገረድ|ልጅ|ሰው|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👩‍👦	4.0	family: woman, boy|boy|child|family|woman	ቤተሰብ: ሴት እና ወንድ ልጅ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👦‍👦	4.0	family: woman, boy, boy|boy|child|family|woman	ቤተሰብ: ሴት፣ ወንድ ልጅ እና ወንድ ልጅ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👧	4.0	family: woman, girl|child|family|girl|woman	ቤተሰብ: ሴት እና ልጃገረድ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	👩‍👧‍👦	4.0	family: woman, girl, boy|boy|child|family|girl|woman	ቤተሰብ: ሴት፣ ልጃገረድ እና ወንድ ልጅ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ|ወንድ ልጅ
+E	👩‍👧‍👧	4.0	family: woman, girl, girl|child|family|girl|woman	ቤተሰብ: ሴት፣ ልጃገረድ እና ልጃገረድ|ልጃገረድ|ልጅ|ሴት|ቤተሰብ|አባት|እናት|እናት አባትና ልጅ
+E	🗣️	0.7	speaking head|face|head|silhouette|speak|speaking	እየተናገረ ያለ ራስ|መናገር|ራስ|ባለ አንድ ቀለም ምስል|ፊት
+E	👤	0.6	bust in silhouette|bust|mysterious|shadow|silhouette	የሰው ጥላ|ሐውልት|ምስጢራዊ|ሲሉዌት
+E	👥	1.0	busts in silhouette|bff|bust|busts|everyone|friend|friends|people|silhouette	የሰው ጥላዎች|ሐውልት|ሲሉዌት|የሰው ጥላ|የሰዎች ጥላ
+E	🫂	13.0	people hugging|comfort|embrace|farewell|friendship|goodbye|hello|hug|hugging|love|people|thanks	ሰዎች ሲተቃቀፉ|መተቃቀፍ|ማቀፍ|ማፅናናት|ስንብት|ሽኝት|ቻው|ደህና ሁን|ደህና ሁኚ|ጓደኝነት|ፍቅር
+E	👪	0.6	family|child	ቤተሰብ|ልጅ|አባት|እናት|እናት አባትና ልጅ
+E	🧑‍🧑‍🧒	15.1	family: adult, adult, child|adult|child|family	ቤተሰብ፦ አዋቂ፣ አዋቂ፣ ልጅ
+E	🧑‍🧑‍🧒‍🧒	15.1	family: adult, adult, child, child|adult|child|family	ቤተሰብ፦ አዋቂ፣ አዋቂ፣ ልጅ፣ ልጅ
+E	🧑‍🧒	15.1	family: adult, child|adult|child|family	ቤተሰብ፦ አዋቂ፣ ልጅ
+E	🧑‍🧒‍🧒	15.1	family: adult, child, child|adult|child|family	ቤተሰብ፦ አዋቂ፣ ልጅ፣ ልጅ
+E	👣	0.6	footprints|barefoot|clothing|footprint|omw|print|walk	የእግር ዱካ|አልባሳት|አሻራ|አካል|ውስጥ እግር
+E	🫆	16.0	fingerprint|clue|crime|detective|forensics|identity|mystery|print|safety|trace	የጣት አሻራ|መርማሪ|ማተም|ማንነት|ምስጢር|ወንጀል|ደህንነት|ፈለግ|ፍንጭ|ፎረንሲክስ
+C	animals_nature	Animals & Nature
+E	🐵	0.6	monkey face|animal|banana|face|monkey	የጦጣ ፊት|ሙዝ|እንስሳ|የማወቅ ጉጉት ያለው ጆርጅ|ጦጣ|ፊት
+E	🐒	0.6	monkey|animal|banana	ጦጣ|ሙዝ|እንስሳ
+E	🦍	3.0	gorilla|animal	ጉሬዛ|እንስሳ|ጉሬላ
+E	🦧	12.0	orangutan|animal|ape|monkey	ኦራንጉታን ዝንጀሮ|መንጠላጠል|እንስሳ|ዝንጀሮ|ጦጣ
+E	🐶	0.6	dog face|adorbs|animal|dog|face|pet|puppies|puppy	የውሻ ፊት|ቡችላ|ቡችላዎች|እንስሳ|ውሻ|የሚያምር|የቤት እንስሳ|ፊት
+E	🐕	0.7	dog|animal|animals|dogs|pet	ውሻ|እንስሳ|እንስሳት|ውሻዎች|የቤት እንስሳ
+E	🦮	12.0	guide dog|accessibility|animal|blind|dog|guide	የሚመራ ውሻ|መመሪያ|መሪ ውሻ|መንገድ መሪ|ተደራሽነት|እውር|ዓይነ ስውር|የቤት እንስሳ
+E	🐕‍🦺	12.0	service dog|accessibility|animal|assistance|dog|service	አገልግሎት ሰጪ ውሻ|ተደራሽ|ተደራሽነት|አገልግሎት|እርዳታ|ውሻ|የቤት እንስሳ
+E	🐩	0.6	poodle|animal|dog|fluffy	ጸጉራም ፑድል ውሻ|ለስላሳ ፀጉር|እንስሳ|ውሻ|ጥቅጥቅ ያለ ፀጉር|ፑድል
+E	🐺	0.6	wolf|animal|face	የተኩላ ፊት|ተኩላ|እንስሳ|ፊት
+E	🦊	3.0	fox|animal|face	የቀበሮ ፊት|ቀበሮ|እንስሳ|ፊት
+E	🦝	11.0	raccoon|animal|curious|sly	ራኩን|ተንኮለኛ|እንስሳ|ጉጉ
+E	🐱	0.6	cat face|animal|cat|face|kitten|kitty|pet	የድመት ፊት|ሙጭሊት|እንስሳ|ውሮ|የቤት እንስሳ|የድመት ግልገል|ድመት|ፊት
+E	🐈	0.7	cat|animal|animals|cats|kitten|pet	ድመት|ሙጭሊት|እንስሳ|እንስሳት|የቤት እንስሳ|የድመት ግልገል|ድመቶች
+E	🐈‍⬛	13.0	black cat|animal|black|cat|feline|halloween|meow|unlucky	ጥቁር ድመት|ሃሎዊን|ሚያው|እንስሳ|እድለ ቢስ|የድመት ዝርያ|ድመት|ጥቁር
+E	🦁	1.0	lion|alpha|animal|face|Leo|mane|order|rawr|roar|safari|strong|zodiac	የአንበሳ ፊት|ሊዮ|ሮር|ሳፋሪ|አልፋ|አንበሳ|እንስሳ|እንደ አንበሳ ማግሳት|ዞዲያክ|የአንበሳ ትዕዛዝ|የአንበሳ ጋማ|ጠንካራ|ፊት
+E	🐯	0.6	tiger face|animal|big|cat|face|predator|tiger	የነብር ፊት|መከነ አራዊት|ትልቅ ድመት|ነብር|አዳኝ|እንስሳ|ፊት
+E	🐅	1.0	tiger|animal|big|cat|predator|zoo	ነብር|መከነ አራዊት|ትልቅ ድመት|አዳኝ|እንስሳ|እንስሳት
+E	🐆	1.0	leopard|animal|big|cat|predator|zoo	አነር|መካነ አራዊት|ትልቅ ድመት|አዳኝ|እንስሳ|እንስሳት
+E	🐴	0.6	horse face|animal|dressage|equine|face|farm|horse|horses	የፈረስ ፊት|እርሻ|እንስሳ|ኮርቻ|ፈረስ|ፈረስ መግራት|ፈረሶች|ፊት
+E	🫎	15.0	moose|alces|animal|antlers|elk|mammal	ሙስ|ቀንድ አውጣዎች|ትልቅ አጋዘን|አጋዘን|ኤልክ|እንስሳ|እጥቢ
+E	🫏	15.0	donkey|animal|ass|burro|hinny|mammal|mule|stubborn	አህያ|መራገጥ|መቀመጫ|በቅሎ|አጥቢ|እንስሳ|የሚራገጥ አህያ|ግትር
+E	🐎	0.6	horse|animal|equestrian|farm|racehorse|racing	ፈረስ|ቅድመ ዝግጅት|ባለሶስት ዘውድ|እርሻ|እሽቅድምድም|እንስሳ|የቤልሞንት ካስማዎች|የእሽቅድምድም ፈረስ|የኬንቱኪ ደርቢ|የግልቢያ ፈረስ|ግልቢያ|ፈረስ ጋላቢ
+E	🦄	1.0	unicorn|face	ባለ አንድ ቀንድ ፈረስ ፊት|ባለ አንድ ቀንድ ፈረስ|ዩኒኮርን|ፊት
+E	🦓	5.0	zebra|animal|stripe	የሜዳ አህያ|እንስሳ|ጥቁር እና ነጭ|ጭረት
+E	🦌	3.0	deer|animal	አጋዘን|እንስሳ
+E	🦬	13.0	bison|animal|buffalo|herd|wisent	የሰሜን አሜሪካ ጎሽ|እንስሳ|ጎሽ
+E	🐮	0.6	cow face|animal|cow|face|farm|milk|moo	የላም ፊት|ላም|ሙ|እርሻ|እንስሳት|ወተት|ፊት
+E	🐂	1.0	ox|animal|animals|bull|farm|Taurus|zodiac	በሬ|ታውረስ|እርሻ|እንስሳ|እንስሳት|ዞዲያክ
+E	🐃	1.0	water buffalo|animal|buffalo|water|zoo	የውሃ አውራሪስ|መካነ አራዊት|እንስሳ|እንስሳት|ውሃ|የውሃ ላይ ጎሽ|ጎሽ
+E	🐄	1.0	cow|animal|animals|farm|milk|moo	ላም|ሙ|እርሻ|እንስሳ|እንስሳት|ወተት
+E	🐷	0.6	pig face|animal|bacon|face|farm|pig|pork	የዓሣማ ፊት|እርሻ|ዓሣማ|የአሣማ ስጋ|ፊት|ፖርክ
+E	🐖	1.0	pig|animal|bacon|farm|pork|sow	ዓሣማ|ቤከን|አርያ|እርሻ|እንስሳ|እንስሳት|ወፍራም|የዓሣማ ስጋ
+E	🐗	0.6	boar|animal|pig	የጫካ ዓሣማ|እንስሳ|ዓሣማ|ጌም ኦፍ ትሮን
+E	🐽	0.6	pig nose|animal|face|farm|nose|pig|smell|snout	የዓሣማ አፍንጫ|ማሽተት|አፍንጫ|እርሻ|ዓሣማ|የእንስሳ አፍንጫ|ፊት
+E	🐏	1.0	ram|animal|Aries|horns|male|sheep|zodiac|zoo	ሙክት በግ|መካነ አራዊት|ቀንዶች|በግ|ኤሪስ|እንስሳ|እንስሳት|ዞዲያክ
+E	🐑	0.6	ewe|animal|baa|farm|female|fluffy|lamb|sheep|wool	በግ|ለስላሳ ፀጉር|ሱፍ|ሴት በግ|በእአ|እርባታ|እንስሳ
+E	🐐	1.0	goat|animal|Capricorn|farm|milk|zodiac	ፍየል|እርሻ|እንስሳ|እንስሳት|ካፕሪኮርን|ወተት|ዞዲያክ
+E	🐪	1.0	camel|animal|desert|dromedary|hump|one	ግመል|ሻኛ|በርሃ|ባለ አንድ ሻኛ|ባለ አንድ ሻኛ ግመል|እንስሳ
+E	🐫	0.6	two-hump camel|animal|bactrian|camel|desert|hump|two|two-hump	ባለሁለት ሻኛ ግመል|ሻኛ|በረሃ|ባለሁለት ሻኛ|ባክትሬን|እንስሳ|ግመል
+E	🦙	11.0	llama|alpaca|animal|guanaco|vicuña|wool	ላማ|ሱፍ|ቪኩና|አልፓካ|እንስሳ|ደቡብ አሜሪካ|ግመል|ጓናኮ
+E	🦒	5.0	giraffe|animal|spots	ቀጭኔ|ነጠብጣብ|እንስሳ
+E	🐘	0.6	elephant|animal	ዝሆን|እንስሳ
+E	🦣	13.0	mammoth|animal|extinction|large|tusk|wooly	የዝሆን ዝርያ|ማሞዝ|እንስሳ|ፀጉራም ማሞዝ
+E	🦏	3.0	rhinoceros|animal	አውራሪስ|እንስሳ
+E	🦛	11.0	hippopotamus|animal|hippo	ጉማሬ|እንስሳ|ጎማሬ
+E	🐭	0.6	mouse face|animal|face|mouse	የአይጥ ፊት|አይጥ|እንስሳ|ፊት
+E	🐁	1.0	mouse|animal|animals	አይጥ|እንስሳ|እንስሳት
+E	🐀	1.0	rat|animal	አይጠሞጎጥ|አይጥ|እንስሳ
+E	🐹	0.6	hamster|animal|face|pet	ሚጢጢ አይጥ ፊት|ሚጢጢ አይጥ|እንስሳ|የቤት እንስሳ|ፊት
+E	🐰	0.6	rabbit face|animal|bunny|face|pet|rabbit	የጥንቸል ፊት|ባኒ|እንስሳ|የቤት እንስሳ|ጥንቸል|ፊት
+E	🐇	1.0	rabbit|animal|bunny|pet	ጥንቸል|ባኒ|እንስሳ|እንስሳት|የቤት እንስሳ
+E	🐿️	0.7	chipmunk|animal|squirrel	ቺፕመንክ|ሽካኮ|እንስሳ
+E	🦫	13.0	beaver|animal|dam|teeth	የአይጥ ዝርያ|እንስሳ|ጥርስ
+E	🦔	5.0	hedgehog|animal|spiny	አጥቢ እንስሳ|እሾህ|እንስሳ|ጃርት
+E	🦇	3.0	bat|animal|vampire	የሌሊት ወፍ|ቫምፓየር|አስፈሪ|እንስሳ
+E	🐻	0.6	bear|animal|face|grizzly|growl|honey	የድብ ፊት|ማር|ማጉረምረም|እንስሳ|ዮሰማይት|ድብ|ግራጫ|ፊት
+E	🐻‍❄️	13.0	polar bear|animal|arctic|bear|polar|white	የዋልታ ድብ|ነጭ|አርክቲክ|ድብ
+E	🐨	0.6	koala|animal|australia|bear|down|face|marsupial|under	ካኦላ|አውስትራሊያ|እንስሳ|ከታችኛው አህጉር|ድብ
+E	🐼	0.6	panda|animal|bamboo|face	የፓንዳ ፊት|ባምቦ|እንስሳ|ፊት|ፓንዳ
+E	🦥	12.0	sloth|lazy|slow	ስንፍና|ሰነፍ|ቀስ ብሎ የሚራመድ እንስሳ|እንስሳ|ዘገምተኛ
+E	🦦	12.0	otter|animal|fishing|playful	ትንሽ አውሬ|ተጫዋች|ኦተር|ዓሣ ማጥመድ|ዓሣ አዳኝ እንስሳ|ጨዋታ
+E	🦨	12.0	skunk|animal|stink	ሸለምጥማጥ|መጥፎ ሽታ|ስካንክ|እንስሳ|ግማት
+E	🦘	11.0	kangaroo|animal|joey|jump|marsupial	ካንጋሮ|መዝለል|አውስትራሊያ|እንስሳ|ኪሴ|ደስታ
+E	🦡	11.0	badger|animal|honey|pester	ውሻ የሚመስል እንሰሳ|ባጃር|እንስሳ|የማር ባጃጅ|ጥርኝ|ጨቅጫቃ
+E	🐾	0.6	paw prints|feet|paw|paws|print|prints	የእንሳሳ መዳፍ ዱካዎች|መዳፍ|አሻራ|እግር|የእንስሳ መዳፍ
+E	🦃	1.0	turkey|bird|gobble|thanksgiving	ቆቅ|እንስሳ|ወፍ|የምስጋና ቀን
+E	🐔	0.6	chicken|animal|bird|ornithology	ዶሮ|ሴት ዶሮ|እንስሳ
+E	🐓	1.0	rooster|animal|bird|ornithology	አውራ ዶሮ|እንስሳ|እንስሳት|ወፍ
+E	🐣	0.6	hatching chick|animal|baby|bird|chick|egg|hatching	ከእንቁላል ተፈልፍላ የምትወጣ ጫጩት|ሕፃን|መፈልፈል|እንስሳ|እንቁላል|ጫጩት
+E	🐤	0.6	baby chick|animal|baby|bird|chick|ornithology	ሚጢጢ ጫጩት|ሕፃን|ወፍ|የዶሮ ጫጩት|ጫጩት
+E	🐥	0.6	front-facing baby chick|animal|baby|bird|chick|front-facing|newborn|ornithology	ፊት ለፊት የምትታይ ሚጢጢ ጫጩት|ሕፃን|አዲስ የተወለደ|እንስሳ|የዶሮ ጫጩት|ጫጩት
+E	🐦	0.6	bird|animal|ornithology	ወፍ|ስነ አዕዋፍ|እንስሳ
+E	🐧	0.6	penguin|animal|antarctica|bird|ornithology	ፔንግዊን|አንታርክቲካ|እንስሳ
+E	🕊️	0.7	dove|bird|fly|ornithology|peace	እርግብ|ሰላም|ብረር|ነጭ እርግብ|ወፍ|የምትበር ነጭ እርግብ
+E	🦅	3.0	eagle|animal|bird|ornithology	ንስር አሞራ|እንስሳ|ወፍ
+E	🦆	3.0	duck|animal|bird|ornithology	ዳክዬ|እንስሳት|ወፍ
+E	🦢	11.0	swan|animal|bird|cygnet|duckling|ornithology|ugly	የውሀ ዶሮ|ትንሽ ዝዬ|አስቀያሚ ዳክዬ|ወፍ|ዝይ
+E	🦉	3.0	owl|animal|bird|ornithology|wise	ጉጉት|አዋቂ|እንስሳ|ወፍ
+E	🦤	13.0	dodo|animal|bird|extinction|large|ornithology	ትልቅ ወፍ|እንስሳ|ወፍ|ዶዶ
+E	🪶	13.0	feather|bird|flight|light|plumage	ላባ|ወፍ|የወፍ ላባ
+E	🦩	12.0	flamingo|animal|bird|flamboyant|ornithology|tropical	ፍላሚንጎ|ሞቃታማ|ብልጭልጭ|ትሮፒካል|ወፍ
+E	🦚	11.0	peacock|animal|bird|colorful|ornithology|ostentatious|peahen|pretty|proud	ፒኮክ|ቆንጆ ወፍ|በቀለም ያሸበረቀ|እንስሳ|ኩሩ|ኩራት|ወፍ|የሚመካ
+E	🦜	11.0	parrot|animal|bird|ornithology|pirate|talk	በቀቀን|ቀፍ|ተናጋሪ ወፍ|ንግግር|እንስሳ|ወፍ|ጠላፊ
+E	🪽	15.0	wing|angelic|ascend|aviation|bird|fly|flying|heavenly|mythology|soar	ክንፍ|መላዕክት|መልአካዊ|መምጠቅ|መብረር|ሰማያዊ|አቪዬሽን|አፈ ታሪክ|ወደ ላይ መውጣት|ወፍ
+E	🐦‍⬛	15.0	black bird|animal|beak|bird|black|caw|corvid|crow|ornithology|raven|rook	ጥቁር ወፍ|ምንቃር|ሮክ|ቁራ|ቅራ መሰል አሞራ|እንስሳ|እንደ ቁራ መጮህ|ኮርቪድ|ወፍ|ጥቁር
+E	🪿	15.0	goose|animal|bird|duck|flock|fowl|gaggle|gander|geese|honk|ornithology|silly	ዝይ|ሆንክ|መንጋ|ሞኝ|ቂል|እንስሳ|ወንድ ዝይ|ወፍ|የአእዋፍ ወገን|የወፍ አይነት|ዳክዬ|ጫጫታ
+E	🐦‍🔥	15.1	phoenix|ascend|ascension|emerge|fantasy|firebird|glory|immortal|rebirth|reincarnation|reinvent|renewal|revival|revive|rise|transform	ፊኒክስ|መለወጥ|መነሳት|ማረግ|ምናባዊ፣ የእሳት ወፍ፣ ዳግም መወለድ፣ ሪኢንካርኔሽን|ተሐድሶ|ተነስ|ትንሳኤ|አረገ|እንደገና መፈጠር|የሕልም ዓለም|የማይሞት|የእሳት ወፍ|ዳግም ውልደት|ገድል
+E	🐸	0.6	frog|animal|face	የእንቁራሪት ፊት|ንግስት|እንስሳ|እንቁራሪት|ፊት
+E	🐊	1.0	crocodile|animal|zoo	አዞ|መከነ አራዊት|እንስሳ|እንስሳት|ኮሮኮዳይል ዳንዲ|ፍሎሪዳ
+E	🐢	0.6	turtle|animal|terrapin|tortoise	ኤሊ|ኤሊዎች|እንስሳ|የባህር ኤሊ
+E	🦎	3.0	lizard|animal|reptile	እንሽላሊት|በደረታቸው የሚሳቡ እንስሳት|እንስሳ|ገበሎ አስተኔ
+E	🐍	0.6	snake|animal|bearer|Ophiuchus|serpent|zodiac	እባብ|ተሸካሚ|እንስሳ|ኦፊዩከስ|ዞዲያክ
+E	🐲	0.6	dragon face|animal|dragon|face|fairy|fairytale|tale	የድራጎን ፊት|ተረት ተረት|እንስሳ|ዘንዶ|ፊት
+E	🐉	1.0	dragon|animal|fairy|fairytale|knights|tale	ድራጎን|ተረት ተረት|ተዋጊ|እንስሳ|የቻይና|ጌም ኦፍ ትሮን
+E	🦕	5.0	sauropod|brachiosaurus|brontosaurus|dinosaur|diplodocus	ዳይኖሰር|ሳሮፖድ|ብራቺዮሳውረስ|ብሮንቶሳውረስ|ዲፕሎማዶከስ
+E	🦖	5.0	T-Rex|dinosaur|Rex|T|Tyrannosaurus	ታይኖሳረስ ዳይኖሰር|ቲ ሬክስ|ቲ-ሬክስ|ታይኖሳረስ|ታይኖሳረስ ሬክስ|ዳይኖሰር
+E	🐳	0.6	spouting whale|animal|beach|face|ocean|spouting|whale	ውሃ የሚያንቦጫርቅ ዓሣ ነባሪ|እንስሳ|ውሃ የሚያንቦጫርቅ|ውቅያኖስ|ዓሣ ነባሪ|የባህር ዳርቻ|ፊት
+E	🐋	1.0	whale|animal|beach|ocean	አሣ ነባሪ|እንስሳ|ውቅያኖስ|የባህር ዳርቻ
+E	🐬	0.6	dolphin|animal|beach|flipper|ocean	ዶልፊን|እንስሳ|ውቅያኖስ|የባህር ዳርቻ|ፍሊፐር
+E	🫍	17.0	orca|marine|ocean|whale	ኦርካ|ባህር|ውቅያኖስ|ዓሣ ነባሪ
+E	🦭	13.0	seal|animal|lion|ocean|sea	ምልክት|እንስሳ|ውቅያኖስ|የባህር አንበሳ|የባህር እንስሳ
+E	🐟	0.6	fish|animal|dinner|fishes|fishing|Pisces|zodiac	ዓሣ|እራት|እንስሳ|ዓሣዎች|ዓሳ ማጥመድ|ዞዲያክ|ፖይሲስ
+E	🐠	0.6	tropical fish|animal|fish|fishes|tropical	የምድር ወገብ አካባቢ ዓሣ|ሞቃታማ|ትሮፒካል|እንስሳ|ዓሣ|የምድር ወገብ አካባቢ|የሞቃታማ አካባቢ ዓሣ
+E	🐡	0.6	blowfish|animal|fish	ብሎውፊሽ|እንስሳ|ዓሣ
+E	🦈	3.0	shark|animal|fish	ሻርክ|አሣ|እንስሳ
+E	🐙	0.6	octopus|animal|creature|ocean	ኦክቶፐስ|እንስሳ|ውቅያኖስ|ፍጥረት
+E	🐚	0.6	spiral shell|animal|beach|conch|sea|shell|spiral	ሽብልል የቀንድ አውጣ ሼል|ሺል|ቅርፊት|እንስሳ|ኮንች|የባህር ዛጎል|የባህር ዳርቻ|ጠመዝማዛ ቅርፊት|ጥቅልል
+E	🪸	14.0	coral|change|climate|ocean|reef|sea	ቋጥኝ|ሪፍ|ውቅኖስ|ውቅያኖስ
+E	🪼	15.0	jellyfish|animal|aquarium|burn|invertebrate|jelly|life|marine|ocean|ouch|plankton|sea|sting|stinger|tentacles	ጄሊፊሽ|መራእይ ገንዳ|መቃጠል|መንደፍ|መዳህሰስ|ስቴስተር|ስፍፍ|ባህር|ንክሻ|አጥንት የሌላቸው|እንስሳ|ኦው|ውቅያኖስ|ዝልግልግ|የባህር ውስጥ|የባህር ውስጥ ሕይወት|ጄሊ
+E	🦀	1.0	crab|Cancer|zodiac	ሸርጣን|ካንሰር|ዞዲያክ
+E	🦞	11.0	lobster|animal|bisque|claws|seafood	ሎብስተር|ማጉርጥ|ቀይ ሎብስተር|ቢስክ|እንስሳ|የባህር ምግቦች|ጥፍሮች
+E	🦐	3.0	shrimp|food|shellfish|small	ትንሽ አሣ|ምግብ|ትንሽ|ጠንካራ ሽፋን ያለው አሣ
+E	🦑	3.0	squid|animal|food|mollusk	ስክዊድ|ምግብ|ሞሉስክ|እንስሳ|ጮቅ
+E	🦪	12.0	oyster|diving|pearl	ሼል|ሉል|መጥለቅ|ኦይስተር|ዕንቁ
+E	🐌	0.6	snail|animal|escargot|garden|nature|slug	ቀንድ አውጣ|ተፈጥሮ|አስካርጎት|እንስሳ|የቅጠል ትል|የአትክልት ቦታ
+E	🦋	3.0	butterfly|insect|pretty	ቢራቢሮ|ቆንጆ|ነፍሳት
+E	🫌	18.0	monarch butterfly|caterpillar|change|fragile|hope|insect|metamorphosis|migration|transformation	ንጉሳዊ ቢራቢሮ|ለውጥ|ሜታሞርፎሲስ|ተሰባሪ|ተስፋ|ትራንስፎርሜሽን|ነፍሳት|አባጨጓሬ|ፍልሰት
+E	🐛	0.6	bug|animal|garden|insect	ትኋን|ነፍሳት|እንስሳ|የአትክልት ቦታ
+E	🐜	0.6	ant|animal|garden|insect	ጉንዳን|ነፍሳት|እንስሳ|የአትክልት ቦታ
+E	🐝	0.6	honeybee|animal|bee|bumblebee|honey|insect|nature|spring	ንብ|ማር|ተፈጥሮ|ትንኝ|ነፍሳት|እንስሳ|የማር ንብ|የንብ መንጋ|ጸደይ
+E	🪲	13.0	beetle|animal|bug|insect	ጥንዚዛ|ትኋን|ነፍሳት|እንስሳ
+E	🐞	0.6	lady beetle|animal|beetle|garden|insect|lady|ladybird|ladybug|nature	ሴት ጢንዚዛ|ሌዲበርድ|ሌዲባግ|ተፈጥሮ|ነፍሳት|እንስሳ|ጢንዚዛ
+E	🦗	5.0	cricket|animal|bug|grasshopper|insect|Orthoptera	ክሪኬት|ተባይ|ነፍሳት|ኦርቶፕቴራ|ዋዝንቢት|ፌንጣ
+E	🪳	13.0	cockroach|animal|insect|pest|roach	በረሮ|ነፍሳት|እንስሳ|ዘግናኝ
+E	🕷️	0.7	spider|animal|insect	እንሸረሪት|ሸረሪት|ነፍሳት
+E	🕸️	0.7	spider web|spider|web	የእንሸረሪት ድር|ሸረሪት|ነብሳት|እንሸረሪት|የሸረሪት ድር|ድር
+E	🦂	1.0	scorpion|Scorpio|Scorpius|zodiac	ጊንጥ|ስኮርፒየስ|ስኮርፒዮ|ዞዲያክ
+E	🦟	11.0	mosquito|bite|disease|fever|insect|malaria|pest|virus	ወባ|በሽታ|ቫይረስ|ትንኝ|ትኩሳት|ነፍሳት|የወባ ንክሻ
+E	🪰	13.0	fly|animal|disease|insect|maggot|pest|rotting	ዝንብ|ሰማያዊ ጠርሙስ|ነፍሳት|እንስሳ
+E	🪱	13.0	worm|animal|annelid|earthworm|parasite	ትል|ተሳቢ እንስሳ|እንስሳ|የምድር ትል
+E	🦠	11.0	microbe|amoeba|bacteria|science|virus	ተህዋሳት|ሳይንስ|ባክቴሪያ|ቫይረስ|ተህዋስ|አሜባ|ደቂቅ
+E	💐	0.6	bouquet|anniversary|birthday|date|flower|love|plant|romance	እቅፍ አበባ|ልደት|ተክል|አበባ|ክብረ በዓል|የፍቅር ቀጠሮ|ፍቅር
+E	🌸	0.6	cherry blossom|blossom|cherry|flower|plant|spring|springtime	የሚፈካ ቼሪ አበባ|ተክል|ቼሪ|አበባ|የሚፈካ|የፀደይ ወቅት|ፀደይ
+E	💮	0.6	white flower|flower|white	ነጭ አበባ|አበባ
+E	🪷	14.0	lotus|beauty|Buddhism|calm|flower|Hinduism|peace|purity|serenity	ሎተስ|ሂንዱይዝም|ህንድ|መረጋጋት|ሰላም|ቅድስና|ቡዲዝም|ቬትናም|አበባ|እርጋታ|ውበት
+E	🏵️	0.7	rosette|plant	ሮዜት|ተክል
+E	🌹	0.6	rose|beauty|elegant|flower|love|plant|red|valentine	ጽጌሬዳ|ሮዝ|ቀይ|ቫለንታይን|ተክል|አበባ|ውበት|የሚያምር|የፍቅረኞች ቀን|የፍቅር ሮዝ
+E	🥀	3.0	wilted flower|dying|flower|wilted	የጠወለገ አበባ|መጠውለግ|አበባ
+E	🌺	0.6	hibiscus|flower|plant	ሂቢስከስ አበባ|ተክል|አበባ
+E	🌻	0.6	sunflower|flower|outdoors|plant|sun	የሱፍ አበባ|ተክል|አበባ|ከቤት ውጪ|ፀሐይ
+E	🌼	0.6	blossom|buttercup|dandelion|flower|plant	የአበባ ፍካት|ተክል|አበባ|የፈካ አበባ|ዳንዴሊዮን
+E	🌷	0.6	tulip|blossom|flower|growth|plant	ቱሊፕ አበባ|ተክል|አበባ|እድገት|የፈካ አበባ
+E	🪻	15.0	hyacinth|bloom|bluebonnet|flower|indigo|lavender|lilac|lupine|plant|purple|shrub|snapdragon|spring|violet	ሀያሲንት|ሉፒን|ላቬንደር|ሐምራዊ|ቁጥቋጦ|ብሉቦኔት|ተክል|ነጣ ያለ ወይን ጠጅ|አበባ|ወይን ጠጅ|የፈካ|ያበበ
+E	🌱	0.6	seedling|plant|sapling|sprout|young	ችግኝ|ለጋ|ተክል|ችግኝ ማፍላት|አፍላ
+E	🪴	13.0	potted plant|decor|grow|house|nurturing|plant|pot|potted	በሸክላ የተተከለ አትክልት|ተክል|ጌጣጌጥ|ጎድጓዳ ሸክላ
+E	🌲	1.0	evergreen tree|christmas|evergreen|forest|pine|tree	ሁሌም አረንጓዴ|ተክል|ዛፍ|የገና ዛፍ|ገና|ጫካ
+E	🌳	1.0	deciduous tree|deciduous|forest|green|habitat|shedding|tree	ባለጥላ ዛፍ|መካነ ሕይወት|ቅጠል አርጋፊ ዛፍ|ባለ ጥላ ተክል|አረንጓዴ|ዛፍ|የሚረግፍ|ጥላ|ጫካ
+E	🌴	0.6	palm tree|beach|palm|plant|tree|tropical	ዘንባባ|ሞቃታማ|ተክል|ዛፍ|የባህር ዳርቻ|የዘንባባ ዛፍ
+E	🌵	0.6	cactus|desert|drought|nature|plant	ቁልቋል|በለስ|በረሃ|ተክል|ተፈጥሮ|ድርቅ
+E	🌾	0.6	sheaf of rice|ear|grain|grains|plant|rice|sheaf	የሩዝ ተክል ዞላ|ሩዝ|ተክል|እህል|የሩዝ ተክል ነዶ|ጆሮ|ጥራጥሬ
+E	🌿	0.6	herb|leaf|plant	ቅጠል|ተክል|ዕፅዋት
+E	☘️	1.0	shamrock|irish|plant	ሻምሮክ ቅጠል|ተክል|አይሪሽ
+E	🍀	0.6	four leaf clover|4|clover|four|four-leaf|irish|leaf|lucky|plant	ድንብላል|4|ቅጠል|ባላ አራት ቅጠል ድንብላል|ተክል|አራት|እድለኛ
+E	🍁	0.6	maple leaf|falling|leaf|maple	ማፕል ቅጠል|መርገፍ|ማፕል|ቅጠል|ተክል|የሚወድቅ|የሜፕል ቅጠል
+E	🍂	0.6	fallen leaf|autumn|fall|fallen|falling|leaf	የረገፈ ቅጠል|መኸር|ቅጠል|ተክል|የሚወድቅ
+E	🍃	0.6	leaf fluttering in wind|blow|flutter|fluttering|leaf|wind	በአየር ላይ የሚንሳፈፉ ቅጠሎች|መንፈስ|ቅጠል|ተንሳፋፊ|ተክል|ነፋስ
+E	🪹	14.0	empty nest|branch|empty|home|nest|nesting	ባዶ የወፍ ጎጆ|ቅርንጫፍ|ባዶ|ቤት|የወፍ ጎጆ|ጎጆ
+E	🪺	14.0	nest with eggs|bird|branch|egg|eggs|nest|nesting	እንቁላል የያዘ ጎጆ|ቅንርጫፍ|እንቁላል|እንቁላሎች|ወፍ|የወፍ ጎጆ|የወፍ ጎጆ፣ እንቁላል፣ እንቁላሎች፣ ወፍ|ጎጆ
+E	🍄	0.6	mushroom|fungus|toadstool	እንጉዳይ|ማሪዮ|ተክል|የጅብ ጥላ|ፈንገስ
+E	🪾	16.0	leafless tree|bare|barren|branches|dead|drought|leafless|tree|trunk|winter|wood	ቅጠል የሌለው ዛፍ|መካን|ቅርንጫፎች|ቅጠል የሌለው|ባዶ|እንጨት|ክረምት|ዛፍ|የሞተ|ድርቅ|ግንድ
+C	food_drink	Food & Drink
+E	🍇	0.6	grapes|Dionysus|fruit|grape	የወይን ዛላዎች|ተክል|ወይን|የወይን ዛለላዎች|ዳዮኒስስ|ፍራፍሬ
+E	🍈	0.6	melon|cantaloupe|fruit	ሆምጣጤ|ሐብሐብ|ተክል|ካንታሎፕ|ፍራፍሬ
+E	🍉	0.6	watermelon|fruit	ሐብሐብ|ተክል|ፍራፍሬ
+E	🍊	0.6	tangerine|c|citrus|fruit|nectarine|orange|vitamin	መንደሪን|ብርቱካናማ|ብርትኳናማ|ቫይታሚን ሲ|ተክል|ኔክታሪን|ፍራፍሬ
+E	🍋	1.0	lemon|citrus|fruit|sour	ሎሚ|ተክል|ፍራ ፍሬ|ፍራፍሬ|ፍሬ
+E	🍋‍🟩	15.1	lime|acidity|citrus|cocktail|fruit|garnish|key|margarita|mojito|refreshing|salsa|sour|tangy|tequila|tropical|zest	ኖራ|ሎሚ|መንደሪን፣ ፍሬ፣ ትሮፒካል|ማርጋሪታ|ሞዪቶ|ሲትረስ|ሳልሳ|ቁልፍ የሎሚ አምባሻ|በትሮፒክ|አረንጓዴ|አሲድነት|አዳሽ|ካቲካላ|ኮክቴል|ኾምጣጣ|ዜስት|ጋሚሽ|ጭማቂ|ፍራፍሬ
+E	🍌	0.6	banana|fruit|potassium	ሙዝ|ተክል|ፍራፍሬ
+E	🍍	0.6	pineapple|colada|fruit|pina|tropical	አናናስ|ተክል|ፍራፍሬ
+E	🥭	11.0	mango|food|fruit|tropical	ማንጎ|ምግብ|ሞቃታማ|ትሮፒካል|ወይናደጋ|ፍራፍሬ
+E	🍎	0.6	red apple|apple|diet|food|fruit|health|red|ripe	ቀይ አፕል|ቀይ|ተክል|ቱፋሕ|ፍራ ፍሬ|ፍራፍሬ|ፍሬ|ፖም
+E	🍏	0.6	green apple|apple|fruit|green	አረንጓዴ አፕል|ተክል|ቱፋሕ|አረንጓዴ|ፍራፍሬ|ፖም
+E	🍐	1.0	pear|fruit	ፖም|ተክል|ፍራፍሬ|ፒር
+E	🍑	0.6	peach|fruit	ኮክ|ተክል|ፍራፍሬ
+E	🍒	0.6	cherries|berries|cherry|fruit|red	ቼሪ ፍሬ|ተክል|ቼሪ|የቼሪ ፍሬዎች|ፍራፍሬ
+E	🍓	0.6	strawberry|berry|fruit	እንጆሪ|ተክል|ፍራፍሬ
+E	🫐	13.0	blueberries|berries|berry|bilberry|blue|blueberry|food|fruit	ብሉቤሪስ|ምግብ|ቤሪ|ብሉቤሪ|ብሉቤሪዎች|እንጆሪ|ፍራፍሬ
+E	🥝	3.0	kiwi fruit|food|fruit|kiwi	ኪዊ ፍራፍሬ|ምግብ|ኪዊ|ፍራፍሬ
+E	🍅	0.6	tomato|food|fruit|vegetable	ቲማቲም|ተክል|አታክልት|አትክልት|ፍራፍሬ
+E	🫒	13.0	olive|food	የወይራ ዘይት|ምግብ|ተክል|ፍሬ
+E	🥥	5.0	coconut|colada|palm|piña	ኮኮናት|ዘንባባ|ፒና ኮላዳ
+E	🥑	3.0	avocado|food|fruit	አቦካዶ|ምግብ|ፍራፍሬ
+E	🍆	0.6	eggplant|aubergine|vegetable	ኤግፕላንት ፍሬ|ተክል|አታክልት|አትክልት|ኡበርጂን
+E	🥔	3.0	potato|food|vegetable	ድንች|ምግብ|ሥራስር|አትክልት
+E	🥕	3.0	carrot|food|vegetable	ካሮት|ምግብ|አትክልት
+E	🌽	0.6	ear of corn|corn|crops|ear|farm|maize|maze	የበቆሎ ዛላ|በቆሎ|በቆሎ እሸት|ተክል|ጆሮ
+E	🌶️	0.7	hot pepper|hot|pepper	የሚጥሚጣ ቃሪያ|ሚጥሚጣ|በርበሬ|ተክል|የሚያቃጥል
+E	🫑	13.0	bell pepper|bell|capsicum|food|pepper|vegetable	የፈረንጅ ቃሪያ|ምግብ|ቃሪያ|በርበሬ
+E	🥒	3.0	cucumber|food|pickle|vegetable	ዱባ|ምግብ|አትክልት|ኩከምበር|ዝኩኒ|ፒክል
+E	🫝	18.0	pickle|brine|condiment|cucumber|ferment|gherkin|relish|trouble	ኪያር|መደሰት|ቅመም|ብሩኒ|ችግር|ገርኪን|ፈርጥ
+E	🥬	11.0	leafy green|bok|burgers|cabbage|choy|green|kale|leafy|lettuce|salad	ሰላጣ|ቅጠላ ቅጠል|በርገር|አሜሳ|አረንጓዴ ቅጠል|የቻይና ሰላጣ|ጎመን|ጥቅል ጎመን
+E	🥦	5.0	broccoli|cabbage|wild	ብሮኮሊ|የአበባ ጎመን|የዱር ጎመን
+E	🧄	12.0	garlic|flavoring	ነጭ ሽንኩርት|ማጣፈጫ|ምግብ
+E	🧅	12.0	onion|flavoring	ሽንኩርት|ማጣፈጫ|ምግብ
+E	🥜	3.0	peanuts|food|nut|peanut|vegetable	ኦቾሎኒ|ለውዝ|ምግብ|ነት|አትክልት
+E	🫘	14.0	beans|food|kidney|legume|small	ባቄላዎች|ምግብ|ባቄላ|ትንሽ|አባዝርት|ኩላሊት|ጥራጥሬ
+E	🌰	0.6	chestnut|almond|plant	የለውዝ ፍሬ|ለውዝ|ተክል
+E	🫚	15.0	ginger root|beer|ginger|health|herb|natural|root|spice	የዝንጅብል ሥር|ሥር|ቅመም|ቢራ|ተፈጥሯዊ|ዕፅዋት|ዝንጅብል|ጤና
+E	🫛	15.0	pea pod|beans|beanstalk|edamame|legume|pea|pod|soybean|vegetable|veggie	የአተር ፖድ|ባቄላ|አተር|አትክልት|አኩሪ አተር|ዝንብጥ|የአተር ዝንብጥ|ጥራጥሬ|ጥራጥሬዎች|ፖድ
+E	🍄‍🟫	15.1	brown mushroom|food|fungi|fungus|mushroom|nature|pizza|portobello|shiitake|shroom|spore|sprout|toppings|truffle|vegetable|vegetarian|veggie	ቡናማ እንጉዳይ|ማጣፈጫዎች|ምግብ|ምግብ፤ ፈንገስ፤ ተፈጥሮ፤ አትክልት|ቅጠል በል|ቡኒ የጅብ ጥላ|ተፈጥሮ|አታክልት|እምቡጥ|የጅብ ጥላ|የፒዛ ተጨማሪዎች|ፈንገስ|ፈንገሶች|ፖርቶቤሎ
+E	🫜	16.0	root vegetable|beet|food|garden|radish|root|salad|turnip|vegetable|vegetarian	ሥር አትክልቶች|ምግብ|ራዲሽ|ሰላጣ|ስር|ሽንብራ|ቢት|ቬጀቴሪያን|አትክልት|የአትክልት ስፍራ
+E	🍞	0.6	bread|carbs|food|grain|loaf|restaurant|toast|wheat	ዳቦ|ምግብ|ምግብ ቤት|ስንዴ|እህል|ካርቦሃይድሬትስ|የዳቦ ቁራሽ|ጥብስ
+E	🥐	3.0	croissant|bread|breakfast|crescent|food|french|roll	ክሬሰንት|ሙልሙል|ምግብ|የፈረንሳይ|ዳቦ
+E	🥖	3.0	baguette bread|baguette|bread|food|french	የፈረንሳይ ዳቦ|ምግብ|ባክዌት|ዳቦ|ፈረንሳይ
+E	🫓	13.0	flatbread|arepa|bread|food|gordita|lavash|naan|pita	ሽልጦ|ምግብ|አሬፓ|ዳቦ|ጎርዲታ
+E	🥨	5.0	pretzel|convoluted|twisted	ደረቅ ብስኩት|የተጠማዘዘ|ጥልፍልፍ
+E	🥯	11.0	bagel|bakery|bread|breakfast|schmear	ጣፋጭ ዳቦ|መጋገሪያ|ምግብ|ቁርስ|የሚገፋፋ ነገር|ዳቦ|ዳቦ ቤት
+E	🥞	3.0	pancakes|breakfast|crêpe|food|hotcake|pancake	ፓንኬክ|ምግብ|ትኩስ ኬክ|ክሬፕ
+E	🧇	12.0	waffle|breakfast|indecisive|iron	ኬክ|ምግብ|ቁርስ|ብረት|ዋፍል|የማያጠግብ
+E	🧀	1.0	cheese wedge|cheese|wedge	የቺዝ ቁራጭ|የወተት ተዋጽኦ|ፒዝ
+E	🍖	0.6	meat on bone|bone|meat	ሥጋ ያለው አጥንት|ምግብ|ሥጋ|ሥጋ የለው አጥንት|አጥንት
+E	🍗	0.6	poultry leg|bone|chicken|drumstick|hungry|leg|poultry|turkey	የዶሮ እግር|ሥጋ የለው አጥንት|ረሃብ|ሴት ዶሮ|ታፋ|እግር|የዶሮ ታፋ|የዶሮ እርባታ
+E	🥩	5.0	cut of meat|chop|cut|lambchop|meat|porkchop|red|steak	ቁራጭ ስጋ|መክተፍ|ሥጋ|ስቴክ|ቀይ ሥጋ|ቁራጭ ሥጋ|በስሱ ተቆርጦ የበሰለ ሥጋ|የተከተፈ የበግ ሥጋ|የተከተፈ የአሳማ ሥጋ
+E	🥓	3.0	bacon|breakfast|food|meat	ቤከን|ምግብ|ስጋ|የአሳማ ስጋ
+E	🍔	0.6	hamburger|burger|eat|fast|food|hungry	ሃምበርገር|መመገብ|መብላት|ምግብ|ረሃብ|በርገር|ፈጣን ምግብ
+E	🍟	0.6	french fries|fast|food|french|fries	ፍሬንች ፍራይስ|ቺብስ|የፈረንሳይ|ፈጣን ምግብ|ፍራይስ
+E	🍕	0.6	pizza|cheese|food|hungry|pepperoni|slice	ፒዛ|ምግብ|ረሃብ|ቁራሽ|ቺዝ|የፒዛ ቁራሽ|ፔፐሮኒ
+E	🌭	1.0	hot dog|dog|frankfurter|hot|hotdog|sausage	ሃት ዶግ|ሃትዶግ|ሆት ዶግ|ሆት ዶግ በዳቦ ውስጥ|ምግብ|ቋሊማ|ፋራንክፉተር
+E	🥪	5.0	sandwich|bread	ሳንድዊች|ምግብ|ዳቦ
+E	🌮	1.0	taco|mexican	ታኮ|ምግብ|የሜክሲኮ
+E	🌯	1.0	burrito|mexican|wrap	ቡሪቶ|ምግብ|የሜክሲኮ|የተጠቀለለ
+E	🫔	13.0	tamale|food|mexican|pamonha|wrapped	ታማሌ|ምግብ|ፓሞንሃ
+E	🥙	3.0	stuffed flatbread|falafel|flatbread|food|gyro|kebab|stuffed	በምግብ የተሞላ ዳቦ|ምግብ|ከባብ|የተሞላ|ጅይሮ|ፈላፍል
+E	🧆	12.0	falafel|chickpea|meatball	ብስኩት|ምግብ|ሽምብራ|የስጋ ኳስ|ፋላፍል
+E	🥚	3.0	egg|breakfast|food	እንቁላል|ምግብ|ሞላላ|ነጭ
+E	🍳	0.6	cooking|breakfast|easy|egg|fry|frying|over|pan|restaurant|side|sunny|up	ምግብ ማብሰል|መጥበስ|መጥበሻ|ማብሰል|ምግብ ቤት|ሬስቶራንት|ቁርስ|በጣም ቀላል|እንቁላል|ፀሐያማው ጎን ወደ ላይ
+E	🥘	3.0	shallow pan of food|casserole|food|paella|pan|shallow	ጎድጓዳ ሳህን ለምግብ|ምግብ|ሳህን|የምግብ ማቅረቢያ|ጎድጓዳ|ጎድጓዳ የምግብ ሳህን
+E	🍲	0.6	pot of food|food|pot|soup|stew	የምግብ ሳሕን|ምንቸት|ምግብ|ምግብ የያዘ ሳሕን|ሾርባ|ቅቅል
+E	🫕	13.0	fondue|cheese|chocolate|food|melted|pot|ski	ፎንዴ|ምግብ|ስኪ|ስዊዘርላንድ|ስዊዝ|ቺዝ
+E	🥣	5.0	bowl with spoon|bowl|breakfast|cereal|congee|oatmeal|porridge|spoon	ሳህን ሙሉ ማንኪያ|ምግብ|ቁርስ|አጃ|እህል|ኮንጊ|ገንፎ|ጎድጓዳ ሳህን ከማንኪያ ጋር
+E	🥗	3.0	green salad|food|green|salad	አረንጓዴ ሰላጣ|ምግብ|ሰላጣ|አረንጓዴ
+E	🍿	1.0	popcorn|corn|movie|pop	ፈንድሻ|ምግብ|ፊልም
+E	🧈	12.0	butter|dairy	ቅቤ|ምግብ|የወተት ምርት|የወተት ተዋጽዖ
+E	🧂	11.0	salt|condiment|flavor|mad|salty|shaker|taste|upset	ጨው|መበሳጨት|መናደድ|መወዝወዣ|ማጣፈጫ|ቅመም|ጣዕም|ጨዋማ|ጨው መነስነስ|ጨው ማስቀመጫ
+E	🥫	5.0	canned food|can|canned|food	የታሸገ ምግብ|ምግብ|ቆርቆሮ|ጣሳ
+E	🍱	0.6	bento box|bento|box|food	ቤንቶ ቦክስ|ምግብ|ሣጥን|ቤንቶ|የቤንቶ ሳጥን
+E	🍘	0.6	rice cracker|cracker|food|rice	የሩዝ ብስኩት|ምግብ|ሩዝ|ብስኩት
+E	🍙	0.6	rice ball|ball|food|Japanese|rice	የሩዝ ኳስ|ምግብ|ሩዝ|ኳስ|የጃፓን
+E	🍚	0.6	cooked rice|cooked|food|rice	የተቀቀለ ሩዝ|ምግብ|ሩዝ|የበሰለ
+E	🍛	0.6	curry rice|curry|food|rice	ከሪ ሩዝ|ምግብ|ሩዝ|ከሪ
+E	🍜	0.6	steaming bowl|bowl|chopsticks|food|noodle|pho|ramen|soup|steaming	ማጥለያ ጎድጓዳ ሳሕን|መመገቢያ እንጨቶች|ማጥለል|ምግብ|ራመን|ሼፕዊን|ሾርባ|ትኩስ ምግብ የያዘ ጎድጓዳ ሳሕን|ቾፕስቲክ|ኑድል|የቬትናም ሾርባ|ጎድጓዳ ሳሕን
+E	🍝	0.6	spaghetti|food|meatballs|pasta|restaurant	ስፓጌቲ|ምግብ|ምግብ ቤት|የስጋ ኳስ|የጣልያን|ፖስታ
+E	🍠	0.6	roasted sweet potato|food|potato|roasted|sweet	የተጠበሰ ስኳር ድንች|ስኳር ድንች|የተጠበሰ|ድንች|ጣፋጭ
+E	🍢	0.6	oden|food|kebab|restaurant|seafood|skewer|stick	ኦዴን|ሬስቶራንት|ስቲክ|ስኬወር|ባርቢኪው|ክባብ|የባሕር ምግብ|ጥብስ
+E	🍣	0.6	sushi|food	ሱሺ
+E	🍤	0.6	fried shrimp|fried|prawn|shrimp|tempura	የተጠበሰ ሽሪምፕ ዓሣ|ሽሪምፕ|ቴምፑራ|የተጠበሰ|ፕራውን
+E	🍥	0.6	fish cake with swirl|cake|fish|food|pastry|restaurant|swirl	የዓሣ ኬክ ከተሸረካከፈ ክፈፍ ጋር|አበባ ቅርጽ|ኬክ|ኬክና ብስኩት|ዓሣ|የተሸረካከፈ
+E	🥮	11.0	moon cake|autumn|cake|festival|moon|yuèbǐng	የጨረቃ ኬክ|መከር|በዓል|ኬክ
+E	🍡	0.6	dango|dessert|Japanese|skewer|stick|sweet	ዳንጎ|ስቲክ|ስኬወር|የጃፓን|ጣፋጭ
+E	🥟	5.0	dumpling|empanada|gyōza|jiaozi|pierogi|potsticker	ፍራፍሬ|በፍራፍሬ የተሰራ ኬክ|ኢምፓናዳ|ዱፕሊንግ|ጂያኦዚ|ጂዮዛ|ፒዬሮጊ|ፖትስቲከር
+E	🥠	5.0	fortune cookie|cookie|fortune|prophecy	ፎርቹን ኩኪ|ትንቢት
+E	🥡	5.0	takeout box|box|chopsticks|delivery|food|oyster|pail|takeout	ምግብ መውሰጃ እቃ|መመገቢያ እንጨት|ምግብ ማድረስ|ቾፕስቲክ|ኦይስተር መያዣ ካርቶን
+E	🍦	0.6	soft ice cream|cream|dessert|food|ice|icecream|restaurant|serve|soft|sweet	ቀላል አይስክሬም|ለስላሳ|ምግብ|ምግብ ቤት|በረዶ|በትንሹ ማቅረብ|አይስክሬም|ክሬም|ጣፋጭ
+E	🍧	0.6	shaved ice|dessert|ice|restaurant|shaved|sweet	የተሸለተ አይስክሬም|ምግብ|ምግብ ቤት|በረዶ|አይስ|የተሸለተ|ጣፋጭ
+E	🍨	0.6	ice cream|cream|dessert|food|ice|restaurant|sweet	አይስክሬም|ምግብ|ምግብ ቤት|በረዶ|አይስ|ክሬም|ጣፋጭ
+E	🍩	0.6	doughnut|breakfast|dessert|donut|food|sweet	ዶናት|ምግብ|ጣፋጭ
+E	🍪	0.6	cookie|chip|chocolate|dessert|sweet	ኩኪስ|ብስኩት|ጣፋጭ|ጣፋጭ ምግብ
+E	🎂	0.6	birthday cake|bday|birthday|cake|celebration|dessert|happy|pastry|sweet	የልደት ኬክ|መልካም ልደት|ኬክ|ኬክ መጋገሪያ|ኬክ እና ብስኩት|ክብረ በዓል|የልደት ቀን|ጣፋጭ|ጣፋጭ ምግብ
+E	🍰	0.6	shortcake|cake|dessert|pastry|slice|sweet	የልደት ኬክ ቁራሽ|ቁራሽ|ኬክ|ኬክና ብስኩት|ጣፋጭ|ጣፋጭ ምግብ
+E	🧁	11.0	cupcake|bakery|dessert|sprinkles|sugar|sweet|treat	የኩባያ ኬክ|መጋገሪያ|ስኳር|ኬክ|ኬክ ቤት|የዋና ምግብ ተከታይ|ጣፋጭ
+E	🥧	5.0	pie|apple|filling|fruit|meat|pastry|pumpkin|slice	ፓይ|መሙላት|ሥጋ|ኬክ|የዱባ ፓይ|የፓይ ቁራጭ|የፖም ፓይ
+E	🍫	0.6	chocolate bar|bar|candy|chocolate|dessert|halloween|sweet|tooth	ቸኮላታ|ሃሎዊን|ቸኮላት|አሞሌ|የቸኮሌት አሞሌ|ጣፋጭ|ጣፋጭ ምግብ|ጣፋጭ ጥርስ
+E	🍬	0.6	candy|cavities|dessert|halloween|restaurant|sweet|tooth|wrapper	ከረሜላ|ሃሎዊን|መጠቅለያ|ምግብ ቤት|የጥርስ መቦርቦር|ጣፋጭ|ጣፋጭ ምግብ|ጣፋጭ ጥርስ
+E	🍭	0.6	lollipop|candy|dessert|food|restaurant|sweet	ሎሊፖፕ ከረሜላ|ሎሊፖፕ|ምግብ|ምግብ ቤት|ከረሜላ|ዊሊ ዎንካ|ጣፋጭ
+E	🍮	0.6	custard|dessert|pudding|sweet	ካስታርድ ኬክ|ጣፋጭ|ጣፋጭ ምግብ|ፑዲንግ
+E	🍯	0.6	honey pot|barrel|bear|food|honey|honeypot|jar|pot|sweet	የማር ማሰሮ|ማር|ማሰሮ|ምግብ|በርሜል|ብልቃጥ|ዊኒ ዘ ቱ|ድብ|ጣፋጭ
+E	🍼	1.0	baby bottle|babies|baby|birth|born|bottle|drink|infant|milk|newborn	የህጻን ጡጦ|ሕፃናት|ሕፃን|መወለድ|አዲስ የተወለደ ህጻን|ወተት|የሚጠጣ|ጠርሙስ|ጠጣ|ጨቅላ
+E	🥛	3.0	glass of milk|drink|glass|milk	የወተት ብርጭቆ|መጠጣት|ብርጭቆ|ወተት|ወተት በብርጭቆ
+E	☕	0.6	hot beverage|beverage|cafe|caffeine|chai|coffee|drink|hot|morning|steaming|tea	የሚጠጣ ትኩስ ነገር|መጠጥ|ማጥለል|ስታርባክስ|ሻይ|ቡና|ትኩስ|አነቃቂ መጠጥ|እንፋሎት|ካፌ|ካፌይን|ጥዋት
+E	🫖	13.0	teapot|brew|drink|food|pot|tea	የሻይ ስኒ|ምግብ|ሻይ|ትኩስ መጠጥ|ጠመቃ
+E	🍵	0.6	teacup without handle|beverage|cup|drink|handle|oolong|tea|teacup	ማንጠልጠያ የሌለው የሻይ ስኒ|ስኒ|ሻይ|ትኩስ መጠጥ|ኦሎንግ|የሚጠጣ ነገር|የሻይ ስኒ
+E	🍶	0.6	sake|bar|beverage|bottle|cup|drink|restaurant	ማሰሮ|ስኒ|አሞሌ|የሚጠጣ ነገር|ጠርሙስ
+E	🍾	1.0	bottle with popping cork|bar|bottle|cork|drink|popping	ጠርሙስ ከነመክፈቻው|መክፈት|መጠጥ|መጠጥ ቤት|ባር|አሞሌ|ኮርኪ|ጠርሙስ|ጠጣ
+E	🍷	0.6	wine glass|alcohol|bar|beverage|booze|club|drink|drinking|drinks|glass|restaurant|wine	የወይን ብርጭቆ|መነጽር|መጠጥ|ሬስቶራንት|ባር|ወይን|ዋንጫ|የሚጠጣ ነገር|ጠጣ
+E	🍸	0.6	cocktail glass|alcohol|bar|booze|club|cocktail|drink|drinking|drinks|glass|mad|martini|men	የኮክቴል ብርጭቆ|መነጽር|መጠጥ ቤት|ቡና ቤት|ባር|ብርጭቆ|አልኮል|አሞሌ|ኮክቴል|ጠጣ
+E	🍹	0.6	tropical drink|alcohol|bar|booze|club|cocktail|drink|drinking|drinks|drunk|mai|party|tai|tropical|tropics	ትሮፒካል መጠጥ|ባህር ዳርቻ|ትሮፒካል|አልኮል|አሞሌ|ኮክቴል|ጠጣ|ጭማቂ|ፍራፍሬ ጭማቂ
+E	🍺	0.6	beer mug|alcohol|ale|bar|beer|booze|drink|drinking|drinks|mug|octoberfest|oktoberfest|pint|stein|summer	የድራፍት ብርጭቆ|መጠጥ ቤት|ቡና ቤት|ቢራ|አሞሌ|ኩባያ|ድራፍት|ጠጣ
+E	🍻	0.6	clinking beer mugs|alcohol|bar|beer|booze|bottoms|cheers|clink|clinking|drinking|drinks|mugs	የሚጋጩ የድራፍት ብርጭቆዎች|ለጤናችን|መጠጥ ቤት|ቢራ|ባር|ብርጭቆ ማጋጨት|ቺርስ|አልኮል መጠጥ|አሞሌ|ኩባያ|ክሊንክ
+E	🥂	3.0	clinking glasses|celebrate|clink|clinking|drink|glass|glasses	የብርጭቆ ማንቃጨል|መጠጣት|ማንቃጨል|ማክበር|ብርጭቆ
+E	🥃	3.0	tumbler glass|glass|liquor|scotch|shot|tumbler|whiskey|whisky	የመጠጥ ብርጭቆ|መለኪያ|መጠጥ|ብርጭቆ|አልኮል|ውስኪ
+E	🫗	14.0	pouring liquid|accident|drink|empty|glass|liquid|oops|pour|pouring|spill|water	ፈሳሽ መድፋት|መድፋት|መጠጥ|ባዶ|ብርጭቆ|አደጋ|ውሃ|ውይ|ጠብታ|ፈሳሽ
+E	🥤	5.0	cup with straw|cup|drink|juice|malt|soda|soft|straw|water	ብርጭቆ ከመጠጫ ጋር|ለስላሳ መጠጥ|ብቅል|ኩባያ|ውሃ|ጭማቂ
+E	🧋	13.0	bubble tea|boba|bubble|food|milk|pearl|tea	የአረፋ ሻይ|ምግብ|ሻይ|ቦባ|ታይዋን
+E	🧃	12.0	beverage box|beverage|box|juice|straw|sweet	የመጠጥ ሳጥን|ለስላሳ መጠጥ|መምጠጫ|የጭማቂ ሳጥን|ጣፋጭ|ጭማቂ
+E	🧉	12.0	mate|drink	ግጣም|መጠጥ
+E	🧊	12.0	ice|cold|cube|iceberg	በረዶ|ቀዝቃዛ|አልኮል መጠጥ|የበረዶ ክምር|የበረዶ ግግር
+E	🥢	5.0	chopsticks|hashi|jeotgarak|kuaizi	ቾፕስቲክ|ሃሺ|መመገቢያ እንጨቶች|ኩአይዚ|ጄኦትጋራክ
+E	🍽️	0.7	fork and knife with plate|cooking|dinner|eat|fork|knife|plate	ማንኪያ እና ሹካ ከሳሕን ጋር|ምግብ|ምግብ ማብሰል|ምግብ ቤት|ሬስቶራንት|ሳሕን|ሹካ|ቢላዋ
+E	🍴	0.6	fork and knife|breakfast|breaky|cooking|cutlery|delicious|dinner|eat|feed|food|fork|hungry|knife|lunch|restaurant|yum|yummy	ሹካና ቢለዋ|መመገብ|መራብ|መብላት|ምሳ|ምግብ ማብሰል|ምግብ ማብሰል/ቢለዋ/ሹካ/ሹካና ቢለዋ/ቢለዋ|ምግብ ቤት|ረሃብ|ሹካ|ሹካ እና ቢላዋ|ቁርስ|ቢለዋ|እራት|ጣፋጭ
+E	🥄	3.0	spoon|eat|tableware	ማንኪያ|መመገብ|መብላት|የቤት ዕቃዎች
+E	🔪	0.6	kitchen knife|chef|cooking|hocho|kitchen|knife|tool|weapon	የወጥ ቤት ቢላዋ|ሆቾ|ምግብ ማብሰል|ሼፍ|ቢላዋ|ጦር መሣሪያ
+E	🫙	14.0	jar|condiment|container|empty|nothing|sauce|store	ብልቃጥ|መያዣ|መደብር|ማሰሮ|ማጣፈጫ|ምንም|ስልስ|ባዶ
+E	🏺	1.0	amphora|Aquarius|cooking|drink|jug|tool|weapon|zodiac	አምፎራ ማሰሮ|መጠጣት|ማሰሮ|ምግብ ማብሰል|አኳይረስ|ጆግ
+C	travel_places	Travel & Places
+E	🌍	0.7	globe showing Europe-Africa|Africa|earth|Europe|Europe-Africa|globe|showing|world	አውሮፓና አፍሪካ የሚያሳይ ሉል|ሉል|መሬት|አውሮጳ|አፍሪካ|ዓለም
+E	🌎	0.7	globe showing Americas|Americas|earth|globe|showing|world	ሰሜንና ደቡብ አሜሪካ የሚያሳይ ሉል|ሉል|መሬት|ሰሜንና ደቡብ አሜሪካ|ዓለም
+E	🌏	0.6	globe showing Asia-Australia|Asia|Asia-Australia|Australia|earth|globe|showing|world	እስያና አውስትራሊያ የሚያሳይ ሉል|ሉል|መሬት|አውስትራሊያ|እስያ|ዓለም
+E	🌐	1.0	globe with meridians|earth|globe|internet|meridians|web|world|worldwide	ሜሪዲያኖች ያሉበት ሉል|ሉል|መሬት|ሜሪዲያኖች|ኬክሮስ ኬንትሮስ|ዓለም
+E	🗺️	0.7	world map|map|world	የዓለም ካርታ|ካርታ|ዓለም
+E	🗾	0.6	map of Japan|Japan|map	የጃፓን ካርታ|ካርታ|ጂኦግራፊ|ጃፓን
+E	🧭	11.0	compass|direction|magnetic|navigation|orienteering	ኮምፓስ|ማሰስ|ማቅጠጥ|ማግኔቲክ|አቅጣጫ|የባህር ጉዞ|ጉዞ
+E	🏔️	0.7	snow-capped mountain|cold|mountain|snow|snow-capped	ጫፉ በረዶ ያለበት ተራራ|ቀዝቃዛ|ቅዝቃዜ|በረዶ|ተራራ|አመዳይ|ጫፉ በረዶ ተራራ
+E	⛰️	0.7	mountain	ተራራ
+E	🛘	17.0	landslide|avalanche|danger|disaster|earthquake|mountain|mudslide|rocks	የመሬት መንሸራተት|ተራራ|አለቶች|አቫላንቸ|አደጋ|የመሬት መንቀጥቀጥ|ጭቃ መንሸራተት
+E	🌋	0.6	volcano|eruption|mountain|nature	እሳተ ጎመራ|ተራራ|ተፈጥሮ|እሳተ ገሞራ|የአየር ሁኔታ|የአየር ንብረት|ፍንዳታ
+E	🗻	0.6	mount fuji|fuji|mount|mountain|nature	የፉጂ ተራራ|ተራራ|ጃፓን|ፉጂ
+E	🏕️	0.7	camping	ሰፈራ|ሽርሽር|ካምፒንግ|ዱር|ድንኳን
+E	🏖️	0.7	beach with umbrella|beach|umbrella	የባሕር ዳርቻ ከዣንጥላ ጋር|ዣንጥላ|የባህር ዳርቻ|የባህር ዳርቻ ከዣንጥላ ጋር|የባሕር ዳርቻ
+E	🏜️	0.7	desert	በርሃ|ሃሩር|ምድረበዳ|ቃጠሎ|በረሃ
+E	🏝️	0.7	desert island|desert|island	የበርሃ ደሴት|በረሃ|በርሃ|ዘንባባ|ደሴት|ዳርቻ
+E	🏞️	0.7	national park|national|park	ብሔራዊ ፖርክ|መናፈሻ|ፖርክ
+E	🏟️	0.7	stadium	ስታዲየም
+E	🏛️	0.7	classical building|building|classical	ጥንታዊ ሕንጻ|ሕንጻ|ባንክ|ግሪክ|ጥንታዊ
+E	🏗️	0.7	building construction|building|construction|crane	የሕንጻ ግንባታ|ሕንጻ|እቃ ማንሻ|ክሬን|ግንባታ
+E	🧱	11.0	brick|bricks|clay|mortar|wall	ሸክላ|ሞርታር|ብሎኬት|ግድግዳ|ጡብ|ጡቦች
+E	🪨	13.0	rock|boulder|heavy|solid|stone|tough	አለት|ቋጥኝ|ድንጋይ|ጠንካራ
+E	🪵	13.0	wood|log|lumber|timber	እንጨት|ግንድ|ፍላጭ
+E	🛖	13.0	hut|home|house|roundhouse|shelter|yurt	ጎጆ|መኖሪያ ቤት|መጠለያ|ቤት
+E	🏘️	0.7	houses|house	የመኖሪያ ቤቶች ግንባታ|ሕንጻ|ቤት
+E	🏚️	0.7	derelict house|derelict|home|house	የተተወ የቤት ግንባታ|ሕንጻ|ቤት|ደርሊክት|ጭርንቁስ
+E	🏠	0.6	house|building|country|heart|home|ranch|settle|simple|suburban|suburbia|where	የቤት ግንባታ|ሕንጻ|መኖሪያ ቤት|ቀላል ቤት|ቤት|የከተማ ዳርቻ ቤት
+E	🏡	0.6	house with garden|building|country|garden|heart|home|house|ranch|settle|simple|suburban|suburbia|where	መናፈሻ ቦታ ያለው ቤት|ሕንጻ|መናፈሻ|መኖሪያ ቤት|ቤት|ዛፍ ያለው መኖሪያ ቤት
+E	🏢	0.6	office building|building|city|cubical|job|office	የቢሮ ሕንጻ|ሕንጻ|መስሪያ ቤት|ሥራ|ከተማ
+E	🏣	0.6	Japanese post office|building|Japanese|office|post	የጃፓን ፖስታ ቤት|ሕንጻ|የጃፓን|ፖስታ ቤት
+E	🏤	1.0	post office|building|European|office|post	ፖስታ ቤት|ሕንጻ|የአውሮጳ
+E	🏥	0.6	hospital|building|doctor|medicine	ሆስፒታል|ሕንጻ|ሕክምና|ዶክተር
+E	🏦	0.6	bank|building	ባንክ|ሕንጻ
+E	🏨	0.6	hotel|building	ሆቴል|ሕንጻ
+E	🏩	0.6	love hotel|building|hotel|love	የፍቅር ሆቴል|ሆቴል|ሕንጻ|ፍቅር
+E	🏪	0.6	convenience store|24|building|convenience|hours|store	24 ሰዓት የሚሰራ ገበያ አዳራሽ|ሕንጻ|መደብር
+E	🏫	0.6	school|building	ትምህርት ቤት|ሕንጻ|የመንግስት መሥሪያ ቤት
+E	🏬	0.6	department store|building|department|store	መኖሪያ አፓርታማ|ሕንጻ|መደብር|ዲፓርትመንት
+E	🏭	0.6	factory|building	ፋብሪካ|ሕንጻ|ኢንዱስትሪ
+E	🏯	0.6	Japanese castle|building|castle|Japanese	የጃፓን ቤተመንግሥት ሕንጻ|ሕንጻ|የቤተ መንግሥት ሕንጻ|የጃፓን
+E	🏰	0.6	castle|building|European	የቤተመንግሥት ሕንጻ|ሕንጻ|ቤተ መንግስት|የአውሮጳ|የአውሮፓ
+E	💒	0.6	wedding|chapel|hitched|nuptials|romance	ሰርግ|ሻፔል|ቤተ መቅደስ|ቻፔል|ፍቅር
+E	🗼	0.6	Tokyo tower|Tokyo|tower	የቶክዮ ማማ|ማማ|ቶክዮ|ጃፓን
+E	🗽	0.6	Statue of Liberty|liberty|Liberty|new|ny|nyc|statue|Statue|york	የነጻነት ሐውልት|ሐውልት|ነጻነት|ኒው ዮርክ|የአሜሪካ ሕልም
+E	⛪	0.6	church|bless|chapel|Christian|cross|religion	ቤተክርስትያን|ሕንጻ|መስቀል|ቅዱስ|ቤተ መቅደስ|ቤተ ክርስቲያን|ኃይማኖት|ክርስትያን
+E	🕌	1.0	mosque|islam|masjid|Muslim|religion	መስጂድ|መስጊድ|ሙስሊም|ኃይማኖት|እስላም
+E	🛕	12.0	hindu temple|hindu|temple	የሂንዱ ምኩራብ|ሂንዱ|ምኩራብ|ቤተመቅደስ
+E	🕍	1.0	synagogue|Jew|Jewish|judaism|religion|temple	ቤተ መቅደስ|ኃይማኖት|አይሁዳዊ|አይሁድ|የዳዊት ኮከብ
+E	⛩️	0.7	shinto shrine|religion|shinto|shrine	የሺንቶ መካነ መቃብር|ሺንቶ|ሺንቶ ቤተመቅደስ|ቡድሂዝም|ኃይማኖት|የተቀደሰ|የተቀደሰ መካነ መቃብር
+E	🕋	1.0	kaaba|hajj|islam|Muslim|religion|umrah	የሙስሊም ካባ|ሙስሊም|ኃይማኖት|ኡመራ|እስላም|ካባ
+E	⛲	0.6	fountain	ፏፏቴ
+E	⛺	0.6	tent|camping	ድንኳን|ሽርሽር|በድንኳን መስፈር|ካምፒንግ
+E	🌁	0.6	foggy|fog	ጭጋጋማ|የአየር ንብረት|ድልድይ|ጭጋግ
+E	🌃	0.6	night with stars|night|star|stars	ከዋክብት ያሉበት ለሊት|ሌሊት|ከተማ በሌሊት|ኮከብ|የአየር ንብረት
+E	🏙️	0.7	cityscape|city	የከተማ መልክዓ ምድር|ሕንጻ|ከተማ
+E	🌄	0.6	sunrise over mountains|morning|mountains|over|sun|sunrise	በተራሮች አናት ላይ የምትወጣ ፀሐይ|ተራራ|የአየር ንብረት|ጠዋት|ፀሐይ
+E	🌅	0.6	sunrise|morning|nature|sun	የፀሐይ ውጣት|የአየር ንብረት|ጠዋት|ፀሐይ
+E	🌆	0.6	cityscape at dusk|at|building|city|cityscape|dusk|evening|landscape|sun|sunset	የከተማ መልክዓ ምድር በምሽት|መልክዓ ምድር|ምሽት|አመሻሽ|ከተማ|የፀሐይ ግባት
+E	🌇	0.6	sunset|building|dusk|sun	የፀሐይ ግባት|ሕንጻ|አመሻሽ|የአየር ንብረት|ጨለማ|ፀሐይ
+E	🌉	0.6	bridge at night|at|bridge|night	ድልድይ በለሊት|ሌሊት|የአየር ንብረት|ድልድይ
+E	♨️	0.6	hot springs|hot|hotsprings|springs|steaming	ትኩስ ፍልውሃ|ምንጭ|ምንጮች|ቃጠሎ|ትኩስ|እንፋሎት|ፍል ውሃ|ፍልውሃ
+E	🎠	0.6	carousel horse|carousel|entertainment|horse	ካሮሴል ፈረስ|መዝናኛ|ካሮሴል|ፈረስ
+E	🛝	14.0	playground slide|amusement|park|play|playground|playing|slide|sliding|theme	መጫወቻ ሸርተቴ|መጫወት|መጫወቻ|ሸርተቴ|የልጆች መጫወቻ|የመዝናኛ ፓርክ
+E	🎡	0.6	ferris wheel|amusement|ferris|park|theme|wheel	ፌሪስ ዊል እሽክርክሮሽ|መዘውር|መዝናኛ ፖርክ|ትልክ መርከብ|እሽክርክሮሽ
+E	🎢	0.6	roller coaster|amusement|coaster|park|roller|theme	ሮለር ኮስተር እሽክርክሮሽ|መዝናኛ ፖርክ|መጫወቻ ፓርክ|ሮለር|ኮስተር|ፓርክ
+E	💈	0.6	barber pole|barber|cut|fresh|haircut|pole|shave	የጸጉር አስተካካይ ስልክ እንጨት|ማዳወሪያ|ስልክ እንጨት|ክር|ጸጉር መቆረጥ|ጸጉር ቆራጭ
+E	🎪	0.6	circus tent|circus|tent	የሰርከስ ድንኳን|ሰርከስ|ድንኳን
+E	🚂	1.0	locomotive|caboose|engine|railway|steam|train|trains|travel	የባቡር ፉርጎ ጎታች|ሞተር|ባቡር|ተሽከርካሪ|እንፋሎት|የባቡር መንገድ
+E	🚃	0.6	railway car|car|electric|railway|train|tram|travel|trolleybus	ፉርጎ|ሃዲድ|መኪና|ቀላል ባቡር|ባለ ሃዲድ አውቶቡስ|ባቡር|ተጎታች|ትራም|ኤሌክትሪክ|የባቡር መንገድ
+E	🚄	0.6	high-speed train|high-speed|railway|shinkansen|speed|train	ፈጣን ባቡር|ሺንካንሰን|ባቡር|የባቡር መንገድ|ጥይት ባቡር|ፍጥነት
+E	🚅	0.6	bullet train|bullet|high-speed|nose|railway|shinkansen|speed|train|travel	አፍንጫው ጥይት መሳይ ፈጣን ባቡር|ሺንካንሰን|ባቡር|ባቡር መንገድ|የባቡር መንገድ|ጥይት ባቡር|ፈጣን ባቡር|ፍጥነት
+E	🚆	1.0	train|arrived|choo|railway	ባቡር|መድረስ|ተሽከርካሪ|የባቡር መንገድ
+E	🚇	0.6	metro|subway|travel	የመሬት ውስጥ ባቡር|ሜትሮ|ባቡር|ተሽከርካሪ|የመሬት ውስጥ|የዋሻ መንገድ
+E	🚈	1.0	light rail|arrived|light|monorail|rail|railway	ቀላል ባቡር|መድረስ|ባቡር መንገድ|ተሽከርካሪ|ነጠላ ሃዲድ|የባቡር መንገድ
+E	🚉	0.6	station|railway|train	ጣቢያ|ባቡር|ባቡር መቆሚያ|ተሽከርካሪ|የባቡር መንገድ
+E	🚊	1.0	tram|trolleybus	ባቡር መሰል አውቶቡስ|ሃዲድ|ቀላል ባቡር|ባቡር|ተሽከርካሪ
+E	🚝	1.0	monorail|vehicle	የባቡር መሄጃ ድልድይ|ተሽከርካሪ|የባቡር ድልድይ፣ ተሽከርካሪ
+E	🚞	1.0	mountain railway|car|mountain|railway|trip	የባቡር ሐዲድ ያለው ተራራ|ሃዲድ|መኪና|ተራራ|ተሽከርካሪ|የባቡር መንገድ|ፉርጎ
+E	🚋	1.0	tram car|bus|car|tram|trolley|trolleybus	የባቡር መሰል አውቶቡስ ፉርጎ|መኪና|ቀላል ባቡር|ባቡር መሰል አውቶቡስ|ተሽከርካሪ|ተጎታች|ትራም|የኤሌክትሪክ ባቡር
+E	🚌	0.6	bus|school|vehicle	አውቶቡስ|ሎንቺን|ተሽከርካሪ|የትምህርት ቤት አውቶቡስ
+E	🚍	0.7	oncoming bus|bus|cars|oncoming	መጪ አውቶቡስ|መጪ|ተሽከርካሪ|አውቶቡስ
+E	🚎	1.0	trolleybus|bus|tram|trolley	በኤሌትሪክ የሚጎተት አውቶቡስ|በኤሌክትሪክ የሚጎተት|ተሽከርካሪ|ተጎታች|ትራም|አውቶቡስ|የኤሌክትሪክ አውቶቡስ
+E	🚐	1.0	minibus|bus|drive|van|vehicle	ሚኒባስ|ቫን|ተሽከርካሪ|አውቶቡስ
+E	🚑	0.6	ambulance|emergency|vehicle	አምቡላንስ|ሕክምና|ተሽከርካሪ|አስቸኳይ|ድንገተኛ|ፈጥኖ ደራሽ
+E	🚒	0.6	fire engine|engine|fire|truck	የእሳት አደጋ መኪና|ሞተር|ተሽከርካሪ|አስቸኳይ|እሳት|እሳት አደጋ|የጭነት መኪና
+E	🚓	0.6	police car|5–0|car|cops|patrol|police	የፖሊስ መኪና|መኪና|ተሽከርካሪ|ፓትሮል|ፖሊስ
+E	🚔	0.7	oncoming police car|car|oncoming|police	መጪ የፖሊስ መኪና|መኪና|መጪ|ተሽከርካሪ|ፖሊስ
+E	🚕	0.6	taxi|cab|cabbie|car|drive|vehicle|yellow	ታክሲ|ብጫ ታክሲ|ተሽከርካሪ
+E	🚖	1.0	oncoming taxi|cab|cabbie|cars|drove|hail|oncoming|taxi|yellow	መጪ ታክሲ|መጪ|ተሽከርካሪ|ታክሲ
+E	🚗	0.6	automobile|car|driving|vehicle	አውቶሞቢል|መንዳት|መኪና|መጫወቻ መኪና|ተሽከርካሪ|አሻንጉሊት
+E	🚘	0.7	oncoming automobile|automobile|car|cars|drove|oncoming|vehicle	መጪ አውቶሞቢል|መኪና|መጪ|ተሽከርካሪ|አውቶሞቢል
+E	🚙	0.6	sport utility vehicle|car|drive|recreational|sport|sportutility|utility|vehicle	የመዝናኛ መኪና|መኪና|መጫወቻ|ተሽከርካሪ|አሻንጉሊት መኪና|የመዝናኛ
+E	🛻	13.0	pickup truck|automobile|car|flatbed|pick-up|pickup|transportation|truck	የመሰብሰቢያ መኪና|መኪና|መጓጓዣ|ተሽከርካሪ|አውቶሞቢል|የጭነት መኪና|ጠፍጣፋ|ፒክአፕ
+E	🚚	0.6	delivery truck|car|delivery|drive|truck|vehicle	የዕቃ ማድረሻ መኪና|ማድረሻ|ተሽከርካሪ|የጭነት መኪና
+E	🚛	1.0	articulated lorry|articulated|car|drive|lorry|move|semi|truck|vehicle	ሽፍን የጭነት ማመላለሻ መኪና|መንቀሳቀስ|መኪና|ተሽከርካሪ|አነስተኛ የጭነት መኪና|ከፊል|የጭነት መኪና
+E	🚜	1.0	tractor|vehicle	ትራክተር|ተሽከርካሪ|እርሻ
+E	🏎️	0.7	racing car|car|racing|zoom	የውድድር መኪና|መኪና|እሽቅድምድም
+E	🏍️	0.7	motorcycle|racing	ሞተርሳይክል|እሽቅድምድም|የእሽቅድምድም ሞተር
+E	🛵	3.0	motor scooter|motor|scooter	ቀላል ሞተር ሳይክል|ሞተር|ሳይክል|ስኩተር
+E	🦽	12.0	manual wheelchair|accessibility|manual|wheelchair	የእጅ ተሽከርካሪ ወንበር|ምቹ|ተደራሽ|ተደራሽነት|አካል ጉዳተኛ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	🦼	12.0	motorized wheelchair|accessibility|motorized|wheelchair	ባለሞተር ተሽከርካሪ ወንበር|መጓጓዣ|ምቹ|ተደራሽነት|አካል ጉዳተኛ|የአካል ጉዳተኛ ተሽከርካሪ ወንበር
+E	🛺	12.0	auto rickshaw|auto|rickshaw|tuk	ራስሰር ሪክሻው|መኪና|መጓጓዣ|ባለ ሦስት ጎማ ተሽከርካሪ|ባጃጅ|ተሽከርካሪ|ዶቅዶቄ
+E	🚲	0.6	bicycle|bike|class|cycle|cycling|cyclist|gang|ride|spin|spinning	ብስክሌት|መሽከርከር|መንዳት|ብስክሌት ነጂ|ተሽከርካሪ|የማሽከርከር ክፍል|የብስክሌት ቡድን
+E	🛴	3.0	kick scooter|kick|scooter	የግፊ ሳይክል|መግፋት|ሳይክል|ስኩተር
+E	🛹	11.0	skateboard|board|skate|skater|wheels	ስኬትቦርድ|ስኬት|ቦርድ|የስኬትቦርድ ነጂ|ጎማዎች
+E	🛼	13.0	roller skate|blades|roller|skate|skates|sport	ተሽከርካሪ ስኬት|መንሸራተቻ|ምላጭ|ሮለር ስኬት|ሮለር ስኬቶች|ስፖርት
+E	🚏	0.6	bus stop|bus|busstop|stop	የአውቶቡስ ማቆሚያ|አቁም|አውቶቡስ|አውቶቡስ ማቆሚያ
+E	🛣️	0.7	motorway|highway|road	የመኪና መንገድ|መንገድ|አውራ ጎዳና|የመንገድ ምልክት
+E	🛤️	0.7	railway track|railway|track|train	የባቡር ሐዲድ|መንገድ|ባቡር
+E	🛢️	0.7	oil drum|drum|oil	የዘይት ከበሮ|ነዳጅ|ከበሮ|ዘይት|የዘይት በርሜል
+E	⛽	0.6	fuel pump|diesel|fuel|fuelpump|gas|gasoline|pump|station	የነዳጅ መቅጃ|መቅዳት|ቤንዚን|ነዳጅ|ነዳጅ ማደያ|ጣቢያ
+E	🛞	14.0	wheel|car|circle|tire|turn|vehicle	ጎማ|መታጠፊያ|መኪና|ተሽከርካሪ|ክብ|ክብ ውስጥ ያለ ኮኮብ|ኮከብ|የማሽከርከር ምልክት
+E	🚨	0.6	police car light|alarm|alert|beacon|car|emergency|light|police|revolving|siren	የፖሊስ መኪና መብራት|መብራት|መኪና|ቢከን|ቤከን|ብልጭ ድግርም|አምቡላንስ|አስቸኳይ|አደጋ|የሚሽከረከር|የፖሊስ መኪና
+E	🚥	0.6	horizontal traffic light|horizontal|intersection|light|signal|stop|stoplight|traffic	አግድማዊ የትራፊክ መብራት|መብራት|ሲግናል|ትራፊክ
+E	🚦	1.0	vertical traffic light|drove|intersection|light|signal|stop|stoplight|traffic|vertical	ተቆልቋይ የትራፊክ መብራት|መብራት|ሲግናል|ቀይ ብጫ አረንጓዴ|ትራፊክ|አረንጓዴ ብጫ ቀይ|የትራፊክ መብራት
+E	🛑	3.0	stop sign|octagonal|sign|stop	የቁም ምልክት|ምልክት|ስምንት ማዕዘን|ቁም
+E	🚧	0.6	construction|barrier	ግንባታ|መሰናክል|ማገጃ
+E	🛙	18.0	lighthouse|beacon|enlightenment|guidance|hope|light|maritime|navigation|sea|signal	የመብራት ቤት|መመሪያ|ምልክት|ባህር|ብርሃን|ተስፋ|አቅጣጫ|የባህር ጉዞ|የአሳማ ስጋ
+E	⚓	0.6	anchor|ship|tool	መልህቅ|መሣሪያ|መርከብ|ወደብ
+E	🛟	14.0	ring buoy|buoy|float|life|lifesaver|preserver|rescue|ring|safety|save|saver|swim	አንሳፋፊ ቀለበት|ህይወት ጠባቂ|ሕይወት አድን|መታደግ|ብይ|ተንሳፋፊ|ነብስ አድን|ከውሃ መስመጥ ማትረፍ|ክብ|ዋና|ደህንነት
+E	⛵	0.6	sailboat|boat|resort|sailing|sea|yacht	ጀልባ|ባሕር|ተሽከርካሪ|ታንኳ|እንግዳ ማረፊያ|የነፋስ ጀልባ|የውሃ መጓጓዣ
+E	🛶	3.0	canoe|boat	ታንኳ|ካያክ|ጀልባ
+E	🚤	0.6	speedboat|billionaire|boat|lake|luxury|millionaire|summer|travel	ፈጣን ጀልባ|መጓጓዣ|ተሽከርካሪ|የሞተር ጀልባ|ጀልባ
+E	🛳️	0.7	passenger ship|passenger|ship	የመንገደኞች መርከብ|መርከብ|መንገደኛ|ተሳፋሪ|ተሽከርካሪ
+E	⛴️	0.7	ferry|boat|passenger	ከባድ የመንገደኞች መርከብ|መርከብ|መጓጓዣ|ባህር|ትልቅ የመንገደኞች መርከብ|የባህር መጓጓዣ|ጀልባ
+E	🛥️	0.7	motor boat|boat|motor|motorboat	ባለሞተር ጀልባ|ሞተር ጀልባ|ተሽከርካሪ|ጀልባ|ፈጣን ጀልባ
+E	🚢	0.6	ship|boat|passenger|travel	መርከብ|ተሽከርካሪ|ታይታኒክ|የመንገደኛ መርከብ|ጀልባ
+E	✈️	0.6	airplane|aeroplane|fly|flying|jet|plane|travel	አይሮፕላን|መጓጓዣ|በረራ|ተሽከርካሪ|አውሮፕላን|ጄት|ጉዞ
+E	🛩️	0.7	small airplane|aeroplane|airplane|plane|small	ትንሽ አይሮፕላን|ተሽከርካሪ|አውሮፕላን|አይሮፕላን
+E	🛫	1.0	airplane departure|aeroplane|airplane|check-in|departure|departures|plane	የአይሮፕላን አነሳስ|መነሳት|መነሻ|መጓጓዣ|ተመዝግቦ መግባት|ተሽከርካሪ|አውሮፕላን|አውሮፕላን ጣቢያ|አይሮፕላን
+E	🛬	1.0	airplane arrival|aeroplane|airplane|arrival|arrivals|arriving|landing|plane	የአይሮፕላን አስተራረፍ|በማረፍ ላይ|ተሽከርካሪ|አይሮፕላን|እየደረሰ ነው|የአይሮፕላን ማረፊያ
+E	🪂	12.0	parachute|hang-glide|parasail|skydive	ጃንጥላ|መስቀያ|ዝላይ|የሰማይ ዝላይ|ፓራሳይል|ፓራሹት
+E	💺	0.6	seat|chair	ወንበር|መቀመጫ
+E	🚁	1.0	helicopter|copter|roflcopter|travel|vehicle	ሄሊኮፕተር|ሄልኮፕተር|መብረር|መጓጓዣ|ተሽከርካሪ|ግዞ
+E	🚟	1.0	suspension railway|railway|suspension	በአየር ላይ የሚጎተት ባቡር|ባቡር|ተሽከርካሪ|ተንጠልጣይ|ተንጠልጣይ ሃዲድ|ተጎታች|የባቡር ሐዲድ
+E	🚠	1.0	mountain cableway|cable|cableway|gondola|lift|mountain|ski	የተራራ የባቡር መሳቢያ ገመድ|ሽርሽር|ተራራ|ተሽከርካሪ|የገመድ መኪና|የገመድ መጓጓዣ|ገመድ|ጉብኝት|ጎንዳላ
+E	🚡	1.0	aerial tramway|aerial|cable|car|gondola|ropeway|tramway	በአየር ላይ የሚጎተት ባቡር መሰል አውቶቡስ|መኪና|ባቡር መሰል አውቶቡስ|ተንሸራታች መኪና|ተንጠልጣይ መኪና|የአየር|የገመድ ሃዲድ|የገመድ መንገድ|የገመድ መጓጓዣ|ጉብኝት|ጎንዳላ
+E	🛰️	0.7	satellite|space	ሳተላይት|ህዋ|ተሽከርካሪ|ጠፈር
+E	🚀	0.6	rocket|launch|rockets|space|travel	ሮኬት|ህዋ|መንኮራኩር|ማምጠቅ|ተሽከርካሪ
+E	🛸	5.0	flying saucer|aliens|extra|flying|saucer|terrestrial|UFO	በራሪ ዲስክ|ተጨማሪ|ተጨማሪ ምድራዊ|ተጨማሪ የብሳዊ|ትርፍ|የሌላ ዓለም ፍጡር|ዩፎ
+E	🛎️	0.7	bellhop bell|bell|bellhop|hotel	የሆቴል ሻንጣ ተቀባይ ደወል|ሆቴል|መጥሪያ|ደወል
+E	🧳	11.0	luggage|bag|packing|roller|suitcase|travel	ሻንጣ|መሸከፍ|መጓዝ|ባላጎማ ቦርሳ|ጉዞ
+E	⌛	0.6	hourglass done|done|hourglass|sand|time|timer	የሰዓት ቆጣሪ ብርጭቆ|ሰዓት ቆጣሪ|አሸዋ|የሰዓት ብርጭቆ|ጊዜ መቁጠሪያ ብርጭቆ
+E	⏳	0.6	hourglass not done|done|flowing|hourglass|hours|not|sand|timer|waiting|yolo	የሰዓት ቆጣሪ ብርጭቆ ከፈሳሽ አሸዋ ጋር|ሰዓት መነጽር|ሰዓት ቆጣሪ|ብርጭቆ እና አሸዋ|አሸዋ|የሰዓት መቁጠሪያ ብርጭቆ
+E	⌚	0.6	watch|clock|time	የእጅ ሰዓት|ሰዓት|ጊዜ
+E	⏰	0.6	alarm clock|alarm|clock|hours|hrs|late|time|waiting	ማንቂያ ደወል ያለው ሰዓት|ማንቂያ|ሰዓት
+E	⏱️	1.0	stopwatch|clock|time	የሩጫ ሰዓት|ሰዓት|ሰዓት መቆጣጠሪያ|የሚቆም ሰዓት
+E	⏲️	1.0	timer clock|clock|timer	ጊዜ ቆጣሪ ሰዓት|ሰዓት|ሰዓት ቆጣሪ|ጊዜ ቆጣሪ
+E	🕰️	0.7	mantelpiece clock|clock|mantelpiece|time	የብፌ ሰዓት|ሰዓት|ጊዜ
+E	🕛	0.6	twelve o’clock|12|12:00|clock|o’clock|time|twelve	አስራ ሁለት ሰዓት|00|12|12:00|ሰዓት|አስራ ሁለት|ጊዜ
+E	🕧	0.7	twelve-thirty|12|12:30|30|clock|thirty|time|twelve	አስራ ሁለት ተኩል|12|12:30|30|ሰዓት
+E	🕐	0.6	one o’clock|1|1:00|clock|o’clock|one|time	አንድ ሰዓት|00|1|1:00|ሰዓት|አንድ
+E	🕜	0.7	one-thirty|1|1:30|30|clock|one|thirty|time	አንድ ሰዓት ተኩል|1|1:30|30|ሰዓት|ተኩል|ጊዜ
+E	🕑	0.6	two o’clock|2|2:00|clock|o’clock|time|two	ሁለት ሰዓት|00|2|2:00|ሁለት|ሰዓት
+E	🕝	0.7	two-thirty|2|2:30|30|clock|thirty|time|two	ሁለት ሰዓት ተኩል|2|2:30|30|ሁለት|ሰዓት|ተኩል|ጊዜ
+E	🕒	0.6	three o’clock|3|3:00|clock|o’clock|three|time	ሶስት ሰዓት|00|3|3:00|ሰዓት|ሶስት
+E	🕞	0.7	three-thirty|3|3:30|30|clock|thirty|three|time	ሶስት ሰዓት ተኩል|3|3:30|30|ሶስት|ተኩል
+E	🕓	0.6	four o’clock|4|4:00|clock|four|o’clock|time	አራት ሰዓት|00|4|4:00|ሰዓት|አራት
+E	🕟	0.7	four-thirty|30|4|4:30|clock|four|thirty|time	አራት ሰዓት ተኩል|30|4|4:30|ሰዓት|ተኩል|አራት|አስር ተኩል|የግድግዳ ሰዓት
+E	🕔	0.6	five o’clock|5|5:00|clock|five|o’clock|time	አምስት ሰዓት|00|5|5:00|ሰዓት|አምስት
+E	🕠	0.7	five-thirty|30|5|5:30|clock|five|thirty|time	አምስት ሰዓት ተኩል|30|5|5:30|ተኩል|አምስት
+E	🕕	0.6	six o’clock|6|6:00|clock|o’clock|six|time	ስድስት ሰዓት|00|6|6:00|ሰዓት|ስድስት
+E	🕡	0.7	six-thirty|30|6|6:30|clock|six|thirty	ስድስት ሰዓት ተኩል|30|6|6:30|ሰባት
+E	🕖	0.6	seven o’clock|0|7|7:00|clock|o’clock|seven	ሰባት ሰዓት|00|7|7:00|ሰባት|ሰዓት
+E	🕢	0.7	seven-thirty|30|7|7:30|clock|seven|thirty	ሰባት ሰዓት ተኩል|30|7|7:30|ሰባት|ተኩል
+E	🕗	0.6	eight o’clock|8|8:00|clock|eight|o’clock|time	ስምንት ሰዓት|00|8|8:00|ሰዓት|ስምንት
+E	🕣	0.7	eight-thirty|30|8|8:30|clock|eight|thirty|time	ስምንት ሰዓት ተኩል|30|8|8:30|ስምንት|ተኩል
+E	🕘	0.6	nine o’clock|9|9:00|clock|nine|o’clock|time	ዘጠኝ ሰዓት|00|9|9:00|ሰዓት|ዘጠኝ
+E	🕤	0.7	nine-thirty|30|9|9:30|clock|nine|thirty|time	ዘጠኝ ሰዓት ተኩል|30|9|9:30|ተኩል|ዘጠኝ
+E	🕙	0.6	ten o’clock|0|10|10:00|clock|o’clock|ten	አስር ሰዓት|00|10|10:00|ሰዓት|አስር
+E	🕥	0.7	ten-thirty|10|10:30|30|clock|ten|thirty|time	አስር ሰዓት ተኩል|10|10:30|30|ተኩል|አስር
+E	🕚	0.6	eleven o’clock|11|11:00|clock|eleven|o’clock|time	አስራ አንድ ሰዓት|00|11|11:00|አስራ አንድ
+E	🕦	0.7	eleven-thirty|11|11:30|30|clock|eleven|thirty|time	አስራ አንድ ሰዓት ተኩል|11|11:30|30|ተኩል
+E	🌑	0.6	new moon|dark|moon|new|space	አዲስ ጨረቃ|ህዋ|የአየር ንብረት|ጨለማ|ጨረቃ
+E	🌒	1.0	waxing crescent moon|crescent|dreams|moon|space|waxing	ትንሽ የበራች ግማሽ ጨረቃ|ህዋ|አዲስ ጨረቃ|የበራች|የአየር ንብረት|ጨረቃ
+E	🌓	0.6	first quarter moon|first|moon|quarter|space	የመጀመሪያ ሩብ ጨረቃ|ህዋ|ሩብ|የአየር ንብረት|ግማሽ|ጨረቃ
+E	🌔	0.6	waxing gibbous moon|gibbous|moon|space|waxing	ትንሽ የጠቆረች ግማሽ ጨረቃ|ህዋ|ትንሽ የተቀባ|ትንሽ የጠቆረ|ትንሽ የጠቆረች|እየሞላ ያለ ጨረቃ|ጎዶሎ ጨረቃ|ጨረቃ
+E	🌕	0.6	full moon|full|moon|space	ሙሉ ጨረቃ|ህዋ|ሙሉ|የአየር ንብረት|ጨረቃ
+E	🌖	1.0	waning gibbous moon|gibbous|moon|space|waning	በቀኝ በኩል ትንሽ የጠቆረች ግማሽ ጨረቃ|ህዋ|ትንሽ የጠቆረ|እየጠፋች ያለች ጨረቃ|የአየር ንብረት|ጎዶሎ ጨረቃ
+E	🌗	1.0	last quarter moon|last|moon|quarter|space	የመጨረሻ ሩብ ጨረቃ|ህዋ|ሩብ|የአየር ንብረት|ግማሽ ጨረቃ|ጨረቃ
+E	🌘	1.0	waning crescent moon|crescent|moon|space|waning	በግራ በኩል ትንሽ የበራች ግማሽ ጨረቃ|ህዋ|እየጠፋ ያለ ጨረቃ|የአየር ንብረት|የደበዘዘ|ገሚስ ጨረቃ|ግማሽ ጨረቃ|ጨረቃ
+E	🌙	0.6	crescent moon|crescent|moon|ramadan|space	ግማሽ ጨረቃ|ህዋ|የአየር ንብረት|ገሚስ ጨረቃ|ጨረቃ
+E	🌚	1.0	new moon face|face|moon|new|space	አዲስ ጨረቃ ፊት|ህዋ|የአየር ንብረት|ጨረቃ|ፊት
+E	🌛	0.6	first quarter moon face|face|first|moon|quarter|space	የመጀመሪያ ሩብ ጨረቃ ከፊት ጋር|ህዋ|ሩብ|የመጀመሪያ ሩብ|የአየር ንብረት|ጨረቃ|ፊት
+E	🌜	0.7	last quarter moon face|dreams|face|last|moon|quarter	የመጨረሻ ሩብ ጨረቃ ከፊት ጋር|ህዋ|ሩብ|የአየር ንብረት|ግማሽ ጨረቃ|ጨረቃ|ጨረቃ ፊት
+E	🌡️	0.7	thermometer|weather	ቴርሞሜትር|የአየር ሁኔታ|የአየር ንብረት
+E	☀️	0.6	sun|bright|rays|space|sunny|weather	ፀሐይ|ሀሩር|ህዋ|ሙቀት|ቃጠሎ|በረሃ|ብሩህ|የአየር ሁኔታ|የአየር ንብረት|ጨረሮች|ጸሐያማ|ጸሐይ|ፀሐያማ
+E	🌝	1.0	full moon face|bright|face|full|moon	ሙሉ ጨረቃ ከፊት ጋር|ህዋ|ሙሉ|ብሩህ|የአየር ንብረት|ጨረቃ|ፈገግታ|ፊት|ፊት ያላት ሙሉ ጨረቃ
+E	🌞	1.0	sun with face|beach|bright|day|face|heat|shine|sun|sunny|sunshine|weather	ፀሐይ ከፊት ጋር|ህዋ|ሙቀት|ቀን|ብሩህ|ብርሃን|የባህር ዳርቻ|የአየር ንብረት|ፀሐያማ|ፀሐይ|ፊት
+E	🪐	12.0	ringed planet|planet|ringed|saturn|saturnine	ባለቀለበት ፕላኔት|ህዋ|ህዋ ሳይንስ|ሳተርን|ቀለበት|የጨለመ|ፕላኔት
+E	⭐	0.6	star|astronomy|medium|stars|white	ነጭ መካከለኛ ኮከብ|ብጫ መካከለና ኮከብ|ኮከብ
+E	🌟	0.6	glowing star|glittery|glow|glowing|night|shining|sparkle|star|win	ብልጭ ድርግም የሚል ኮከብ|ማሸነፍ|ማብራት|ማንጸባረቅ|ምሽት|ብልጭ ድርግም|አብለጭለጭ|ኮከብ|የሚያበራ ኮከብ|የሚያብረቀርቅ
+E	🌠	0.6	shooting star|falling|night|shooting|space|star	ተወርዋሪ ኮከብ|ህዋ|መወርወር|መውደቅ|ኮሜት|ኮከብ
+E	🌌	0.6	milky way|milky|space|way	ፍኖተ ሐሊብ|ህዋ|ሚልኪዌ|የአየር ንብረት
+E	☁️	0.6	cloud|weather	ደመና|የአየር ንብረት
+E	⛅	0.6	sun behind cloud|behind|cloud|cloudy|sun|weather	ከደመና ጀርባ ያለች ፀሐይ|የአየር ንብረት|ደመና|ፀሐይ
+E	⛈️	0.7	cloud with lightning and rain|cloud|lightning|rain|thunder|thunderstorm	ከመብረቅ እና ዝናብ ጋር ያለ ደመና|መብረቅ|ዝናብ|የአየር ንብረት|ደመና
+E	🌤️	0.7	sun behind small cloud|behind|cloud|sun|weather	ከትንሽ ደመና ጀርባ ያለች ፀሐይ|ከፊል ጸሐያማ|የአየር ሁኔታ|የአየር ንብረት|ደመና|ፀሐይ
+E	🌥️	0.7	sun behind large cloud|behind|cloud|sun|weather	ከትልቅ ደመና ጀርባ ያለች ፀሐይ|ከፊል ደመናማ|የአየር ሁኔታ|የአየር ንብረት|ደመና|ፀሐይ
+E	🌦️	0.7	sun behind rain cloud|behind|cloud|rain|sun|weather	ዝናብ ካለው ደመና ጀርባ ያለች ፀሐይ|ዝናብ|የአየር ንብረት|ደመና|ፀሐይ
+E	🌧️	0.7	cloud with rain|cloud|rain|weather	ደመና ከዝናብ ጋር|ዝናብ|የአየር ሁኔታ|የአየር ንብረት|ደመና
+E	🌨️	0.7	cloud with snow|cloud|cold|snow|weather	ደመና ከበረዶ ጋር|ቀዝቃዛ|በረዶ|ዝናብ|የአየር ንብረት|ደመና
+E	🌩️	0.7	cloud with lightning|cloud|lightning|weather	ደመና ከመብረቅ ጋር|ነጎድጓድ|የአየር ንብረት|ደመና
+E	🌪️	0.7	tornado|cloud|weather|whirlwind	ቶርኔዶ|ነፋስ|አምድ|አውሎ ነፋስ|የአየር ንብረት|ደመና
+E	🌫️	0.7	fog|cloud|weather	ጉም|የአየር ሁኔታ|የአየር ንብረት|ደመና
+E	🌬️	0.7	wind face|blow|cloud|face|wind	የነፋስ ፊት|መንፈስ|ነፋስ|እስትንፋስ|የአየር ንብረት|ደመና
+E	🌀	0.6	cyclone|dizzy|hurricane|twister|typhoon|weather	ሳይክሎን|ታይፉን|ትዊስተር|አውሎ ነፋስ|ውሽንፍር|የአየር ንብረት|ዲዚ|ጥቅልል
+E	🌈	0.6	rainbow|gay|genderqueer|glbt|glbtq|lesbian|lgbt|lgbtq|lgbtqia|nature|pride|queer|rain|trans|transgender|weather	ቀስተ ደመና|ኤልጂቢቲ|ዝናብ|የአየር ንብረት
+E	🌂	0.6	closed umbrella|closed|clothing|rain|umbrella	የታጠፈ ዣንጥላ|አልባሳት|ክረምት|ዝናብ|ዣንጥላ|የአየር ሁኔታ|የአየር ንብረት|ጥላ
+E	☂️	0.7	umbrella|clothing|rain	ዣንጥላ|አልባሳት|ዝናብ|የአየር ሁኔታ|የአየር ንብረት
+E	☔	0.6	umbrella with rain drops|clothing|drop|drops|rain|umbrella|weather	የዝናብ ጠብታዎች ያሉበት ዣንጥላ|አልባሳት|ዝናብ|ዣንጥላ|የአየር ንብረት|ጋሻ
+E	⛱️	0.7	umbrella on ground|ground|rain|sun|umbrella	የመሬት ዣንጥላ|ዝናብ|ዣንጥላ|የአየር ንብረት|ጥላ|ፀሐይ
+E	⚡	0.6	high voltage|danger|electric|electricity|high|lightning|nature|thunder|thunderbolt|voltage|zap	ከፍተኛ ቮልቴጅ|መብረቅ|ቮልቴጅ|ነጎድጓድ|አደጋ|ኤሌክትሪክ|ኤሌክትሪክሲቲ
+E	❄️	0.6	snowflake|cold|snow|weather	ስኖውፍሌክ|ቀዝቃዛ|በረዶ|አመዳይ|የአየር ንብረት
+E	☃️	0.7	snowman|cold|man|snow	በበረዶ ግግር የተሠራ ሰው|ስኖማን|ቀዝቃዛ|በረዶ|የአየር ንብረት
+E	⛄	0.6	snowman without snow|cold|man|snow|snowman	በበረዶ ግግር የተሠራ ሰው ያለበረዶ|ስኖማን|ቀዝቃዛ|በረዶ|በረዶ ሰው|በበረዶ ግግር የተሠራ ሰው|ክረምት|የአየር ንብረት
+E	☄️	1.0	comet|space	ኮሜት|ህዋ|ሚቲዮራይት|ተወርዋሪ ኮከብ
+E	🪋	18.0	meteor|apocalypse|falling|fireball|gravity|rock|space|star	ተወርዋሪ|መውደቅ|ስበት|አፖካሊፕስ|ኮከብ|የእሳት ኳስ|ድንጋይ|ጠፈር
+E	🔥	0.6	fire|af|burn|flame|hot|lit|litaf|tool	እሳት|መለኮስ|መሣሪያ|ቃጠሎ|ነበልባል
+E	💧	0.6	droplet|cold|comic|drop|nature|sad|sweat|tear|water|weather	ጠብታ|ላብ|ቀዝቃዛ|አስቂኝ|እንባ|የላብ ጠብታ|የአየር ንብረት|የእንባ ጠብታ|የውሃ ጠብታ
+E	🌊	0.6	water wave|nature|ocean|surf|surfer|surfing|water|wave	የውሃ ሞገድ|ሞገድ|ተንሳፋፊ|ተፈጥሮ|ካንጋዋ|ውሃ|ውቅያኖስ|የአየር ንብረት
+C	activities	Activities
+E	🎃	0.6	jack-o-lantern|celebration|halloween|jack|lantern|pumpkin	ጆክ-ኦ-ላንተርን|ሃሎዊን|ላንተርን|ክብረ በዓል|ጃክ|ፋኖስ
+E	🎄	0.6	Christmas tree|celebration|Christmas|tree	የገና ዛፍ|ክብረ በዓል|ዛፍ|ገና
+E	🎆	0.6	fireworks|boom|celebration|entertainment|yolo	ርችት|መዝናናት|ክብረ በዓል
+E	🎇	0.6	sparkler|boom|celebration|fireworks|sparkle	የእሳት ፍንጣሪ መሥሪያ|ርችት|ክብረ በዓል|የእሳት ፍንጣሪ
+E	🧨	11.0	firecracker|dynamite|explosive|fire|fireworks|light|pop|popping|spark	ርችቶች|ብልጭታ|ብርሃን|ብቅ የሚል እሳት|ተቀጣጣይ|አቀጣጣይ|የሚፈነዳ|ደማሚት
+E	✨	0.6	sparkles|*|magic|sparkle|star	የእሳት ፍንጣሪዎች|ማብረቅረቅ|ብልጭታ|ንጹሕ|አስማት|አብረቅራቂ|አንጸባራቂ|ኮከብ
+E	🎈	0.6	balloon|birthday|celebrate|celebration	አፉፋ|ልደት|ክብረ በዓል|ፊኛ
+E	🎉	0.6	party popper|awesome|birthday|celebrate|celebration|excited|hooray|party|popper|tada|woohoo	የድግስ ኮፍያ|ልደት|ታዳ|አስደሳች|ክብረ በዓል|የፓርቲ ፖፐር|ድግስ|ግብዣ|ፖፐር
+E	🎊	0.6	confetti ball|ball|celebrate|celebration|confetti|party|woohoo	የከረሜላ ኳስ|በዓል|ክብረ በዓል|ኮንፌቲ ከረሜላ|ኳስ|ፌሽታ|ፓርቲ
+E	🎋	0.6	tanabata tree|banner|celebration|Japanese|tanabata|tree	ታንባታ ዛፍ|ሰንደቅ|ክብረ በዓል|ዛፍ|የጃፓን
+E	🎍	0.6	pine decoration|bamboo|celebration|decoration|Japanese|pine|plant	የጽድ ጌጥ|ቀርቅሃ|ተክል|ክብረ በዓል|የጃፓን
+E	🎎	0.6	Japanese dolls|celebration|doll|dolls|festival|Japanese	የጃፓን አሻንጉሊቶች|አሻንጉሊት|ክብረ በዓል|የጃፓን|ፌስቲቫል
+E	🎏	0.6	carp streamer|carp|celebration|streamer	ካርፕ ተወርዋሪ ዓሣዎች|ስትሪመር|ባንዲራ በአሳ ቅርጽ|ካርፕ|ክብረ በዓል
+E	🎐	0.6	wind chime|bell|celebration|chime|wind	የነፋስ ቺም|መርገፍ|ቃጭል|ቺም|ቻይም|ነፋስ|ክብረ በዓል|ደወል
+E	🎑	0.6	moon viewing ceremony|celebration|ceremony|moon|viewing	የጨረቃ በዓል|ክብረ በዓል|የበዓል ሥነ ሥርዓት|የጨረታ ምልከታ ክብረ በዓል|ጨረቃ
+E	🧧	11.0	red envelope|envelope|gift|good|hóngbāo|lai|luck|money|red|see	ቀይ ፖስታ|መልካም ዕድል|ስጦታ|የቻይና ፖስታ|ገንዘብ
+E	🎀	0.6	ribbon|celebration	ሪባን|ከረባት|ክብረ በዓል
+E	🎁	0.6	wrapped gift|birthday|bow|box|celebration|christmas|gift|present|surprise|wrapped	የተጠቀለለ ስጦታ|ሣጥን|ሳጥን|ስጦታ|ተጠቅልሏል|አስቀድሞ ተልኳል|ክብረ በዓል|የልደት ቀን|ገና
+E	🎗️	0.7	reminder ribbon|celebration|reminder|ribbon	የመታሰቢያ ሪባን|ሪባን|አስታዋሽ|ክብረ በዓል
+E	🎟️	0.7	admission tickets|admission|ticket|tickets	የመግቢያ ትኬቶች|መግቢያ ፈቃድ|መግቢያ፣ ትኬት፣ የመግቢያ ትኬቶች|ትኬት
+E	🎫	0.6	ticket|admission|stub	ትኬት|መግቢያ ፈቃድ|የቀጥታ ኮንሰርት
+E	🎖️	0.7	military medal|award|celebration|medal|military	ወታደራዊ ሜዳይ|ሜዳይ|ሽልማት|ክብረ በዓል|ወታደራዊ|ጀብዱ
+E	🏆	0.6	trophy|champion|champs|prize|slay|sport|victory|win|winning	ዋንጫ|ማሸነፍ|ስፖርት|ሻምፒዮን|ሽልማት|ድል
+E	🏅	1.0	sports medal|award|gold|medal|sports|winner	የስፖርት ሜዳሊያ|1|1ኛ|ሜዳሊያ|ሜዳልያ|ስፖርት|አሸናፊ|አንደኛ|ወርቅ|የወርቅ ሜዳልያ
+E	🥇	3.0	1st place medal|1st|first|gold|medal|place	የ1ኛ ስፍራ ሜዳሊያ|1ኛ|ሜዳሊያ|ሜዳልያ|አሸናፊ|አንደኛ|ወርቅ|የወርቅ ሜዳልያ
+E	🥈	3.0	2nd place medal|2nd|medal|place|second|silver	የ2ኛ ስፍራ ሜዳሊያ|ሁለተኛ|ሜዳሊያ|ሜዳልያ|ብር|የብር ሜዳልያ
+E	🥉	3.0	3rd place medal|3rd|bronze|medal|place|third	የ3ኛ ስፍራ ሜዳሊያ|መዳብ|ሜዳሊያ|ሜዳልያ|ሶስተኛ|የነሐስ ሜዳልያ
+E	⚽	0.6	soccer ball|ball|football|futbol|soccer|sport	የእግር ኳስ|ሜሲ|ሮናልዶ|ስፖርት|እግር ኳስ|ኳስ|የእግር ኳስ መጫወቻ ኳስ|ፉትቦል
+E	⚾	0.6	baseball|ball|sport	ቤዝቦል|ኳስ|ጨዋታ
+E	🥎	11.0	softball|ball|glove|sports|underarm	ስስ ኳስ|ስፖርት|ብብት|ከብብት ስር|ኳስ|የሜዳ ቴኒስ|የሜዳ ቴኒስ ኳስ|ጓንት
+E	🏀	0.6	basketball|ball|hoop|sport	የቅርጫት ኳስ|ኳስ|የቅርጫት ኳስ ጨዋታ ግብ|ጨዋታ
+E	🏐	1.0	volleyball|ball|game	የመረብ ኳስ|ቮሊቦል|ኳስ|ጨዋታ
+E	🏈	0.6	american football|american|ball|bowl|football|sport|super	የአሜሪካ እግር ኳስ|ሱፐት ቦውል|ስፖርት|እግር ኳስ|ኳስ|የአሜሪካ
+E	🏉	1.0	rugby football|ball|football|rugby|sport	የራግቢ እግር ኳስ|ራግቢ|ስፖርት|እግር ኳስ|ኳስ
+E	🎾	0.6	tennis|ball|racquet|sport	ቴኒስ|ሜዳ ቴኒስ|ራኬት|ኳስ
+E	🥏	11.0	flying disc|disc|flying|ultimate	የሚበር ዲስክ|የመጨረሻ|ዲስክ|ጨዋታ|ጭርስታዊ|ፍሪስቢ
+E	🎳	0.6	bowling|ball|game|sport|strike	ቦውሊንግ|መምታት|ስፖርት|ኳስ|ጨዋታ
+E	🏏	1.0	cricket game|ball|bat|cricket|game	የክሪኬት ጨዋታ|ባት|ኳስ|ጨዋታ
+E	🏑	1.0	field hockey|ball|field|game|hockey|stick	የሜዳ ሆኪ|ሆኪ|መስክ|ሩር|ኳስ|ዘንግ|ገና ጨዋታ|ጨዋታ
+E	🏒	1.0	ice hockey|game|hockey|ice|puck|stick	የበረዶ ሆኪ ዘንግ እና ፑክ|ሆኪ|መስክ|ሩር|ኳስ|ዘንግ|የገና ጨዋታ|ጨዋታ
+E	🥍	11.0	lacrosse|ball|goal|sports|stick	ላክሮስ|ላክሮስ መጫወቻ ዘንግ|ስፖርት|ሽመል|ኳስ|ዘንግ|ጎል
+E	🏓	1.0	ping pong|ball|bat|game|paddle|ping|pingpong|pong|table|tennis	ጠረጴዛ ቴኒስ|ራኬት|ባት|ኳስ|ጨዋታ|ፓድል
+E	🏸	1.0	badminton|birdie|game|racquet|shuttlecock	ባድሜንተን|ራኬት|ሻትልኮክ|በርዲ|ጨዋታ
+E	🥊	3.0	boxing glove|boxing|glove	የቦክስ ጓንት|ስፖርት|ቡጢ|ቦክስ|ጓንት|ጡጫ
+E	🥋	3.0	martial arts uniform|arts|judo|karate|martial|taekwondo|uniform	የማርሻል አርት ልብስ|ልብስ|ማርሻል አርት|ስፖርት|ቴኩዋንዶ|ኩንግ ፉ|ካራቴ
+E	🥅	3.0	goal net|goal|net	የጎል መረብ|መረብ|ስፖርት|ጎል
+E	⛳	0.6	flag in hole|flag|golf|hole|sport	በቀዳዳ የተሰካ ሰንደቅ ዓላማ|ቀዳዳ|የጎልፍ ቀዳዳ|የጎልፍ ባንዲራ|ጎልፍ
+E	⛸️	0.7	ice skate|ice|skate|skating	የበረዶ መንሸራተት|ስኬት|አይስ|የስኬቲንግ ጫማ|የበረዶ መንሸራተቻ|የበረዶ ሸርተቴ ጫማ
+E	🎣	0.6	fishing pole|entertainment|fish|fishing|pole|sport	የዓሣ ማጥመጃ ዘንግ|መንጠቆ|መዝናኛ|ስልክ እንጨት|ዓሣ|ዓሳ ማጥመድ
+E	🤿	12.0	diving mask|diving|mask|scuba|snorkeling	የመጥለቂያ ጭምብል|መነጽር|መጥለቅ|ስኖርሊንግ|ስኩባ|ውሃ ዋና|የውሃ ጠለቃ ጭንብል|ጠላቂ ዋናተኛ
+E	🎽	0.6	running shirt|athletics|running|sash|shirt	መሮጫ ቀሚስ|ሩጫ|ሳሽ|ሸሚዝ|ካናቴራ
+E	🎿	0.6	skis|ski|snow|sport	ስኪ|ስፖርት|በረዶ
+E	🛷	5.0	sled|luge|sledge|sleigh|snow|toboggan	የበረዶ መንሸራተቻ|ሉጅ|በረዶ|በረዶ ላይ መንሸራተት|ቶቦጋን|የበረዶ መንሸራተቻ ጋሪ
+E	🥌	5.0	curling stone|curling|game|rock|stone	የተጠረበ ድንጋይ|ድንጋይ|ጨዋታ
+E	🎯	0.6	bullseye|bull|dart|direct|entertainment|game|hit|target	ቀጥታ የዳርት ውርወራ ውጤት|ምት|ስኬት|ዒላማ|የበሬ ዓይን|ዳርት|ጨዋታ
+E	🪀	12.0	yo-yo|fluctuate|toy	በከራ|መጫወቻ|ተለዋዋጭ|አሻንጉሊት|ክብ|ኮኮብ|ዮ-ዮ
+E	🪁	12.0	kite|fly|soar	ካይት|መሮጥ|መብረር|ማብረር|ሰማይ ወጣ|አንዣበበ|ጨዋታ
+E	🔫	0.6	water pistol|gun|handgun|pistol|revolver|tool|water|weapon	ሽጉጥ|መሣሪያ|መጫወቻ|ሪቮልቨር|አሻንጉሊት|የውሃ ሽጉጥ|ጦር መሣሪያ
+E	🎱	0.6	pool 8 ball|8|8ball|ball|billiard|eight|game|pool	የከረንቦላ ድንጋይ|8|ስምንት|ከረንቦላ|ኳስ|ጨዋታ|ፑል
+E	🔮	0.6	crystal ball|ball|crystal|fairy|fairytale|fantasy|fortune|future|magic|tale|tool	ክሪስታል ኳስ|ሀብት|ምናባዊ|ተረት ተረት|ትንበያ|ክሪስታል|ኳስ
+E	🪄	13.0	magic wand|magic|magician|wand|witch|wizard	ምትሃተኛ ዘንግ|ምትሃት|አስማተኛ|አስማት
+E	🎮	0.6	video game|controller|entertainment|game|video	የቪዲዮ ጨዋታ|መቆጣጠሪያ|ጆይ ስቲክ|ጨዋታ
+E	🕹️	0.7	joystick|game|video|videogame	ጆይስቲክ|ቪዲዮ ጨዋታ|ጨዋታ
+E	🎰	0.6	slot machine|casino|gamble|gambling|game|machine|slot|slots	በሳንቲም የሚሠራ ማሽን|ማስገቢያ ማሽን|ማስገቢያዎች|ቀዳዳ|ቁማር|ቁማር ቤት|ጨዋታ
+E	🎲	0.6	game die|dice|die|entertainment|game	የጨዋታ ዳይ|ቁማር|እጣ|ዳይ|ዳዮች|ጨዋታ
+E	🧩	11.0	puzzle piece|clue|interlocking|jigsaw|piece|puzzle	እንቆቅልሽ|መስቀለኛ|ምልክት|ቁራጭ|ቁርጥራጭ ምስሎችን የመገጣጠም ጨዋታ|ጂግሳው|ፍንጭ
+E	🧸	11.0	teddy bear|bear|plaything|plush|stuffed|teddy|toy	ቴዲ ቢር|መጫወቻ|በጨርቅ የተሞላ አሻንጉሊት|ቴዲ ቤር|አሻንጉሊት|የተነፋ|የተጠቀጠቀ|ድብ
+E	🪅	13.0	piñata|candy|celebrate|celebration|cinco|de|festive|mayo|party|pinada|pinata	ፒናታ|ማክበር|ሜክሲካዊ|ሲንኮ ዴ ማዮ|ከረሜላ|ድግስ|ፌስቲቫል|ፒናዳ
+E	🪩	14.0	mirror ball|ball|dance|disco|glitter|mirror|party	የመስታወት ኳስ|መስታወት|ብልጭልጭ|ክብ|የሙዚቃ ድግስ|ዲስኮ|ዳንስ|ድግስ|ፌሽታ|ፓርቲ
+E	🪆	13.0	nesting dolls|babooshka|baboushka|babushka|doll|dolls|matryoshka|nesting|russia	የመረብ አሻንጉሊቶች|ማትሪዮሽካ|ሩሲያዊ|ባቡሽካ|ባቦሽካ|ባቦውሽካ|አሻንጉሊቶች|የሩሲያ አሻንጉሊቶች
+E	♠️	0.6	spade suit|card|game|spade|suit	የካርታ ጦር|ምልክት|ካርታ|የካርታ እሽግ|ጦር|ጨዋታ
+E	♥️	0.6	heart suit|card|emotion|game|heart|hearts|suit	የካርታ ልብ|ልብ|ስሜት|ካርታ|የካርታ እሽግ|የካርታ ጨዋታ|ፍቅር
+E	♦️	0.6	diamond suit|card|diamond|game|suit	የካርታ አልማዝ|አልማዝ|ካርታ|የካርታ እሽግ|ጨዋታ
+E	♣️	0.6	club suit|card|club|clubs|game|suit	የካርታ አበባ|መጫወቻ ካርታ|አበቦች|ካርታ|የካርታ እሽግ|ጨዋታ
+E	♟️	11.0	chess pawn|chess|dupe|expendable|pawn	የቼዝ መጫወቻ|ሞኝ|ቼዝ|አላቂ
+E	🃏	0.6	joker|card|game|wildcard	የካርታ ጆከር|በመጫወት ላይ|ካርታ|ጨዋታ
+E	🀄	0.6	mahjong red dragon|dragon|game|mahjong|red	ማህጆንግ ቀይ ድራጎን|ማህጆንግ|ቀይ|ጨዋታ
+E	🎴	0.6	flower playing cards|card|cards|flower|game|Japanese|playing	ጀርባው አበባ መጫወቻ ካርታ|በመጫወት ላይ|አበባ|ካርታ|የጃፓን|ጀርባው አበባ የሆነ መጫወቻ ካርታ|ጨዋታ
+E	🎭	0.6	performing arts|actor|actress|art|arts|entertainment|mask|performing|theater|theatre|thespian	ሙዚቃና ትያትር|ሥነ ጥበብ|ቲያትር|ቴአትር|ትርዒት|ትወና|ትዕይንት|ኪነ ጥበብ|ኪን|ጭንብል
+E	🖼️	0.7	framed picture|art|frame|framed|museum|painting|picture	ባለክፈፍ ሥዕል|ምስል|ሥነ ጥበብ|ሥዕል|ባለክፈፍ|ቤተ መዘክር
+E	🎨	0.6	artist palette|art|artist|artsy|arty|colorful|creative|entertainment|museum|painter|painting|palette	የሠዓሊ ሳሕን|ሥነ ጥበብ|ቤተ መዘክር|የሥዕል ቅብ ሥራ|ፓሌት
+E	🧵	11.0	thread|needle|sewing|spool|string	ክር|ልብስ|መርፌ|መስፋት|ገመድ
+E	🪡	13.0	sewing needle|embroidery|needle|sew|sewing|stitches|sutures|tailoring|thread	የመስፊያ መርፌ|ልብስ|መርፌ|መስፋት|ክር
+E	🧶	11.0	yarn|ball|crochet|knit	የስፌት ክር|መፍተል|ስፌት|ኪሮሽ|ኳስ|ደንቴል|ዳንቴል
+E	🪢	13.0	knot|cord|rope|tangled|tie|twine|twist	ቋጠሮ|ማሰር|ገመድ
+C	objects	Objects
+E	👓	0.6	glasses|clothing|eye|eyeglasses|eyewear	መነጽር|አልባሳት|ዓይን|ዓይን ተለባሽ|ዓይንመነጽር
+E	🕶️	0.7	sunglasses|dark|eye|eyewear|glasses	የፀሐይ መነጽር|መነጽር|ዓይን|ዓይን ተለባሽ|ጥቁር መነጽር|ጨለማ
+E	🥽	11.0	goggles|dive|eye|protection|scuba|swimming|welding	የመዋኛ መነጽር|መበየድ|መነጽሮች|መዋኘት|ብየዳ|የአይን መከላከያ|የውሃ ውስጥ መተንፈሻ|ጠልቆ መግባት
+E	🥼	11.0	lab coat|clothes|coat|doctor|dr|experiment|jacket|lab|scientist|white	የቤተ ሙከራ ቤት|ልብሶች|ሙከራ|ሳይንቲስት|ነጭ ኮት|የቤተ ሙከራ ኮት|ዶ/ር|ዶክተር|ጃኬት
+E	🦺	12.0	safety vest|emergency|safety|vest	የአደጋ መከላከያ ልብስ|ልብስ|ሰደርያ|ደህንነት|ድንገተኛ|ድንገተኛ አደጋ
+E	👔	0.6	necktie|clothing|employed|serious|shirt|tie	ከረባት|ሸሚዝ|ተቀጣሪ|አልባሳት|የአንገት ክራቫት|ደንበኛ
+E	👕	0.6	t-shirt|blue|casual|clothes|clothing|collar|dressed|shirt|shopping|tshirt|weekend	ቲሸርት|ሸሚዝ|አልባሳት|ካናቴራ|ኮሌታ
+E	👖	0.6	jeans|blue|casual|clothes|clothing|denim|dressed|pants|shopping|trousers|weekend	ጂንስ|ሱሪ|አልባሳት|የሰንበት|የአዘቦት|ገበያ
+E	🧣	5.0	scarf|bundle|cold|neck|up	ስካርፍ|ልብስ ደርቢ|ልብስ ደርብ|ቅዝቃዜ|አንገት
+E	🧤	5.0	gloves|hand	ጓንት|ሰማያዊ እጅ|እጅ|ጓንት ያደረገ እጅ
+E	🧥	5.0	coat|brr|bundle|cold|jacket|up	ኮት|ልብስ ደርቢ|ልብስ ደርብ|መንቀጥቀጥ|ቀዝቃዛ|ብርድ|ጃኬት
+E	🧦	5.0	socks|stocking	ካልሲ|ረጅም የእግር ካልሲ|ስቶኪንግ
+E	👗	0.6	dress|clothes|clothing|dressed|fancy|shopping	ቀሚስ|አልባሳት|ግብይት
+E	👘	0.6	kimono|clothing|comfortable	የጃፓን ቀሚስ|ምቹ|አልባሳት|ኪሞኖ
+E	🥻	12.0	sari|clothing|dress	ሴሪ|ልብስ|ቀሚስ|የሕንድ የሴት ልብስ|የሴት ልብስ
+E	🩱	12.0	one-piece swimsuit|bathing|one-piece|suit|swimsuit	ወጥ የዋና ልብስ|ነጠላ የዋና ልብስ|የሴት የዋና ልብስ|የዋና ልብስ
+E	🩲	12.0	briefs|bathing|one-piece|suit|swimsuit|underwear	አጭር መግለጫ|አጭር ቁምጣ|ወጥ|የመዋኛ ልብስ|የወንድ ፓንት|የዋና ልብስ|ፓንት
+E	🩳	12.0	shorts|bathing|pants|suit|swimsuit|underwear	ቁምጣ|ሙታንታና ካናቴራ|ዋና|የዋና ልብስ|ፓንት
+E	👙	0.6	bikini|bathing|beach|clothing|pool|suit|swim	ቢኪኒ|አልባሳት|ዋና|የዋና ልብስ
+E	👚	0.6	woman’s clothes|blouse|clothes|clothing|collar|dress|dressed|lady|shirt|shopping|woman|woman’s	የሴት ልብስ|ሴት|አላባሽ|አልባሳት
+E	🪭	15.0	folding hand fan|clack|clap|cool|cooling|dance|fan|flirt|flutter|folding|hand|hot|shy	ተጣጣፊ የእጅ ማቀዝቀዣ|መቀዝቀዝ|ሙቀት|ማራገቢያ|ማርገብገብ|ማሽኮርመም|ማቀዝቀዣ|ማወዛወዝ|አይን አፋር|ዓይን አፋር|ዳንስ
+E	👛	0.6	purse|clothes|clothing|coin|dress|fancy|handbag|shopping	የሴት የእጅ ቦርሳ|ሳንቲም|ሸመታ|ቀሚስ|ቦርሳ|አልባሳት|የቅንጦት|የእጅ ቦርሳ
+E	👜	0.6	handbag|bag|clothes|clothing|dress|lady|purse|shopping	የእጅ ቦርሳ|ሴት|ሸመታ|ቀሚስ|ቦርሳ|አልባሳት
+E	👝	0.6	clutch bag|bag|clothes|clothing|clutch|dress|handbag|pouch|purse	የሴት ቦርሳ|ቀሚስ|ቦርሳ|አልባሳት|የእጅ ቦርሳ
+E	🛍️	0.7	shopping bags|bag|bags|hotel|shopping	የመገበያያ ቦርሳዎች|ሆቴል|ቦርሳ|የወረቀት ከረጢት|የገበያ ከረጢት|ገበያ መውጣት
+E	🎒	0.6	backpack|backpacking|bag|bookbag|education|rucksack|satchel|school	የትምህርት ቤት ቦርሳ|ቀይ ቦርሳ|ቦርሳ|ትምህርት|ትምህርት ቤት|ክርታስ|የሚታዘል ቦርሳ
+E	🩴	13.0	thong sandal|beach|flip|flop|sandal|sandals|shoe|thong|thongs|zōri	የነጠላ ጫማ ማሰሪያ|ሰንደል ጫማ|ነጠላ ጫማ|የባህር ዳርቻ|ጫማ
+E	👞	0.6	man’s shoe|brown|clothes|clothing|feet|foot|kick|man|man’s|shoe|shoes|shopping	የወንድ ጫማ|ቆዳ ጫማ|ቡኒ|አልባሳት|ወንድ|ግብይት|ጫማ
+E	👟	0.6	running shoe|athletic|clothes|clothing|fast|kick|running|shoe|shoes|shopping|sneaker|tennis	የሩጫ ጫማ|ምት|ሩጫ|ስኒከር|ቴኒስ|አልባሳት|አትሌቲክስ|አትሌታዊ|ግብይት|ጫማ|ጫማዎች|ፈጣን
+E	🥾	11.0	hiking boot|backpacking|boot|brown|camping|hiking|outdoors|shoe	የእግር ሽርሽር ጫማ|ቡናማ ጫማ|ከቤት ውጭ|ካምፕ|የእግር ሽርሽር|የእግር ጉዞ|የጀርባ ቦርሳ|ጫማ
+E	🥿	11.0	flat shoe|ballet|comfy|flat|flats|shoe|slip-on|slipper	ጠፍጣፋ ጫማ|ምቹ|ባሌ ዳንስ|ተንሸራታች ጫማ|ነጠላ ጫማ|የባሌ ዳንስ ጫማ|ጠለቅ አደረገ|ጠፍጣፋ ጫማዎች|ጫማ
+E	👠	0.6	high-heeled shoe|clothes|clothing|dress|fashion|heel|heels|high-heeled|shoe|shoes|shopping|stiletto|woman	ባለ ተረከዝ የሴት ጫማ|ሴት|ቀይ ጫማ|ተረከዝ|አልባሳት|ጫማ
+E	👡	0.6	woman’s sandal|clothing|sandal|shoe|woman|woman’s	የሴት ሰንደል ጫማ|ሰንደል|ሴት|አልባሳት|ክፍት ሂል ጫማ|ክፍት ጫማ|ጫማ
+E	🩰	12.0	ballet shoes|ballet|dance|shoes	የባሌ ዳንስ ጫማ|ሙዚቃ|የባሌ ዳንስ|ዳንስ
+E	👢	0.6	woman’s boot|boot|clothes|clothing|dress|shoe|shoes|shopping|woman|woman’s	የሴት ቡትስ ጫማ|ሴት|ቡትስ|አልባሳት|ጫማ
+E	🪮	15.0	hair pick|Afro|comb|groom|hair|pick	ጸጉር ማንሻ|መረጣ|ማበጠሪያ|ማንሻ|አፍሮ|ጸጉር|ጸጉር ማስዋብ
+E	👑	0.6	crown|clothing|family|king|medieval|queen|royal|royalty|win	ዘውድ|ታያራ|ንጉሥ|ንግሥት|አልባሳት|አክሊል
+E	👒	0.6	woman’s hat|clothes|clothing|garden|hat|hats|party|woman|woman’s	የሴት ባርኔጣ|ሴት|አልባሳት|ኮፊያ
+E	🎩	0.6	top hat|clothes|clothing|fancy|formal|hat|magic|top|tophat	የወንድ የሙሉ ልብስ ባርኔጣ|ቱክሲዶ|ቶፕ ኮፊያ|አልባሳት|ከላይ ተለባሽ|ኮፊያ
+E	🎓	0.6	graduation cap|cap|celebration|clothing|education|graduation|hat|scholar	የምርቃት ኮፍያ|ምርቃት|ትምህርት|አልባሳት|እውቀት|ኬፕ|ክብረ በዓል|ኮፊያ
+E	🧢	5.0	billed cap|baseball|bent|billed|cap|dad|hat	የተከፈለበት ባርኔጣ|ኮፍያ|የቤዝቦል ኮፍያ|የታጠፈ ኮፍያ|የአባት ባርኔጣ|የአባት ኮፍያ
+E	🪖	13.0	military helmet|army|helmet|military|soldier|war|warrior	የወታደር ቆብ|ወታደር|የብረት ቆብ|የጦር ሰራዊት|ጦርነት
+E	⛑️	0.7	rescue worker’s helmet|aid|cross|face|hat|helmet|rescue|worker’s	ነጭ መስቀል ያለበት ብረት ኮፍያ|መስቀል|ብረት ኮፍያ|እርዳታ|ኮፊያ|የራስ ቁር|የነፍስ አድን ሰራተኛ ኮፊያ
+E	📿	1.0	prayer beads|beads|clothing|necklace|prayer|religion	መቁጸሪያ|መቁጠሪያ|ኃይማኖት|አልባሳት|እግዚኦ|እግዚኦ መሐረነ ክርስቶስ|የአንገት ሀብል|የአንገት ጌጥ|ጨሌ|ጨሌዎች|ጸሎት
+E	💄	0.6	lipstick|cosmetics|date|makeup	የከንፈር ቀለም|ሊፕስቲክ|መዋቢያ|ሜክአፕ|ቀይ ሊፕስቲክ|ቀይ የከንፈር ቀለም
+E	💍	0.6	ring|diamond|engaged|engagement|married|romance|shiny|sparkling|wedding	የጣት ቀለበት|መተጫጨት|አልማዝ|አብረቅራቂ|አንጸባራቂ|አገባ|አገባች|ፍቅር
+E	💎	0.6	gem stone|diamond|engagement|gem|jewel|money|romance|stone|wedding	አልማዝ|ጄም|ጌጥ|ፍቅር
+E	🔇	1.0	muted speaker|mute|muted|quiet|silent|sound|speaker	ስፒከር ጠፍቷል|ስፒከር|ዝም ያለ|ድምጸ-ከል የተደረገ ድምጽ ማጉያ|ድምጽ ማጉያ|ድምፀ ከል|ጸጥታ
+E	🔈	0.7	speaker low volume|low|soft|sound|speaker|volume	ስፒከር|ዝቅ ያለ ድምጽ|ድምጽ ማጉያ|ድምፅ መጠን
+E	🔉	1.0	speaker medium volume|medium|sound|speaker|volume	ስፒከር በርቷል|መካከለኛ ድምጽ|ሞገድ|ስፒከር|ዝቅ|የድምጽ መጠን|ድምጽ ማጉያ|ድምፅ መጠን
+E	🔊	0.6	speaker high volume|high|loud|music|sound|speaker|volume	ስፒከር ድምፁ ከፍ ብሏል|ስፒከር|ከፍ ያለ ድምጽ|ከፍተኛ|የድምጽ ብክለት|ድምጽ ማጉያ|ድምፅ መጠን|ጮክ
+E	📢	0.6	loudspeaker|address|communication|loud|public|sound	ላውድ ስፒከር|አዋጅ|ከፍ ያለ ድምጽ|ይፋ አድራሻ|ድምጽ ማጉያ|ጮክ ያለ
+E	📣	0.6	megaphone|cheering|sound	ሜጋፎን|ቺሪንግ|ድምጽ|ፈንጠዝያ
+E	📯	1.0	postal horn|horn|post|postal	የፖስተኛ ጥሩንባ|መለከት|ጥሩንባ|ፖስታ ቤት
+E	🔔	0.6	bell|break|church|sound	ደውል|ቃጭል|ደወል
+E	🔕	1.0	bell with slash|bell|forbidden|mute|no|not|prohibited|quiet|silent|slash|sound	የተሰረዘ ደወል|ዝም ያለ|ደወል|ድምጸ ከል|ጸጥታ ክልክል
+E	🎼	0.6	musical score|music|musical|note|score	ሙዚቃዊ ውጤት|ሙዚቃ|ኖታ|ውጤት|የሙዚቃ ኖታ|የሙዚቃ ጽሁፍ
+E	🎵	0.6	musical note|music|musical|note|sound	ሙዚቃዊ ኖታ|ሙዚቃ|ማስታወሻ|ኖታ|የሙዚቃ ኖታ
+E	🎶	0.6	musical notes|music|musical|note|notes|sound	ሙዚቃዊ ኖታዎች|ሙዚቃ|ማስታወሻ|ማስታወሻዎች
+E	🎙️	0.7	studio microphone|mic|microphone|music|studio	የስቲዲዮ ማይክራፎን|ሙዚቃ|ማይክ|ማይክራፎን|ማይክሮፎን|ስቱዲዮ ማይክሮፎን|ስቲዲዮ|ኦልዲስ|ዘፈን
+E	🎚️	0.7	level slider|level|music|slider	ማመጣጠኛ አንሸራታች|ሙዚቃ|ማመጣጠኛ|አንሸራታች
+E	🎛️	0.7	control knobs|control|knobs|music	መቆጣጠሪያ ቁልፎች|መቆጣጠሪያ|ሙዚቃ|ቁልፎች
+E	🎤	0.6	microphone|karaoke|mic|music|sing|sound	ማይክራፎን|ማይክ|ማይክሮፎን|ካሮኬ
+E	🎧	0.6	headphone|earbud|sound	የጆሮ ማዳመጫ|ድምጽ|ጆሮ ተሰኪ
+E	📻	0.6	radio|entertainment|tbt|video	ሬዲዮ|መዝናኛ|ራዲዮ|ቪዲዮ
+E	🎷	0.6	saxophone|instrument|music|sax	ሳክስፎን|መሣሪያ|ሙዚቃ|ሳክስ
+E	🎺	0.6	trumpet|instrument|music	ትራምፔት|መሣሪያ|ሙዚቃ
+E	🪊	17.0	trombone|brass|instrument|jazz|music|sad|slide	ትሮምቦን|መሳሪያ|ሙዚቃ|ስላይድ|ናስ|አሳዛኝ|ጃዝ
+E	🪗	13.0	accordion|box|concertina|instrument|music|squeeze|squeezebox	አኮርዲዮን|ሙዚቃ|ስኩዊዝቦክስ|የሙዚቃ መሳሪያ
+E	🎸	0.6	guitar|instrument|music|strat	ጊታር|መሣሪያ|ሙዚቃ|ኤሌክትሪክ ጊታር|የሙዚቃ ጊታር
+E	🎹	0.6	musical keyboard|instrument|keyboard|music|musical|piano	የሙዚቃ ቁልፍ ሰሌዳ|መሣሪያ|ሙዚቃ|ቁልፍ ሰሌዳ|የሙዚቃ ኪቦርድ|ፒያኖ
+E	🎻	0.6	violin|instrument|music	ቫዮሊን|መሣሪያ|ሙዚቃ|የሙዚቃ መሳሪያ
+E	🪕	12.0	banjo|music|stringed	ባንጆ|ሙዚቃ|ባለ ጭራ|የሙዚቃ መሳሪያ|የክር የሙዚቃ መሳሪያ
+E	🥁	3.0	drum|drumsticks|music	ከበሮ|ሙዚቃ|ታምቡር|ነጋሪት|ከበሮ መምቻ|የከበሮ እንጨት|ጉሰማ
+E	🪘	13.0	long drum|beat|conga|drum|instrument|long|rhythm	ረጅም ከበሮ|ሙዚቃ|ከበሮ|ኮንጋ|የሙዚቃ መሳሪያ
+E	🪇	15.0	maracas|cha|dance|instrument|music|party|percussion|rattle|shake|shaker	ማራካ|መሳሪያ|መንቀጥቀጥ|ሙዚቃ|ማራከስ|ማንቀጥቀጫ|ማንገጫገጭ|ቻቻ|አቀናብሮ መምታት|የሙዚቃ መሣሪያ|የሙዚቃ ድግስ|ግርፋት|ፓርቲ
+E	🪈	15.0	flute|band|fife|flautist|instrument|marching|music|orchestra|piccolo|pipe|recorder|woodwind	ዋሽንት|መቅጃ|ሙዚቃ|ማርች ባንድ|ቱቦ|ኦርኬስትራ|ዋሽንት ነፊ|የሙዚቃ መሳሪያ|የሙዚቃ ቡድን|የትንፋሽ የሙዚቃ መሳሪያ|የእንጨት ዋሽንት|ፊፍ|ፒኮሎ
+E	🪉	16.0	harp|cupid|instrument|love|music|orchestra	በገና|መሳሪያ|ሙዚቃ|ኦርኬስትራ|ኩፒድ|ፍቅር
+E	📱	0.6	mobile phone|cell|communication|mobile|phone|telephone	ሞባይል ስልክ|ሞባይል|ስልክ|ተንቀሳቃሽ|ቴሌፎን|ግንኙነት
+E	📲	0.6	mobile phone with arrow|arrow|build|call|cell|communication|mobile|phone|receive|telephone	ሞባይል ስልክ ከቀስት ጋር|መቀበል|መገንባት|ሞባይል|ስልክ|ቀስት|ቀስት ያለበት የሞባይል ስልክ|ተቀበል ሞባይል|ግንኙነት|ጥሪ
+E	☎️	0.6	telephone|phone	ቴሌፎን|ስልክ|የድሮ ስልክ
+E	📞	0.6	telephone receiver|communication|phone|receiver|telephone|voip	የቴሌፎን መነጋገሪያ|ሪሲቨር|ስልክ|ቴሌፎን|የስልክ እጀታ
+E	📟	0.6	pager|communication	ወረቀት|ግንኙነት|ፔጀር
+E	📠	0.6	fax machine|communication|fax|machine	ፋክስ ማሽን|ግንኙነት|ፋክስ
+E	🔋	0.6	battery	ባትሪ
+E	🪫	14.0	low battery|battery|drained|electronic|energy|low|power	አነስተኛ ባትሪ|ሞባይል ስልክ|ባትሪ|ባትሪ ሊዘጋ ነው|ባትሪ ሊያልቅ ነው|አነስተኛ ኃይል|ኤሌክትሮኒክ|ዝቅተኛ ባትሪ|ዝቅተኛ ኃይል
+E	🔌	0.6	electric plug|electric|electricity|plug	የኤሌክትሪክ ሶኬት|ሶኬት|ኤሌክትሪክ|ኤሌክትሪክ ኃይል|ኤሌክትሪክሲቲ|ኮረንቲ
+E	💻	0.6	laptop|computer|office|pc|personal	ላፕቶፕ ኮምፒውተር|ኮምፒውተር|የግል|ፒሲ
+E	🖥️	0.7	desktop computer|computer|desktop|monitor	ዴስክቶፕ ኮምፒውተር|ሞኒተር|ኮምፒውተር|ዴስክቶፕ
+E	🖨️	0.7	printer|computer	ማተሚያ|ኮምፒውተር|ፕሪንተር
+E	⌨️	1.0	keyboard|computer	የቁልፍ ሰሌዳ|መተየብ|ኮምፒውተር
+E	🖱️	0.7	computer mouse|computer|mouse	የኮምፒውተር መዳፊት|ኮምፒውተር
+E	🖲️	0.7	trackball|computer	ትራክቦል|ኮምፒውተር
+E	💽	0.6	computer disk|computer|disk|minidisk|optical	ሚኒዲስክ|ኦፕቲካል|ኮምፒውተር|ዲስክ
+E	💾	0.6	floppy disk|computer|disk|floppy	ፍሎፒ ዲስክ|3.5 ኢንች|ኮምፒውተር|ዲስክ|ፍሎፒ
+E	💿	0.6	optical disk|blu-ray|CD|computer|disk|dvd|optical	ኦፕቲካል ዲስክ|ሲዲ|ኦፕቲካል|ኮምፒውተር|ዲስክ
+E	📀	0.6	dvd|Blu-ray|cd|computer|disk|DVD|optical	ዲቪዲ|ሉ-ሬይ|ማከማቻ|ብሉ-ሬይ|ኦፕቲካል|ኮምፒውተር|ዲስክ
+E	🧮	11.0	abacus|calculation|calculator	አባከስ|ሂሳብ|ሂሳብ ማስሊያ|ካልኩሌተር|የሂሳብ ስሌት
+E	🎥	0.6	movie camera|bollywood|camera|cinema|film|hollywood|movie|record	የፊልም ካሜራ|ሆሊውድ|ሲኒማ|ካሜራ|ፊልም
+E	🎞️	0.7	film frames|cinema|film|frames|movie	የፊልም ፍሬሞች|ሲኒማ|ክፈፎች|ፊልም|ፍሬሞች
+E	📽️	0.7	film projector|cinema|film|movie|projector|video	የፊልም ፕሮጄክተር|ሲኒማ|ቪዲዮ|የድሮ|ፊልም|ፕሮጄክተር
+E	🎬	0.6	clapper board|action|board|clapper|movie	የፊልም ቀረጻ መቀንጠቢያ ሰሌዳ|ቁረጥ|ፊልም
+E	📺	0.6	television|tv|video	ቴሌቪዥን|ሲአርቲ|ቪዲዮ|ቲቪ|የድሮ
+E	📷	0.6	camera|photo|selfie|snap|tbt|trip|video	ካሜራ|ሰልፊ|ቪዲዮ|ኢንስታግራም|ጉዞ
+E	📸	1.0	camera with flash|camera|flash|video	ባለፍላሽ ካሜራ|ቪዲዮ|ካሜራ|ፍላሽ
+E	📹	0.6	video camera|camcorder|camera|tbt|video	የቪዲዮ ካሜራ|ቪዲዮ|ቪዲዮ መቅረጫ|ቪዲዮ ማንሻ|ካሜራ
+E	📼	0.6	videocassette|old|school|tape|vcr|vhs|video	የቪዲዮ ካሴት|ቪዲዮ|ቴፕ|የድሮ|ድሮ
+E	🔍	0.6	magnifying glass tilted left|glass|lab|left|left-pointing|magnifying|science|search|tilted|tool	ግራ ጠቋሚ ማጉያ መነጽር|መሣሪያ|መነጽር|ማጉያ|አጉሊ መነጽር|ፍለጋ
+E	🔎	0.6	magnifying glass tilted right|contact|glass|lab|magnifying|right|right-pointing|science|search|tilted|tool	ቀኝ ጠቋሚ ማጉያ መነጽር|መሣሪያ|መነጽር|ማጉያ|ፍለጋ
+E	🕯️	0.7	candle|light	ሻማ|ብርሃን
+E	💡	0.6	light bulb|bulb|comic|electric|idea|light	አምፖል|ሐሳብ|ብልጭ ማለት|ብርሃን|አስቂኝ|አዲስ ሐሳብ|ኤሌክትሪክ|ፍንጭ
+E	🔦	0.6	flashlight|electric|light|tool|torch	የእጅ ባትሪ|መሣሪያ|ብርሃን|ኤሌክትሪክ
+E	🏮	0.6	red paper lantern|bar|lantern|light|paper|red|restaurant	ሬድ ፔፐር መብራት|መብራት|ቀይ|አሞሌ|የቀይ ወረቀት መብራት|የጃፓን
+E	🪔	12.0	diya lamp|diya|lamp|light|oil	ኩራዝ|መብራት|ብርሃን|ዘይት|ዲያ|ፋኖስ
+E	📔	0.6	notebook with decorative cover|book|cover|decorated|decorative|education|notebook|school|writing	ባለጌጥ ሽፋን ማስታወሻ ደብተር|መጽሐፍ|ማስታወሻ ደብተር|ሽፋን|ያጌጠ
+E	📕	0.6	closed book|book|closed|education	የተዘጋ መጽሐፍ|1ኛ መጽሐፍ|መጽሐፍ|የተዘጋ
+E	📖	0.6	open book|book|education|fantasy|knowledge|library|novels|open|reading	ክፍት መጽሐፍ|ልብ ወለዶች|መጽሐፍ|ትምህርት|እውቀት|ክፍት|የተገለጠ መጽሐፍ
+E	📗	0.6	green book|book|education|fantasy|green|library|reading	አረንጓዴ መጽሐፍ|መጽሐፍ|ተረት|ትምህርት|አረንጓዴ
+E	📘	0.6	blue book|blue|book|education|fantasy|library|reading	ሰማያዊ መጽሐፍ|3ኛ መጽሐፍ|መጽሐፍ|ሰማያዊ
+E	📙	0.6	orange book|book|education|fantasy|library|orange|reading	ብርትኳናማ መጽሐፍ|4ኛ መጽሐፍ|መጽሐፍ|ብርትኳናማ
+E	📚	0.6	books|book|education|fantasy|knowledge|library|novels|reading|school|study	መጽሐፍት|መጻሕፍት|መጽሐፍ|ማንበብ|ትምህርት ቤት|እውቀት|ድብ ወለዶች|ጥናት
+E	📓	0.6	notebook	ማስታወሻ ደብተር
+E	📒	0.6	ledger|notebook	መዝገብ|ማስታወሻ ደብተር|የሂሳብ መዝገብ
+E	📃	0.6	page with curl|curl|document|page|paper	ሸብለል ያለ ወረቀት|ሰነድ|ገጽ|ጥቅልል
+E	📜	0.6	scroll|paper	ሽብልል|ወረቀት
+E	📄	0.6	page facing up|document|facing|page|paper|up	ወደ ላይ የተቀመጠ ወረቀት|ሰነድ|ወረቀት|ደብዳቤ|ገጽ
+E	📰	0.6	newspaper|communication|news|paper	ጋዜጣ|ወረቀት|ዜና|ግንኙነት
+E	🗞️	0.7	rolled-up newspaper|news|newspaper|paper|rolled|rolled-up	የተጠቀለለ ጋዜጣ|ወረቀት|ዜና|ጋዜጣ|ጥቅል
+E	📑	0.6	bookmark tabs|bookmark|mark|marker|tabs	እልባት ማድረጊያ ትሮች|መጽሐፍምልክት|ማርከር|ማውጫ|ምልክት|ሰነዶች|ትሮች|እልባት|ወረቀት|ፋይል
+E	🔖	0.6	bookmark|mark	እልባት|መቆንጠጫ|ምልክት
+E	🏷️	0.7	label|tag	መለያ|መሰየሚያ|ጉትቻ
+E	🪙	13.0	coin|dollar|euro|gold|metal|money|rich|silver|treasure	ሳንቲም|ሀብታም|ሀብት|ባንክ|ወርቅ|ዩሮ|ዶላር|ገንዘብ
+E	💰	0.6	money bag|bag|bank|bet|billion|cash|cost|dollar|gold|million|money|moneybag|paid|paying|pot|rich|win	የገንዘብ ከረጢት|ሀብታም|መክፈል|ሚሊዮን|ቋጣሪ|ቢሊየን|ባንክ|ቦርሳ|አሸናፊ|ወጪ|ውርርድ|የተከፈለ|የወርቅ ማሰሮ|ዶላር|ገንዘብ|ገንዘብ ማውጣት|ጥሬ ገንዘብ
+E	🪎	17.0	treasure chest|gem|gold|jewels|loot|money|prize|silver|valuables|wealth	ግምጃ ቤት|ሀብት|ሽልማት|ብር|ወርቅ|ውድ ዕቃዎች|ዕንቁ|ዘረፋ|ገንዘብ|ጌጣጌጦች
+E	💴	0.6	yen banknote|bank|banknote|bill|currency|money|note|yen	የን የወረቀት ገንዘብ|መክፈያ|ምንዛሬ|ባንክ|የባንክ የወረቀት ገንዘብ|የን|የወረቀት ገንዘብ|የየን የወረቀት ገንዘብ|ገንዘብ
+E	💵	0.6	dollar banknote|bank|banknote|bill|currency|dollar|money|note	ዶላር የወረቀት ገንዘብ|መክፈያ|ምንዛሬ|ባንክ|የባንክ የወረቀት ገንዘብ|የወረቀት ገንዘብ|ዶላር|ገንዘብ
+E	💶	1.0	euro banknote|100|bank|banknote|bill|currency|euro|money|note|rich	ዩሮ የወረቀት ገንዘብ|መክፈያ|ምንዛሬ|ወረቀት ገንዘብ|ዩሮ|ገንዘብ
+E	💷	1.0	pound banknote|bank|banknote|bill|billion|cash|currency|money|note|pound|pounds	ፓውንድ የወረቀት ገንዘብ|መክፈያ|ምንዛሬ|የወረቀት ገንዘብ|የገንዘብ ኖት|ገንዘብ
+E	💸	0.6	money with wings|bank|banknote|bill|billion|cash|dollar|fly|million|money|note|pay|wings	ክንፍ ያለው ገንዘብ|መክፈያ|ብረር|የብር ኖት|የወረቀት ገንዘብ|የገንዘብ ኖት|ገንዘብ
+E	💳	0.6	credit card|bank|card|cash|charge|credit|money|pay	ክሬዲት ካርድ|ባንክ|ኤቲኤም|ካርታ|ካርድ|ክሬዲት|ዴቢት ካርድ|ገንዘብ
+E	🧾	11.0	receipt|accounting|bookkeeping|evidence|invoice|proof	ደረሰኝ|ሂሳብ አያያዝ|ማረጋገጫ|ማስረጃ|ክፍያ መጠየቂያ|የመዝገብ አያያዝ
+E	💹	0.6	chart increasing with yen|bank|chart|currency|graph|growth|increasing|market|money|rise|trend|upward|yen	ከየን ጋር የሚጨምር ሰንጠረዥ|ሰንጠረዥ|ዕድገት|የን|ገንዘብ
+E	✉️	0.6	envelope|e-mail|email|letter	ኤንቨሎፕ|መልዕክት|ኢሜይል|ፖስታ
+E	📧	0.6	e-mail|email|letter|mail	ኢሜይል|ደብዳቤ|ፖስታ
+E	📨	0.6	incoming envelope|delivering|e-mail|email|envelope|incoming|letter|mail|receive|sent	ገቢ ኤንቨሎፕ|ተቀበል|ኢሜይል|ኤንቬሎፕ|ደብዳቤ|ገቢ
+E	📩	0.6	envelope with arrow|arrow|communication|down|e-mail|email|envelope|letter|mail|outgoing|send|sent	ባለ ቀስት ኤንቨሎፕ|መረጃ ልውውጥ|ሜይል|ቀስት|ወጪ|ደብዳቤ|ግንኙነት|ፖስታ
+E	📤	0.6	outbox tray|box|email|letter|mail|outbox|sent|tray	የወጪ ኤንቨሎፕ ማስቀመጫ ትሪ|ሣጥን|ተልኳል|ወጪ መልእክት ሣጥን|ደብዳቤ|ፖስታ
+E	📥	0.6	inbox tray|box|email|inbox|letter|mail|receive|tray|zero	የገቢ ኤንቨሎፕ ማስቀመጫ ትሪ|ሣጥን|ተቀበል|ደብዳቤ|ገቢ መልእክት ሣጥን|ፖስታ
+E	📦	0.6	package|box|communication|delivery|parcel|shipping	ጥቅል|መልዕክት|ሣጥን
+E	📫	0.6	closed mailbox with raised flag|closed|communication|flag|mail|mailbox|postbox|raised	ባንዲራ የተሰቀለበት የተዘጋ የፖስታ ሳጥን|መልዕክት|የተዘጋ|ደብዳቤ|ፖስታ|ፖስታ ሣጥን|ፖስታ ቤት ሣጥን
+E	📪	0.6	closed mailbox with lowered flag|closed|flag|lowered|mail|mailbox|postbox	ባንዲራ የወረደበት የተዘጋ የፖስታ ሳጥን|መልዕክት|ዝቅ ያለ|የተዘጋ|ደብዳቤ|ፖስታ|ፖስታ ሣጥን|ፖስታ ቤት ሣጥን
+E	📬	0.7	open mailbox with raised flag|flag|mail|mailbox|open|postbox|raised	ባንዲራ የተሰቀለበት ክፍት የፖስታ ሳጥን|ክፍት|ደብዳቤ|ፖስታ|ፖስታ ሣጥን|ፖስታ ቤት ሣጥን
+E	📭	0.7	open mailbox with lowered flag|flag|lowered|mail|mailbox|open|postbox	ባንዲራ የወረደበት ክፍት የፖስታ ሳጥን|ክፍት|ዝቅ ያለ|ፖስታ|ፖስታ ሣጥን
+E	📮	0.6	postbox|mail|mailbox	ፖስታ ሳጥን|መልዕክት|የፖስታ ሳጥን|ደብዳቤ|ፖስታ|ፖስታ ሣጥን
+E	🗳️	0.7	ballot box with ballot|ballot|box	የድምፅ መስጫ ሳጥን ከድምፅ መስጫ ካርድ ጋር|ምርጫ|ሣጥን|የድምፅ ካርድ|ድምጽ
+E	✏️	0.6	pencil	እርሳስ|አርትዖት|ጽሁፍ
+E	✒️	0.6	black nib|black|nib|pen	ጥቁር የብዕር ጫፍ|ብዕር|እስኪብርቶ|የብዕር ጫፍ
+E	🖋️	0.7	fountain pen|fountain|pen	ፋውንቴን ፔን|ብዕር|እስኪብርቶ|ፋውንቴን
+E	🖊️	0.7	pen|ballpoint	እስኪብርቶ|ብዕር|ኳስነጥብ
+E	🖌️	0.7	paintbrush|painting	የሠዓሊ ብሩሽ|ቅብ ሥዕል ሥራ
+E	🖍️	0.7	crayon	የመጻፊያ ከለር|ክራዮን|ጭቃ ከለር
+E	📝	0.6	memo|communication|media|notes|pencil	ማስታወሻ|መገናኛ|ሚዲያ|ማስታወሻዎች|እርሳስ
+E	🪌	18.0	eraser|correction|delete|drawing|erase|error|mistake|remove|rub|undo|writing	ማጥፊያ|መጻፍ|ሥዕል|ሰርዝ|ስህተት|ቀልብስ|አስወግድ|እርማት
+E	💼	0.6	briefcase|office	ቦርሳ|ሰነድ|ሻንጣ|የጠበቃ ቦርሳ|ጠበቃ
+E	📁	0.6	file folder|file|folder	የፋይል አቃፊ|አቃፊ|ፋይል
+E	📂	0.6	open file folder|file|folder|open	ክፍት የፋይል አቃፊ|አቃፊ|ክፍት|ፋይል
+E	🗂️	0.7	card index dividers|card|dividers|index	ካርድ መጥቁም ከፋፋዮች|መሰደሪያ|መከፋፈያ|መጥቁም|ከፋፋዮች|ካርታ|ካርድ
+E	📅	0.6	calendar|date	ቀን መቁጠሪያ|ዕለት|ጁላይ|ጁላይ 17
+E	📆	0.6	tear-off calendar|calendar|tear-off	ተቀዳጅ ቀን መቁጠሪያ|ቀን መቁጠሪያ
+E	🗒️	0.7	spiral notepad|note|notepad|pad|spiral	ባለሽቦ ማስታወሻ ደብተር|ማስታወሻ|ማስታወሻ ደብተር|ሰሌዳ|ባለሽቦ
+E	🗓️	0.7	spiral calendar|calendar|pad|spiral	ባለሽቦ ቀን መቁጠሪያ|ሰሌዳ|ቀን መቁጠሪያ|ባለሽቦ
+E	📇	0.6	card index|card|index|old|rolodex|school	ካርድ መጥቁም|መጥቁም|ሮሎዴክስ|ካርታ|ካርድ|የካርድ መጥቁም|የድሮ
+E	📈	0.6	chart increasing|chart|data|graph|growth|increasing|right|trend|up|upward	የሚጨምር ገበታ|ሰንጠረዥ|ሽቅብ|አዝማሚያ|ዕድገት|ገበታ|ግራፍ
+E	📉	0.6	chart decreasing|chart|data|decreasing|down|downward|graph|negative|trend	የሚቀንስ ገበታ|ሰንጠረዥ|ቁልቁል|ታች|አሉታዊ|አዝማሚያ|እየቀነሰ ነው|ወደ ታች|ገበታ|ግራፍ
+E	📊	0.6	bar chart|bar|chart|data|graph	ባለ አሞሌ ገበታ|ሰንጠረዥ|አሞሌ|ውሂብ|ገበታ
+E	📋	0.6	clipboard|do|list|notes	ወረቀት ማስደገፊያ|ባይንደር|የሚሰሩ ሥራዎች|የቅንጥብ ሰሌዳ
+E	📌	0.6	pushpin|collage|pin	ፑሽ እስፒል|አጭር ስፒል|እስፒል
+E	📍	0.6	round pushpin|location|map|pin|pushpin|round	ክብ ፑሽ እስፒል|ባለ ክብ ጫፍ ስፒል|እስፒል|ፑሽ እስፒል
+E	📎	0.6	paperclip	ወረቀት ማያያዣ|አባሪ|አግራፍ
+E	🖇️	0.7	linked paperclips|link|linked|paperclip|paperclips	የተያያዙ የወረቀት ክሊፖች|አያይዝ|የወረቀት ክሊፕ
+E	📏	0.6	straight ruler|angle|edge|math|ruler|straight|straightedge	ቀጥ ያለ ማስመሪያ|ሂሳብ|ማስመሪያ|ጂኦሜትሪ
+E	📐	0.6	triangular ruler|angle|math|rule|ruler|set|slide|triangle|triangular	ባለ ሦስት ማዕዘን ማስመሪያ|45 ዲግሪ|ማስመሪያ|ሦስት ማዕዘን|ሴት ስኩዌር|ስብስብ|ስኳድራ|ዘጠና ድግሪ
+E	✂️	0.6	scissors|cut|cutting|paper|tool	መቀስ|መሣሪያ|መሳሪያ|መቁረጥ|መገልገልያ
+E	🗃️	0.7	card file box|box|card|file	የካርድ ፋይል ሳጥን|ሣጥን|ካርታ|ፋይል
+E	🗄️	0.7	file cabinet|cabinet|file|filing|paper	ፋይል ካቢኔት|ካቢኔት|ፋይል
+E	🗑️	0.7	wastebasket|can|garbage|trash|waste	የቆሻሻ መጣያ|ቅርጫት|የቆሻሻ ቅርጫት
+E	🔒	0.6	locked|closed|lock|private	መሸጎጫ|መቆለፊያ|ቁልፍ|የተዘጋ
+E	🔓	0.6	unlocked|cracked|lock|open|unlock	ክፍት መሸጎጫ|መክፈት|ቁልፍ|ክፍት|የተከፈተ|የተፈታ
+E	🔏	0.6	locked with pen|ink|lock|locked|nib|pen|privacy	መሸጎጫ ከብዕር ጋር|መቆለፊያ|መቆለፊያና ብዕር|ቀለም|ቁልፍ|ብዕር|እስኪብርቶ|የብዕር ጫፍ|ግላዊነት
+E	🔐	0.6	locked with key|bike|closed|key|lock|locked|secure	በቁልፍ የተዘጋ መሸጎጫ|ቁልፍ|ቁልፍ እና መፍቻ|የተዘጋ|ደህንነቱ አስተማማኝ
+E	🔑	0.6	key|keys|lock|major|password|unlock	ቁልፍ|መክፈቻ|መፍቻ|የይለፍ ቃል
+E	🗝️	0.7	old key|clue|key|lock|old	አሮጌ ቁልፍ|ሽማግሌ|ቁልፍ|የድሮ|ፍንጭ
+E	🪍	18.0	net with handle|catch|collect|mesh|trap	እጀታ ያለው መረብ|መረብ|መሰብሰብ|መያዝ|ወጥመድ
+E	🔨	0.6	hammer|home|improvement|repairs|tool	መዶሻ|መሣሪያ|መሳሪያ|መገልገያ
+E	🪓	12.0	axe|ax|chop|hatchet|split|wood	መጥረቢያ|መሰንጠቅ|መቁረጥ|መክፈል|መፍለጫ|እንጨት|ፋስ
+E	⛏️	0.7	pick|hammer|mining|tool	አነስተኛ ዶማ|መሣሪያ|መቆፈሪያ|መዶሻ|ማዕድን ማውጣት|ማዕድን ማውጫ|ዶማ
+E	⚒️	1.0	hammer and pick|hammer|pick|tool	መዶሻ እና አነስተኛ ዶማ|መሣሪያ|መዶሻ|አነስተኛ ዶማ
+E	🛠️	0.7	hammer and wrench|hammer|spanner|tool|wrench	መዶሻ እና መፍቻ|መሣሪያ|መዶሻ|መገልገያ|መፍቻ|ሜካኒክ|ጋራዥ
+E	🗡️	0.7	dagger|knife|weapon	አነስተኛ ሰይፍ|ቢላዋ|ጦር መሣሪያ|ጩቤ
+E	⚔️	1.0	crossed swords|crossed|swords|weapon	የተጠላለፉ ሰይፎች|ሰይፎች|የተጣመረ|ጦር መሣሪያ
+E	💣	0.6	bomb|boom|comic|dangerous|explosion|hot	ቦምብ|ቃጠሎ|ቡም|አስቂኝ|አደገኛ|ፍንዳታ
+E	🪃	13.0	boomerang|rebound|repercussion|weapon	ቡምራንግ|ተወላጅ|የጦር መሣሪያ
+E	🏹	1.0	bow and arrow|archer|archery|arrow|bow|Sagittarius|tool|weapon|zodiac	ደጋን እና ቀስት|ሆሮስኮፕ|መልህቅ|ሳጂታሪየስ|ቀስት|አስትሮሎጂ|ኮከብ|ዞዲያክ|ደጋን|ፍካሬ ከዋክብት
+E	🛡️	0.7	shield|weapon	ጋሻ|ጦር መሣሪያ
+E	🪚	13.0	carpentry saw|carpenter|carpentry|cut|lumber|saw|tool|trim	የአናጢ መጋዝ|መሳሪያ|መቁረጥ|መከርከም|መጋዝ|ግንባታ
+E	🔧	0.6	wrench|home|improvement|spanner|tool	መፍቻ|መሣሪያ|መገልገያ|ሬንች
+E	🪛	13.0	screwdriver|flathead|handy|screw|tool	መፍቻ መሳሪያ|መሳሪያ|ምቹ|ካቻቢቴ|ጠፍጣፋ
+E	🔩	0.6	nut and bolt|bolt|home|improvement|nut|tool	ዳዶ እና ማፈኛ|መሣሪያ|ማፈኛ|ብሎን|ብሎን እና ማፈኛ|ዳዶ
+E	⚙️	1.0	gear|cog|cogwheel|tool	ሞተር ጥርስ|መሣሪያ|ጊር|ጥርስ
+E	🗜️	0.7	clamp|compress|tool|vice	መጨፍለቂያ|መሣሪያ|መቆንጠጫ|መጭመቂያ|ክፋት
+E	⚖️	1.0	balance scale|balance|justice|Libra|scale|scales|tool|weight|zodiac	ሚዛን|ሆሮስኮፕ|ሊብራ|አስትሮሎጂ|ክብደት|ኮከብ|ዞዲያክ|የተመጣጠነ|ፍካሬ ከዋክብት
+E	🦯	12.0	white cane|accessibility|blind|cane|probing|white	ከዘራ|ተደራሽነት|እውር|ዓይነ ስውር|የዓይነ ስውር ከዘራ
+E	🔗	0.6	link|links	ማገናኛ|ሰንሰለት|ትስስር
+E	⛓️‍💥	15.1	broken chain|break|breaking|broken|chain|cuffs|freedom	የተሰበረ ሰንሰለት|መስበር፣ መሰባበር፣ ሰንሰለት፣ ማሰር፣ ነፃነት
+E	⛓️	0.7	chains|chain	ሰንሰለቶች|ሰንሰለት
+E	🪝	13.0	hook|catch|crook|curve|ensnare|point|selling	መንጠቆ|ማጥመጃ|ዓሳ ማጥመድ
+E	🧰	11.0	toolbox|box|chest|mechanic|red|tool	የመፍቻ ሳጥን|መሳሪያ|መሳሪያዎች መያዣ ሳጥን|ሜካኒክ|ሳጥን|ቀይ ሳጥን
+E	🧲	11.0	magnet|attraction|horseshoe|magnetic|negative|positive|shape|u	ማግኔት|መሳሳብ|ማግኔቲክ|አወንታዊ አሉታዊ|የፈረስ ጫማ|ዩ ቅርጽ
+E	🪜	13.0	ladder|climb|rung|step	መሰላል|መውጣት|ደረጃ መወጣጫ|ግንባታ
+E	🪏	16.0	shovel|bury|dig|garden|hole|plant|scoop|snow|spade	አካፋ|መቅበር|መቆፈር|ስካፕ|በረዶ|ተክል|አጭር አካፋ|የአትክልት ስፍራ|ጉድጓድ
+E	⚗️	1.0	alembic|chemistry|tool	አለምቢክ|መሣሪያ|ኬምስትሪ
+E	🧪	11.0	test tube|chemist|chemistry|experiment|lab|science|test|tube	መፈተኛ ቱቦ|ሙከራ|ሳይንስ|ቀማሚ|ቤተ ሙከራ|ኬሚስትሪ|የሙከራ ቱቦ|የሙከራ ክፍል
+E	🧫	11.0	petri dish|bacteria|biologist|biology|culture|dish|lab|petri	የፔትሪ ዲሽ|ባህል|ባክቴሪያ|ባዮሎጂ|ቤተ ሙከራ|ናሙና|የባዮሎጂ ባለሙያ|የናሙና ማስቀመጫ ብልቃጥ
+E	🧬	11.0	dna|biologist|evolution|gene|genetics|life	ዲኤንኤ|ህይወት|ለውጥ|ዘረመል|ዝግመተ ለውጥ|የባዮሎጂ ሰው|የባዮሎጂ ባለሙያ|ጄኔቲክስ|ጅን
+E	🔬	1.0	microscope|experiment|lab|science|tool	ማይክሮስኮፕ|ላቦራቶሪ|መሣሪያ|መግልገያ|ምርምር|ሳይንስ
+E	🔭	1.0	telescope|contact|extraterrestrial|science|tool	ቴሌስኮፕ|መሣሪያ|ስለላ|ከዋክብትን መመልከት
+E	📡	0.6	satellite antenna|aliens|antenna|contact|dish|satellite|science	ሳተላይት አንቴና|ሳተላይት|አንቴና|ዲሽ
+E	💉	0.6	syringe|doctor|flu|medicine|needle|shot|sick|tool|vaccination	ስሪንጅ|ሕክምና|መርፌ|ተኩስ|ክትባት|የታመመ|የደም ናሙና|የደም ጠብታ|ደም
+E	🩸	12.0	drop of blood|bleed|blood|donation|drop|injury|medicine|menstruation	የደም ጠብታ|ህክምና|መድማት|ቀይ|ቀይ ጠብታ|የወር አበባ|ደም ልገሳ|ጉዳት
+E	💊	0.6	pill|doctor|drugs|medicated|medicine|pills|sick|vitamin	ክኒን|ሕክምና|መድኃኒት|መድኃኒቶች|በሽተኛ|ቫይታሚን|የታመመ|ዶክተር
+E	🩹	12.0	adhesive bandage|adhesive|bandage	ፋሻ ማጣበቂያ|ማጣበቂያ ያለው ፋሻ|ቁስል|የመቆረጥ አደጋ|የቁስል ፕላስተር|ጉዳት|ፋሻ
+E	🩼	14.0	crutch|aid|cane|disability|help|hurt|injured|mobility|stick	ክራንች|በትር|ተጎዳ|አገዳ|እርዳታ|የአካል ጉዳት|የእንቅስቃሴ ድጋፍ|ዱላ|ጉዳት የደረሰበት|ጉዳት የደረሰባት
+E	🩺	12.0	stethoscope|doctor|heart|medicine	ማዳመጫ|ሃኪም|ህክምና|ልብ|ስቴቶስኮፕ|ዶክተር
+E	🩻	14.0	x-ray|bones|doctor|medical|skeleton|skull|xray	ኤክስ-ሬይ|ሃኪም|ህክምና|አጥንቶች|አጽም|አፅም|ኤክስሬይ|የህክምና|የራስ ቅል
+E	🚪	0.6	door|back|closet|front	በር|የኋላ በር|የጓሮ በር|የፊት በር
+E	🛗	13.0	elevator|accessibility|hoist|lift	አሳንሱር|ሊፍት|ሕንጻ|ምልክት
+E	🪞	13.0	mirror|makeup|reflection|reflector|speculum	መስታወት|ሜካፕ|ነጸብራቅ|የውበት መጠበቂያ
+E	🪟	13.0	window|air|frame|fresh|opening|transparent|view	መስኮት|መቃን|ቤት|አራት ማእዘን
+E	🛏️	0.7	bed|hotel|sleep	አልጋ|ሆቴል|መኝታ|እንቅልፍ
+E	🛋️	0.7	couch and lamp|couch|hotel|lamp	ሶፋ እና መብራት|ሆቴል|መብራት|ሶፋ
+E	🪑	12.0	chair|seat|sit	መቀመጫ|ተቀመጠ|ተቀመጭ|እቀመጥ|ወንበር|የቤት እቃ
+E	🚽	0.6	toilet|bathroom	ሽንት ቤት|መቀመጫ|መታጠቢያ ቤት|መጸዳጃ|ወገብን መፈተሽ|የሽንት ቤት መቀመጫ
+E	🪠	13.0	plunger|cup|force|plumber|poop|suction|toilet	መወርወሪያ|መምጠጥ|መጸዳጃ ቤት|ሰገራ|ሽንት ቤት|አር|የተደፈነ ትቦ መክፈቻ
+E	🚿	1.0	shower|water	ሻወር|ንጽህና|ውሃ
+E	🛁	1.0	bathtub|bath	የገላ መታጠቢያ ገንዳ|ገላን መታጠብ
+E	🪤	13.0	mouse trap|bait|cheese|lure|mouse|mousetrap|snare|trap	የአይጥ ማጥመጃ|ማታለያ|ቺዝ|አይጥ|ወጥመድ|የአይጥ ወጥመድ
+E	🪒	12.0	razor|sharp|shave	ምላጭ|መላጨት|ስለት|ሹል|ንጽሕና መጠበቂያ
+E	🧴	11.0	lotion bottle|bottle|lotion|moisturizer|shampoo|sunscreen	የቅባት ጠርሙስ|ሎሽን|ሻምፖ|ሻወር|ቅባት|የቆዳ ቅባት|የጸሃይ ቅባት|የፀሐይ መከላከያ ቅባት
+E	🧷	11.0	safety pin|diaper|pin|punk|rock|safety	መርፌ ቁልፍ|መሳሪያ|የተልባ እግር|ፐንክ ሮክ
+E	🧹	11.0	broom|cleaning|sweeping|witch	መጥረጊያ|መጥረግ|ማጽዳት|አስማተኛ|ጠንቋይ
+E	🧺	11.0	basket|farming|laundry|picnic	ቅርጫት|ልብስ ማጠቢያ|ሽርሽር|እርሻ
+E	🧻	11.0	roll of paper|paper|roll|toilet|towels	የወረቀት ጥቅል|ሶፍት|የሽንት ቤት ወረቀት|የወረቀት ፎጣ
+E	🪣	13.0	bucket|cask|pail|vat	ባልዲ|መገልገያ|የውሃ ማጠራቀሚያ
+E	🧼	11.0	soap|bar|bathing|clean|cleaning|lather|soapdish	ሳሙና|ማጽዳት|ሻወር|አሞሌ|አረፋ|የሳሙና ሳህን|የሳሙና አረፋ|ገላ መታጠብ
+E	🫧	14.0	bubbles|bubble|burp|clean|floating|pearl|soap|underwater	ሽፋኖች|ሳሙና|በርፕ|ተንሳፋፊ|ንፁህ|አረፋ|አረፋዎች|ዕንቁ|የከርሰ ምድር ውሃ|የከሰርሰ ምድር ውሃ|የውሃ ጠብታ
+E	🪥	13.0	toothbrush|bathroom|brush|clean|dental|hygiene|teeth|toiletry	የጥርስ ብሩሽ|ብሩሽ|ንፁህ|የንጽሕና መጠበቂያ እቃዎች
+E	🧽	11.0	sponge|absorbing|cleaning|porous|soak	ስፖንጅ|መምጠጥ|ማጽዳት|እርጥብ|ወንፊት
+E	🧯	11.0	fire extinguisher|extinguish|extinguisher|fire|quench	እሳት ማጥፊያ|ማጥፊያ|ማጥፋት|አጠፋ|እሳት|ጥንቃቄ
+E	🛒	3.0	shopping cart|cart|shopping|trolley	የመገብያ ጋሪ|መገብየት|ሱፐርማርኬት|ኢኮሜርስ|ዘንቢል|ጋሪ
+E	🚬	0.6	cigarette|smoking	ሲጋራ|ማጨስ
+E	⚰️	1.0	coffin|dead|death|vampire	ሬሳ ሣጥን|ሞት|ቀብር
+E	🪦	13.0	headstone|cemetery|dead|grave|graveyard|memorial|rip|tomb|tombstone	ሃውልት|ሃዘን|መታሰቢያ|ሞት|ነብስህ በሰላም ይረፍ|ነብስሽ በሰላም ይረፍ|የመቃብር ሃውልት|የመቃብር ድንጋይ
+E	⚱️	1.0	funeral urn|ashes|death|funeral|urn	የቀብር ማሰሮ|ማሰሮ|ማድጋ|ሞት|ቀብር|እንስራ|ድብኝት|ጋን
+E	🧿	11.0	nazar amulet|amulet|bead|blue|charm|evil-eye|nazar|talisman	ናዛር አምዩሌት|ማራኪ|ሰማያዊ|ሰይጣን የሚያርቅ ድንጋይ|ናዛር|አስደሳች|አሸንክታብ|ዓይን|ዛጎል|የክፋት ዓይን|ዶቃ
+E	🪬	14.0	hamsa|amulet|Fatima|fortune|guide|hand|Mary|Miriam|palm|protect|protection	ሐመሳ|ሀብት|መመሪያ|መከላከያ|መዳፍ|ሚሪም|ማርያም|አሙሌት|እጅ|የማርያም እጅ|የፋጢማ እጅ|ጌጣጌጥ|ጥበቃ|ፋጢማ
+E	🗿	0.6	moai|face|moyai|statue|stoneface|travel	ማኦዬ ፊት|ሐውልት|ሞያዬ|ሞዬ|ሟይ|የሰው ገጽ|ጉዞ|ፊት
+E	🪧	13.0	placard|card|demonstration|notice|picket|plaque|protest|sign	ማስታወቂያ|ምልክት|ሰሌዳ|ካርድ|የመፈክር ሰሌዳ
+E	🪪	14.0	identification card|card|credentials|document|ID|identification|license|security	መታወቂያ ካርድ|መለያ|መታወቂያ|ማስረጃ|ምስክርነቶች|ሰነድ|የማንነት መለያ|ደህንነት|ፈቃድ
+C	symbols	Symbols
+E	🏧	0.6	ATM sign|ATM|automated|bank|cash|money|sign|teller	የኤቲኤም ምልክት|ራስ-ሰር|ባንክ|ኤቲኤም|ገንዘብ|ገንዘብ ከፋይ
+E	🚮	1.0	litter in bin sign|bin|litter|litterbin|sign	በቆሻሻ መጣያ ጣሉ ምልክት|ቆሻሻ|ቆሻሻ መጣያ|ቆሻሻሣጥን|የቆሻሻ ቅርጫት
+E	🚰	1.0	potable water|drinking|potable|water	የሚጠጣ ውሃ|መጠጣት|ውሃ|የሚጠጣ|ጠጣ
+E	♿	0.6	wheelchair symbol|access|handicap|symbol|wheelchair	የአካል ጉዳተኛ ዊልቸር|መዳረሻ|የአካል ጉዳተኛ|የአካል ጉዳተኛ ምልክት
+E	🚹	0.6	men’s room|bathroom|lavatory|man|men’s|restroom|room|toilet|WC	የወንድ መጸዳጃ|መጸዳጃ|ሽንት ቤት|ወንድ|ደብልዩ ሲ
+E	🚺	0.6	women’s room|bathroom|lavatory|restroom|room|toilet|WC|woman|women’s	የሴት መጸዳጃ|መታጠቢያ ቤት|መጸዳጃ|መጸዳጃ ቤት|ሴት|ሽንት ቤት|ደብልዩ ሲ
+E	🚻	0.6	restroom|bathroom|lavatory|toilet|WC	መጸዳጃ ቤት|ሽንት ቤት|ደብልዩ ሲ
+E	🚼	0.6	baby symbol|baby|changing|symbol	የሕፃን ምልክት|ሕፃን|መለወጥ|ዳዴ
+E	🚾	0.6	water closet|bathroom|closet|lavatory|restroom|toilet|water|WC	ባኞ ቤት|መጸዳጃ|ቁም ሣጥን|ውሃ|ደብልዩ ሲ
+E	🛂	1.0	passport control|control|passport	የፖስፖርት መቆጣጠሪያ|መቆጣጠሪያ|ኤርፖርት መግቢያ|ኬላ|ፖስፖርት
+E	🛃	1.0	customs|packing	ጉምሩክ|ማሸግ
+E	🛄	1.0	baggage claim|arrived|baggage|bags|case|checked|claim|journey|packing|plane|ready|travel|trip	ሻንጣ መረከቢያ|መጠየቂያ|ሻንጣ|አውሮፕላን|ኬላ ያለፈ|ጉዞ|ጓዝ
+E	🛅	1.0	left luggage|baggage|case|left|locker|luggage	የተረሳ ሻንጣ|ሻንጣ|ቦርሳ|ተቆላፊ የግድግዳ ሣጥን|የጉዞ ሻንጣ
+E	⚠️	0.6	warning|caution	ማስጠንቀቂያ|ማሳሰቢያ|ምልክት|ቅድመ ማስጠንቀቂያ
+E	🚸	1.0	children crossing|child|children|crossing|pedestrian|traffic	ሕፃናት መንገድ ያቋርጣሉ|ልጅ|መሻገር|ትራፊክ|እግረኛ|የሕጻናት መንገድ ማቋረጫ
+E	⛔	0.6	no entry|do|entry|fail|forbidden|no|not|pass|prohibited|traffic	መግባት አይቻልም|መግቢያ|ማለፍ የተከለከለ|ትራፊክ|አይደለም|ክልክል|የትራፊክ ምልክት
+E	🚫	0.6	prohibited|entry|forbidden|no|not|smoke	የተከለከለ|መግቢያ|ምልክት|አይ|አይደለም
+E	🚳	1.0	no bicycles|bicycle|bicycles|bike|forbidden|no|not|prohibited	ብስክሌት አይፈቀድም|ብስክሌት|ተሽከርካሪ|አይደለም|ክልክል
+E	🚭	0.6	no smoking|forbidden|no|not|prohibited|smoke|smoking	ማጨስ ክልክል ነው|ማጨስ|አይደለም|ክልክል|የተከለከለ|ጭስ
+E	🚯	1.0	no littering|forbidden|litter|littering|no|not|prohibited	ቆሻሻ መጣል ክልክል ነው|ቆሻሻ|አይ|አይደለም|ክልክል|የተከለከለ
+E	🚱	1.0	non-potable water|dry|non-drinking|non-potable|prohibited|water	የማይጠጣ ውሃ|ለመጠጥ የማይሆን|ውሃ|የማይቀዳ|የማይንቀሳቀስ|የማይጠጣ|የተከለከለ|ደረቅ
+E	🚷	1.0	no pedestrians|forbidden|no|not|pedestrian|pedestrians|prohibited	ለእግረኞች አይፈቀድም|አይ|አይደለም|እግረኛ|ክልክል|የተከለከለ
+E	📵	1.0	no mobile phones|cell|forbidden|mobile|no|not|phone|phones|prohibited|telephone	ሞባይል ስልኮች አይፈቀዱም|ሞባይል|ስልክ|አይፈቀድም|የተከለከለ
+E	🔞	0.6	no one under eighteen|18|age|eighteen|forbidden|no|not|one|prohibited|restriction|underage	ከአስራ ስምንት ዓመት በታ አይፈቀድም|18|አስራ ስምንት|ከአስራ ስምንት ዓመት በታች አይፈቀድም|ከዕድሜ በታች|ዕድሜ ገደብ|የተከለከለ
+E	☢️	1.0	radioactive|sign	ራዲዮአክቲቭ|ምልክት|ሬዲዮአክቲቭ|አደጋ
+E	☣️	1.0	biohazard|sign	የባዮሎጂካል አደገኛ ምልክት|ምልክት|አደጋ
+E	⬆️	0.6	up arrow|arrow|cardinal|direction|north|up	ወደ ላይ ጠቋሚ ቀስት|ሰሜን|ቀስት|አቅጣጫ|አዝራር|ካርዲናል
+E	↗️	0.6	up-right arrow|arrow|direction|intercardinal|northeast|up-right	ወደ ላይ ቀኝ ጠቋሚ ቀስት|ሰሜን ምሥራቅ|ቀስት|አቅጣጫ|ኢንተርካርዲናል
+E	➡️	0.6	right arrow|arrow|cardinal|direction|east|right	ወደ ቀኝ ጠቋሚ ቀስት|ምሥራቅ|ቀስት|አቅጣጫ|ካርዲናል
+E	↘️	0.6	down-right arrow|arrow|direction|down-right|intercardinal|southeast	ወደ ታች ቀኝ ጠቋሚ ቀስት|ቀስት|አቅጣጫ|ኢንተርካርዲናል|ደቡብ ምሥራቅ
+E	⬇️	0.6	down arrow|arrow|cardinal|direction|down|south	ወደ ታች ጠቋሚ ቀስት|ቀስት|ታች|አቅጣጫ|ካርዲናል|ደቡብ
+E	↙️	0.6	down-left arrow|arrow|direction|down-left|intercardinal|southwest	ወደ ታች ግራ ጠቋሚ ቀስት|ቀስት|አቅጣጫ|ኢንተርካርዲናል|ደቡብ ምዕራብ
+E	⬅️	0.6	left arrow|arrow|cardinal|direction|left|west	ወደ ግራ ጠቋሚ ቀስት|ምዕራብ|ቀስት|አቅጣጫ|አዝራር|ካርዲናል
+E	↖️	0.6	up-left arrow|arrow|direction|intercardinal|northwest|up-left	ወደ ላይ ግራ ጠቋሚ ቀስት|ሰሜን ምዕራብ|ቀስት|አቅጣጫ|ኢንተርካርዲናል
+E	↕️	0.6	up-down arrow|arrow|up-down	ወደ ላይ ታች ጠቋሚ ቀስት|ቀስት|ወደ ላይ እና ወደ ታች ጠቋሚ ቀስት
+E	↔️	0.6	left-right arrow|arrow|left-right	ግራ-ቀኝ ጠቋሚ ቀስት|ቀስት
+E	↩️	0.6	right arrow curving left|arrow|curving|left|right	ወደ ግራ ታጣፊ ቀኝ ጠቋሚ ቀስት|ቀልብስ|ቀስት|ተመለስ|ኩርባ ወደግራ
+E	↪️	0.6	left arrow curving right|arrow|curving|left|right	ወደ ቀኝ ታጣፊ ግራ ጠቋሚ ቀስት|ቀስት
+E	⤴️	0.6	right arrow curving up|arrow|curving|right|up	ወደ ላይ ታጣፊ ቀኝ ጠቋሚ ቀስት|ቀስት|ኩርባ ወደላይ
+E	⤵️	0.6	right arrow curving down|arrow|curving|down|right	ወደ ታች ታጣፊ ቀኝ ጠቋሚ ቀስት|ቀስት|ታች|ኩርባ ወደ ታች|ወደ ታች
+E	🔃	0.6	clockwise vertical arrows|arrow|arrows|clockwise|refresh|reload|vertical	በሰዓት አዟዟር አቅጣጫ ያሉ ቀጥ ያሉ ቀስቶች|ቀስት|በሰዓት አቆጣጠር አቅጣጫ|ዳግም ጫን
+E	🔄	1.0	counterclockwise arrows button|again|anticlockwise|arrow|arrows|button|counterclockwise|deja|refresh|rewindershins|vu	በሰዓት አዟዟር አቅጣጫ ተቃራኒ ያሉ ቀስቶች አዝራር|ቀስት|በሰዓት አቆጣጠር አቅጣጫ ተቃራኒ|ኋልዮሽ|አዝራር|እንደገና|ከሰዓት አቅጣጫ ተቃራኒ|ወደኋላ አጠንጥን|ዑደት|ድገም
+E	🔙	0.6	BACK arrow|arrow|BACK	ተመለስ ቀስት|ቀስት|ተመለስ
+E	🔚	0.6	END arrow|arrow|END	ማብቂያ ቀስት|መጨረሻ|ቀስት
+E	🔛	0.6	ON! arrow|arrow|mark|ON!	በርቷል! ቀስት|ምልክት|ቀስት|በርቷል|አብራ
+E	🔜	0.6	SOON arrow|arrow|brb|omw|SOON	በቅርቡ ይመጣል ቀስት|ቀስት|በቅርቡ|ወዲያው እመለሳለሁ
+E	🔝	0.6	TOP arrow|arrow|homie|TOP|up	ከፍተኛ ጠቋሚ ቀስት|ላይ|ቀስት|ከላይ|ከፍተኛ|ጀለስ
+E	🛐	1.0	place of worship|place|pray|religion|worship	የአምልኮ ቦታ|ልመና|መጸለይ|ማምለክ|ተማጽኖ|ኃይማኖት|ጸሎት
+E	⚛️	1.0	atom symbol|atheist|atom|symbol	የአቶም ምልክት|መናፍቅ|ምርምር|ሳይንስ|አተም|አቶም
+E	🕉️	0.7	om|Hindu|religion	ኦኤም|ሂንዱ|ምልክት|ኃይማኖት|ኦም
+E	✡️	0.7	star of David|David|Jew|Jewish|judaism|religion|star	የዳዊት ኮከብ|ኃይማኖት|አይሁዳዊ|አይሁድ|ኮከብ
+E	☸️	0.7	wheel of dharma|Buddhist|dharma|religion|wheel	የዳርማ መዘውር|መዘውር|ቡድሂስት|ኃይማኖት|ዳህርማ|ዳርማ
+E	☯️	0.7	yin yang|difficult|lives|religion|tao|taoist|total|yang|yin|yinyang	ዩን ያንግ|ምልክት|ታኦ|ታኦይስት|ኃይማኖት|አዝራር|ዪን|ያንግ
+E	✝️	0.7	latin cross|christ|Christian|cross|latin|religion	የላቲን መስቀል|መስቀል|ኃይማኖት|ክርስትያን
+E	☦️	1.0	orthodox cross|Christian|cross|orthodox|religion	የኦርቶዶክስ መስቀል|መስቀል|ኃይማኖት|ክርስትያን
+E	☪️	0.7	star and crescent|crescent|islam|Muslim|ramadan|religion|star	ኮከብ እና ግማሽ ጨረቃ|ሙስሊም|ኃይማኖት|እስላም
+E	☮️	1.0	peace symbol|healing|peace|peaceful|symbol	የሰላም ምልክት|ሰላም
+E	🕎	1.0	menorah|candelabrum|candlestick|hanukkah|jewish|judaism|religion	ሜኖራሃ|መቅረዝ|ሜኖራ|ሻማ ማብሪያ|ኃይማኖት|አይሁድ|ካንድልቡረም|የሻማ መቅረዝ
+E	🔯	0.6	dotted six-pointed star|dotted|fortune|jewish|judaism|six-pointed|star	ባለነጥብ ስድስት አንጓ ኮከብ|ሀብት|ኮከብ|የዳዊት ኮከብ
+E	🪯	15.0	khanda|Deg|Fateh|Khalsa|Khanda|religion|Sikh|Sikhism|Tegh	ቻንዳ|ሃይማኖት|ሲች|ሲክ|ሲክሂዝም|እምነት|ካልሳ|ካንዳ|ደግ ተግ ፋቴህ
+E	♈	0.6	Aries|horoscope|ram|zodiac	ኤሪስ|ሆሮስኮፕ|ወንድ በግ|ዞዲያክ|ፍካሬ ከዋክብት
+E	♉	0.6	Taurus|bull|horoscope|ox|zodiac	ታውረስ|ሆሮስኮፕ|በሬ|አስትሮሎጂ|ኮርማ|ኮከብ|ዞዲያክ|ፍካሬ ከዋክብት
+E	♊	0.6	Gemini|horoscope|twins|zodiac	ጄሚኒ|ሆሮስኮፕ|መንትዮች|አስትሮሎጂ|ኮከብ|ዞዲያክ|ፍካሬ ከዋክብት
+E	♋	0.6	Cancer|crab|horoscope|zodiac	ካንሰር|ሆሮስኮፕ|ክራብ|ዞዲያክ|ፍካሬ ከዋክብት
+E	♌	0.6	Leo|horoscope|lion|zodiac	ሊዮ|ሆሮስኮፕ|አስትሮሎጂ|አንበሳ|ኮከብ|ዞዲያክ|ፍካሬ ከዋክብት
+E	♍	0.6	Virgo|horoscope|zodiac	ቪርጎ|ሆሮስኮፕ|ኮረዳ|ኮከብ|ዞዲያክ|ድንግል|ፍካሬ ከዋክብት
+E	♎	0.6	Libra|balance|horoscope|justice|scales|zodiac	ሊብራ|ሚዛን|ዞዲያክ|የተመጣጠነ|ፍትሕ
+E	♏	0.6	Scorpio|horoscope|scorpion|Scorpius|zodiac	ስኮርፒዮ|ስኮርፒዮን|አስትሮሎጂ|ኮከብ|ዞዲያክ|ጊንጥ|ፍካሬ ከዋክብት
+E	♐	0.6	Sagittarius|archer|horoscope|zodiac	ሳጂታሪየስ|ሆሮስኮፕ|መልህቅ|ኮኮብ ቆጠራ|ዞዲያክ
+E	♑	0.6	Capricorn|goat|horoscope|zodiac	ካፕሪኮርን|ሆሮስኮፕ|ኮከብ ቆጠራ|ዞዲያክ|ፍየል
+E	♒	0.6	Aquarius|bearer|horoscope|water|zodiac	አኳይረስ|ሆሮስኮፕ|ተሸካሚ|ኮከብ ቆጠራ|ውሃ|ዞዲያክ
+E	♓	0.6	Pisces|fish|horoscope|zodiac	ፓይሲስ|ሆሮስኮፕ|ምልክት|ትዕምርት|አሳ|ዓሣ|ዞዲያክ|ፍካሬ ከዋክብት
+E	⛎	0.6	Ophiuchus|bearer|serpent|snake|zodiac	ኦፊዩቹስ|ተሸካሚ|እባብ|ኦፊዩከስ|ዞዲያክ
+E	🔀	1.0	shuffle tracks button|arrow|button|crossed|shuffle|tracks	ትራኮችን በውዝ አዝራር|ቀስት|የተጣመረ
+E	🔁	1.0	repeat button|arrow|button|clockwise|repeat	ድገም አዝራር|ቀስት|በሰዓት አቆጣጠር አቅጣጫ|ድገም
+E	🔂	1.0	repeat single button|arrow|button|clockwise|once|repeat|single	ነጠላ ድገም አዝራር|1 ጊዜ ድገም|ቀስት|በሰዓት አቆጣጠር አቅጣጫ|አንዴ|አዙሪት|አዝራር|ዑደት
+E	▶️	0.6	play button|arrow|button|play|right|triangle	የአጫውት አዝራር|ሦስት ማዕዘን|ቀስት|ቀኝ|አጫውት
+E	⏩	0.6	fast-forward button|arrow|button|double|fast|fast-forward|forward	ወደፊት አሳልፍ አዝራር|ቀስት|ወደፊት አሳልፍ|ድርብ|ፈጣን
+E	⏭️	0.7	next track button|arrow|button|next|scene|track|triangle	ቀጣይ ትራክ አዝራር|ሦስት ማዕዘን|ቀስት|ቀጣይ ትራክ|ቀጣይ ትዕይንት
+E	⏯️	1.0	play or pause button|arrow|button|pause|play|right|triangle	አጫውት ወይም ላፍታ ግታ አዝራር|ላፍታ ግታ|ሦስት ማዕዘን|ቀስት|ባለበት አቁም|አጫውት|ፖዝ
+E	◀️	0.6	reverse button|arrow|button|left|reverse|triangle	ወደ ኋላ መልስ አዝራር|ሦስት ማዕዘን|ቀስት|ገልብጥ|ግራ
+E	⏪	0.6	fast reverse button|arrow|button|double|fast|reverse|rewind	ወደኋላ በፍጥነት መልስ አዝራር|ቀስት|ወደ ኋላ መመለስ፣ ቀስት፣ ድርብ፣ ፈጣን የተገላቢጦሽ ቁልፍ|ወደ ኋላ አጠንጥን|ድርብ
+E	⏮️	0.7	last track button|arrow|button|last|previous|scene|track|triangle	የመጨረሻው ትራክ ላይ ሂድ አዝራር|ሦስት ማዕዘን|ቀስት|ቀዳሚ ትራክ|ቀዳሚ ትዕይንት|አዝራር|ወደመጀመሪያው ትራክ ሂድ
+E	🔼	0.6	upwards button|arrow|button|red|up|upwards	የላይ አዝራር|ቀስት|ቀይ|አዝራር|ወደ ላይ
+E	⏫	0.6	fast up button|arrow|button|double|fast|up	ወደ ላይ በፍጥነት ሂድ አዝራር|ቀስት|ድርብ
+E	🔽	0.6	downwards button|arrow|button|down|downwards|red	ወደ ታች አዝራር|ቀስት|ቀይ|ታች|አዝራር|ወደ ታች
+E	⏬	0.6	fast down button|arrow|button|double|down|fast	ወደ ታች በፍጥነት ሂድ አዝራር|ቀስት|ታች|ወደታች አመልካች ድርብ ቀስት|ድርብ
+E	⏸️	0.7	pause button|bar|button|double|pause|vertical	ላፍታ ግታ አዝራር|ላፍታ አቁም|ላፍታ አቁም አዝራር|ላፍታ ግታ|ምልክት|ቁልቁል|አሞሌ|ድርብ
+E	⏹️	0.7	stop button|button|square|stop	አቁም አዝራር|አቁም|ካሬ
+E	⏺️	0.7	record button|button|circle|record	ቅዳ አዝራር|ቅረጽ|ቅዳ|ክብ
+E	⏏️	1.0	eject button|button|eject	አስወጣ አዝራር|አስወጣ
+E	🎦	0.6	cinema|camera|film|movie	ሲኒማ|በካሜራ ዕይታ ውስጥ|ካሜራ|ፊልም
+E	🔅	1.0	dim button|brightness|button|dim|low	አጨልም አዝራር|ብሩህነት|ብርሃን|አጨልም|ዝቅ|ዝቅ ያለ|ደብዛዛ|ደብዛዛ አዝራር
+E	🔆	1.0	bright button|bright|brightness|button|light	ብሩህ አድርግ አዝራር|ሀሩር|ምልክቶች|ብሩህ|ብሩህነት|ብራ|ጸሐይ
+E	📶	0.6	antenna bars|antenna|bar|bars|cell|communication|mobile|phone|signal|telephone	አንቴና አሞሌዎች|ሞባይል|ስልክ|አሞሌ|አንቴና|የአንቴና አሞሌዎች
+E	🛜	15.0	wireless|broadband|computer|connectivity|hotspot|internet|network|router|smartphone|wi-fi|wifi|wlan	ገመድ አልባ|መገናኛ ነጥብ|ራውተር|ስማርትፎን|ብሮድባንድ|አውታረ መረብ|ኢንተርኔት|ኮምፒውተር|ዋይ ፋይ|ዘመናዊ ስልክ|ግንኙነት
+E	📳	0.6	vibration mode|cell|communication|mobile|mode|phone|telephone|vibration	የንዝረት ሁነታ|ሁነታ|ሞባይል|ሴልፎን|ስልክ|ቴሌፎን|ንዝረት|ንዝረት ላይ|ግንኙነት
+E	📴	0.6	mobile phone off|cell|mobile|off|phone|telephone	ሞባይል ስልክ ይጥፋ|ሞባይል|ሞባይል ያጥፉ|ስልክ|ተንቀሳቃሽ|ቴሌፎን|አጥፋ|ጠፍቷል
+E	♀️	4.0	female sign|female|sign|woman	የሴት ምልክት|ሴት
+E	♂️	4.0	male sign|male|man|sign	የወንድ ምልክት|ሰው|ወንድ
+E	⚧️	13.0	transgender symbol|symbol|transgender	የትራንስጀንደር ምልክት
+E	✖️	0.6	multiply|×|cancel|multiplication|sign|x	የማባዛት|×|x|ማባዛት|ምልክት|ሰርዝ|ተወው|አባዛ|የተሳሳተ
+E	➕	0.6	plus|+	ወፍራም የመደመር ምልክት|+|ሒሳብ|ምልክት|የመደመር|ጥቁር መስቀል
+E	➖	0.6	minus|-|−|heavy|math|sign	ማይነስ|-|−|ሒሳብ|መቀነስ|ምልክት
+E	➗	0.6	divide|÷|division|heavy|math|sign	ማካፈል|÷|ሒሳብ|ምልክት|የማካፈል
+E	🟰	14.0	heavy equals sign|answer|equal|equality|equals|heavy|math|sign	ወፍራም የእኩል ይሆናል ምልክት|ሂሳብ|መልስ|እኩሌታ|እኩል ይሆናል|እኩልነት|የሂሳብ ትምህርት
+E	♾️	11.0	infinity|forever|unbounded|universal	ወሰን የሌለው|አለም አቀፍ|እስከ መጨራሻው|ያልተገደበ
+E	‼️	0.6	double exclamation mark|!|!!|bangbang|double|exclamation|mark|punctuation	ድርብ የቃለ አጋኖ ምልክት|ምልክት|ሥርዓተ ነጥብ|ቃለ አጋኖ|ድርብ ቃለ አጋኖ
+E	⁉️	0.6	exclamation question mark|!|!?|?|exclamation|interrobang|mark|punctuation|question	ቃለ አጋኖ ከጥያቄ ምልክት ጋር|ምልክት|ሥርዓተ ነጥብ|ቀይ ጽሁፍ|ቃለ አጋኖ|ጥያቄ
+E	❓	0.6	red question mark|?|mark|punctuation|question|red	የጥያቄ ምልክት|?|ምልክት|ሥርዓተ ነጥብ|ትዕምርት|ጥያቄ
+E	❔	0.6	white question mark|?|mark|outlined|punctuation|question|white	ነጭ የጥያቄ ምልክት|ምልክት|ሥርዓተ ነጥብ|ትዕምርት|የተነደፈ|ጥያቄ
+E	❕	0.6	white exclamation mark|!|bang|exclamation|mark|outlined|punctuation|white	ነጭ የቃለ አጋኖ ምልክት|ምልክት|ሥርዓተ ነጥብ|ቃለ አጋኖ|የተነደፈ|ድርብ ቃለ አጋኖ
+E	❗	0.6	red exclamation mark|!|bang|exclamation|mark|punctuation|red	ቀይ የቃለ አጋኖ ምልክት|ምልክት|ሥርዓተ ነጥብ|ቃለ አጋኖ
+E	〰️	0.6	wavy dash|dash|punctuation|wavy	ሞገዳማ ሰረዝ|ሞገዳማ|ሥርዓተ ነጥብ|ሰርዝ
+E	💱	0.6	currency exchange|bank|currency|exchange|money	የውጭ ምንዛሬ|ምንዛሬ|ባንክ|ባንክ፣ ምንዛሪ፣ ምንዛሪ፣ ገንዘብ፣ የገንዘብ ልውውጥ|ገንዘብ
+E	💲	0.6	heavy dollar sign|billion|cash|charge|currency|dollar|heavy|million|money|pay|sign	ወፍራም የዶላር ምልክት|ሚሊዮን|ምንዛሬ|ቢሊዮን|ክፍያ|ዶላር|ገንዘብ|ጥሬ ገንዘብ
+E	⚕️	4.0	medical symbol|aesculapius|medical|medicine|staff|symbol	የመድሃኒት ምልክት|መድሃኒት|መድሃኒት ቤት|አስኩላፐስ|እባብና ዘንግ|የስራ ባልደረባ
+E	♻️	0.6	recycling symbol|recycle|recycling|symbol	የመልሶ ጥቅም ላይ ማዋል ምልክት|መልሶ መጠቀም
+E	⚜️	1.0	fleur-de-lis|knights	የማጌጫ ምልክት|የሊስ አበባ|ፈረሰኛ
+E	🔱	0.6	trident emblem|anchor|emblem|poseidon|ship|tool|trident	ትሪደንት አርማ|መልህቅ|መሣሪያ|መርከብ|ትሪደንት|አርማ
+E	📛	0.6	name badge|badge|name	የስም መለያ|ምልክቶች|ስም|ባጅ
+E	🔰	0.6	Japanese symbol for beginner|beginner|chevron|green|Japanese|leaf|symbol|tool|yellow	የጃፓን የጀማሪ ምልክት|መሳሪያ|ሼቭሮን|ቅጠል|ቢጫ|አረንጓዴ|የጃፓን|የጃፓን ምልክት ለጀማሪ|ጀማሪ
+E	⭕	0.6	hollow red circle|circle|heavy|hollow|large|o|red	ወፍራም ግዙፍ ክብ|ቀለበት|ቀይ ቀለበት|ኦ|ክብ
+E	✅	0.6	check mark button|✓|button|check|checked|checkmark|complete|completed|done|fixed|mark|tick	ነጭ ወፍራም ምልክት ማድረጊያ|ምልክት|ራይት|ትክክል|ጭረት|ፈትሽ
+E	☑️	0.6	check box with check|✓|ballot|box|check|checked|done|off|tick	የድምፅ መስጫ ሳጥን ከምልክት ማድረጊያ ጋር|ምልክት የተደረገበት|ምልክት ያድርጉ|ሣጥን|ተከናውኗል|የድምፅ ካርድ|ድምጽ መስጫ|ፈትሽ
+E	✔️	0.6	check mark|✓|check|checked|checkmark|done|heavy|mark|tick	ወፍራም ምልክት ማድረጊያ|ምልክት|ራይት|ተጠናቅቋል|ወፍራም ጭረት|ጭረት|ፈትሽ
+E	❌	0.6	cross mark|×|cancel|cross|mark|multiplication|multiply|x	የስረዛ ምልክት|ማባዛት|ምልክት|ተወው|አባዛ|ኤክስ
+E	❎	0.6	cross mark button|×|button|cross|mark|multiplication|multiply|square|x	የስረዛ ምልክት አዝራር|ማባዛት|ምልክት|ኤክስ|ካሬ
+E	➰	0.6	curly loop|curl|curly|loop	ጥቅልል ሸምቀቆ|ሸምቀቆ|ቋጠሮ|ጥቅልል
+E	➿	1.0	double curly loop|curl|curly|double|loop	ድርብ ጥቅልል ሸምቀቆ|ምልክት|ሸምቀቆ|ድርብ|ገመድ|ጥቅልል
+E	〽️	0.6	part alternation mark|alternation|mark|part	የክፍል መቀየሪያ ምልክት|ምልክት|ክፍል
+E	✳️	0.6	eight-spoked asterisk|*|asterisk|eight-spoked	ባለ ስምንት ቀስት አስትሪክስ|አስትሪክስ|ኮከብ
+E	✴️	0.6	eight-pointed star|*|eight-pointed|star	ባለስምንት ነጥብ ኮከብ|ኮከብ
+E	❇️	0.6	sparkle|*	አንጸባራቂ|አብረቅራቂ
+E	©️	0.6	copyright|C	የቅጂ መብት
+E	®️	0.6	registered|R	የተመዘገበ ንግድ ምልክት|ተመዝግቧል|የንግድ ምልክት
+E	™️	0.6	trade mark|mark|TM|trade|trademark	የንግድ ምልክት|ምልክት|ንግድ ምልክት
+E	🫟	16.0	splatter|drip|holi|ink|liquid|mess|paint|spill|stain	የውሃ መረጨት|ሆሊ|መፍሰስ|ምስቅልቅል|ቀለም|ነጠብጣብ|እድፍ|ፈሳሽ
+E	#️⃣	0.6	keycap: #|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: #|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	*️⃣	2.0	keycap: *|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: *|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	0️⃣	0.6	keycap: 0|0|keycap|zero	የአብይ ሆሄ ቁልፍ ማብሪያ: 0|0|ባዶ|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	1️⃣	0.6	keycap: 1|1|keycap|one	የአብይ ሆሄ ቁልፍ ማብሪያ: 1|1|አንድ|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	2️⃣	0.6	keycap: 2|2|keycap|two	የአብይ ሆሄ ቁልፍ ማብሪያ: 2|2|ሁለት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	3️⃣	0.6	keycap: 3|3|keycap|three	የአብይ ሆሄ ቁልፍ ማብሪያ: 3|3|ሦስት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	4️⃣	0.6	keycap: 4|4|four|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: 4|4|አራት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	5️⃣	0.6	keycap: 5|5|five|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: 5|5|አምስት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	6️⃣	0.6	keycap: 6|6|keycap|six	የአብይ ሆሄ ቁልፍ ማብሪያ: 6|6|ስድስት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	7️⃣	0.6	keycap: 7|7|keycap|seven	የአብይ ሆሄ ቁልፍ ማብሪያ: 7|7|ሰባት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	8️⃣	0.6	keycap: 8|8|eight|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: 8|8|ስምንት|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	9️⃣	0.6	keycap: 9|9|keycap|nine	የአብይ ሆሄ ቁልፍ ማብሪያ: 9|9|ዘጠኝ|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	🔟	0.6	keycap: 10|keycap	የአብይ ሆሄ ቁልፍ ማብሪያ: 10|የአብይ ሆሄ ቁልፍ ማብሪያ
+E	🔠	0.6	input latin uppercase|ABCD|input|latin|letters|uppercase	የላቲን ዓቢይ ፊደል ግቤት|ላቲን|ዓቢይ ፊደል|ግቤት|ፊደላት
+E	🔡	0.6	input latin lowercase|abcd|input|latin|letters|lowercase	የላቲን ንዑስ ፊደል ግቤት|ላቲን|ንዑስ ፊደላት|ግቤት|ፊደላት
+E	🔢	0.6	input numbers|1234|input|numbers	የቁጥር ግቤት|1234|ምልክት|ቁጥሮች|ግቤት
+E	🔣	0.6	input symbols|&|%|♪|〒|input|symbols	የግቤት ምልክቶች|ግቤት
+E	🔤	0.6	input latin letters|abc|alphabet|input|latin|letters	የላቲን ፊደላት ግቤት|ላቲን|ኤቢሲ|የፊደል ገበታ|ግቤት|ፊደላት
+E	🅰️	0.6	A button (blood type)|blood|button|type	ኤ አዝራር|A|ምልክቶች|ኤ|የደም አይነት|ደም
+E	🆎	0.6	AB button (blood type)|AB|blood|button|type	ኤቢ አዝራር|ኤቢ|የደም አይነት|ደም
+E	🅱️	0.6	B button (blood type)|B|blood|button|type	ቢ አዝራር|ቢ|የደም አይነት|ደም
+E	🆑	0.6	CL button|button|CL	መቆጣጠሪያ ካሬ|CL አዝራር|ሲ ኤል|ቀይ|አዝራር
+E	🆒	0.6	COOL button|button|COOL	ቀዝቃዛ ካሬ|ምልክት|ቀዝቃዛ|አሪፍ|አዝራር
+E	🆓	0.6	FREE button|button|FREE	ነጻ ካሬ|ምልክት|ነጻ|አዝራር|ካሬ
+E	ℹ️	0.6	information|I	የመረጃ ምንጭ|መረጃ|ምልክት
+E	🆔	0.6	ID button|button|ID|identity	አይዲ ካሬ|መለያ|መታወቂያ|ማንነት|አዝራር|አይዲ
+E	Ⓜ️	0.6	circled M|circle|circled|M	በክብ ውስጥ ያለ ኤም ፊደል|ሰማያዊ|ኤም|ክብ
+E	🆕	0.6	NEW button|button|NEW	አዲስ ካሬ|አዲስ|አዲስ አዝራር
+E	🆖	0.6	NG button|button|NG	ኤንጂ ካሬ|አዝራር|ኤን ጂ|ኤንጂ
+E	🅾️	0.6	O button (blood type)|blood|button|O|type	ኦ አዝራር|ኦ|የደም አይነት|ደም
+E	🆗	0.6	OK button|button|OK|okay	ኦኬ ካሬ|እሺ|እሺ አዝራር
+E	🅿️	0.6	P button|button|P|parking	ፒ አዝራር|መኪና ማቆሚያ|ፓርኪንግ|ፓርክ
+E	🆘	0.6	SOS button|button|help|SOS	ኤስኦኤስ ካሬ|ኤስኦኤስ|እርዳታ|እገዛ|ድረሱልኝ|ድረሱልኝ አዝራር
+E	🆙	0.6	UP! button|button|mark|UP|UP!	ወደላይ! አዝራር|ላይ|ምልክት
+E	🆚	0.6	VS button|button|versus|VS	ቪኤስ ካሬ|ይጋጠማል ከ
+E	🈁	0.6	Japanese “here” button|button|here|Japanese|katakana	ካታካና ኮኮ ካሬ|አዝራር|እዚህ|የጃፓን|ጃፓንኛ
+E	🈂️	0.6	Japanese “service charge” button|button|charge|Japanese|katakana|service	ካታካና ሳ ካሬ|ካታካና|የጃፓን
+E	🈷️	0.6	Japanese “monthly amount” button|amount|button|ideograph|Japanese|monthly	የጨረቃ ካሬ አይዶግራፍ|ወርሃዊ መጠን|የጃፓን|ጃፓንኛ
+E	🈶	0.6	Japanese “not free of charge” button|button|charge|free|ideograph|Japanese|not	ያኖረ ካሬ አይዶግራፍ|ከክፍያ ነጻ ያልሆነ|የጃፓን|ጃፓንኛ
+E	🈯	0.6	Japanese “reserved” button|button|ideograph|Japanese|reserved	የጣት ካሬ አይዶግራፍ|ተይዟል|ተይዟል አዝራር|የጃፓን
+E	🉐	0.6	Japanese “bargain” button|bargain|button|ideograph|Japanese	ባለክብ ዕድል አይዶግራፍ|መደራደር|የጃፓን|ጃፓንኛ
+E	🈹	0.6	Japanese “discount” button|button|discount|ideograph|Japanese	የተከፋፈለ ካሬ አይዶግራፍ|ቅናሽ|አዝራር|የጃፓን|ጃፓንኛ
+E	🈚	0.6	Japanese “free of charge” button|button|charge|free|ideograph|Japanese	የአሉታ ካሬ አይዶግራፍ|ነጻ|ከክፍያ ነጻ አዝራር|የጃፓን
+E	🈲	0.6	Japanese “prohibited” button|button|ideograph|Japanese|prohibited	የተከለከለ ካሬ አይዶግራፍ|ምልክት|የተከለከለ|የተከለከለ በጃፓንኛ|የጃፓን|ጃፓንኛ
+E	🉑	0.6	Japanese “acceptable” button|acceptable|button|ideograph|Japanese	ክብ የተቀበል አይዶግራፍ|ተቀባይነት ያለው|የቻይና|የጃፓን|ጃፓንኛ
+E	🈸	0.6	Japanese “application” button|application|button|ideograph|Japanese	የተግብር ካሬ አይዶግራፍ|መተግበሪያ|ማመልከቻ|የቻይና|የጃፓን|ጃፓንኛ
+E	🈴	0.6	Japanese “passing grade” button|button|grade|ideograph|Japanese|passing	አንድነት ካሬ አይዶግራፍ|ሐሳብ መግለጫ|ማለፊያ ነጥብ|ማለፊያ ነጥብ አዝራር|አዝራር|የቻይና|ጃፓን
+E	🈳	0.6	Japanese “vacancy” button|button|ideograph|Japanese|vacancy	ባዶ ካሬ አይዶግራፍ|“ክፍት ቦታ”|አይዲዮግራፍ|የቻይና|የጃፓን “ክፍት ቦታ” አዝራር|የጃፓን ፊደል የያዘ ካሬ|ጃፓንኛ
+E	㊗️	0.6	Japanese “congratulations” button|button|congratulations|ideograph|Japanese	ክብ የደስታ መግለጫ አይዶግራፍ|አይዶግራፍ|እንኳን ደስ አለህ|እንኳን ደስ አለሽ|እንኳን ደስ አለዎ|የቻይና|የደስታ መግለጫ|የደስታ መግለጫዎች|የጃፓን
+E	㊙️	0.6	Japanese “secret” button|button|ideograph|Japanese|secret	ክብ የምስጢር አይዶግራፍ|ሐሳብ መግለጫ|ምስጢር|አዝራር|አይዶግራፍ|የቻይና|የጃፓን|ጃፓንኛ
+E	🈺	0.6	Japanese “open for business” button|business|button|ideograph|Japanese|open	የስርዓተ ክወና ካሬ አይዶግራፍ|ለሥራ ክፍት ነው|ምልክት|የቻይና|የጃፓን|ጃፓንኛ
+E	🈵	0.6	Japanese “no vacancy” button|button|ideograph|Japanese|no|vacancy	ሙሉ ካሬ አይዶግራፍ|አይዲዮግራፍ|ክፍት ቦታ የለም|የቻይና|የጃፓን “ክፍት ቦታ የለም” አዝራር|የጃፓን ፊደል የያዘ ካሬ|ጃፓንኛ
+E	🔴	0.6	red circle|circle|geometric|red	ቀይ ክብ|ቀይ|ቀይ መብራት|አደጋ|ክልክል|ክብ|ኳስ|የተከለከለ|ጂኦሜትሪያዊ
+E	🟠	12.0	orange circle|circle|orange	ብርቱካን ክብ|ብርቱካናማ|ብርቱካን|ክብ
+E	🟡	12.0	yellow circle|circle|yellow	ቢጫ ክብ|ቢጫ|ክብ
+E	🟢	12.0	green circle|circle|green	አረንጓዴ ክብ|አረንጓዴ|ክብ
+E	🔵	0.6	blue circle|blue|circle|geometric	ሰማያዊ ክብ|ሰማያዊ|ክብ|ጂኦሜትሪያዊ
+E	🟣	12.0	purple circle|circle|purple	ሐምራዊ ክብ|ሐምራዊ|ክብ
+E	🟤	12.0	brown circle|brown|circle	ቡናማ ክብ|ቡናማ|ክብ
+E	⚫	0.6	black circle|black|circle|geometric	ጥቁር ክብ|ክብ|ጂኦሜትሪያዊ
+E	⚪	0.6	white circle|circle|geometric|white	ነጭ ክብ|ምልክት|ሰንደቅ|ባንዲራ|ነጭ|ክብ|ጂኦሜትሪያዊ
+E	🟥	12.0	red square|card|penalty|red|square	ቀይ አራት ማእዝን|ቀይ|ቀይ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟧	12.0	orange square|orange|square	ብርቱካናማ አራት ማእዝን|ብርቱካናማ|ብርቱካናማ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟨	12.0	yellow square|card|penalty|square|yellow	ቢጫ አራት ማእዝን|ቢጫ|ቢጫ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟩	12.0	green square|green|square	አረንጓዴ አራት ማእዝን|አረንጓዴ|አረንጓዴ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟦	12.0	blue square|blue|square	ሰማያዊ አራት ማእዝን|ሰማያዊ|ሰማያዊ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟪	12.0	purple square|purple|square	ሐምራዊ አራት ማእዝን|ሐምራዊ|ሐምራዊ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	🟫	12.0	brown square|brown|square	ቡናማ አራት ማእዝን|ቡናማ|ቡናማ አራት ማእዘን|አራት ማእዘን|አራት ማእዝን|ካሬ
+E	⬛	0.6	black large square|black|geometric|large|square	ጥቁር ትልቅ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	⬜	0.6	white large square|geometric|large|square|white	ነጭ ትልቅ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	◼️	0.6	black medium square|black|geometric|medium|square	ጥቁር መካከለኛ ካሬ|መካከሉ ላይ ጥቁር የሆነ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	◻️	0.6	white medium square|geometric|medium|square|white	ነጭ መካከለኛ ካሬ|ነጭ|ካሬ|ጂኦሜትሪያዊ
+E	◾	0.6	black medium-small square|black|geometric|medium-small|square	ጥቁር መካከለኛ-ትንሽ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	◽	0.6	white medium-small square|geometric|medium-small|square|white	ነጭ መካከለኛ- ትንሽ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	▪️	0.6	black small square|black|geometric|small|square	ጥቁር ትንሽ ካሬ|ካሬ|ጂሎሜትሪያዊ|ጂኦሜትሪያዊ
+E	▫️	0.6	white small square|geometric|small|square|white	ነጭ ትንሽ ካሬ|ካሬ|ጂኦሜትሪያዊ
+E	🔶	0.6	large orange diamond|diamond|geometric|large|orange	ትልቅ ብርትኳናማ አልማዝ|ብርቱካናማ|ብርትኳናማ|አልማዝ|የአልማዝ ቅርጽ|ጂኦሜትሪያዊ
+E	🔷	0.6	large blue diamond|blue|diamond|geometric|large	ትልቅ ሰማያዊ አልማዝ|ሰማያዊ|ትልቅ ሰማያዊ ዳይመንድ ቅርጽ|አልማዝ|ዳይመንድ|ጂኦሜትሪያዊ
+E	🔸	0.6	small orange diamond|diamond|geometric|orange|small	ትንሽ ብርትኳናማ አልማዝ|ብርቱካናማ|ብርትኳናማ|አልማዝ|የዳይመንድ ቅርጽ|ዳይመንድ|ጂኦሜትሪ|ጂኦሜትሪያዊ
+E	🔹	0.6	small blue diamond|blue|diamond|geometric|small	ትንሽ ሰማያዊ አልማዝ|ሰማያዊ|አልማዝ|የአልማዝ ቅርጽ|ጂኦሜትሪያዊ
+E	🔺	0.6	red triangle pointed up|geometric|pointed|red|triangle|up	ቀይ ሶስት ማዕዘን ወደ ላይ ጠቋሚ|ቀይ|ወደ ላይ|ወደ ላይ ጠቋሚ|ጂኦሜትሪያዊ
+E	🔻	0.6	red triangle pointed down|down|geometric|pointed|red|triangle	ቀይ ሶስት ማዕዘን ወደ ታች ጠቋሚ|ቀይ|ታች|ወደ ታች|ጂኦሜትሪያዊ
+E	💠	0.6	diamond with a dot|comic|diamond|dot|geometric	ባለ ነቁጥ አልማዝ|አልማዝ|አስቂኝ|ከውስጥ|ጂኦሜትሪያዊ|ፈርጥ
+E	🔘	0.6	radio button|button|geometric|radio	የሬዲዮ አዝራር|ራዲዮ|ሬዲዮ|አዝራር|ጂኦሜትሪያዊ
+E	🔳	0.6	white square button|button|geometric|outlined|square|white	በነጭ የተከበበ ካሬ አዝራር|ምልክት|አራት ማዕዘን|አዝራር|ካሬ|የተነደፈ|ጂኦሜትሪያዊ|ጥቁር
+E	🔲	0.6	black square button|black|button|geometric|square	በጥቁር የተከበበ ካሬ አዝራር|አዝራር|ካሬ|ጂኦሜትሪያዊ
+C	flags	Flags
+E	🏁	0.6	chequered flag|checkered|chequered|finish|flag|flags|game|race|racing|sport|win	የዳማ ሰሌዳ መሰል ባንዴራ|ስፖርት|ባንዲራ|ባንዲራዎች|አሸናፊ|እሽቅድድም|ውድድር|የመጨረሻ ቦታ|ዳማ|ዳማ ሰሌዳ|ጨዋታ
+E	🚩	0.6	triangular flag|construction|flag|golf|post|triangular	የፖስታ ምልክት ባንዲራ|ባለሶስት ማዕዘን ባንዲራ|ባንዴራ|ግንባታ|ጎልፍ|ፖስታ
+E	🎌	0.6	crossed flags|celebration|cross|crossed|flags|Japanese	ጥሙር ሰንደቅ ዓላማዎች|መስቀል|ባንዴራ|ክብረ በዓል|የተጠላለፉ|የተጣመረ|የጃፓን
+E	🏴	1.0	black flag|black|flag|waving	ጥቁር ባንዴራ ማውለብለብ|ማውለብለብ|ጥቁር ባንዴራ
+E	🏳️	0.7	white flag|flag|waving|white	ነጭ ባንዴራ ማውለብለብ|ማውለብለብ|ነጭ ባንዴራ
+E	🏳️‍🌈	4.0	rainbow flag|bisexual|flag|gay|genderqueer|glbt|glbtq|lesbian|lgbt|lgbtq|lgbtqia|pride|queer|rainbow|trans|transgender	የቀስተ ደመና ባንዲራ|ሌዝቢያን|ቀስተ ደመና|ባንዲራ|ትራንስ|ትራንስጀንደር|ንጥል ጾታዊ|ኩራት|የግብረሰዶማውያን ባንዴራ|ግብረ ሰዶማዊ|ጾታ ያለዩ
+E	🏳️‍⚧️	13.0	transgender flag|blue|flag|light|pink|transgender|white	ሰማያዊ ፤ ሓምራዊ እና ነጭ ሰንደቅ
+E	🏴‍☠️	11.0	pirate flag|flag|Jolly|pirate|plunder|Roger|treasure	የባሕር ወንበዴ ሰንደቅ|ማዕድን|ምርኮ|የባሕር ወንበዴ|ጆሊ ሮጀር
+E	🇦🇨	2.0	flag: Ascension Island|flag	ባንዲራ: አሴንሽን ደሴት|ባንዲራ
+E	🇦🇩	2.0	flag: Andorra|flag	ባንዲራ: አንዶራ|ባንዲራ
+E	🇦🇪	2.0	flag: United Arab Emirates|flag	ባንዲራ: የተባበሩት ዓረብ ኤምሬትስ|ባንዲራ
+E	🇦🇫	2.0	flag: Afghanistan|flag	ባንዲራ: አፍጋኒስታን|ባንዲራ
+E	🇦🇬	2.0	flag: Antigua & Barbuda|flag	ባንዲራ: አንቲጓ እና ባርቡዳ|ባንዲራ
+E	🇦🇮	2.0	flag: Anguilla|flag	ባንዲራ: አንጉይላ|ባንዲራ
+E	🇦🇱	2.0	flag: Albania|flag	ባንዲራ: አልባኒያ|ባንዲራ
+E	🇦🇲	2.0	flag: Armenia|flag	ባንዲራ: አርሜኒያ|ባንዲራ
+E	🇦🇴	2.0	flag: Angola|flag	ባንዲራ: አንጐላ|ባንዲራ
+E	🇦🇶	2.0	flag: Antarctica|flag	ባንዲራ: አንታርክቲካ|ባንዲራ
+E	🇦🇷	2.0	flag: Argentina|flag	ባንዲራ: አርጀንቲና|ባንዲራ
+E	🇦🇸	2.0	flag: American Samoa|flag	ባንዲራ: የአሜሪካ ሳሞአ|ባንዲራ
+E	🇦🇹	2.0	flag: Austria|flag	ባንዲራ: ኦስትሪያ|ባንዲራ
+E	🇦🇺	2.0	flag: Australia|flag	ባንዲራ: አውስትራልያ|ባንዲራ
+E	🇦🇼	2.0	flag: Aruba|flag	ባንዲራ: አሩባ|ባንዲራ
+E	🇦🇽	2.0	flag: Åland Islands|flag	ባንዲራ: የአላንድ ደሴቶች|ባንዲራ
+E	🇦🇿	2.0	flag: Azerbaijan|flag	ባንዲራ: አዘርባጃን|ባንዲራ
+E	🇧🇦	2.0	flag: Bosnia & Herzegovina|flag	ባንዲራ: ቦስኒያ እና ሄርዞጎቪኒያ|ባንዲራ
+E	🇧🇧	2.0	flag: Barbados|flag	ባንዲራ: ባርቤዶስ|ባንዲራ
+E	🇧🇩	2.0	flag: Bangladesh|flag	ባንዲራ: ባንግላዲሽ|ባንዲራ
+E	🇧🇪	2.0	flag: Belgium|flag	ባንዲራ: ቤልጄም|ባንዲራ
+E	🇧🇫	2.0	flag: Burkina Faso|flag	ባንዲራ: ቡርኪና ፋሶ|ባንዲራ
+E	🇧🇬	2.0	flag: Bulgaria|flag	ባንዲራ: ቡልጋሪያ|ባንዲራ
+E	🇧🇭	2.0	flag: Bahrain|flag	ባንዲራ: ባህሬን|ባንዲራ
+E	🇧🇮	2.0	flag: Burundi|flag	ባንዲራ: ብሩንዲ|ባንዲራ
+E	🇧🇯	2.0	flag: Benin|flag	ባንዲራ: ቤኒን|ባንዲራ
+E	🇧🇱	2.0	flag: St. Barthélemy|flag	ባንዲራ: ሴንት ባርቴሌሚ|ባንዲራ
+E	🇧🇲	2.0	flag: Bermuda|flag	ባንዲራ: ቤርሙዳ|ባንዲራ
+E	🇧🇳	2.0	flag: Brunei|flag	ባንዲራ: ብሩኒ|ባንዲራ
+E	🇧🇴	2.0	flag: Bolivia|flag	ባንዲራ: ቦሊቪያ|ባንዲራ
+E	🇧🇶	2.0	flag: Caribbean Netherlands|flag	ባንዲራ: የካሪቢያን ኔዘርላንድስ|ባንዲራ
+E	🇧🇷	2.0	flag: Brazil|flag	ባንዲራ: ብራዚል|ባንዲራ
+E	🇧🇸	2.0	flag: Bahamas|flag	ባንዲራ: ባሃማስ|ባንዲራ
+E	🇧🇹	2.0	flag: Bhutan|flag	ባንዲራ: ቡህታን|ባንዲራ
+E	🇧🇻	2.0	flag: Bouvet Island|flag	ባንዲራ: ቡቬት ደሴት|ባንዲራ
+E	🇧🇼	2.0	flag: Botswana|flag	ባንዲራ: ቦትስዋና|ባንዲራ
+E	🇧🇾	2.0	flag: Belarus|flag	ባንዲራ: ቤላሩስ|ባንዲራ
+E	🇧🇿	2.0	flag: Belize|flag	ባንዲራ: በሊዝ|ባንዲራ
+E	🇨🇦	2.0	flag: Canada|flag	ባንዲራ: ካናዳ|ባንዲራ
+E	🇨🇨	2.0	flag: Cocos (Keeling) Islands|flag	ባንዲራ: ኮኮስ(ኬሊንግ) ደሴቶች|ባንዲራ
+E	🇨🇩	2.0	flag: Congo - Kinshasa|flag	ባንዲራ: ኮንጎ-ኪንሻሳ|ባንዲራ
+E	🇨🇫	2.0	flag: Central African Republic|flag	ባንዲራ: ማዕከላዊ አፍሪካ ሪፑብሊክ|ባንዲራ
+E	🇨🇬	2.0	flag: Congo - Brazzaville|flag	ባንዲራ: ኮንጎ ብራዛቪል|ባንዲራ
+E	🇨🇭	2.0	flag: Switzerland|flag	ባንዲራ: ስዊዘርላንድ|ባንዲራ
+E	🇨🇮	2.0	flag: Côte d’Ivoire|flag	ባንዲራ: ኮትዲቯር|ባንዲራ
+E	🇨🇰	2.0	flag: Cook Islands|flag	ባንዲራ: ኩክ ደሴቶች|ባንዲራ
+E	🇨🇱	2.0	flag: Chile|flag	ባንዲራ: ቺሊ|ባንዲራ
+E	🇨🇲	2.0	flag: Cameroon|flag	ባንዲራ: ካሜሩን|ባንዲራ
+E	🇨🇳	0.6	flag: China|flag	ባንዲራ: ቻይና|ባንዲራ
+E	🇨🇴	2.0	flag: Colombia|flag	ባንዲራ: ኮሎምቢያ|ባንዲራ
+E	🇨🇵	2.0	flag: Clipperton Island|flag	ባንዲራ: ክሊፐርቶን ደሴት|ባንዲራ
+E	🇨🇶	16.0	flag: Sark|flag	ባንዲራ: ሳርክ|ባንዲራ
+E	🇨🇷	2.0	flag: Costa Rica|flag	ባንዲራ: ኮስታሪካ|ባንዲራ
+E	🇨🇺	2.0	flag: Cuba|flag	ባንዲራ: ኩባ|ባንዲራ
+E	🇨🇻	2.0	flag: Cape Verde|flag	ባንዲራ: ኬፕቨርዴ|ባንዲራ
+E	🇨🇼	2.0	flag: Curaçao|flag	ባንዲራ: ኩራሳዎ|ባንዲራ
+E	🇨🇽	2.0	flag: Christmas Island|flag	ባንዲራ: ክሪስማስ ደሴት|ባንዲራ
+E	🇨🇾	2.0	flag: Cyprus|flag	ባንዲራ: ሳይፕረስ|ባንዲራ
+E	🇨🇿	2.0	flag: Czechia|flag	ባንዲራ: ቼቺያ|ባንዲራ
+E	🇩🇪	0.6	flag: Germany|flag	ባንዲራ: ጀርመን|ባንዲራ
+E	🇩🇬	2.0	flag: Diego Garcia|flag	ባንዲራ: ዲዬጎ ጋርሲያ|ባንዲራ
+E	🇩🇯	2.0	flag: Djibouti|flag	ባንዲራ: ጂቡቲ|ባንዲራ
+E	🇩🇰	2.0	flag: Denmark|flag	ባንዲራ: ዴንማርክ|ባንዲራ
+E	🇩🇲	2.0	flag: Dominica|flag	ባንዲራ: ዶሚኒካ|ባንዲራ
+E	🇩🇴	2.0	flag: Dominican Republic|flag	ባንዲራ: ዶመኒካን ሪፑብሊክ|ባንዲራ
+E	🇩🇿	2.0	flag: Algeria|flag	ባንዲራ: አልጄሪያ|ባንዲራ
+E	🇪🇦	2.0	flag: Ceuta & Melilla|flag	ባንዲራ: ሴኡታና ሜሊላ|ባንዲራ
+E	🇪🇨	2.0	flag: Ecuador|flag	ባንዲራ: ኢኳዶር|ባንዲራ
+E	🇪🇪	2.0	flag: Estonia|flag	ባንዲራ: ኤስቶኒያ|ባንዲራ
+E	🇪🇬	2.0	flag: Egypt|flag	ባንዲራ: ግብጽ|ባንዲራ
+E	🇪🇭	2.0	flag: Western Sahara|flag	ባንዲራ: ምዕራባዊ ሳህራ|ባንዲራ
+E	🇪🇷	2.0	flag: Eritrea|flag	ባንዲራ: ኤርትራ|ባንዲራ
+E	🇪🇸	0.6	flag: Spain|flag	ባንዲራ: ስፔን|ባንዲራ
+E	🇪🇹	2.0	flag: Ethiopia|flag	ባንዲራ: ኢትዮጵያ|ባንዲራ
+E	🇪🇺	2.0	flag: European Union|flag	ባንዲራ: የአውሮፓ ህብረት|ባንዲራ
+E	🇫🇮	2.0	flag: Finland|flag	ባንዲራ: ፊንላንድ|ባንዲራ
+E	🇫🇯	2.0	flag: Fiji|flag	ባንዲራ: ፊጂ|ባንዲራ
+E	🇫🇰	2.0	flag: Falkland Islands|flag	ባንዲራ: የፎክላንድ ደሴቶች|ባንዲራ
+E	🇫🇲	2.0	flag: Micronesia|flag	ባንዲራ: ማይክሮኔዢያ|ባንዲራ
+E	🇫🇴	2.0	flag: Faroe Islands|flag	ባንዲራ: የፋሮ ደሴቶች|ባንዲራ
+E	🇫🇷	0.6	flag: France|flag	ባንዲራ: ፈረንሳይ|ባንዲራ
+E	🇬🇦	2.0	flag: Gabon|flag	ባንዲራ: ጋቦን|ባንዲራ
+E	🇬🇧	0.6	flag: United Kingdom|flag	ባንዲራ: ዩናይትድ ኪንግደም|ባንዲራ
+E	🇬🇩	2.0	flag: Grenada|flag	ባንዲራ: ግሬናዳ|ባንዲራ
+E	🇬🇪	2.0	flag: Georgia|flag	ባንዲራ: ጆርጂያ|ባንዲራ
+E	🇬🇫	2.0	flag: French Guiana|flag	ባንዲራ: የፈረንሳይ ጉዊአና|ባንዲራ
+E	🇬🇬	2.0	flag: Guernsey|flag	ባንዲራ: ጉርነሲ|ባንዲራ
+E	🇬🇭	2.0	flag: Ghana|flag	ባንዲራ: ጋና|ባንዲራ
+E	🇬🇮	2.0	flag: Gibraltar|flag	ባንዲራ: ጂብራልተር|ባንዲራ
+E	🇬🇱	2.0	flag: Greenland|flag	ባንዲራ: ግሪንላንድ|ባንዲራ
+E	🇬🇲	2.0	flag: Gambia|flag	ባንዲራ: ጋምቢያ|ባንዲራ
+E	🇬🇳	2.0	flag: Guinea|flag	ባንዲራ: ጊኒ|ባንዲራ
+E	🇬🇵	2.0	flag: Guadeloupe|flag	ባንዲራ: ጉዋደሉፕ|ባንዲራ
+E	🇬🇶	2.0	flag: Equatorial Guinea|flag	ባንዲራ: ኢኳቶሪያል ጊኒ|ባንዲራ
+E	🇬🇷	2.0	flag: Greece|flag	ባንዲራ: ግሪክ|ባንዲራ
+E	🇬🇸	2.0	flag: South Georgia & South Sandwich Islands|flag	ባንዲራ: ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች|ባንዲራ
+E	🇬🇹	2.0	flag: Guatemala|flag	ባንዲራ: ጉዋቲማላ|ባንዲራ
+E	🇬🇺	2.0	flag: Guam|flag	ባንዲራ: ጉዋም|ባንዲራ
+E	🇬🇼	2.0	flag: Guinea-Bissau|flag	ባንዲራ: ጊኒ-ቢሳው|ባንዲራ
+E	🇬🇾	2.0	flag: Guyana|flag	ባንዲራ: ጉያና|ባንዲራ
+E	🇭🇰	2.0	flag: Hong Kong SAR China|flag	ባንዲራ: ሆንግ ኮንግ ልዩ የአስተዳደር ክልል ቻይና|ባንዲራ
+E	🇭🇲	2.0	flag: Heard Island & McDonald Islands|flag	ባንዲራ: ኽርድ ኣና ማክዶናልድ ደሴቶች|ባንዲራ
+E	🇭🇳	2.0	flag: Honduras|flag	ባንዲራ: ሆንዱራስ|ባንዲራ
+E	🇭🇷	2.0	flag: Croatia|flag	ባንዲራ: ክሮኤሽያ|ባንዲራ
+E	🇭🇹	2.0	flag: Haiti|flag	ባንዲራ: ሀይቲ|ባንዲራ
+E	🇭🇺	2.0	flag: Hungary|flag	ባንዲራ: ሀንጋሪ|ባንዲራ
+E	🇮🇨	2.0	flag: Canary Islands|flag	ባንዲራ: የካናሪ ደሴቶች|ባንዲራ
+E	🇮🇩	2.0	flag: Indonesia|flag	ባንዲራ: ኢንዶኔዢያ|ባንዲራ
+E	🇮🇪	2.0	flag: Ireland|flag	ባንዲራ: አየርላንድ|ባንዲራ
+E	🇮🇱	2.0	flag: Israel|flag	ባንዲራ: እስራኤል|ባንዲራ
+E	🇮🇲	2.0	flag: Isle of Man|flag	ባንዲራ: አይል ኦፍ ማን|ባንዲራ
+E	🇮🇳	2.0	flag: India|flag	ባንዲራ: ህንድ|ባንዲራ
+E	🇮🇴	2.0	flag: British Indian Ocean Territory|flag	ባንዲራ: የብሪታኒያ ህንድ ውቂያኖስ ግዛት|ባንዲራ
+E	🇮🇶	2.0	flag: Iraq|flag	ባንዲራ: ኢራቅ|ባንዲራ
+E	🇮🇷	2.0	flag: Iran|flag	ባንዲራ: ኢራን|ባንዲራ
+E	🇮🇸	2.0	flag: Iceland|flag	ባንዲራ: አይስላንድ|ባንዲራ
+E	🇮🇹	0.6	flag: Italy|flag	ባንዲራ: ጣሊያን|ባንዲራ
+E	🇯🇪	2.0	flag: Jersey|flag	ባንዲራ: ጀርዚ|ባንዲራ
+E	🇯🇲	2.0	flag: Jamaica|flag	ባንዲራ: ጃማይካ|ባንዲራ
+E	🇯🇴	2.0	flag: Jordan|flag	ባንዲራ: ጆርዳን|ባንዲራ
+E	🇯🇵	0.6	flag: Japan|flag	ባንዲራ: ጃፓን|ባንዲራ
+E	🇰🇪	2.0	flag: Kenya|flag	ባንዲራ: ኬንያ|ባንዲራ
+E	🇰🇬	2.0	flag: Kyrgyzstan|flag	ባንዲራ: ኪርጊስታን|ባንዲራ
+E	🇰🇭	2.0	flag: Cambodia|flag	ባንዲራ: ካምቦዲያ|ባንዲራ
+E	🇰🇮	2.0	flag: Kiribati|flag	ባንዲራ: ኪሪባቲ|ባንዲራ
+E	🇰🇲	2.0	flag: Comoros|flag	ባንዲራ: ኮሞሮስ|ባንዲራ
+E	🇰🇳	2.0	flag: St. Kitts & Nevis|flag	ባንዲራ: ቅዱስ ኪትስ እና ኔቪስ|ባንዲራ
+E	🇰🇵	2.0	flag: North Korea|flag	ባንዲራ: ሰሜን ኮሪያ|ባንዲራ
+E	🇰🇷	0.6	flag: South Korea|flag	ባንዲራ: ደቡብ ኮሪያ|ባንዲራ
+E	🇰🇼	2.0	flag: Kuwait|flag	ባንዲራ: ኩዌት|ባንዲራ
+E	🇰🇾	2.0	flag: Cayman Islands|flag	ባንዲራ: ካይማን ደሴቶች|ባንዲራ
+E	🇰🇿	2.0	flag: Kazakhstan|flag	ባንዲራ: ካዛኪስታን|ባንዲራ
+E	🇱🇦	2.0	flag: Laos|flag	ባንዲራ: ላኦስ|ባንዲራ
+E	🇱🇧	2.0	flag: Lebanon|flag	ባንዲራ: ሊባኖስ|ባንዲራ
+E	🇱🇨	2.0	flag: St. Lucia|flag	ባንዲራ: ሴንት ሉቺያ|ባንዲራ
+E	🇱🇮	2.0	flag: Liechtenstein|flag	ባንዲራ: ሊችተንስታይን|ባንዲራ
+E	🇱🇰	2.0	flag: Sri Lanka|flag	ባንዲራ: ሲሪላንካ|ባንዲራ
+E	🇱🇷	2.0	flag: Liberia|flag	ባንዲራ: ላይቤሪያ|ባንዲራ
+E	🇱🇸	2.0	flag: Lesotho|flag	ባንዲራ: ሌሶቶ|ባንዲራ
+E	🇱🇹	2.0	flag: Lithuania|flag	ባንዲራ: ሊቱዌኒያ|ባንዲራ
+E	🇱🇺	2.0	flag: Luxembourg|flag	ባንዲራ: ሉክሰምበርግ|ባንዲራ
+E	🇱🇻	2.0	flag: Latvia|flag	ባንዲራ: ላትቪያ|ባንዲራ
+E	🇱🇾	2.0	flag: Libya|flag	ባንዲራ: ሊቢያ|ባንዲራ
+E	🇲🇦	2.0	flag: Morocco|flag	ባንዲራ: ሞሮኮ|ባንዲራ
+E	🇲🇨	2.0	flag: Monaco|flag	ባንዲራ: ሞናኮ|ባንዲራ
+E	🇲🇩	2.0	flag: Moldova|flag	ባንዲራ: ሞልዶቫ|ባንዲራ
+E	🇲🇪	2.0	flag: Montenegro|flag	ባንዲራ: ሞንተኔግሮ|ባንዲራ
+E	🇲🇫	2.0	flag: St. Martin|flag	ባንዲራ: ሴንት ማርቲን|ባንዲራ
+E	🇲🇬	2.0	flag: Madagascar|flag	ባንዲራ: ማዳጋስካር|ባንዲራ
+E	🇲🇭	2.0	flag: Marshall Islands|flag	ባንዲራ: ማርሻል ደሴቶች|ባንዲራ
+E	🇲🇰	2.0	flag: North Macedonia|flag	ባንዲራ: ሰሜን መቄዶንያ|ባንዲራ
+E	🇲🇱	2.0	flag: Mali|flag	ባንዲራ: ማሊ|ባንዲራ
+E	🇲🇲	2.0	flag: Myanmar (Burma)|flag	ባንዲራ: ማይናማር(በርማ)|ባንዲራ
+E	🇲🇳	2.0	flag: Mongolia|flag	ባንዲራ: ሞንጎሊያ|ባንዲራ
+E	🇲🇴	2.0	flag: Macao SAR China|flag	ባንዲራ: ማካኦ ልዩ የአስተዳደር ክልል ቻይና|ባንዲራ
+E	🇲🇵	2.0	flag: Northern Mariana Islands|flag	ባንዲራ: የሰሜናዊ ማሪያና ደሴቶች|ባንዲራ
+E	🇲🇶	2.0	flag: Martinique|flag	ባንዲራ: ማርቲኒክ|ባንዲራ
+E	🇲🇷	2.0	flag: Mauritania|flag	ባንዲራ: ሞሪቴኒያ|ባንዲራ
+E	🇲🇸	2.0	flag: Montserrat|flag	ባንዲራ: ሞንትሴራት|ባንዲራ
+E	🇲🇹	2.0	flag: Malta|flag	ባንዲራ: ማልታ|ባንዲራ
+E	🇲🇺	2.0	flag: Mauritius|flag	ባንዲራ: ሞሪሸስ|ባንዲራ
+E	🇲🇻	2.0	flag: Maldives|flag	ባንዲራ: ማልዲቭስ|ባንዲራ
+E	🇲🇼	2.0	flag: Malawi|flag	ባንዲራ: ማላዊ|ባንዲራ
+E	🇲🇽	2.0	flag: Mexico|flag	ባንዲራ: ሜክሲኮ|ባንዲራ
+E	🇲🇾	2.0	flag: Malaysia|flag	ባንዲራ: ማሌዢያ|ባንዲራ
+E	🇲🇿	2.0	flag: Mozambique|flag	ባንዲራ: ሞዛምቢክ|ባንዲራ
+E	🇳🇦	2.0	flag: Namibia|flag	ባንዲራ: ናሚቢያ|ባንዲራ
+E	🇳🇨	2.0	flag: New Caledonia|flag	ባንዲራ: ኒው ካሌዶኒያ|ባንዲራ
+E	🇳🇪	2.0	flag: Niger|flag	ባንዲራ: ኒጀር|ባንዲራ
+E	🇳🇫	2.0	flag: Norfolk Island|flag	ባንዲራ: ኖርፎልክ ደሴት|ባንዲራ
+E	🇳🇬	2.0	flag: Nigeria|flag	ባንዲራ: ናይጄሪያ|ባንዲራ
+E	🇳🇮	2.0	flag: Nicaragua|flag	ባንዲራ: ኒካራጓ|ባንዲራ
+E	🇳🇱	2.0	flag: Netherlands|flag	ባንዲራ: ኔዘርላንድ|ባንዲራ
+E	🇳🇴	2.0	flag: Norway|flag	ባንዲራ: ኖርዌይ|ባንዲራ
+E	🇳🇵	2.0	flag: Nepal|flag	ባንዲራ: ኔፓል|ባንዲራ
+E	🇳🇷	2.0	flag: Nauru|flag	ባንዲራ: ናኡሩ|ባንዲራ
+E	🇳🇺	2.0	flag: Niue|flag	ባንዲራ: ኒዌ|ባንዲራ
+E	🇳🇿	2.0	flag: New Zealand|flag	ባንዲራ: ኒው ዚላንድ|ባንዲራ
+E	🇴🇲	2.0	flag: Oman|flag	ባንዲራ: ኦማን|ባንዲራ
+E	🇵🇦	2.0	flag: Panama|flag	ባንዲራ: ፓናማ|ባንዲራ
+E	🇵🇪	2.0	flag: Peru|flag	ባንዲራ: ፔሩ|ባንዲራ
+E	🇵🇫	2.0	flag: French Polynesia|flag	ባንዲራ: የፈረንሳይ ፖሊኔዢያ|ባንዲራ
+E	🇵🇬	2.0	flag: Papua New Guinea|flag	ባንዲራ: ፓፑዋ ኒው ጊኒ|ባንዲራ
+E	🇵🇭	2.0	flag: Philippines|flag	ባንዲራ: ፊሊፒንስ|ባንዲራ
+E	🇵🇰	2.0	flag: Pakistan|flag	ባንዲራ: ፓኪስታን|ባንዲራ
+E	🇵🇱	2.0	flag: Poland|flag	ባንዲራ: ፖላንድ|ባንዲራ
+E	🇵🇲	2.0	flag: St. Pierre & Miquelon|flag	ባንዲራ: ሴንት ፒዬር እና ሚኩኤሎን|ባንዲራ
+E	🇵🇳	2.0	flag: Pitcairn Islands|flag	ባንዲራ: ፒትካኢርን ደሴቶች|ባንዲራ
+E	🇵🇷	2.0	flag: Puerto Rico|flag	ባንዲራ: ፑዌርቶ ሪኮ|ባንዲራ
+E	🇵🇸	2.0	flag: Palestinian Territories|flag	ባንዲራ: የፍልስጤም ግዛት|ባንዲራ
+E	🇵🇹	2.0	flag: Portugal|flag	ባንዲራ: ፖርቱጋል|ባንዲራ
+E	🇵🇼	2.0	flag: Palau|flag	ባንዲራ: ፓላው|ባንዲራ
+E	🇵🇾	2.0	flag: Paraguay|flag	ባንዲራ: ፓራጓይ|ባንዲራ
+E	🇶🇦	2.0	flag: Qatar|flag	ባንዲራ: ኳታር|ባንዲራ
+E	🇷🇪	2.0	flag: Réunion|flag	ባንዲራ: ሪዩኒየን|ባንዲራ
+E	🇷🇴	2.0	flag: Romania|flag	ባንዲራ: ሮሜኒያ|ባንዲራ
+E	🇷🇸	2.0	flag: Serbia|flag	ባንዲራ: ሰርብያ|ባንዲራ
+E	🇷🇺	0.6	flag: Russia|flag	ባንዲራ: ሩስያ|ባንዲራ
+E	🇷🇼	2.0	flag: Rwanda|flag	ባንዲራ: ሩዋንዳ|ባንዲራ
+E	🇸🇦	2.0	flag: Saudi Arabia|flag	ባንዲራ: ሳውድአረቢያ|ባንዲራ
+E	🇸🇧	2.0	flag: Solomon Islands|flag	ባንዲራ: ሰለሞን ደሴቶች|ባንዲራ
+E	🇸🇨	2.0	flag: Seychelles|flag	ባንዲራ: ሲሼልስ|ባንዲራ
+E	🇸🇩	2.0	flag: Sudan|flag	ባንዲራ: ሱዳን|ባንዲራ
+E	🇸🇪	2.0	flag: Sweden|flag	ባንዲራ: ስዊድን|ባንዲራ
+E	🇸🇬	2.0	flag: Singapore|flag	ባንዲራ: ሲንጋፖር|ባንዲራ
+E	🇸🇭	2.0	flag: St. Helena, Ascension & Tristan da Cunha|flag	ባንዲራ: ሴንት ሄለና|ባንዲራ
+E	🇸🇮	2.0	flag: Slovenia|flag	ባንዲራ: ስሎቬኒያ|ባንዲራ
+E	🇸🇯	2.0	flag: Svalbard & Jan Mayen|flag	ባንዲራ: ስቫልባርድ እና ጃን ማየን|ባንዲራ
+E	🇸🇰	2.0	flag: Slovakia|flag	ባንዲራ: ስሎቫኪያ|ባንዲራ
+E	🇸🇱	2.0	flag: Sierra Leone|flag	ባንዲራ: ሴራሊዮን|ባንዲራ
+E	🇸🇲	2.0	flag: San Marino|flag	ባንዲራ: ሳን ማሪኖ|ባንዲራ
+E	🇸🇳	2.0	flag: Senegal|flag	ባንዲራ: ሴኔጋል|ባንዲራ
+E	🇸🇴	2.0	flag: Somalia|flag	ባንዲራ: ሶማሊያ|ባንዲራ
+E	🇸🇷	2.0	flag: Suriname|flag	ባንዲራ: ሱሪናም|ባንዲራ
+E	🇸🇸	2.0	flag: South Sudan|flag	ባንዲራ: ደቡብ ሱዳን|ባንዲራ
+E	🇸🇹	2.0	flag: São Tomé & Príncipe|flag	ባንዲራ: ሳኦ ቶሜ እና ፕሪንሲፔ|ባንዲራ
+E	🇸🇻	2.0	flag: El Salvador|flag	ባንዲራ: ኤል ሳልቫዶር|ባንዲራ
+E	🇸🇽	2.0	flag: Sint Maarten|flag	ባንዲራ: ሲንት ማርተን|ባንዲራ
+E	🇸🇾	2.0	flag: Syria|flag	ባንዲራ: ሶሪያ|ባንዲራ
+E	🇸🇿	2.0	flag: Eswatini|flag	ባንዲራ: ኤስዋቲኒ|ባንዲራ
+E	🇹🇦	2.0	flag: Tristan da Cunha|flag	ባንዲራ: ትሪስታን ዳ ኩንሃ|ባንዲራ
+E	🇹🇨	2.0	flag: Turks & Caicos Islands|flag	ባንዲራ: የቱርኮችና የካኢኮስ ደሴቶች|ባንዲራ
+E	🇹🇩	2.0	flag: Chad|flag	ባንዲራ: ቻድ|ባንዲራ
+E	🇹🇫	2.0	flag: French Southern and Antarctic Lands|flag	ባንዲራ: የፈረንሳይ ደቡባዊ ግዛቶች|ባንዲራ
+E	🇹🇬	2.0	flag: Togo|flag	ባንዲራ: ቶጐ|ባንዲራ
+E	🇹🇭	2.0	flag: Thailand|flag	ባንዲራ: ታይላንድ|ባንዲራ
+E	🇹🇯	2.0	flag: Tajikistan|flag	ባንዲራ: ታጃኪስታን|ባንዲራ
+E	🇹🇰	2.0	flag: Tokelau|flag	ባንዲራ: ቶክላው|ባንዲራ
+E	🇹🇱	2.0	flag: Timor-Leste|flag	ባንዲራ: ቲሞር ሌስቴ|ባንዲራ
+E	🇹🇲	2.0	flag: Turkmenistan|flag	ባንዲራ: ቱርክሜኒስታን|ባንዲራ
+E	🇹🇳	2.0	flag: Tunisia|flag	ባንዲራ: ቱኒዚያ|ባንዲራ
+E	🇹🇴	2.0	flag: Tonga|flag	ባንዲራ: ቶንጋ|ባንዲራ
+E	🇹🇷	2.0	flag: Türkiye|flag	ባንዲራ: ቱርክ|ባንዲራ
+E	🇹🇹	2.0	flag: Trinidad & Tobago|flag	ባንዲራ: ትሪናዳድ እና ቶቤጎ|ባንዲራ
+E	🇹🇻	2.0	flag: Tuvalu|flag	ባንዲራ: ቱቫሉ|ባንዲራ
+E	🇹🇼	2.0	flag: Taiwan|flag	ባንዲራ: ታይዋን|ባንዲራ
+E	🇹🇿	2.0	flag: Tanzania|flag	ባንዲራ: ታንዛኒያ|ባንዲራ
+E	🇺🇦	2.0	flag: Ukraine|flag	ባንዲራ: ዩክሬን|ባንዲራ
+E	🇺🇬	2.0	flag: Uganda|flag	ባንዲራ: ዩጋንዳ|ባንዲራ
+E	🇺🇲	2.0	flag: U.S. Outlying Islands|flag	ባንዲራ: የዩ ኤስ ጠረፍ ላይ ያሉ ደሴቶች|ባንዲራ
+E	🇺🇳	4.0	flag: United Nations|flag	ባንዲራ: የተባበሩት መንግስታት|ባንዲራ
+E	🇺🇸	0.6	flag: United States|flag	ባንዲራ: ዩናይትድ ስቴትስ|ባንዲራ
+E	🇺🇾	2.0	flag: Uruguay|flag	ባንዲራ: ኡራጓይ|ባንዲራ
+E	🇺🇿	2.0	flag: Uzbekistan|flag	ባንዲራ: ኡዝቤኪስታን|ባንዲራ
+E	🇻🇦	2.0	flag: Vatican City|flag	ባንዲራ: ቫቲካን ከተማ|ባንዲራ
+E	🇻🇨	2.0	flag: St. Vincent & Grenadines|flag	ባንዲራ: ሴንት ቪንሴንት እና ግሬናዲንስ|ባንዲራ
+E	🇻🇪	2.0	flag: Venezuela|flag	ባንዲራ: ቬንዙዌላ|ባንዲራ
+E	🇻🇬	2.0	flag: British Virgin Islands|flag	ባንዲራ: የእንግሊዝ ቨርጂን ደሴቶች|ባንዲራ
+E	🇻🇮	2.0	flag: U.S. Virgin Islands|flag	ባንዲራ: የአሜሪካ ቨርጂን ደሴቶች|ባንዲራ
+E	🇻🇳	2.0	flag: Vietnam|flag	ባንዲራ: ቬትናም|ባንዲራ
+E	🇻🇺	2.0	flag: Vanuatu|flag	ባንዲራ: ቫኑአቱ|ባንዲራ
+E	🇼🇫	2.0	flag: Wallis & Futuna|flag	ባንዲራ: ዋሊስ እና ፉቱና ደሴቶች|ባንዲራ
+E	🇼🇸	2.0	flag: Samoa|flag	ባንዲራ: ሳሞአ|ባንዲራ
+E	🇽🇰	2.0	flag: Kosovo|flag	ባንዲራ: ኮሶቮ|ባንዲራ
+E	🇾🇪	2.0	flag: Yemen|flag	ባንዲራ: የመን|ባንዲራ
+E	🇾🇹	2.0	flag: Mayotte|flag	ባንዲራ: ሜይኦቴ|ባንዲራ
+E	🇿🇦	2.0	flag: South Africa|flag	ባንዲራ: ደቡብ አፍሪካ|ባንዲራ
+E	🇿🇲	2.0	flag: Zambia|flag	ባንዲራ: ዛምቢያ|ባንዲራ
+E	🇿🇼	2.0	flag: Zimbabwe|flag	ባንዲራ: ዚምቧቤ|ባንዲራ
+E	🏴󠁧󠁢󠁥󠁮󠁧󠁿	5.0	flag: England|flag	ባንዲራ: እንግሊዝ|ባንዲራ
+E	🏴󠁧󠁢󠁳󠁣󠁴󠁿	5.0	flag: Scotland|flag	ባንዲራ: ስኮትላንድ|ባንዲራ
+E	🏴󠁧󠁢󠁷󠁬󠁳󠁿	5.0	flag: Wales|flag	ባንዲራ: ዌልስ|ባንዲራ
